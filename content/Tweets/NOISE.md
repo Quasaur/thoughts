@@ -1,7 +1,10 @@
 ---
+title: "NOISE"
+draft: false
 creationdate: 2008-11-27
 creationdatetime: 19:09
-zettelkasten: 200811271909tags:
+zettelkasten: 200811271909
+tags:
 aliases: [Listening to God, "Hearing God's Voice"]
 ---
 # NOISE
