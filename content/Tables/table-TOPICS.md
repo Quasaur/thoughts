@@ -15,12 +15,13 @@ TABLE
 ```dataviewjs
 ```
 ```dataviewjs
+```
+```dataviewjs
 let myIndexPages = dv.pages('"content/Indexes"');
-let tableMarkdown = dv.markdownTable(
+dv.table(
     ["Topic", "Level", "Parent"],
     myIndexPages.map(p => [p.title, p.type, p.ptopic])
 );
-dv.paragraph(tableMarkdown);
 ```
 ## Dataview
 type:: #type/table
