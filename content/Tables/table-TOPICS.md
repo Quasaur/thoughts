@@ -1,5 +1,6 @@
 ---
 title: "Table: Topics"
+draft: true
 ---
 ```dataview
 TABLE
