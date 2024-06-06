@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quasaur.github.io/thoughts",
-    ignorePatterns: ["private", "templates", "templater".obsidian"],
+    ignorePatterns: ["private", "templates", "templater", .obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
