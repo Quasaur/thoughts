@@ -3,7 +3,7 @@
 ---
 # LAW
 ## Sub-Indexes
-[[Indexes/JUSTICE]]
+[[content/TOPICS/JUSTICE]]
 
 [[MERCY]]
 

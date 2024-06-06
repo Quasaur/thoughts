@@ -13,4 +13,4 @@
 ## Dataview
 title:: "SCIENCE"
 type:: #type/topic/L4
-ptopic:: [[Indexes/REALITY]]
+ptopic:: [[content/TOPICS/REALITY]]

@@ -4,7 +4,7 @@
 # TRUTH
 ## Sub-Indexes
 
-[[Indexes/REALITY]]
+[[content/TOPICS/REALITY]]
 
 
 ## Tweets

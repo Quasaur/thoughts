@@ -8,7 +8,7 @@
 ## Tweets
 [[DARK-MATTER]]
 
-[[Tweets/REALITY]]
+[[content/THOUGHTS/REALITY]]
 
 [[SCIENCE-CONSPIRACY]]
 

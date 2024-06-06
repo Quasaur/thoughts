@@ -10,7 +10,7 @@ Galatians 2:20
 
 
 ## Dataview
-ptopic:: [[Indexes/JUSTICE]]
+ptopic:: [[content/TOPICS/JUSTICE]]
 type:: #type/note
 title:: "JUSTICE"
 level:: 3

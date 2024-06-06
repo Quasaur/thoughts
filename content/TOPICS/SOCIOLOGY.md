@@ -5,7 +5,7 @@
 ## Sub-Indexes
 [[ECONOMICS]]
 
-[[HISTORY]]
+[[content/TOPICS/HISTORY]]
 
 [[NATIONALISM]]
 

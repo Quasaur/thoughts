@@ -9,7 +9,7 @@ Two wrongs don’t make a right…until Israel acknowledges Jesus as Messiah and
 Daniel 9:26
 
 ## Dataview
-ptopic:: [[HISTORY]]
+ptopic:: [[content/TOPICS/HISTORY]]
 type:: #type/note
 title:: "YISRAEL"
 level:: 3

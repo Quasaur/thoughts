@@ -8,7 +8,7 @@
 ## Tweets
 [[FAIRNESS]]
 
-[[Tweets/JUSTICE]]
+[[content/THOUGHTS/JUSTICE]]
 
 [[REPARATIONS]]
 

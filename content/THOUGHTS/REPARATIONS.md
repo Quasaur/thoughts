@@ -8,7 +8,7 @@ aliases: [Broken Promises, Slavery Compensation]
 Reasonable reparations to the descendants of black slaves: those descendants should be FEDERAL & STATE TAX-EXEMPT.
 
 ## Dataview
-ptopic:: [[Indexes/JUSTICE]]
+ptopic:: [[content/TOPICS/JUSTICE]]
 type:: #type/note
 title:: "REPARATIONS"
 level:: 3

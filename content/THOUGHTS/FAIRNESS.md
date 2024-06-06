@@ -8,7 +8,7 @@ aliases: [Mercy, Fairplay]
 Mercy is never fair.
 
 ## Dataview
-ptopic:: [[Tweets/JUSTICE]]
+ptopic:: [[content/THOUGHTS/JUSTICE]]
 type:: #type/note
 title:: "FAIRNESS"
 level:: 3
