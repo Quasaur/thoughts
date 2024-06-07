@@ -8,7 +8,7 @@ aliases: [Knowledge, Understanding]
 The Knowledge that brings IMMORTALITY is not hidden…it’s just incredibly difficult to BELIEVE (in the Biblical sense)!
 
 ## Dataview
-ptopic:: [[FAITH]]
+ptopic:: [[topic-FAITH]]
 type:: #type/note
 title:: "TITLE"
 level:: 4

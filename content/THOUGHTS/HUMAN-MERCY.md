@@ -8,7 +8,7 @@ aliases: [Human Mercy, Mercy towards GOD]
 Oh Most Holy Father of spirits, please grant me the Grace to be merciful to Your Feelings through my submission and faithful obedience to Your Only-Begotten Son The Messiah!
 
 ## Dataview
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
 title:: "HUMAN MERCY"
 level:: 3

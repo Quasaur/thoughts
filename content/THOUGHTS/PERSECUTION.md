@@ -8,7 +8,7 @@ aliases: [Authentic Christianity, False Religion]
 In most of the world Christianity is persecuted vigorously. In countries where it is NOT persecuted, the reason is because THAT VERSION OF CHRISTIANITY IS NOT WORTH PERSECUTING.
 
 ## Dataview
-ptopic:: [[RELIGION]]
+ptopic:: [[topic-RELIGION]]
 type:: #type/note
 title:: "PERSECUTION"
 level:: 4

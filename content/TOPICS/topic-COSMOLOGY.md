@@ -16,4 +16,4 @@
 
 title:: "COSMOLOGY"
 type:: #type/topic/L5
-ptopic:: [[SCIENCE]]
+ptopic:: [[topic-SCIENCE]]

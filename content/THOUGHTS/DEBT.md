@@ -8,7 +8,7 @@ aliases: [God is in Debt to No One, We Owe God Everything]
 On the Last Day, when all is said and done, GOD will owe NOTHING to anyone…everyone will be in debt to GOD.
 
 ## Dataview
-ptopic:: [[ENTITLEMENT]]
+ptopic:: [[topic-ENTITLEMENT]]
 type:: #type/note
 title:: "DEBT"
 level:: 4

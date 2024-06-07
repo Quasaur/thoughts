@@ -8,7 +8,7 @@ aliases: [Inspiring, Awesome, Divine]
 What makes GOD so priceless, so precious and so worthy of awe and worship…is not only His immunity to corruption: HE CAN INFECT CORRUPTION WITH HOLINESS, making corruption itself INCORRUPTIBLE!!!!!!
 
 ## Dataview
-ptopic:: [[GRACE]]
+ptopic:: [[topic-GRACE]]
 type:: #type/note
 title:: "TRANSCENDENT"
 level:: 2

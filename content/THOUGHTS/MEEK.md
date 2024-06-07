@@ -15,7 +15,7 @@ While others worship the gods of Might, Power, Speed, Mammon and Spirituality...
 DESTROYED THE POWER OF DEATH!!!!!!!!
 
 ## Dataview
-ptopic:: [[THE-GODHEAD]]
+ptopic:: [[topic-THE-GODHEAD]]
 type:: #type/note
 title:: "MEEK"
 level:: 1

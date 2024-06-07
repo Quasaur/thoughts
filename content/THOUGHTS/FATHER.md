@@ -9,7 +9,7 @@ aliases: [Father of Spirits, Adam]
 I never got to know the father of my flesh; yet perhaps the greater tragedy is not getting to know the Father of my spirit.
 
 ## Dataview
-ptopic:: [[GRACE]]
+ptopic:: [[topic-GRACE]]
 type:: #type/note
 title:: "FATHER"
 level:: 2

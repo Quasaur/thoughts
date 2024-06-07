@@ -8,7 +8,7 @@ aliases: [Agape, Unconditional Love]
 Love is so much more than just a feeling...It's a decision to treat someone as good as or better than you treat yourself!
 
 ## Dataview
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
 title:: "LOVE"
 level:: 3

@@ -8,7 +8,7 @@ aliases: [An Explanation, alias2]
 What is often overlooked by children but frequently demanded by grown-ups? An explanation.
 
 ## Dataview
-ptopic:: [[BEHAVIOR]]
+ptopic:: [[topic-BEHAVIOR]]
 type:: #type/note
 title:: "WHY"
 level:: 3

@@ -7,18 +7,13 @@ TABLE
    title AS "Topic",
    type AS "Level",
    ptopic AS "Parent"
-   FROM "content/Indexes"
+   FROM "content/TOPICS"
    SORT type ASC, title ASC
 ```
 
+
 ```dataviewjs
-```
-```dataviewjs
-```
-```dataviewjs
-```
-```dataviewjs
-let myIndexPages = dv.pages('"content/Indexes"');
+let myIndexPages = dv.pages('"content/TOPIC"');
 dv.table(
     ["Topic", "Level", "Parent"],
     myIndexPages.map(p => [p.title, p.type, p.ptopic])

@@ -8,7 +8,7 @@ aliases: [Fictitious, Fables]
 We are all figments of the Divine Imagination--and what an Imagination!
 
 ## Dataview
-ptopic:: [[content/TOPICS/REALITY]]
+ptopic:: [[topic-REALITY]]
 type:: #type/note
 title:: "FIGMENTS"
 level:: 3

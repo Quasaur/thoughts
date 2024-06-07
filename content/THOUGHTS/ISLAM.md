@@ -8,7 +8,7 @@ aliases: [Muslim Religion, Antichrist]
 There is NO harmony possible between The Gospel of Jesus Christ (which is the only Barrier between humanity and The Lake of Fire) and the Religion of Mohammed.
 
 ## Dataview
-ptopic:: [[RELIGION]]
+ptopic:: [[topic-RELIGION]]
 type:: #type/note
 title:: "ISLAM"
 level:: 4

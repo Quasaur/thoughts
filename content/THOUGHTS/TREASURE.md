@@ -9,7 +9,7 @@ At The Cross Jesus becomes EVERYTHING and we become NOTHING; so the false gospel
 Matt. 6:21
 
 ## Dataview
-ptopic:: [[RELIGION]]
+ptopic:: [[topic-RELIGION]]
 type:: #type/note
 title:: "TITLE"
 level:: 4

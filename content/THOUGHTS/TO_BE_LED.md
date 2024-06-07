@@ -9,7 +9,7 @@ To be “led” by the Holy Spirit means to LEAVE where you are and what you thi
 
 
 ## Dataview
-ptopic:: [[GRACE]]
+ptopic:: [[topic-GRACE]]
 type:: #type/note
 title:: "TO BE LED"
 level:: 2

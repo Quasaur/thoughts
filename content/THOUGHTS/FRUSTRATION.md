@@ -10,7 +10,7 @@ You will give up on you...
 
 
 ## Dataview
-ptopic:: [[FAITHFULNESS]]
+ptopic:: [[topic-FAITHFULNESS]]
 type:: #type/template
 title:: "FRUSTRATION"
 level:: 2

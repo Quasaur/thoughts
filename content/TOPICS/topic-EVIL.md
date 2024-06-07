@@ -3,7 +3,7 @@
 ---
 # EVIL
 ## Sub-Indexes
-[[RELIGION]]
+[[topic-RELIGION]]
 
 ## Tweets
 [[BRIBERY]]
@@ -17,4 +17,4 @@
 ## Dataview
 title:: "EVIL"
 type:: #type/topic/L4
-ptopic:: [[MORALITY]]
+ptopic:: [[topic-MORALITY]]

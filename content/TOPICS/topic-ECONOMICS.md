@@ -11,4 +11,4 @@
 ## Dataview
 title:: "ECONOMICS"
 type:: #type/topic/L3
-ptopic:: [[SOCIOLOGY]]
+ptopic:: [[topic-SOCIOLOGY]]

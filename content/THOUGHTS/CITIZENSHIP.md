@@ -9,7 +9,7 @@ REMEMBER: thiere is no "cost of Living" in the Kingdom of the Heavens.
 Change your citizenship IMMEDIATELY!
 
 ## Dataview
-ptopic:: [[SOCIOLOGY]]
+ptopic:: [[topic-SOCIOLOGY]]
 type:: #type/note
 title:: "CITIZENSHIP"
 level:: 2

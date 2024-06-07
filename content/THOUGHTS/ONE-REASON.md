@@ -10,6 +10,6 @@ There’s one reason why many will find themselves in the Lake of Fire when they
 ## Dataview
 type: "#type/note"
 title: "ONE REASON"
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 level:: 3
 social:: [ #apocalypse #lakeoffire #pride #judgment #jesuschrist]

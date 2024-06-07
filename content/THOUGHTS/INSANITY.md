@@ -8,7 +8,7 @@ aliases: [Madness is Sin, Pride is Insanity]
 Lucifer had the unmitigated gall to ask his CREATOR to worship him! In the Court of Heaven madness and sin are one and the same.
 
 ## Dataview
-ptopic:: [[PSYCHOLOGY]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/note
 title:: "INSANITY"
 level:: 3

@@ -11,7 +11,7 @@ aliases: [Listening to God, "Hearing God's Voice"]
 It's hard to hear the Voice of God when my heart is making so much noise!
 
 ## Dataview
-ptopic:: [[GRACE]]
+ptopic:: [[topic-GRACE]]
 type:: #type/note
 title:: "NOISE"
 level:: 2

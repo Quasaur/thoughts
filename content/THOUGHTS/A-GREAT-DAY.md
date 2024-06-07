@@ -8,7 +8,7 @@ aliases: [A Great Day, Daily Routine]
 Today was great--except for the sleeping, eating and working.
 
 ## Dataview
-ptopic:: [[BEHAVIOR]]]
+ptopic:: [[topic-BEHAVIOR]]]
 type:: #type/note
 title:: "A GREAT DAY"
 level:: 3

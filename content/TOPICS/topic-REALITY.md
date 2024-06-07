@@ -3,7 +3,7 @@
 ---
 # REALITY
 ## Sub-Indexes
-[[SCIENCE]]
+[[topic-SCIENCE]]
 
 ## Tweets
 

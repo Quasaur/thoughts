@@ -8,7 +8,7 @@ aliases: [My Wife, Women are an Act of God]
 If every person is an Act of God, what can my wife teach me about God?
 
 ## Dataview
-ptopic:: [[RELATIONSHIPS]]
+ptopic:: [[topic-RELATIONSHIPS]]
 type:: #type/note
 title:: "ACT OF GOD"
 level:: 3

@@ -8,7 +8,7 @@ aliases: ['Which is Better?', 'Loving or Being Loved?']
 So...which is better: loving God or being loved by God?
 
 ## Dataview
-ptopic:: [[RELATIONSHIPS]]
+ptopic:: [[topic-RELATIONSHIPS]]
 type:: #type/note
 title:: "LOVING or LOVED?"
 level:: 4

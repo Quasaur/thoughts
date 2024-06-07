@@ -8,7 +8,7 @@ aliases: [The Afterlife, The Fate of the Soul]
 You will spend more time in Eternity than you ever did in this life (or “previous” lives)…and you have NO concern regarding the fate of your soul?!
 
 ## Dataview
-ptopic:: [[content/TOPICS/JUSTICE]]
+ptopic:: [[topic-JUSTICE]]
 type:: #type/note
 title:: "TIME"
 level:: 3

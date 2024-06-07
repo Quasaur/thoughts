@@ -8,7 +8,7 @@ aliases: [Company Training Schedules, Not Enough Time]
 Why is it that companies don't give their employees time to complete Web- and Computer-based training courses?
 
 ## Dataview
-ptopic:: [[BEHAVIOR]]
+ptopic:: [[topic-BEHAVIOR]]
 type:: #type/note
 title:: "COMPANY-TRAINING"
 level:: 3

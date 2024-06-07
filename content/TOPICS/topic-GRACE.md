@@ -23,7 +23,7 @@
 ## Dataview
 title:: "GRACE"
 type:: #type/topic/L2 
-ptopic:: "[[THE-GODHEAD]]
+ptopic:: "[[topic-THE-GODHEAD]]
 
 
 

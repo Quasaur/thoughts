@@ -9,7 +9,7 @@ Everything that exists is MOVING…
 …except God. Even when He MOVES, God is at REST. GLORY!!!!!!!!!!!!!!!!!!!!
 
 ## Dataview
-ptopic:: [[THE-GODHEAD]]
+ptopic:: [[topic-THE-GODHEAD]]
 type:: #type/note
 title:: "MOTION"
 level:: 1

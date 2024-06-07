@@ -3,11 +3,11 @@
 ---
 # SPIRITUALITY 
 ## Sub-Indexes
-[[SPIRITS]]
+[[topic-SPIRITS]]
 
-[[ATTITUDE]]
+[[topic-ATTITUDE]]
 
-[[MORALITY]]
+[[topic-MORALITY]]
 
 
 ## Tweets
@@ -16,4 +16,4 @@
 ## Dataview
 title:: "SPIRITUALITY"
 type:: #type/topic/L2
-ptopic:: [[THE-GODHEAD]]
+ptopic:: [[topic-THE-GODHEAD]]

@@ -20,4 +20,4 @@
 ## Dataview
 title:: "BEHAVIOR"
 type:: #type/topic/L3
-ptopic:: [[PSYCHOLOGY]]
+ptopic:: [[topic-PSYCHOLOGY]]

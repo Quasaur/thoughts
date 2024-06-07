@@ -17,4 +17,4 @@
 ## Dataview
 title:: "RELIGION"
 type:: #type/topic/L4
-ptopic:: [[MORALITY]]
+ptopic:: [[topic-MORALITY]]

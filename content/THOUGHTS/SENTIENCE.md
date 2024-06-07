@@ -8,7 +8,7 @@ aliases: ['Self-Awareness', 'I am']
 What a wonder is sentience: not only am I to God, but I am to myself!
 
 ## Dataview
-ptopic:: [[SPIRITS]]
+ptopic:: [[topic-SPIRITS]]
 type:: #type/note
 title:: "SENTIENCE"
 level:: 3

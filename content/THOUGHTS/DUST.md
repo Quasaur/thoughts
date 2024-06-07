@@ -8,7 +8,7 @@ aliases: [Dust, Dirt]
 GOD made the 1st human from the cheapest, most abundant substance on Earth: DIRT. Our value lies neither in our content nor our capability, but in Who we were made for. We were made for Christ’s Pleasure!
 
 ## Dataview
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
 title:: "DUST"
 level:: 3

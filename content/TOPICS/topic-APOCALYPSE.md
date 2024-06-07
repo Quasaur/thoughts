@@ -16,4 +16,4 @@
 ## Dataview
 title:: "APOCALYPSE"
 type:: #type/topic/L4
-ptopic:: [[content/TOPICS/HISTORY]]
+ptopic:: [[topic-HISTORY]]

@@ -3,9 +3,9 @@
 ---
 # SCIENCE 
 ## Sub-Indexes
-[[COSMOLOGY]]
+[[topic-COSMOLOGY]]
 
-[[GEOLOGY]]
+[[topic-GEOLOGY]]
 
 ## Tweets
 
@@ -13,4 +13,4 @@
 ## Dataview
 title:: "SCIENCE"
 type:: #type/topic/L4
-ptopic:: [[content/TOPICS/REALITY]]
+ptopic:: [[topic-REALITY]]

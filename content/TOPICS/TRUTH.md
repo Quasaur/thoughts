@@ -4,7 +4,7 @@
 # TRUTH
 ## Sub-Indexes
 
-[[content/TOPICS/REALITY]]
+[[topic-REALITY]]
 
 
 ## Tweets
@@ -13,4 +13,4 @@
 ## Dataview
 title:: "TRUTH"
 type:: #type/topic/L2
-ptopic:: [[THE-GODHEAD]]
+ptopic:: [[topic-THE-GODHEAD]]

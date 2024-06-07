@@ -8,7 +8,7 @@ aliases: [The Holy Spirit, The Spirit of Truth]
 The count of spirits in the cosmos is numberless; however only ONE SPIRIT carries the Title HOLY (angels and saints don’t count, for their holiness is BORROWED)! 
 
 ## Dataview
-ptopic:: [[SPIRITS]]
+ptopic:: [[topic-SPIRITS]]
 type:: #type/note
 title:: "SPIRIT"
 level:: 3

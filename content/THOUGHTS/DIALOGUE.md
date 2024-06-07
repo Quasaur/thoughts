@@ -8,7 +8,7 @@ aliases: [Conversations with the god of this world, Submit to God]
 Arguing with the Devil is extremely dangerous because far too often we share his point of view.
 
 ## Dataview
-ptopic:: [[EVIL]]
+ptopic:: [[topic-EVIL]]
 type:: #type/note
 title:: "DIALOGUE"
 level:: 4

@@ -8,7 +8,7 @@ aliases: [Motivation, Intent]
 The results speak for themselves: The NRA and US Congress want us to KILL EACH OTHER…for their profit and at our expense.
 
 ## Dataview
-ptopic:: [[BEHAVIOR]]
+ptopic:: [[topic-BEHAVIOR]]
 type:: #type/note
 title:: "RESULTS"
 level:: 3

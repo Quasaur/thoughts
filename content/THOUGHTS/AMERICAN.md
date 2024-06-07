@@ -8,7 +8,7 @@ aliases: ['What is an American?', Addiction]
 You're not really an American unless you're addicted to something.
 
 ## Dataview
-ptopic:: [[NATIONALISM]]
+ptopic:: [[topic-NATIONALISM]]
 type:: #type/note
 title:: "AMERICAN"
 level:: 3

@@ -1,5 +1,6 @@
 ---
-title: "tableSnippets"
+title: tableSnippets
+draft: true
 ---
 %,
    dateformat(creationdate, "yyyy-MM-dd") AS "Date"%

@@ -8,7 +8,7 @@ aliases: [Casting All Your Care on Him, Worry-Free]
 Don't worry...be obedient in faith!
 
 ## Dataview
-ptopic:: [[FAITH]]
+ptopic:: [[topic-FAITH]]
 type:: #type/note
 title:: "ANXIETY"
 level:: 4

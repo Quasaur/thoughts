@@ -9,7 +9,7 @@ Dear Christian: your earthly self is just an avatar. Your Real Self is hid with 
 Colossians 3:1-4
 
 ## Dataview
-ptopic:: [[GRACE]]
+ptopic:: [[topic-GRACE]]
 type:: #type/note
 title:: "THE REAL YOU"
 level:: 2

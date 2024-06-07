@@ -8,7 +8,7 @@ aliases: [Broken Chains, Released from Prison]
 Grace is not GOD being weak towards Sin; Grace is GOD making you Stronger than sin!
 
 ## Dataview
-ptopic:: [[GRACE]]
+ptopic:: [[topic-GRACE]]
 type:: #type/note
 title:: "SIN"
 level:: 2

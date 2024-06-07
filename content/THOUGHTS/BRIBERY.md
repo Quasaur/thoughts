@@ -9,7 +9,7 @@ In America SPENDING MONEY is a form of Free Speech protected by the Constitution
 Ps. 26:9-10; 1 Sam. 8:3; Amos 5:12; Deut. 16:29; Ex. 23:8; Prov. 17:23.
 
 ## Dataview
-ptopic:: [[EVIL]]
+ptopic:: [[topic-EVIL]]
 type:: #type/note
 title:: "TITLE"
 level:: 4

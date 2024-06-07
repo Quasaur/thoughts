@@ -8,7 +8,7 @@ aliases: [Demons, Fate of Humanity]
 What happened to the fallen angels will be the unavoidable fate of every human soul that rejects the Grace of Christ; to reject Divine Grace is to eventually become completely graceless, totally ungracious, absolutely unmerciful, frighteningly unnatural, incorrigibly abusive, abysmally insane and hideously demonic. TODAY…IF YOU HEAR HIS ETERNAL VOICE…DO NOT HARDEN YOUR HEART!
 
 ## Dataview
-ptopic:: [[SPIRITS]]
+ptopic:: [[topic-SPIRITS]]
 type:: #type/note
 title:: "DEMONS"
 level:: 3

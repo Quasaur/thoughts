@@ -10,7 +10,7 @@ Perhaps the Truth only hurts when we refuse to submit to It.
 ## Dataview
 type:: #type/note
 title:: "PAINFUL TRUTH"
-ptopic:: [[BEHAVIOR]]
+ptopic:: [[topic-BEHAVIOR]]
 level:: 3
 social:: [ #tedx #russellellis #whitesupremacy #change #faith ]
 

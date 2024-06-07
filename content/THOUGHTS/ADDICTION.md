@@ -9,7 +9,7 @@ Whether it’s homosexuality, porn, drugs, alcohol, covetousness or simple hubri
 Romans 6:7
 
 ## Dataview
-ptopic:: [[BEHAVIOR]]
+ptopic:: [[topic-BEHAVIOR]]
 type:: #type/note
 title:: "ADDICTION"
 level:: 3

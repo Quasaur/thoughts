@@ -9,7 +9,7 @@ Your will is never more free than when it is under the absolute control of the H
 John 14:11
 
 ## Dataview
-ptopic:: [[DIVINE-SOVEREIGNTY]]
+ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
 type:: #type/note
 title:: "VOLITION"
 level:: 2

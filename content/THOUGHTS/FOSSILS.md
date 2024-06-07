@@ -10,7 +10,7 @@ Fossils, which evolutionists say prove how ancient the Earth is, HAVE BEEN ENGIN
 ## Dataview
 type:: #type/note
 title:: "FOSSILS"
-ptopic:: [[GEOLOGY]]
+ptopic:: [[topic-GEOLOGY]]
 level:: 5
 social:: [ #geology #fossils #creationism #intelligentdesign #evidence ]
 

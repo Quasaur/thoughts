@@ -3,9 +3,9 @@
 ---
 # ATTITUDE 
 ## Sub-Indexes
-[[ENTITLEMENT]]
+[[topic-ENTITLEMENT]]
 
-[[FAITH]]
+[[topic-FAITH]]
 ## Tweets 
 
 [[AUTOMATIC MERCY]]
@@ -26,5 +26,5 @@
 
 title:: "ATTITUDE"
 type:: "#type/topic/L3"
-ptopic:: [[SPIRITUALITY]]
+ptopic:: [[topic-SPIRITUALITY]]
 

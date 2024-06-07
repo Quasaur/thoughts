@@ -8,7 +8,7 @@ aliases: [Alone and Helpless, Eternally Hopeless]
 Finding yourself foundering alone and helpless in the Ocean of GOD's Wrath for all Eternity...it is now TOO LATE to finally start taking the direction of your lifestyle seriously.
 
 ## Dataview
-ptopic:: [[content/TOPICS/JUSTICE]]
+ptopic:: [[topic-JUSTICE]]
 type:: #type/note
 title:: "TITLE"
 level:: 3

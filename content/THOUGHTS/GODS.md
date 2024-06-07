@@ -8,7 +8,7 @@ aliases: [gods, greatness]
 It is neither intelligence nor power that makes us gods...but Mercy and Compassion.
 
 ## Dataview
-ptopic:: [[BEHAVIOR]]
+ptopic:: [[topic-BEHAVIOR]]
 type:: #type/note
 title:: "GODS"
 level:: 3

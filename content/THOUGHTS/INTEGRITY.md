@@ -8,7 +8,7 @@ aliases: [Character, Nobility]
 Winning is fun and success is great; but far more fulfilling is standing firm and being true!
 
 ## Dataview
-ptopic:: [[MORALITY]]
+ptopic:: [[topic-MORALITY]]
 type:: #type/note
 title:: "INTEGRITY"
 level:: 3

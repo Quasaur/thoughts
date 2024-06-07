@@ -3,7 +3,7 @@
 ---
 # MORALITY
 ## Sub-Indexes
-[[EVIL]]
+[[topic-EVIL]]
 
 ## Tweets
 [[SHOULD]]
@@ -12,4 +12,4 @@
 ## Dataview
 title:: "MORALITY"
 type:: "#type/topic/L3"
-ptopic:: [[SPIRITUALITY]]
+ptopic:: [[topic-SPIRITUALITY]]

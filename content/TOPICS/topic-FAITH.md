@@ -11,4 +11,4 @@
 ## Dataview
 title:: "FAITH"
 type:: #type/topic/L4
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]

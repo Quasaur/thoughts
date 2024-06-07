@@ -8,7 +8,7 @@ aliases: ['The Living Word', 'The Word of God']
 Yehoshua Ha Meshiach: Jesus The Christ: The Living Word...The Last Word!
 
 ## Dataview
-ptopic:: [[THE-GOSPEL]]
+ptopic:: [[topic-THE-GOSPEL]]
 type:: #type/note
 title:: "THE LAST WORD"
 level:: 2

@@ -8,7 +8,7 @@ aliases: [Cheap Grace, Presumption]
 God’s love for sinners doesn’t negate His utter hatred of sin. Mercy is neither owed nor deserved and should NEVER be presumed.
 
 ## Dataview
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
 title:: "AUTOMATIC MERCY"
 level:: 3

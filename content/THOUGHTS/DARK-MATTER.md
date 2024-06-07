@@ -8,7 +8,7 @@ aliases: [Dark Matter, Dark Energyt]
 What if dark matter is a type of WATER?
 
 ## Dataview
-ptopic:: [[COSMOLOGY]]
+ptopic:: [[topic-COSMOLOGY]]
 type:: #type/note
 title:: "DARK MATTER"
 level:: 5

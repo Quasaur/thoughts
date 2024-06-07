@@ -8,7 +8,7 @@ aliases: [Acceptance, Carefree]
 I play my best chess when i don’t care about winning…or rather, when I have no anxiety for making mistakes.
 
 ## Dataview
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
 title:: "TITLE"
 level:: 3

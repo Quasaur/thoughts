@@ -9,7 +9,7 @@ aliases: [Evil was Necessary, The Necessity of Evil]
 …to sacrifice The Lamb of GOD.
 
 ## Dataview
-ptopic:: [[EVIL]]
+ptopic:: [[topic-EVIL]]
 type:: #type/note
 title:: "EVIL WAS NECESSARY"
 level:: 4

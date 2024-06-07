@@ -14,4 +14,4 @@
 ## Dataview
 title:: "FAITHFULNESS"
 type:: #type/topic/L2 
-ptopic:: [[THE-GODHEAD]]
+ptopic:: [[topic-THE-GODHEAD]]

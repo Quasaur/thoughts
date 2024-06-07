@@ -9,7 +9,7 @@ In 61 years I’ve never met a strong Christian. Yet, in that same time, I have 
 “Blessed are the poor in spirit.” - Matthew 5:3
 
 ## Dataview
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
 title:: "STRENGTH"
 level:: 3

@@ -14,4 +14,4 @@
 
 title:: "MERCY"
 type:: #type/topic/L3
-ptopic:: [[LAW]]
+ptopic:: [[topic-LAW]]

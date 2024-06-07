@@ -11,7 +11,7 @@ A myriad excuses are offered for the most heinous of crimes…yet beyond any rea
 John 16:7-9
 
 ## Dataview
-ptopic:: [[EVIL]]
+ptopic:: [[topic-EVIL]]
 type:: #type/note
 title:: "THE CROSS"
 level:: 4

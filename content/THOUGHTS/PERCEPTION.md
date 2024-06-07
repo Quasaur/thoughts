@@ -8,7 +8,7 @@ aliases: [Sight, Observance]
 We cannot always change what we see...but we can always change how we see it.
 
 ## Dataview
-ptopic:: [[ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
 title:: "PERCEPTION"
 level:: 3

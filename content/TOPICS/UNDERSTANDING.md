@@ -14,4 +14,4 @@
 ## Dataview
 title:: "UNDERSTANDING"
 type:: #type/topic/L4
-ptopic:: [[PSYCHOLOGY]]
+ptopic:: [[topic-PSYCHOLOGY]]

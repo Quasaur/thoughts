@@ -8,7 +8,7 @@ aliases: [End of the World, Revelation]
 The Bible goes into far more detail regarding how the world will end than how the world began.
 
 ## Dataview
-ptopic:: [[APOCALYPSE]]
+ptopic:: [[topic-APOCALYPSE]]
 type:: #type/note
 title:: "ENDING"
 level:: 4

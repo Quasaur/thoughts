@@ -3,7 +3,7 @@
 ---
 # HISTORY
 ## Sub-Indexes
-[[APOCALYPSE]]
+[[topic-APOCALYPSE]]
 
 ## Tweets
 [[CONSEQUENCES]]
@@ -13,4 +13,4 @@
 ## Dataview
 title:: "HISTORY"
 type:: #type/topic/L3
-ptopic:: [[SOCIOLOGY]]
+ptopic:: [[topic-SOCIOLOGY]]

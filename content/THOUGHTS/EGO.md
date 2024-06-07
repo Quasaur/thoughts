@@ -10,7 +10,7 @@ The Earth is 3.5 million times bigger than me...
 that means the Sun is 176 SEPTILLION (176 followed by 24 zeros) times larger than myself...GOD is great...I am pathetic.
 
 ## Dataview
-ptopic:: [[THE-GODHEAD]]
+ptopic:: [[topic-THE-GODHEAD]]
 type:: #type/template
 title:: "EGO"
 level::1

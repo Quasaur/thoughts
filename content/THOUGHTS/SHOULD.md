@@ -8,7 +8,7 @@ aliases: [Conscience, Morality]
 The word “should” proves God’s Existence…points us to an Ideal that we don’t quite measure up to and gives us a Standard by which we must judge ourselves.
 
 ## Dataview
-ptopic:: [[MORALITY]]
+ptopic:: [[topic-MORALITY]]
 type:: #type/note
 title:: "SHOULD"
 level:: 3

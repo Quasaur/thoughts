@@ -8,7 +8,7 @@ aliases: ['A Nation of Debtors', 'Debt and Slavery']
 A nation of debtors is a nation of slaves.
 
 ## Dataview
-ptopic:: [[ECONOMICS]]
+ptopic:: [[topic-ECONOMICS]]
 type:: #type/note
 title:: "DEBTORS"
 level:: 3

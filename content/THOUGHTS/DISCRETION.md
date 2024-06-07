@@ -8,7 +8,7 @@ aliases: [Sensitivity, Tactfulness]
 God knows things about the people around you that you have no idea of; if one of those things comes to light, it is for a reason.
 
 ## Dataview
-ptopic:: [[RELATIONSHIPS]]
+ptopic:: [[topic-RELATIONSHIPS]]
 type:: #type/note
 title:: "DISCRETION"
 level:: 3

@@ -8,7 +8,7 @@ aliases: [Praise in Prayer, Private Worship]
 A prayer life without worship will always be incomplete; a stillborn child.
 
 ## Dataview
-ptopic:: [[THE-GODHEAD]]
+ptopic:: [[topic-THE-GODHEAD]]
 type:: #type/note
 title:: "WORSHIP"
 level:: 1

@@ -9,7 +9,7 @@ You are either alive to God and dead to self…or you are alive to self and dead
 Luke 14:26
 
 ## Dataview
-ptopic:: [[SPIRITUALITY]]
+ptopic:: [[topic-SPIRITUALITY]]
 type:: #type/note
 title:: "THE QUICK AND THE DEAD"
 level:: 2
