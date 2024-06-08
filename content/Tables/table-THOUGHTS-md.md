@@ -5,14 +5,6 @@ description: All of the THOUGHTS in the Book of Toughts.
 aliases:
   - '"Table: Proverbs"'
   - '"Table:: Precepts"'
-tags:
-  - thoughts
-  - proverbs
-  - sayings
-  - adages
-  - tweets
-  - maxims
-  - precepts
 ---
 # Table: THOUGHTS
 This table identifies all of the Thoughts currently added to the online Book of Thoughts.
