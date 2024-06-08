@@ -36,6 +36,13 @@ Whether or not the sidebars to the left and right are visible is a function of h
 - [Table: Topics (md)](Tables/table-TOPICS-md)
 - [Table: Thoughts (md)](Tables/table-THOUGHTS-md)
 
+## Graph View
+The prime feature of this site is the Graph View, seen either at the top right or bottom of each page. What the Graph View displays is a function of each page's content; that is, when you load the page for a topic or thought, Graph View switches its focus to that topic or thought!
+
+At the upper-right corner of the Graph View window there is a small icon; click on it and the Graph View will expand its size for easier navigation.
+
+If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Graph View to better discover the lines that link objects as well as receive a clearer view of the objects themselves.
+
 ## Donate
 Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom will! If you find VALUE in the Wisdom presented at this site, let me know: my Cash App ID is @Quasaur.
 
