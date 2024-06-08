@@ -3,9 +3,9 @@ title: "table: TOPICS (md)"
 draft: false
 description: All of the TOPICS covered in the Book of Toughts.
 aliases:
-  - topics
-  - subtopics
-  - subjects
+  - '"Table: Indexes"'
+  - '"Table: Subjects"'
+  - '"Table: Categories"'
 tags:
   - topics
   - subtopics
@@ -18,7 +18,7 @@ This table identifies all of the topics addressed by my thoughts.
 Each topic has its own file, which includes:
 - Sub-Topics (if any)
 - Thoughts relevant to that particular Topic
-- Information used by the Obsidian Dataview plugin to create the tables used on this site
+- Information used by the [Obsidian Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin to create the tables used on this site
 - Notes, if any, relevant to that particular Topic
 
 Each topic is identified by its LEVEL. The Level helps you to understand how all Topics are related to each other.
@@ -57,3 +57,5 @@ The items in the File and Parent Topic File columns are links that can be clicke
 | [UNDERSTANDING](UNDERSTANDING.md)                       | UNDERSTANDING      | [#type/topic/L4](/Indexesindex.html#type/topic/L4) | [topic-PSYCHOLOGY](topic-PSYCHOLOGY.md)                       |
 | [topic-COSMOLOGY](topic-COSMOLOGY.md)                               | COSMOLOGY          | [#type/topic/L5](/Indexesindex.html#type/topic/L5) | [topic-SCIENCE](topic-SCIENCE.md)                             |
 | [topic-GEOLOGY](topic-GEOLOGY.md)                                   | GEOLOGY            | [#type/topic/L5](/Indexesindex.html#type/topic/L5) | [topic-SCIENCE](topic-SCIENCE.md)                             |
+## Dataview
+type:: #type/table

@@ -35,7 +35,7 @@ The best place to start is with the tables. The tables will provide you easy and
 
 Whether or not the sidebars to the left and right are visible is a function of how wide you've set the webpage in your browser; so I'm also going to list the Tables here...go a head and select one!
 - [Table: Topics (md)](content/Tables/table-TOPICS-md)
-- Table: Thoughts
+- [Table: Thoughts (md)](content/Tables/table-THOUGHTS-md)
 
 ## Donate
 Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom will! If you find VALUE in the Wisdom presented at this site, let me know: my Cash App ID is @Quasaur.

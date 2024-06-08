@@ -7,7 +7,7 @@ TABLE
 	level AS "Level",
 	ptopic AS "Topic",
 	social AS "Social Tags"
-   FROM "content/Thoughts"
+   FROM "content/THOUGHTS"
    SORT level ASC, ptopic ASC, ID ASC
 ```
 
