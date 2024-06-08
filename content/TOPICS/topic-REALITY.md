@@ -9,7 +9,7 @@
 
 
 ## Dataview
-title:: "REALITY"
+topic:: "REALITY"
 type:: #type/topic/L3
-ptopic:: [[TRUTH]]
+ptopic:: [[topic-TRUTH]]
 

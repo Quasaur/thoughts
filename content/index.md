@@ -13,7 +13,7 @@ aliases:
 date: 2024-06-06
 ---
 # Welcome!
-WELCOME TO THE BOOK OF THOUGHTS (formerly [The Book of Tweets: Proverbs for the Modern Age]([The Book of Tweets: Proverbs for the Modern Age - Kindle edition by Mitchell, Calvin. Politics & Social Sciences Kindle eBooks @ Amazon.com.](https://www.amazon.com/Book-Tweets-Proverbs-Modern-Age-ebook/dp/B00RSE25H2?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.fI9TBH2QdtAZfEFHkTvYkZQTvxUFYwGtN4sN8NAuF0G5I0Hw3LfHNChhF0mSiMqIalc-KKbFZJKAWrUqBzn_I8P5XoeBDAtjRV-1GqGYEXANMGwoiP7kBGKA44xmKJAZ_UYD4s7omQv8e5XyorZS3Q.rQVu6PmFMBnPcVm8Z8FLgvDCg9k4nMmRyRiesA9OPnM&dib_tag=AUTHOR)))
+WELCOME TO THE BOOK OF THOUGHTS (formerly [The Book of Tweets: Proverbs for the Modern Age](https://www.amazon.com/Book-Tweets-Proverbs-Modern-Age-ebook/dp/B00RSE25H2))
 
 Back in January of 2015 i compiled all the Twitter (now called "X") posts i had posted up to that point into an ebook which i made available on Amazon Kindle Unlimited.
 

@@ -12,6 +12,6 @@
 
 ## Dataview
 
-title:: "MERCY"
+topic:: "MERCY"
 type:: #type/topic/L3
 ptopic:: [[topic-LAW]]

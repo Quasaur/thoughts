@@ -15,7 +15,7 @@
 [[SECRETS]]
 
 ## Dataview
-title:: "PSYCHOLOGY"
+topic:: "PSYCHOLOGY"
 type:: #type/topic/L3
 ptopic:: [[topic-SOCIOLOGY]]
 

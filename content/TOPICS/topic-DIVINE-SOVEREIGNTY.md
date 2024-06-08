@@ -1,28 +1,30 @@
 ---
-title: "Topic: THE GODHEAD"
+title: "Topic: DIVINE SOVEREIGNTY"
 draft: false
+description: God's Right to do as He pleases.
 tags:
-  - starting_point
-  - level_one
-description: "The only Level 1 Topic: The GODHEAD!"
+  - sovereignty
+  - lordship
 aliases:
-  - prime topic
-  - Level One
-  - Starting Point
+  - Divine Sovereignty
+  - Lordship of Deity
+  - Presdesination
 date: 2024-06-06
-type: topic/L1
+level: 2
 ---
 # Topic: DIVINE SOVEREIGNTY
 ## Sub-Topics
 
 
 ## Thoughts
-
 [[PREDESTINED]]
 
 [[VOLITION]]
 
 ## Dataview
-title:: "DIVINE SOVEREIGNTY"
+topic:: "Topic: DIVINE SOVEREIGNTY"
 type:: #type/topic/L2
 ptopic:: [[topic-THE-GODHEAD]]
+
+## Notes
+NOTE: Topic notes.

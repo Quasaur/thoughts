@@ -10,6 +10,6 @@
 [[INTEGRITY]]
 
 ## Dataview
-title:: "MORALITY"
+topic:: "MORALITY"
 type:: "#type/topic/L3"
 ptopic:: [[topic-SPIRITUALITY]]

@@ -1,7 +1,17 @@
 ---
-
+title: "Topic: BEHAVIOR"
+draft: false
+description: "Action and response to stimulation and environment."
+tags:
+  - action
+  - response
+  - conduct
+aliases:
+  - Topic Conduct
+date: 2024-06-06
+level: 3
 ---
-# BEHAVIOR 
+# Topic: BEHAVIOR 
 ## Sub-Topics
 
 ## Thoughts
@@ -18,6 +28,9 @@
 [[RESULTS]]
 
 ## Dataview
-title:: "BEHAVIOR"
+topic:: "Topic: BEHAVIOR"
 type:: #type/topic/L3
 ptopic:: [[topic-PSYCHOLOGY]]
+
+## Notes
+NOTE: Topic notes.

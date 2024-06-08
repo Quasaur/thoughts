@@ -11,6 +11,6 @@
 
 
 ## Dataview
-title:: "SCIENCE"
+topic:: "SCIENCE"
 type:: #type/topic/L4
 ptopic:: [[topic-REALITY]]

@@ -11,6 +11,6 @@
 [[BRIBERY]]
 
 ## Dataview
-title:: "LAW"
+topic:: "LAW"
 type:: #type/topic/L2
 ptopic:: [[topic-THE-GODHEAD]]

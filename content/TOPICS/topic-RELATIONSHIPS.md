@@ -13,6 +13,6 @@
 [[NOBODYS]]
 
 ## Dataview
-title:: "RELATIONSHIPS"
+topic:: "RELATIONSHIPS"
 type:: #type/topic/L3
 ptopic:: [[topic-SOCIOLOGY]]

@@ -4,20 +4,13 @@ draft: true
 ---
 ```dataview
 TABLE
-   title AS "Topic",
+   topic AS "Topic",
    type AS "Level",
-   ptopic AS "Parent"
+   ptopic AS "Parent Topic"
    FROM "content/TOPICS"
-   SORT type ASC, title ASC
+   SORT type ASC, topic ASC
 ```
 
 
-```dataviewjs
-let myIndexPages = dv.pages('"content/TOPIC"');
-dv.table(
-    ["Topic", "Level", "Parent"],
-    myIndexPages.map(p => [p.title, p.type, p.ptopic])
-);
-```
 ## Dataview
 type:: #type/table

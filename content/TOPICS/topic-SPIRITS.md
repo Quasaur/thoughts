@@ -15,6 +15,6 @@
 
 
 ## Dataview
-title:: "SPIRITS"
+topic:: "SPIRITS"
 type:: "#type/topic/L3"
 ptopic:: [[topic-SPIRITUALITY]]

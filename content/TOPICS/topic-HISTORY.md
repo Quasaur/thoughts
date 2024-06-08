@@ -11,6 +11,6 @@
 [[YISRAEL]]
 
 ## Dataview
-title:: "HISTORY"
+topic:: "HISTORY"
 type:: #type/topic/L3
 ptopic:: [[topic-SOCIOLOGY]]

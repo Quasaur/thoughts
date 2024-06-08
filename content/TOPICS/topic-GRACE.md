@@ -21,7 +21,7 @@
 [[FATHER]]
 
 ## Dataview
-title:: "GRACE"
+topic:: "GRACE"
 type:: #type/topic/L2 
 ptopic:: "[[topic-THE-GODHEAD]]
 

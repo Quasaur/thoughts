@@ -15,6 +15,6 @@
 [[TREASURE]]
 
 ## Dataview
-title:: "RELIGION"
+topic:: "RELIGION"
 type:: #type/topic/L4
 ptopic:: [[topic-MORALITY]]

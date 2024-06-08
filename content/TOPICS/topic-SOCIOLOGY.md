@@ -17,6 +17,6 @@
 [[CITIZENSHIP]]
 
 ## Dataview
-title:: "SOCIETY"
+topic:: "SOCIETY"
 type:: #type/topic/L2
 ptopic:: [[topic-THE-GODHEAD]]

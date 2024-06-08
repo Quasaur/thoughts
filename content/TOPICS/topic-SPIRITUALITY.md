@@ -14,6 +14,6 @@
 [[THE-QUICK-AND-THE-DEAD]]
 
 ## Dataview
-title:: "SPIRITUALITY"
+topic:: "SPIRITUALITY"
 type:: #type/topic/L2
 ptopic:: [[topic-THE-GODHEAD]]

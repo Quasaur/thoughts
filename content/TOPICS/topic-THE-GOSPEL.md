@@ -9,6 +9,6 @@
 
 
 ## Dataview
-title:: "THE GOSPEL"
+topic:: "THE GOSPEL"
 type:: #type/topic/L2 
 ptopic:: [[topic-THE-GODHEAD]]

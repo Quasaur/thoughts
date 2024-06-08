@@ -17,6 +17,6 @@
 [[TIME]]
 
 ## Dataview
-title:: "JUSTICE"
+topic:: "JUSTICE"
 type:: #type/topic/L3
 ptopic:: [[topic-LAW]]

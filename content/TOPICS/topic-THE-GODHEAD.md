@@ -1,14 +1,14 @@
 ---
 title: "Topic: THE GODHEAD"
 draft: false
+description: "The only Level 1 Topic: The GODHEAD!"
 tags:
   - starting_point
   - level_one
-description: "The only Level 1 Topic: The GODHEAD!"
 aliases:
-  - "Prime Topic"
-  - "Level One"
-  - "Starting Point"
+  - Prime Topic
+  - Level One
+  - Starting Point
 date: 2024-06-06
 level: 1
 ---
@@ -28,7 +28,7 @@ level: 1
 
 [[topic-THE-GOSPEL]]
 
-[[TRUTH]]
+[[topic-TRUTH]]
 
 ## Thoughts
 [[EMPTINESS]]
@@ -40,9 +40,9 @@ level: 1
 [[WORSHIP]]
 
 ## Dataview
-title:: "Topic: THE GODHEAD"
+topic:: "Topic: THE GODHEAD"
 type:: #type/topic/L1
 ptopic:: "None"
 
 ## Notes
-% NOTE: Implement multi-level topics; THE-GODHEAD being the only topic level 1: #type/topic/L1 $
+NOTE: Implement multi-level topics; THE-GODHEAD being the only topic level 1: #type/topic/L1

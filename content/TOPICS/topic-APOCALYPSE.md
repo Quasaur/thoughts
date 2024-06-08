@@ -1,17 +1,17 @@
 ---
 title: "Topic: APOCALYPSE"
-draft: true
+draft: false
 description: "Eschatology: the end of all things."
 tags:
   - eschatology
   - last_day
   - end_of_the_world
 aliases:
-  - "Topic ESCHATOLOGY"
+  - Topic ESCHATOLOGY
 date: 2024-06-06
-level: 0
+level: 4
 ---
-# APOLCALYPSE
+# Topic: APOLCALYPSE
 ## Sub-Topics
 
 
@@ -24,6 +24,9 @@ level: 0
 
 
 ## Dataview
-title:: "APOCALYPSE"
+topic:: "Topic: APOCALYPSE"
 type:: #type/topic/L4
 ptopic:: [[topic-HISTORY]]
+
+## Notes
+NOTE: Topic Notes.
