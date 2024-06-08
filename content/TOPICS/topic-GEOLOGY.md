@@ -2,10 +2,10 @@
 
 ---
 # GEOLOGY
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[FOSSILS]]
 
 ## Dataview

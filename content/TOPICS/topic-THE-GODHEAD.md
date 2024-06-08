@@ -6,11 +6,11 @@ tags:
   - level_one
 description: "The only Level 1 Topic: The GODHEAD!"
 aliases:
-  - prime topic
-  - Level One
-  - Starting Point
+  - "Prime Topic"
+  - "Level One"
+  - "Starting Point"
 date: 2024-06-06
-type: topic/L1
+level: 1
 ---
 # Topic: THE GODHEAD
 ## Sub-Topics

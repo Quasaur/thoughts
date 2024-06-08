@@ -2,9 +2,9 @@
 
 ---
 # BEHAVIOR 
-## Sub-Indexes
+## Sub-Topics
 
-## Tweets
+## Thoughts
 [[ADDICTION]]
 
 [[692-189]]

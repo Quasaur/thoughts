@@ -2,7 +2,7 @@
 
 ---
 # SPIRITUALITY 
-## Sub-Indexes
+## Sub-Topics
 [[topic-SPIRITS]]
 
 [[topic-ATTITUDE]]
@@ -10,7 +10,7 @@
 [[topic-MORALITY]]
 
 
-## Tweets
+## Thoughts
 [[THE-QUICK-AND-THE-DEAD]]
 
 ## Dataview

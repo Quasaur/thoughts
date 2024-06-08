@@ -2,10 +2,10 @@
 
 ---
 # RELIGION
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[ISLAM]]
 
 [[PERSECUTION]]

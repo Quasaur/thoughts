@@ -2,10 +2,10 @@
 
 ---
 # ENTITLEMENT
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[DEBT]]
 
 ## Dataview

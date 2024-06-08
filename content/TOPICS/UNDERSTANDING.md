@@ -2,10 +2,10 @@
 
 ---
 # UNDERSTANDING
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[IMAGINATION]]
 
 [[MISUNDERSTOOD]]

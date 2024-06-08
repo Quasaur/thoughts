@@ -2,10 +2,10 @@
 
 ---
 # COSMOLOGY
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[DARK-MATTER]]
 
 [[content/THOUGHTS/REALITY]]

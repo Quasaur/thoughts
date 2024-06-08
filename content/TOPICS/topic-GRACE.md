@@ -2,10 +2,10 @@
 
 ---
 # GRACE
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[FULLNESS]]
 
 [[SIN]]

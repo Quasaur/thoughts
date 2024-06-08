@@ -2,10 +2,10 @@
 
 ---
 # SPIRITS
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 
 [[DEMONS]]
 

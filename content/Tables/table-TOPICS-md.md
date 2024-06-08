@@ -10,7 +10,6 @@ tags:
   - topics
   - subtopics
   - subjects
-type: md/table
 ---
 # Table: TOPICS
 This table identifies all of the topics addressed by my thoughts.

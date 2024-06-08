@@ -2,12 +2,12 @@
 
 ---
 # PSYCHOLOGY 
-## Sub-Indexes
+## Sub-Topics
 [[topic-BEHAVIOR]]
 
 [[UNDERSTANDING]]
 
-## Tweets
+## Thoughts
 [[ANTI-SEMITISM]]
 
 [[INSANITY]]

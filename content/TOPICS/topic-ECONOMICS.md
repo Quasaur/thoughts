@@ -2,10 +2,10 @@
 
 ---
 # ECONOMICS
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 
 
 ## Dataview

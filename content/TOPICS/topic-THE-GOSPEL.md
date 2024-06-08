@@ -2,10 +2,10 @@
 
 ---
 # THE GOSPEL
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 
 
 ## Dataview

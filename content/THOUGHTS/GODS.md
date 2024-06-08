@@ -12,4 +12,4 @@ ptopic:: [[topic-BEHAVIOR]]
 type:: #type/note
 title:: "GODS"
 level:: 3
-social:: [ #behavior @intelligence #power #mercy #compassion]
+social:: [ #behavior #intelligence #power #mercy #compassion]

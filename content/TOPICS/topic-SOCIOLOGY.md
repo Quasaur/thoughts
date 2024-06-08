@@ -2,7 +2,7 @@
 
 ---
 # SOCIETY 
-## Sub-Indexes
+## Sub-Topics
 [[topic-ECONOMICS]]
 
 [[topic-HISTORY]]
@@ -13,7 +13,7 @@
 
 [[topic-RELATIONSHIPS]]
 
-## Tweets
+## Thoughts
 [[CITIZENSHIP]]
 
 ## Dataview

@@ -2,10 +2,10 @@
 
 ---
 # JUSTICE
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[FAIRNESS]]
 
 [[content/THOUGHTS/JUSTICE]]

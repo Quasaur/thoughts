@@ -25,7 +25,7 @@ Each Thought is identified by its LEVEL. The Level helps you to understand how a
 
 The items in the File, Topic File and Social Tags columns are links that can be clicked on to take you to that particular Thought, Level, Topic or Tag.
 
-|File85|Level|Topic|Social Tags|
+|File (85)|Level|Topic|Social Tags|
 |---|---|---|---|
 |[EGO](app://obsidian.md/content/THOUGHTS/EGO.md)|1|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|[ [#god](app://obsidian.md/index.html#god) [#sun](app://obsidian.md/index.html#sun) [#earth](app://obsidian.md/index.html#earth) [#me](app://obsidian.md/index.html#me) [#humility](app://obsidian.md/index.html#humility)]|
 |[EMPTINESS](app://obsidian.md/content/THOUGHTS/EMPTINESS.md)|1|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|[ [#emptiness](app://obsidian.md/index.html#emptiness) [#void](app://obsidian.md/index.html#void) [#hunger](app://obsidian.md/index.html#hunger) [#addiction](app://obsidian.md/index.html#addiction) [#spirituality](app://obsidian.md/index.html#spirituality) ]|

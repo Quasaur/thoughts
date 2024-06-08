@@ -2,12 +2,12 @@
 
 ---
 # TRUTH
-## Sub-Indexes
+## Sub-Topics
 
 [[topic-REALITY]]
 
 
-## Tweets
+## Thoughts
 
 
 ## Dataview

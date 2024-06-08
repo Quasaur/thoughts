@@ -2,10 +2,10 @@
 
 ---
 # MORALITY
-## Sub-Indexes
+## Sub-Topics
 [[topic-EVIL]]
 
-## Tweets
+## Thoughts
 [[SHOULD]]
 [[INTEGRITY]]
 

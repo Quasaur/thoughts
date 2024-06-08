@@ -13,4 +13,4 @@ ptopic:: [[topic-GRACE]]
 type:: #type/note
 title:: "TO BE LED"
 level:: 2
-social:: [ #led #follow #leadership #holyspirit #11111111travel
+social:: [ #led #follow #leadership #holyspirit #travel

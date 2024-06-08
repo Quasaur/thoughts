@@ -2,10 +2,10 @@
 
 ---
 # REALITY
-## Sub-Indexes
+## Sub-Topics
 [[topic-SCIENCE]]
 
-## Tweets
+## Thoughts
 
 
 ## Dataview

@@ -2,10 +2,10 @@
 
 ---
 # HISTORY
-## Sub-Indexes
+## Sub-Topics
 [[topic-APOCALYPSE]]
 
-## Tweets
+## Thoughts
 [[CONSEQUENCES]]
 
 [[YISRAEL]]

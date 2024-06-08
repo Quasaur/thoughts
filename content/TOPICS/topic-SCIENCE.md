@@ -2,12 +2,12 @@
 
 ---
 # SCIENCE 
-## Sub-Indexes
+## Sub-Topics
 [[topic-COSMOLOGY]]
 
 [[topic-GEOLOGY]]
 
-## Tweets
+## Thoughts
 
 
 ## Dataview

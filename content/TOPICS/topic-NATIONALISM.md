@@ -2,10 +2,10 @@
 
 ---
 # NATIONALISM
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[AMERICAN]]
 
 ## Dataview

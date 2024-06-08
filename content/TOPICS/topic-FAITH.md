@@ -2,10 +2,10 @@
 
 ---
 # FAITH
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[GNOSIS]]
 
 ## Dataview

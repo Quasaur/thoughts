@@ -2,10 +2,10 @@
 
 ---
 # MERCY
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[CONSEQUENCES]]
 
 [[FORGIVENESS]]

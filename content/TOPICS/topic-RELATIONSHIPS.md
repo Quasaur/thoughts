@@ -2,10 +2,10 @@
 
 ---
 # RELATIONSHIPS
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 [[DISCRETION]]
 
 [[LOVING or LOVED?]]

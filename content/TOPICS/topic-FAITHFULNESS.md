@@ -2,10 +2,10 @@
 
 ---
 # FAITHFULNESS
-## Sub-Indexes
+## Sub-Topics
 
 
-## Tweets
+## Thoughts
 
 [[FRUSTRATION]]
 

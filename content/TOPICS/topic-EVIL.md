@@ -2,10 +2,10 @@
 
 ---
 # EVIL
-## Sub-Indexes
+## Sub-Topics
 [[topic-RELIGION]]
 
-## Tweets
+## Thoughts
 [[BRIBERY]]
 
 [[EVIL-WAS-NECESSARY]]

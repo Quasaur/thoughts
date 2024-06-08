@@ -2,11 +2,11 @@
 
 ---
 # ATTITUDE 
-## Sub-Indexes
+## Sub-Topics
 [[topic-ENTITLEMENT]]
 
 [[topic-FAITH]]
-## Tweets 
+## Thoughts 
 
 [[AUTOMATIC MERCY]]
 

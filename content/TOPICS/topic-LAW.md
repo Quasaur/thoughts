@@ -2,12 +2,12 @@
 
 ---
 # LAW
-## Sub-Indexes
+## Sub-Topics
 [[topic-JUSTICE]]
 
 [[topic-MERCY]]
 
-## Tweets 
+## Thoughts 
 [[BRIBERY]]
 
 ## Dataview
