@@ -1,16 +1,16 @@
 ---
-title: "Topic: FAITHFULNESS"
+title: "Topic: GEOLOGY"
 draft: false
-description: "Adherence to something to which one is bound by a pledge or duty"
+description: "Study of the solid matter of a celestial body."
 tags:
-  - commitment
-  - fidelity
-  - steadfastness
+  - rocks
+  - strata
+  - layers
 aliases:
-  - Topic Steadfastness
-  - Topic: Divine Fidelity
+  - Topic Rock Strata
+  - Topic: Crust
 date: 2024-06-06
-level: 2
+level: 5
 ---
 # GEOLOGY
 ## Sub-Topics
@@ -23,3 +23,6 @@ level: 2
 topic:: "GEOLOGY"
 type:: #type/topic/L5
 ptopic:: [[topic-SCIENCE]]
+
+## Notes
+NOTE: Topic notes.
