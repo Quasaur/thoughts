@@ -6,10 +6,7 @@ tags:
   - attitude
   - transcendence
 aliases: 
-- Topic: The Philosophy of Spirit
-- Topic: Receiving Eternal Values
 date: 2024-06-06
-level: 2
 ---
 # Topic: SPIRITUALITY 
 ## Description
@@ -29,6 +26,7 @@ Sensitivity or attachment to religious values.
 ## Dataview
 topic:: "Topic SPIRITUALITY"
 type:: #type/topic/L2
+level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 
 ## Notes

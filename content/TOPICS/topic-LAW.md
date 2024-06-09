@@ -7,7 +7,6 @@ tags:
   - regulation
 aliases: 
 date: 2024-06-06
-level: 2
 ---
 # Topic: LAW
 ## Description
@@ -24,6 +23,7 @@ A binding custom or practice of a community formally recognized as binding or e
 ## Dataview
 topic:: "Topic: LAW"
 type:: #type/topic/L2
+level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 
 ## Notes

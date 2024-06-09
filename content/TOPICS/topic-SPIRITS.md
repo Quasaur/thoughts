@@ -6,11 +6,9 @@ tags:
   - attitude
   - supernatural
   - being
-aliases: 
-- Topic:Spirituality
-- Topic: Eternity
+aliases:
+  - Topic:Spirituality
 date: 2024-06-06
-level: 3
 ---
 # Topic: SPIRITS
 ## Description
@@ -30,7 +28,8 @@ The animating or vital Principle held to give life to physical organisms; supern
 
 ## Dataview
 topic:: "Topic: SPIRITS"
-type:: "#type/topic/L3"
+type:: #type/topic/L3 
+level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 
 ## Notes

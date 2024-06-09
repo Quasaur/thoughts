@@ -8,7 +8,6 @@ tags:
 aliases:
   - Topic ESCHATOLOGY
 date: 2024-06-06
-level: 4
 ---
 # Topic: APOLCALYPSE
 ## Description
@@ -28,6 +27,7 @@ Eschatology; the End of all things.
 ## Dataview
 topic:: "Topic: APOCALYPSE"
 type:: #type/topic/L4
+level:: 4
 ptopic:: [[topic-HISTORY]]
 
 ## Notes

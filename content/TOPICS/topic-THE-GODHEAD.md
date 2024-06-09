@@ -9,7 +9,6 @@ aliases:
   - Level One
   - Starting Point
 date: 2024-06-06
-level: 1
 ---
 # Topic: THE GODHEAD
 ## Description
@@ -43,6 +42,7 @@ The nature of God, especially as existing in Three Persons.
 ## Dataview
 topic:: "Topic: THE GODHEAD"
 type:: #type/topic/L1
+level:: 1
 ptopic:: "None"
 
 ## Notes

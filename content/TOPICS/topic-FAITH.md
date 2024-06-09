@@ -8,7 +8,6 @@ tags:
 aliases:
   - Topic Saving Faith
 date: 2024-06-06
-level: 4
 ---
 # Topic: FAITH
 ## Description
@@ -23,6 +22,7 @@ Confidence in the Words of God that inspires intent, speech and action.
 ## Dataview
 topic:: "FAITH"
 type:: #type/topic/L4
+level:: 4
 ptopic:: [[topic-ATTITUDE]]
 
 ## Notes

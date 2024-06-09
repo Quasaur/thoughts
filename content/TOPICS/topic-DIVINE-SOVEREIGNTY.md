@@ -9,7 +9,6 @@ aliases:
   - Lordship of Deity
   - Presdesination
 date: 2024-06-06
-level: 2
 ---
 # Topic: DIVINE SOVEREIGNTY
 ## Description
@@ -26,6 +25,7 @@ God's Right to do as He pleases.
 ## Dataview
 topic:: "Topic: DIVINE SOVEREIGNTY"
 type:: #type/topic/L2
+level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 
 ## Notes

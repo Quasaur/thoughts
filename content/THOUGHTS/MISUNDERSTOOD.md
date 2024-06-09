@@ -8,7 +8,7 @@ aliases: [Miscommunicatiion, Intimacy]
 Among life's greatest agonies is being misunderstood.
 
 ## Dataview
-ptopic:: [[UNDERSTANDING]]
+ptopic:: [[topic-UNDERSTANDING]]
 type:: #type/note
 title:: "MISUNDERSTOOD"
 level:: 4

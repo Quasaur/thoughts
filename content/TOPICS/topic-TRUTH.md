@@ -5,12 +5,8 @@ tags:
   - actuality
   - reality
   - fact
-aliases:
-  - Topic: Credibility
-  - Topic: Verity
-  - Topic: Actuality
+aliases: 
 date: 2024-06-06
-level: 4
 ---
 # Topic: TRUTH
 ## Descriptiion
@@ -26,6 +22,7 @@ A transcendent fundamental or spiritual reality.
 ## Dataview
 topic:: "Topic: TRUTH"
 type:: #type/topic/L2
+level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 
 ## Notes

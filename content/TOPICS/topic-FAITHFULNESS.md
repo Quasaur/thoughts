@@ -8,7 +8,6 @@ tags:
 aliases:
   - Topic Steadfastness
 date: 2024-06-06
-level: 2
 ---
 # Topic FAITHFULNESS
 ## Description
@@ -25,6 +24,7 @@ Adherence to something to which one is bound by a pledge or duty
 ## Dataview
 topic:: "Topic: FAITHFULNESS"
 type:: #type/topic/L2 
+level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 
 ## Notes

@@ -6,10 +6,7 @@ tags:
   - relations
   - interactions
 aliases: 
-- Topic: Human Interactions
-- Topic: Human Groups
 date: 2024-06-06
-level: 2
 ---
 # Topic: SOCIOLOGY
 ## Description
@@ -32,6 +29,7 @@ The science of society, social institutions, and social relationships.
 ## Dataview
 topic:: "Topic: SOCIETY"
 type:: #type/topic/L2
+level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 
 ## Notes

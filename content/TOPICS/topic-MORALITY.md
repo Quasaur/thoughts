@@ -7,7 +7,6 @@ tags:
   - decency
 aliases: 
 date: 2024-06-06
-level: 3
 ---
 # Topic: MORALITY
 ## Description
@@ -22,7 +21,8 @@ A doctrine or system of moral conduct
 
 ## Dataview
 topic:: "Topic: MORALITY"
-type:: "#type/topic/L3"
+type:: #type/topic/L3 
+level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 
 ## Notes

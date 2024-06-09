@@ -8,7 +8,6 @@ tags:
 aliases:
   - Topic Chronology
 date: 2024-06-06
-level: 3
 ---
 # topic: HISTORY
 ## Description
@@ -25,6 +24,7 @@ an account of important events in the order in which they happened
 ## Dataview
 topic:: "Topic: HISTORY"
 type:: #type/topic/L3
+level:: 3
 ptopic:: [[topic-SOCIOLOGY]]
 
 ## Notes

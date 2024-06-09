@@ -7,7 +7,6 @@ tags:
   - unioverse
 aliases: 
 date: 2024-06-06
-level: 5
 ---
 # Topic COSMOLOGY
 ## Description
@@ -26,6 +25,7 @@ The natural order of the universe.
 ## Dataview
 topic:: "Topic: COSMOLOGY"
 type:: #type/topic/L5
+level:: 5
 ptopic:: [[topic-SCIENCE]]
 
 ## Notes

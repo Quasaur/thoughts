@@ -8,7 +8,6 @@ tags:
 aliases:
   - Topic Commerce
 date: 2024-06-06
-level: 3
 ---
 # Topic: ECONOMICS
 ## Description
@@ -23,6 +22,7 @@ Social science concerned chiefly with description and analysis of the production
 ## Dataview
 topic:: "Topic: ECONOMICS"
 type:: #type/topic/L3
+level:: 3
 ptopic:: [[topic-SOCIOLOGY]]
 
 ## Notes

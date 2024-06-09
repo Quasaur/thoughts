@@ -6,10 +6,7 @@ tags:
   - connections
   - collaborations
 aliases: 
-- Topic: The Value of Those in our Inner and Outer Circles
-- Topic: Kinship
 date: 2024-06-06
-level: 3
 ---
 # Topic: RELATIONSHIPS
 ## Description
@@ -28,6 +25,7 @@ The relation connecting or binding participants.
 ## Dataview
 topic:: "RELATIONSHIPS"
 type:: #type/topic/L3
+level:: 3
 ptopic:: [[topic-SOCIOLOGY]]
 
 ## Notes

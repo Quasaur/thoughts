@@ -1,18 +1,20 @@
 ---
 title: "Thought: Title"
 draft: true
-description: "Template from which every Topic is created"
+description: Template from which every Topic is created
 aliases:
-- Topic Alias 1
-- Topic Alias 2
-- Topic Alias 3
+  - Topic Alias 1
+  - Topic Alias 2
+  - Topic Alias 3
 tags:
   - topic_tag_1
   - topic_tag_2
-creationdate: {{date}}
-creationdatetime: {{time}}
-zettelkasten: {{date:YYYYMMDDHHmm}}
-notelevel: 0
+creationdate:
+  "{ date }": 
+creationdatetime:
+  "{ time }": 
+zettelkasten:
+  "{ date:YYYYMMDDHHmm }":
 ---
 
 # TITLE

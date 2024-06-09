@@ -8,7 +8,6 @@ tags:
 aliases:
   - Topic Conduct
 date: 2024-06-06
-level: 3
 ---
 # Topic: BEHAVIOR 
 ## Description
@@ -32,6 +31,7 @@ Action and response to stimulation and environment.
 ## Dataview
 topic:: "Topic: BEHAVIOR"
 type:: #type/topic/L3
+level:: 3
 ptopic:: [[topic-PSYCHOLOGY]]
 
 ## Notes

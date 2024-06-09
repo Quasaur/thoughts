@@ -8,7 +8,6 @@ tags:
 aliases:
   - Topic Gospel of Grace
 date: 2024-06-06
-level: 4
 ---
 # Topic: GRACE
 ## Description
@@ -35,6 +34,7 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 ## Dataview
 topic:: "Topic GRACE"
 type:: #type/topic/L2 
+level:: 2
 ptopic:: "[[topic-THE-GODHEAD]]
 
 ## Notes

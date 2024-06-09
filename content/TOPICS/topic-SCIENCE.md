@@ -6,11 +6,7 @@ tags:
   - expertise
   - evidence
 aliases: 
-- Topic: Pursuing Reality
-- Topic: Discerning Fact from Fiction
-- Topic: Critical Thinking
 date: 2024-06-06
-level: 4
 ---
 # Topic: SCIENCE 
 ## Description
@@ -27,6 +23,7 @@ A system of discovering knowledge covering general truths or the operation of ge
 ## Dataview
 topic:: "Topic: SCIENCE"
 type:: #type/topic/L4
+level:: 4
 ptopic:: [[topic-REALITY]]
 
 ## Notes

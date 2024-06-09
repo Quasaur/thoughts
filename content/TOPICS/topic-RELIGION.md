@@ -6,10 +6,7 @@ tags:
   - creed
   - sect
 aliases: 
-- Topic: Beliefs
-- Topic: Theology
 date: 2024-06-06
-level: 4
 ---
 # Topic: RELIGION
 ## Description
@@ -30,6 +27,7 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 ## Dataview
 topic:: "Topic: RELIGION"
 type:: #type/topic/L4
+level:: 4
 ptopic:: [[topic-MORALITY]]
 
 ## Notes

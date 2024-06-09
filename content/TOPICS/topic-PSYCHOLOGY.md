@@ -6,10 +6,7 @@ tags:
   - psyche
   - mind
 aliases: 
-- Topic: Mind and Behavior
-- Topic: Mentality and Action
 date: 2024-06-06
-level: 3
 ---
 # Topic: PSYCHOLOGY 
 ## Description
@@ -18,7 +15,7 @@ the study of mind and behavior in relation to a particular field of knowledge or
 ## Sub-Topics
 [[topic-BEHAVIOR]]
 
-[[UNDERSTANDING]]
+[[topic-UNDERSTANDING]]
 
 ## Thoughts
 [[ANTI-SEMITISM]]
@@ -30,6 +27,7 @@ the study of mind and behavior in relation to a particular field of knowledge or
 ## Dataview
 topic:: "Topic: PSYCHOLOGY"
 type:: #type/topic/L3
+level:: 3
 ptopic:: [[topic-SOCIOLOGY]]
 
 ## Notes

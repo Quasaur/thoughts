@@ -6,10 +6,7 @@ tags:
   - existence
   - materiality
 aliases: 
-- Topic: Truth
-- Topic: Fact
 date: 2024-06-06
-level: 3
 ---
 # Topic: REALITY
 ## Description
@@ -24,6 +21,7 @@ That is neither derivative nor dependent but exists necessarily.
 ## Dataview
 topic:: "Topic: REALITY"
 type:: #type/topic/L3
+level:: 3
 ptopic:: [[topic-TRUTH]]
 
 ## Notes

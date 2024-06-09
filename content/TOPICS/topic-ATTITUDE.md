@@ -10,7 +10,6 @@ aliases:
   - "Topic: Mental State"
   - "Topic: Dispositiion"
 date: 2024-06-06
-level: 2
 ---
 # Topic: ATTITUDE 
 ## Description
@@ -38,6 +37,7 @@ A feeling, emotion or mental position to a fact or state.
 ## Dataview
 topic:: "Topic: ATTITUDE"
 type:: #type/topic/L3
+level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 
 ## Notes
