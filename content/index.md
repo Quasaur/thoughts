@@ -36,12 +36,16 @@ Whether or not the sidebars to the left and right are visible is a function of h
 - [Table: Topics (md)](Tables/table-TOPICS-md)
 - [Table: Thoughts (md)](Tables/table-THOUGHTS-md)
 
+## The Tags
+Tags are objects meant to make searching the increasingly vast ocean of The Book of Thoughts easier. Clicking on a tag in either a topic ('#type/topic/L2', for instance) or a thought (anything with a hashtag ['#'] in front of it) will take you to a page which will list every thought that tag is found in.
+
+WARNING; The Thoughts Table ("table-Thoughts-md") has more tags than any other page; since it is listed first in any tag page, you're going to have to scroll down to see which other thoughts, if any, that tag is found it.
 ## Graph View
 The prime feature of this site is the Graph View, seen either at the top right or bottom of each page. What the Graph View displays is a function of each page's content; that is, when you load the page for a topic or thought, Graph View switches its focus to that topic or thought!
 
-At the upper-right corner of the Graph View window there is a small icon; click on it and the Graph View will expand its size for easier navigation.
+At the upper-right corner of the Graph View window there is a small icon; click on it and the Graph View will expand its size for easier navigation. You can always DRAG the content of the Graph View around to center or the area of your choice.
 
-If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Graph View to better discover the lines that link objects as well as receive a clearer view of the objects themselves.
+If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Graph View to better discover the lines that link objects as well as receive a clearer view of the objects themselves. Every topic will (eventually) be preceded by the word "topic;" every tag will be preceded by a hashtag ('#'); and everthing else will probably be a Thought, meant to feed your soul and spirit with Wisdom!
 
 ## Donate
 Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom will! If you find VALUE in the Wisdom presented at this site, let me know: my Cash App ID is @Quasaur.
