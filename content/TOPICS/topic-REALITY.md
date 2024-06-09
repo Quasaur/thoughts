@@ -1,7 +1,20 @@
 ---
-
+title: "Topic: REALITY"
+draft: false
+tags:
+  - fact
+  - existence
+  - materiality
+aliases: 
+- Topic: Truth
+- Topic: Fact
+date: 2024-06-06
+level: 3
 ---
-# REALITY
+# Topic: REALITY
+## Description
+That is neither derivative nor dependent but exists necessarily.
+
 ## Sub-Topics
 [[topic-SCIENCE]]
 
@@ -9,7 +22,9 @@
 
 
 ## Dataview
-topic:: "REALITY"
+topic:: "Topic: REALITY"
 type:: #type/topic/L3
 ptopic:: [[topic-TRUTH]]
 
+## Notes
+NOTE: Topic notes.

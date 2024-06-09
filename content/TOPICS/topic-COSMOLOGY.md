@@ -1,19 +1,18 @@
 ---
 title: "Topic: COSMOLOGY"
 draft: false
-description: "The natural order of the universe"
 tags:
   - metaphysiucs
   - astronomy
   - unioverse
-aliases:
-  - Topic: Cosmos
-  - Topic: Theory of the Universe
-  - Topic: Astronomy Origins
+aliases: 
 date: 2024-06-06
 level: 5
 ---
 # Topic COSMOLOGY
+## Description
+The natural order of the universe.
+
 ## Sub-Topics
 
 

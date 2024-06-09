@@ -1,18 +1,18 @@
 ---
 title: "Topic: ENTITLEMENT"
 draft: false
-description: "Law, contract or belief that one is deserving of or entitled to certain rights, benefits and privileges."
 tags:
   - entitled
   - privilege
   - right
-aliases:
-  - Topic: Rights
-  - Topic: Rights obtained by Law, Contract or Belief
+aliases: 
 date: 2024-06-06
 level: 4
 ---
 # Topic: ENTITLEMENT
+## Description
+Law, contract or belief that one is deserving of or entitled to certain rights, benefits and privileges.
+
 ## Sub-Topics
 
 

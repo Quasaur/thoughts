@@ -1,7 +1,6 @@
 ---
 title: "Topic: ATTITUDE"
 draft: false
-description: "A feeling, emotion or mental position to a fact or state."
 tags:
   - mentality
   - disposition
@@ -14,6 +13,9 @@ date: 2024-06-06
 level: 2
 ---
 # Topic: ATTITUDE 
+## Description
+A feeling, emotion or mental position to a fact or state.
+
 ## Sub-Topics
 [[topic-ENTITLEMENT]]
 

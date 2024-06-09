@@ -1,17 +1,18 @@
 ---
 title: "Topic: JUSTICE"
 draft: false
-description: "the practice or instance of giving to others what is their due."
 tags:
   - equity
   - fairness
   - impartiality
-aliases:
-  - Topic Equanimity
+aliases: 
 date: 2024-06-06
-level: 4
+level: 3
 ---
 # Topic: JUSTICE
+## Description
+The practice or instance of giving to others what is their due.
+
 ## Sub-Topics
 
 

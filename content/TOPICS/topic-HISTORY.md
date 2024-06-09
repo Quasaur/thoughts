@@ -1,7 +1,6 @@
 ---
 title: "Topic: HISTORY"
 draft: false
-description: "an account of important events in the order in which they happened"
 tags:
   - annals
   - chronicles
@@ -12,6 +11,9 @@ date: 2024-06-06
 level: 3
 ---
 # topic: HISTORY
+## Description
+an account of important events in the order in which they happened
+
 ## Sub-Topics
 [[topic-APOCALYPSE]]
 

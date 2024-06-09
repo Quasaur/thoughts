@@ -1,7 +1,6 @@
 ---
 title: "Topic: THE GODHEAD"
 draft: false
-description: "The only Level 1 Topic: The GODHEAD!"
 tags:
   - starting_point
   - level_one
@@ -13,6 +12,8 @@ date: 2024-06-06
 level: 1
 ---
 # Topic: THE GODHEAD
+## Description
+The nature of God, especially as existing in Three Persons.
 ## Sub-Topics
 [[topic-DIVINE-SOVEREIGNTY]]
 

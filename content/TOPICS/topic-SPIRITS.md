@@ -1,7 +1,21 @@
 ---
-
+title: "Topic: SPIRITS"
+draft: false
+tags:
+  - life
+  - attitude
+  - supernatural
+  - being
+aliases: 
+- Topic:Spirituality
+- Topic: Eternity
+date: 2024-06-06
+level: 3
 ---
-# SPIRITS
+# Topic: SPIRITS
+## Description
+The animating or vital Principle held to give life to physical organisms; supernatural being or essence.
+
 ## Sub-Topics
 
 
@@ -15,6 +29,9 @@
 
 
 ## Dataview
-topic:: "SPIRITS"
+topic:: "Topic: SPIRITS"
 type:: "#type/topic/L3"
 ptopic:: [[topic-SPIRITUALITY]]
+
+## Notes
+NOTE: Topic notes.

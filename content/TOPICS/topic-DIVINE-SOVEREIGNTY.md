@@ -1,7 +1,6 @@
 ---
 title: "Topic: DIVINE SOVEREIGNTY"
 draft: false
-description: God's Right to do as He pleases.
 tags:
   - sovereignty
   - lordship
@@ -13,6 +12,9 @@ date: 2024-06-06
 level: 2
 ---
 # Topic: DIVINE SOVEREIGNTY
+## Description
+God's Right to do as He pleases.
+
 ## Sub-Topics
 
 

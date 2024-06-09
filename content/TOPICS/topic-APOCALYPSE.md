@@ -1,7 +1,6 @@
 ---
 title: "Topic: APOCALYPSE"
 draft: false
-description: "Eschatology: the end of all things."
 tags:
   - eschatology
   - last_day
@@ -12,6 +11,9 @@ date: 2024-06-06
 level: 4
 ---
 # Topic: APOLCALYPSE
+## Description
+Eschatology; the End of all things.
+
 ## Sub-Topics
 
 

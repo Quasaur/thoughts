@@ -1,7 +1,6 @@
 ---
 title: "Topic: BEHAVIOR"
 draft: false
-description: "Action and response to stimulation and environment."
 tags:
   - action
   - response
@@ -12,6 +11,9 @@ date: 2024-06-06
 level: 3
 ---
 # Topic: BEHAVIOR 
+## Description
+Action and response to stimulation and environment.
+
 ## Sub-Topics
 
 ## Thoughts

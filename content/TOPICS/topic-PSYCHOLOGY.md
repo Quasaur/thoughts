@@ -1,7 +1,20 @@
 ---
-
+title: "Topic: PSYCHOLOGY"
+draft: false
+tags:
+  - soul
+  - psyche
+  - mind
+aliases: 
+- Topic: Mind and Behavior
+- Topic: Mentality and Action
+date: 2024-06-06
+level: 3
 ---
-# PSYCHOLOGY 
+# Topic: PSYCHOLOGY 
+## Description
+the study of mind and behavior in relation to a particular field of knowledge or activity
+
 ## Sub-Topics
 [[topic-BEHAVIOR]]
 
@@ -15,7 +28,10 @@
 [[SECRETS]]
 
 ## Dataview
-topic:: "PSYCHOLOGY"
+topic:: "Topic: PSYCHOLOGY"
 type:: #type/topic/L3
 ptopic:: [[topic-SOCIOLOGY]]
+
+## Notes
+NOTE: Topic notes.
 

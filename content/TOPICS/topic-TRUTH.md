@@ -1,7 +1,6 @@
 ---
 title: "Topic: TRUTH"
 draft: false
-description: "A transcendent fundamental or spiritual reality"
 tags:
   - actuality
   - reality
@@ -14,6 +13,9 @@ date: 2024-06-06
 level: 4
 ---
 # Topic: TRUTH
+## Descriptiion
+A transcendent fundamental or spiritual reality.
+
 ## Sub-Topics
 [[topic-REALITY]]
 

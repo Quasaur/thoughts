@@ -1,7 +1,6 @@
 ---
 title: "Topic: GRACE"
 draft: false
-description: "Unmerited Divine Favor given to humans for their sanctification and regeneration"
 tags:
   - kindness
   - blessing
@@ -12,6 +11,9 @@ date: 2024-06-06
 level: 4
 ---
 # Topic: GRACE
+## Description
+Unmerited Divine Favor given to humans for their sanctification and regeneration
+
 ## Sub-Topics
 
 
