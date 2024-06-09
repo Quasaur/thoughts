@@ -51,5 +51,13 @@ If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Grap
 ## Donate
 Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom will! If you find VALUE in the Wisdom presented at this site, let me know: my Cash App ID is @Quasaur.
 
+## Roadmap
+This is what i intend to accomplish in the next few years:
+1. The 85 Thoughts currently posted must have their notes edited...this might take a few weeks.
+2. There are HUNDREDS of more tweets in the original Book of Tweets; all of these must be added as well.
+3. All of my social media posts will be added next.
+4. I *may* at this point add quotes from my other [nine books](https://www.clmjournal.com/books).
+5. I will then add a new section/folder filled with the Proverbs from the Biblical Texts of Ecclesiastes and Proverbs.
+
 ## Never Finished
 I brought this site to a condition that, i believe, **you will benefit from**. This site is NOT finished...it will NEVER be finished, even after I'm dead. I promise you, however, that i will NEVER stop adding to it until i am dead.
