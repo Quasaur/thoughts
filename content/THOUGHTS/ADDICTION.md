@@ -1,8 +1,6 @@
 ---
-title: 'Thought: ADDICTION'
+title: "Thought: ADDICTION"
 draft: false
-aliases:
-- 'Thought: Mental and Physical Prison'
 ---
 # Thought: ADDICTION
 > [!Tought]

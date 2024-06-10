@@ -1,8 +1,6 @@
 ---
-title: 'Thought: A Great Day'
+title: "Thought: A Great Day"
 draft: false
-aliases:
-- 'Thought: Daily Routine'
 ---
 # Thought: A GREAT DAY
 > [!Thought]

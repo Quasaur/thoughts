@@ -1,15 +1,14 @@
 ---
-creationdate: 2022-09-30
-creationdatetime: 15:09
-zettelkasten: 202209301509
-aliases: [Casting All Your Care on Him, Worry-Free]
+title: "Thought: ANXIETY"
+draft: false
 ---
-# TITLE
-Don't worry...be obedient in faith!
+# Thought: ANXIETY
+> [!Thought]
+> Don't worry...be obedient in faith!
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
 type:: #type/note
-title:: "ANXIETY"
+title:: "Thought: ANXIETY"
 level:: 4
 social:: [ #peace #faith #carefree #confident #trust ]

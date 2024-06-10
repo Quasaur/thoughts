@@ -1,15 +1,14 @@
 ---
-creationdate: 2009-02-23
-creationdatetime: 19:23
-zettelkasten: 200902231923
-aliases: ['What is an American?', Addiction]
+title: "Thought: AMERICAN"
+draft: false
 ---
 # AMERICAN
-You're not really an American unless you're addicted to something.
+> [!Thought]
+> You're not really an American unless you're addicted to something.
 
 ## Dataview
 ptopic:: [[topic-NATIONALISM]]
 type:: #type/note
-title:: "AMERICAN"
+title:: "Thought: AMERICAN"
 level:: 3
 social:: [ #nationalism #american #addiction #dependency #codependency]

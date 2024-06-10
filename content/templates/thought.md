@@ -1,10 +1,6 @@
 ---
 title: "Thought: TITLE"
 draft: true
-aliases:
-  - "Thought: Alias 1"
-  - "Thought: Alias 2"
-  - "Thought: Alias 3"
 ---
 
 # Thought: TITLE
