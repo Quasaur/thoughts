@@ -46,7 +46,7 @@ The prime feature of this site is the Graph View, seen either at the top right o
 
 At the upper-right corner of the Graph View window there is a small icon; click on it and the Graph View will expand its size for easier navigation. You can always DRAG the content of the Graph View around to center on the area of your choice.
 
-If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Graph View to better discover the lines that link objects as well as receive a clearer view of the objects themselves. Every topic will (eventually) be preceded by the word "topic;" every tag will be preceded by a hashtag ('#'); and everthing else will probably be a Thought, meant to feed your soul and spirit with Wisdom!
+If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Graph View to better discover the lines that link objects as well as receive a clearer view of the objects themselves. Every topic will (eventually) be preceded by the word "topic;" every tag will be preceded by a hashtag ('#'); and everything else will probably be a Thought, meant to feed your soul and spirit with Wisdom!
 
 ## Donate
 Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom will! If you find VALUE in the Wisdom presented at this site, let me know: my Cash App ID is @Quasaur.
