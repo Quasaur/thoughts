@@ -1,28 +1,19 @@
 ---
-title: "Thought: Title"
+title: 'Thought: TITLE'
 draft: true
-description: Template from which every Topic is created
 aliases:
-  - Topic Alias 1
-  - Topic Alias 2
-  - Topic Alias 3
-tags:
-  - topic_tag_1
-  - topic_tag_2
-creationdate:
-  "{ date }": 
-creationdatetime:
-  "{ time }": 
-zettelkasten:
-  "{ date:YYYYMMDDHHmm }":
+  - 'Thought: Alias 1'
+  - 'Thought: Alias 2'
+  - 'Thought: Alias 3'
 ---
 
-# TITLE
-Content
+# Thought: TITLE
+> [!Thought]
+> Content
 
 ## Dataview
 ptopic:: [[]]
 type:: #type/template/thought
-title:: "TITLE"
+title:: "Thought: TITLE"
 level:: 0
 social:: [ #social/__ #social/__ #social/__ #social/__ #social/__]
