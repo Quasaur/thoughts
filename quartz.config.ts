@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "The Book of Thoughts",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: 'G-MLXTTMW08J' }: use Google Analytics;
+    analytics: { provider: 'google', tagId: 'G-MLXTTMW08J' },
     locale: "en-US",
     baseUrl: "quasaur.github.io/thoughts",
     ignorePatterns: ["private", "templates", "templater", ".obsidian"],
