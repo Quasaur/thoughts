@@ -1,9 +1,9 @@
 ---
-title: Thought: Act of God
+title: 'Thought: Act of God'
 draft: false
 aliases:
-- My Wife
-- Women are an Act of God
+- 'Thought: My Wife'
+- 'Thought: Women are an Act of God'
 ---
 # Thought: ACT OF GOD
 > [!Thought]
