@@ -1,6 +1,9 @@
 ---
 title: "Thought: ANXIETY"
 draft: false
+aliases:
+- "Thought: fear"
+- "Thought: Worry"
 ---
 # Thought: ANXIETY
 > [!Thought]

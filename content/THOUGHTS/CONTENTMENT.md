@@ -1,15 +1,17 @@
 ---
-creationdate: 2022-08-22
-creationdatetime: 21:14
-zettelkasten: 202208222114
-aliases: [Acceptance, Carefree]
+title: "Thought: CONTENTMENT"
+draft: false
+aliases:
+- "Thought: Acceptance"
+- "Thought: Carefree"
 ---
-# CONTENTMENT
-I play my best chess when i don’t care about winning…or rather, when I have no anxiety for making mistakes.
+# Thought: CONTENTMENT
+> [!Thought]
+> I play my best chess when i don’t care about winning…or rather, when I have no anxiety over making mistakes.
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
 type:: #type/note
-title:: "TITLE"
+title:: "Thought: CONTENTMENT"
 level:: 3
 social:: [ #contentment #acceptance #carefree #failure #faith ]

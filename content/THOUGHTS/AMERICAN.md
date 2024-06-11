@@ -2,7 +2,7 @@
 title: "Thought: AMERICAN"
 draft: false
 ---
-# AMERICAN
+# Thought: AMERICAN
 > [!Thought]
 > You're not really an American unless you're addicted to something.
 
