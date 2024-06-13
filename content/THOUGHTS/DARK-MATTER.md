@@ -1,15 +1,16 @@
 ---
-creationdate: 2022-08-21
-creationdatetime: 13:55
-zettelkasten: 202208211355
-aliases: [Dark Matter, Dark Energyt]
+title: "Thought: Dark Matter"
+draft: false
+aliases:
+- "Thought: Dark Water"
 ---
-# DARK MATTER
-What if dark matter is a type of WATER?
+# Thought: DARK MATTER
+> [!Thought]
+> What if dark matter is a type of WATER?
 
 ## Dataview
 ptopic:: [[topic-COSMOLOGY]]
 type:: #type/note
-title:: "DARK MATTER"
+title:: "Thought: DARK MATTER"
 level:: 5
 social:: [ #genesis #creation #universe #waters #science ]
