@@ -17,6 +17,8 @@ A binding custom or practice of a community formally recognized as binding or e
 
 [[topic-MERCY]]
 
+[[topic-FREEDOM]]
+
 ## Thoughts 
 [[BRIBERY]]
 
@@ -24,7 +26,7 @@ A binding custom or practice of a community formally recognized as binding or e
 topic:: "Topic: LAW"
 type:: #type/topic/L2
 level:: 2
-ptopic:: [[topic-THE-GODHEAD]]
+ptopic:: [[topic-MORALITY]]
 
 ## Notes
 NOTE: Topic notes.

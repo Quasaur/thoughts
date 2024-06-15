@@ -1,15 +1,16 @@
 ---
-creationdate: 2009-02-26
-creationdatetime: 21:00
-zettelkasten: 200902262100
-aliases: [Mercy, Fairplay]
+title: "Thought: FAIRNESS"
+aliases:
+- "Thought: Mercy vs Justice"
+- "Thought: Fairplay"
 ---
-# FAIRNESS
-Mercy is never fair.
+# Thought: FAIRNESS
+> [!Thought]
+> Mercy is never fair.
 
 ## Dataview
 ptopic:: [[content/THOUGHTS/JUSTICE]]
 type:: #type/note
-title:: "FAIRNESS"
+title:: "Thought: FAIRNESS"
 level:: 3
 social:: [ #justice #fairness #mercy #forgiveness #compassion]

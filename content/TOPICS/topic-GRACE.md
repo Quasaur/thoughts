@@ -31,6 +31,12 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 
 [[FATHER]]
 
+## Quotes
+[[PERFECT-PEACE]]
+
+## Bible
+
+
 ## Dataview
 topic:: "Topic GRACE"
 type:: #type/topic/L2 

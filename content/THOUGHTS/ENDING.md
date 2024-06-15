@@ -1,15 +1,17 @@
 ---
-creationdate: 2009-01-09
-creationdatetime: 10:35
-zettelkasten: 200901091035
-aliases: [End of the World, Revelation]
+title: "Thought: ENDING"
+draft: false
+aliases:
+- "Thought: End of the World"
+- "Thought: Revelation"
 ---
-# ENDING
-The Bible goes into far more detail regarding how the world will end than how the world began.
+# Thought: ENDING
+> [!Thought]
+> The Bible goes into far more detail regarding how the world will end than how the world began.
 
 ## Dataview
 ptopic:: [[topic-APOCALYPSE]]
 type:: #type/note
-title:: "ENDING"
+title:: "Thought: ENDING"
 level:: 4
 social:: [ #ending #bible #apocalypse #judgment #newjerusalem ]

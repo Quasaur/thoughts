@@ -1,15 +1,17 @@
 ---
-creationdate: 2022-09-05
-creationdatetime: 06:48
-zettelkasten: 202209050648
-aliases: [Fast-Formed Fossils, "Fossils' Age Questioned"]
+title: "Thought: FOSSILS"
+draft: false
+aliases:
+- "Thought: Fast-Formed Fossils"
+- "Thought: Fossils' Age Questioned"
 ---
-# FOSSILS
-Fossils, which evolutionists say prove how ancient the Earth is, HAVE BEEN ENGINEERED IN LABORATORIES WITHIN 24 HOURS!
+# Thought: FOSSILS
+> [!Thought]
+> Fossils, which evolutionists say prove how ancient the Earth is, HAVE BEEN ENGINEERED IN LABORATORIES WITHIN 24 HOURS!
 
 ## Dataview
 type:: #type/note
-title:: "FOSSILS"
+title:: "Thought: FOSSILS"
 ptopic:: [[topic-GEOLOGY]]
 level:: 5
 social:: [ #geology #fossils #creationism #intelligentdesign #evidence ]

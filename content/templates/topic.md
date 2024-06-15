@@ -6,9 +6,9 @@ tags:
   - topic_tag_1
   - topic_tag_2
 aliases:
-  - Topic Alias 1
-  - Topic Alias 2
-  - Topic Alias 3
+  - "Topic: Alias 1"
+  - "Topic: Alias 2"
+  - "Topic: Alias 3"
 date: 2024-06-06
 notelevel: 0
 ---
@@ -20,7 +20,7 @@ notelevel: 0
 
 
 ## Dataview
-title:: "TOPIC TITLE"
+topic:: "Topic: TITLE"
 type:: #type/template/topic
 ptopic:: 
 
