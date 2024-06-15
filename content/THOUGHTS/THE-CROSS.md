@@ -12,7 +12,7 @@ John 16:7-9
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/note
+type:: #type/thought
 title:: "THE CROSS"
 level:: 4
 social:: [ #cross #salvation #gospel #lakeoffire #jesuschrist ]

@@ -9,7 +9,7 @@ Without the Holy Spirit of Christ humanity has no defense against the Devil, the
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/note
+type:: #type/thought
 title:: "PROTECTION"
 level:: 1
 social:: [ #holyspirit #spiritoftruth #standard #defense #jesuschrist ]

@@ -12,7 +12,7 @@ It's hard to hear the Voice of God when my heart is making so much noise!
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/note
+type:: #type/thought
 title:: "NOISE"
 level:: 2
 social:: [ #heart #noise #voiceofgod #hearing #holyspirit ]

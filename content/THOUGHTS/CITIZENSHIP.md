@@ -12,7 +12,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SOCIOLOGY]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: CITIZENSHIP"
 level:: 2
 social:: [ #citizenship #kingdom #reignofgod #freedom #jesuschrist ]

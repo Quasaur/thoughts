@@ -14,7 +14,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: EWMPTINESS"
 level:: 1
 social:: [ #emptiness #void #hunger #addiction #spirituality ]

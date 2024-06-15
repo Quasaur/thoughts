@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELATIONSHIPS]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DISCRETION"
 level:: 3
 social:: [ #discretion #sensitivity #tactfulness #relationships #wisdom ]

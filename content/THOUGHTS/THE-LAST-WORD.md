@@ -9,7 +9,7 @@ Yehoshua Ha Meshiach: Jesus The Christ: The Living Word...The Last Word!
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: #type/note
+type:: #type/thought
 title:: "THE LAST WORD"
 level:: 2
 social:: [ #gospel #jesuschrist #livingword #lastword #wordofgod]

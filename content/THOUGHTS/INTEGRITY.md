@@ -9,7 +9,7 @@ Winning is fun and success is great; but far more fulfilling is standing firm an
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]
-type:: #type/note
+type:: #type/thought
 title:: "INTEGRITY"
 level:: 3
 social:: [ #stand #true #integrity #character #godliness]

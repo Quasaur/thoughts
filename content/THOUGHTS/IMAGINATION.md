@@ -9,7 +9,7 @@ Imagination was designed to be the vehicle by which we are able to grasp, apprec
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: #type/note
+type:: #type/thought
 title:: "IMAGINATION"
 level:: 4
 social:: [ #imagination #imagery #vision #mind #realization]

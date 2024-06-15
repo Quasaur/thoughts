@@ -16,7 +16,7 @@ DESTROYED THE POWER OF DEATH!!!!!!!!
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/note
+type:: #type/thought
 title:: "MEEK"
 level:: 1
 social:: [ #meek #lowly #jesuschris #crucified #despised ]

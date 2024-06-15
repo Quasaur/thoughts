@@ -6,7 +6,7 @@ draft: false
 It is IMPOSSIBLE to truly love The Lord Jesus Christ and simultaneously hate the Jew. GOD NEVER told any Christian to persecute or punish the Jew; nor would GOD condone any white Christian oppressing, marginalizing or murdering the black man.
 
 ## Dataview
-type:: #type/note
+type:: #type/thought
 title:: "Thought: ANTI-SEMITISM"
 ptopic:: [[topic-PSYCHOLOGY]]
 level:: 3

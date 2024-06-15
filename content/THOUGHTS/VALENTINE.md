@@ -9,7 +9,7 @@ On this St. Valentine's Day I ask myself "How can I avoid taking my wife for gra
 
 ## Dataview
 ptopic:: [[topic-RELATIONSHIPS]]
-type:: #type/note
+type:: #type/thought
 title:: "VALENTINE"
 level:: 3
 social:: [ #valentine #couples #romance #relationships #love ]

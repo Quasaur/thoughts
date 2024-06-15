@@ -8,8 +8,8 @@ aliases: [Why People Go to Hell, Rejecting Christ]
 There’s one reason why many will find themselves in the Lake of Fire when they could’ve been saved: Pride. Lay down your weapons and surrender your body and soul to The Lord Jesus Christ…you will NOT regret it!
 
 ## Dataview
-type: "#type/note"
-title: "ONE REASON"
 ptopic:: [[topic-ATTITUDE]]
+type:: #type/thought
+title: "ONE REASON"
 level:: 3
 social:: [ #apocalypse #lakeoffire #pride #judgment #jesuschrist]

@@ -12,7 +12,7 @@ HAPPINESS is not the product of doing what you want...
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "HAPPINESS"
 level:: 3
 social:: [#happy #fulfilled #satisfied #delighted #content]

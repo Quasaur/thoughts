@@ -9,7 +9,7 @@ aliases: [On the Last Day, At the Last Trump]
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/note
+type:: #type/thought
 title:: "TITLE"
 level:: 3
 social:: [ #apocalypse #demons #angels #spirituality #life ]

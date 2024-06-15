@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: ANXIETY"
 level:: 4
 social:: [ #peace #faith #carefree #confident #trust ]

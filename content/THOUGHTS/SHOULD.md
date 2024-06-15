@@ -9,7 +9,7 @@ The word “should” proves God’s Existence…points us to an Ideal that we d
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]
-type:: #type/note
+type:: #type/thought
 title:: "SHOULD"
 level:: 3
 social:: [ #law #order #discipline #principle #god ]

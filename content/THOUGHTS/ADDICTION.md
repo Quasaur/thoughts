@@ -10,7 +10,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: ADDICTION"
 level:: 3
 social:: [ #sanctification #addiction #flesh #thecross #jesuschrist ]

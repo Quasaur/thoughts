@@ -10,7 +10,7 @@ Daniel 9:26
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/note
+type:: #type/thought
 title:: "YISRAEL"
 level:: 3
 social:: [ #israel #apartheid #genocide #palestinians #jesuschrist ]

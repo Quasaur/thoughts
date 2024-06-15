@@ -9,7 +9,7 @@ A prayer life without worship will always be incomplete; a stillborn child.
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/note
+type:: #type/thought
 title:: "WORSHIP"
 level:: 1
 social:: [ #worship #praise #prayer #fellowship #eternalfather ]

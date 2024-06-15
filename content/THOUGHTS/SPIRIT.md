@@ -9,7 +9,7 @@ The count of spirits in the cosmos is numberless; however only ONE SPIRIT carrie
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: #type/note
+type:: #type/thought
 title:: "SPIRIT"
 level:: 3
 social:: [ #holyspirit #spiritofchrist #spiritoftruth #spiritofgrace #jesuschrist ]

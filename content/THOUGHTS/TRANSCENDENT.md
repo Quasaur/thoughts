@@ -9,7 +9,7 @@ What makes GOD so priceless, so precious and so worthy of awe and worship…is n
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/note
+type:: #type/thought
 title:: "TRANSCENDENT"
 level:: 2
 social:: [ #pure #untainted #deliverance #glorification #jesuschrist]

@@ -9,7 +9,7 @@ The results speak for themselves: The NRA and US Congress want us to KILL EACH O
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]
-type:: #type/note
+type:: #type/thought
 title:: "RESULTS"
 level:: 3
 social:: [ #gunviolence #massshootings #gunlaws #nra #uscongress ]

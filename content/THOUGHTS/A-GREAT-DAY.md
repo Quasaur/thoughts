@@ -8,7 +8,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: A GREAT DAY"
 level:: 3
 social:: [ #dailyroutine #eating #sleeping #working discipline ]

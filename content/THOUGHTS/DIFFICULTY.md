@@ -13,7 +13,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DIFFICULTY"
 level:: 3
 social:: [ #difficulty #challenge #struggle #humility #confession ]

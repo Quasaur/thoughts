@@ -10,7 +10,7 @@ In 61 years I’ve never met a strong Christian. Yet, in that same time, I have 
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "STRENGTH"
 level:: 3
 social:: [ #power #virtue #strength #endurance #jesuschrist ]

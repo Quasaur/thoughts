@@ -14,7 +14,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/template
+type:: #type/thought
 title:: "Thought: EGO"
 level::1
 social:: [ #god #sun #earth #me #humility]

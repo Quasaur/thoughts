@@ -14,7 +14,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: CONSEQUENCES"
 level:: 3
 social:: [ #consequences #mercy #sovereignty #sin #suffering ]

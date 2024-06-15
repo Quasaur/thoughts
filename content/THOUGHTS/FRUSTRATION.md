@@ -15,7 +15,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITHFULNESS]]
-type:: #type/template
+type:: #type/thought
 title:: "Thought: FRUSTRATION"
 level:: 2
 social:: [ #frustration #spirituality #assurance #fathergod #jesuschrist ]

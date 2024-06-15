@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: CONTENTMENT"
 level:: 3
 social:: [ #contentment #acceptance #carefree #failure #faith ]

@@ -9,7 +9,7 @@ Among life's greatest agonies is being misunderstood.
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: #type/note
+type:: #type/thought
 title:: "MISUNDERSTOOD"
 level:: 4
 social:: [ #misunderfstood #understanding #communication #fellowship #intimacy ]

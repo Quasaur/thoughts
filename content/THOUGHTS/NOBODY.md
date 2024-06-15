@@ -9,7 +9,7 @@ Nobody wants to go to Hell…or Heaven. That is to say: apart from the Grace of 
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/note
+type:: #type/thought
 title:: "NOBODY"
 level:: 4
 social:: [ #depravity #religion #apostasy #spirituality #hell ]

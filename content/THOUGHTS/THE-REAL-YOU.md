@@ -10,7 +10,7 @@ Colossians 3:1-4
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/note
+type:: #type/thought
 title:: "THE REAL YOU"
 level:: 2
 social:: [ #identity #selfimage #imageofgod #christian #jesuschrist ]

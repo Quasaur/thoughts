@@ -9,7 +9,7 @@ Grace is not GOD being weak towards Sin; Grace is GOD making you Stronger than s
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/note
+type:: #type/thought
 title:: "SIN"
 level:: 2
 social:: [ #grace #gospel #love #power #jesuschrist ]

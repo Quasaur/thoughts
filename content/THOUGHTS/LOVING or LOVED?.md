@@ -9,7 +9,7 @@ So...which is better: loving God or being loved by God?
 
 ## Dataview
 ptopic:: [[topic-RELATIONSHIPS]]
-type:: #type/note
+type:: #type/thought
 title:: "LOVING or LOVED?"
 level:: 4
 social:: [ #loving #loved #give #receive #preference]

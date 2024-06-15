@@ -8,7 +8,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-RELATIONSHIPS]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: ACT OF GOD"
 level:: 3
 social:: [ #person #people# #wife #husband #imageofgod ]

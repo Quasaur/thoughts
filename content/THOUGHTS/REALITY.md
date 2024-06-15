@@ -9,7 +9,7 @@ Honest scientists are starting to admit publicly that, based on all available da
 
 ## Dataview
 ptopic:: [[topic-TRUTH]]
-type:: #type/note
+type:: #type/thought
 title:: "REALITY"
 level:: 2
 social:: [ #cosmology #relativity #geocentricity #michelson #intelligentdesign

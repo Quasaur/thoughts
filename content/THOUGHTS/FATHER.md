@@ -9,7 +9,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: FATHER"
 level:: 2
 social:: [ #father #flesh #spirit #knowledge #immortality ]

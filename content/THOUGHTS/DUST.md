@@ -12,7 +12,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DUST"
 level:: 3
 social:: [ #dust #humanity #humility #worth #dirt ]

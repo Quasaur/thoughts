@@ -9,7 +9,7 @@ The SECRETS OF THE UNIVERSE, including immortality and transcendence, are all ar
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/note
+type:: #type/thought
 title:: "SECRETS"
 level:: 3
 social:: [ #secrets #distractions #eternity #immortality #transcendence

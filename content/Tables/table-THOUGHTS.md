@@ -14,3 +14,9 @@ TABLE
 
 ## Dataview
 type:: #type/table
+
+## Snippets
+
+```dataview
+ WHERE type != "#type/thought"
+```

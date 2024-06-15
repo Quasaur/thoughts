@@ -13,7 +13,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: Bribery"
 level:: 4
 social:: [ #lobbying #uscongress #bribery #justice #oligarchy ]

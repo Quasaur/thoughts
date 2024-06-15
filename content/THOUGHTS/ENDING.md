@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-APOCALYPSE]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: ENDING"
 level:: 4
 social:: [ #ending #bible #apocalypse #judgment #newjerusalem ]

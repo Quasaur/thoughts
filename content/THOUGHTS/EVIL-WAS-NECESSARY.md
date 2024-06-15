@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: EVIL WAS NECESSARY"
 level:: 4
 social:: [ #lambofgod #evil #salvation #forgiveness #jesuschrist ]

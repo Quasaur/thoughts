@@ -10,7 +10,7 @@ Everything that exists is MOVING…
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/note
+type:: #type/thought
 title:: "MOTION"
 level:: 1
 social:: [ #rest #sabbath #peace #contentment #fullness ]

@@ -9,7 +9,7 @@ For decades I’ve tried every possible method to destroy my Salvation. Now, in 
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: #type/note
+type:: #type/thought
 title:: "PREDESTINED"
 level:: 2
 social:: [ #sovereignty #election #lordship #chosen #jesuschrist ]

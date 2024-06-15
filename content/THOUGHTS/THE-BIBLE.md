@@ -9,7 +9,7 @@ As time draws closer to the Return of Jesus and The Great Delusion begins to tig
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/note
+type:: #type/thought
 title:: "THE BIBLE"
 level:: 3
 social:: [ #apocalypse #bible #rock #spirituality #delusion ]

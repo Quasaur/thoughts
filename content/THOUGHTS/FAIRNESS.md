@@ -10,7 +10,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[content/THOUGHTS/JUSTICE]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: FAIRNESS"
 level:: 3
 social:: [ #justice #fairness #mercy #forgiveness #compassion]

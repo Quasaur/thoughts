@@ -12,7 +12,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DEMONS"
 level:: 3
 social:: [ #demons #hardhearted #grace #divine #jesuschrist ]

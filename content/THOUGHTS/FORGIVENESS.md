@@ -12,7 +12,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-MERCY]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: FORGIVENESS"
 level:: 3
 social:: [ #forgiveness #atonement #propitiation #thecross #jesuschrist ]

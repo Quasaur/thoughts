@@ -9,7 +9,7 @@ The Knowledge that brings IMMORTALITY is not hidden…it’s just incredibly dif
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
-type:: #type/note
+type:: #type/thought
 title:: "TITLE"
 level:: 4
 social:: [ #gnosis #faith #immortality #knowledge #believe ]

@@ -9,7 +9,7 @@ Because of Their DIVINE FULLNESS, The Members of The GODHEAD are COMPLETELY IMMU
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/note
+type:: #type/thought
 title:: "FULLNESS"
 level:: 2
 social:: [ #spirituality #fullness #overflow #immunity #life ]

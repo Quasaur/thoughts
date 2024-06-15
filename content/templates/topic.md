@@ -10,7 +10,6 @@ aliases:
   - "Topic: Alias 2"
   - "Topic: Alias 3"
 date: 2024-06-06
-notelevel: 0
 ---
 # TOPIC TITLE
 ## Sub-Topics
@@ -22,6 +21,7 @@ notelevel: 0
 ## Dataview
 topic:: "Topic: TITLE"
 type:: #type/template/topic
+level:: 0
 ptopic:: 
 
 ## Notes

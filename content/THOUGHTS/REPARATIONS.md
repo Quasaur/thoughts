@@ -9,7 +9,7 @@ Reasonable reparations to the descendants of black slaves: those descendants sho
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/note
+type:: #type/thought
 title:: "REPARATIONS"
 level:: 3
 social:: [ #reparations #slavery #blackamericans #compensation #justice ]

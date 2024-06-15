@@ -10,7 +10,7 @@ aliases:
 > Fossils, which evolutionists say prove how ancient the Earth is, HAVE BEEN ENGINEERED IN LABORATORIES WITHIN 24 HOURS!
 
 ## Dataview
-type:: #type/note
+type:: #type/thought
 title:: "Thought: FOSSILS"
 ptopic:: [[topic-GEOLOGY]]
 level:: 5

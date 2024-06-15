@@ -9,7 +9,7 @@ There is NO harmony possible between The Gospel of Jesus Christ (which is the on
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/note
+type:: #type/thought
 title:: "ISLAM"
 level:: 4
 social:: [ #islam #religion #antichrist #demonic #deception ]

@@ -11,7 +11,7 @@ Galatians 2:20
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/note
+type:: #type/thought
 title:: "JUSTICE"
 level:: 3
 social:: [ #justice #spirituality #forgiveness #gospel #fair ]

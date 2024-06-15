@@ -9,7 +9,7 @@ You will spend more time in Eternity than you ever did in this life (or “previ
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/note
+type:: #type/thought
 title:: "TIME"
 level:: 3
 social:: [ #spirituality #damnation #soul #lakeoffire #judgment ]

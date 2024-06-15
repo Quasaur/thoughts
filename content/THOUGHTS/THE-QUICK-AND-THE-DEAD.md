@@ -10,7 +10,7 @@ Luke 14:26
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]
-type:: #type/note
+type:: #type/thought
 title:: "THE QUICK AND THE DEAD"
 level:: 2
 social:: [ #eternallife #immortality #spirituality #god #jesuschrist ]

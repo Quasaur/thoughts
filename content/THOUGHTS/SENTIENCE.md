@@ -9,7 +9,7 @@ What a wonder is sentience: not only am I to God, but I am to myself!
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: #type/note
+type:: #type/thought
 title:: "SENTIENCE"
 level:: 3
 social:: [ #spirits #sentience #god #selfaware #iam]

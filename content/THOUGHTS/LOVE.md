@@ -9,7 +9,7 @@ Love is so much more than just a feeling...It's a decision to treat someone as g
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "LOVE"
 level:: 3
 social:: [ #love #spirit #attitude #selfless #generosity ]

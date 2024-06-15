@@ -15,7 +15,7 @@ If you're old enough to murder with intent, you're old enough to get executed wi
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]
-type:: #type/note
+type:: #type/thought
 title:: "MURDER"
 level:: 3
 social:: [ #crime #punishment #intent #kill #judgment ]

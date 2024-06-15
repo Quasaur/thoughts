@@ -10,7 +10,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ECONOMICS]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DEBTORS"
 level:: 3
 social:: [ #economics #nation #debtors #slaves #liability]

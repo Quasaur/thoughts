@@ -9,7 +9,7 @@ What is often overlooked by children but frequently demanded by grown-ups? An ex
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]
-type:: #type/note
+type:: #type/thought
 title:: "WHY"
 level:: 3
 social:: [ #children #adults #demanded #cause #why ]

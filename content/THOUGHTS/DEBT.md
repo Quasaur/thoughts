@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ENTITLEMENT]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DEBT"
 level:: 4
 social:: [ #debt #entitlement #apocalypse #worship #grace ]

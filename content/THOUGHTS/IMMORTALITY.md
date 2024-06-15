@@ -9,7 +9,7 @@ We have been brainwashed to believe that our GREATEST NEED is at best beyond our
 
 ## Dataview
 ptopic:: [[topic-FAITHFULNESS]]
-type:: #type/note
+type:: #type/thought
 title:: "TITLE"
 level:: 2
 social:: [ #immortality #eternallife #salvation #desire #jesuschrist ]

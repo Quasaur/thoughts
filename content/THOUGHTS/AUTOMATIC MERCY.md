@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: AUTOMATIC MERCY"
 level:: 3
 social:: [ #spirituality #mercy #hatred #gospel #life ]

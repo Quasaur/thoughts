@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DIALOGUE"
 level:: 4
 social:: [ #devil #ego #slave #sin #tongue ]

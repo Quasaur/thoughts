@@ -8,7 +8,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-NATIONALISM]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: AMERICAN"
 level:: 3
 social:: [ #nationalism #american #addiction #dependency #codependency]

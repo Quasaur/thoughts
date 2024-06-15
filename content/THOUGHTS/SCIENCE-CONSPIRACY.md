@@ -9,7 +9,7 @@ The gods of the scientific community have deceived us: Einstein’s special and 
 
 ## Dataview
 ptopic:: [[topic-COSMOLOGY]]
-type:: #type/note
+type:: #type/thought
 title:: "SCIENCE CONSPIRACY"
 level:: 5
 social:: [ #science #cosmology #geocentricity #michelson #creationism  ]

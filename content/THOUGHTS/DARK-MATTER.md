@@ -10,7 +10,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-COSMOLOGY]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: DARK MATTER"
 level:: 5
 social:: [ #genesis #creation #universe #waters #science ]

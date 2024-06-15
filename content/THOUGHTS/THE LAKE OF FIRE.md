@@ -9,7 +9,7 @@ Finding yourself foundering alone and helpless in the Ocean of GOD's Wrath for a
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/note
+type:: #type/thought
 title:: "TITLE"
 level:: 3
 social:: [ #lakeoffire #wrathofgod #hell #regret #eternity ]

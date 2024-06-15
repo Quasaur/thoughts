@@ -9,7 +9,7 @@ aliases: [My Wife is a Mystery, "I don't Understand My Wife"]
 
 ## Dataview
 ptopic:: [[topic-RELATIONSHIPS]]
-type:: #type/note
+type:: #type/thought
 title:: "MYSTERY"
 level:: 3
 social:: [ #wife #mystery #understanding #life #gift ]

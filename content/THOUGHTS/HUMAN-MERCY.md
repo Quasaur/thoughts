@@ -9,7 +9,7 @@ Oh Most Holy Father of spirits, please grant me the Grace to be merciful to Your
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/note
+type:: #type/thought
 title:: "HUMAN MERCY"
 level:: 3
 social:: [ #mercy #submission #faithfulness #obedience #jesuschrist ]

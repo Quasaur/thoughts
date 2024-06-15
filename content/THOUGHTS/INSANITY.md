@@ -9,7 +9,7 @@ Lucifer had the unmitigated gall to ask his CREATOR to worship him! In the Court
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/note
+type:: #type/thought
 title:: "INSANITY"
 level:: 3
 social:: [ #insanity #madness #delusion #narcissism #fooliishness]

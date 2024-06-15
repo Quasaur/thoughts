@@ -11,7 +11,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: COMPANYTRAINING"
 level:: 3
 social:: [ #time #training #courses #company #mismanagement ]

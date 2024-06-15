@@ -10,7 +10,7 @@ Matt. 6:21
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/note
+type:: #type/thought
 title:: "TITLE"
 level:: 4
 social:: [ #spirituality #treasure #wealth #prosperity #jesuschrist ]

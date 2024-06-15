@@ -9,7 +9,7 @@ In most of the world Christianity is persecuted vigorously. In countries where i
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/note
+type:: #type/thought
 title:: "PERSECUTION"
 level:: 4
 social:: [ #persecution #christianity #original #authentic #jesuschrist]

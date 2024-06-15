@@ -10,7 +10,7 @@ John 14:11
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: #type/note
+type:: #type/thought
 title:: "VOLITION"
 level:: 2
 social:: [ #paradox #volition #freewill #fullness #jesuschrist ]

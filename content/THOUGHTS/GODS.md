@@ -9,7 +9,7 @@ It is neither intelligence nor power that makes us gods...but Mercy and Compassi
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]
-type:: #type/note
+type:: #type/thought
 title:: "GODS"
 level:: 3
 social:: [ #behavior #intelligence #power #mercy #compassion]

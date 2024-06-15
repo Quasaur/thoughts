@@ -10,7 +10,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-REALITY]]
-type:: #type/note
+type:: #type/thought
 title:: "Thought: FIGMENTS"
 level:: 3
 social:: [ #imagination #fables #lessreal #fictitious #created ]

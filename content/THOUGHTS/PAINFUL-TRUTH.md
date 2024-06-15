@@ -8,7 +8,7 @@ aliases: [Russell Ellis, White Supremacy]
 Perhaps the Truth only hurts when we refuse to submit to It.
 
 ## Dataview
-type:: #type/note
+type:: #type/thought
 title:: "PAINFUL TRUTH"
 ptopic:: [[topic-BEHAVIOR]]
 level:: 3
