@@ -5,8 +5,7 @@ draft: true
 ```dataview
 TABLE
 	level AS "Level",
-	ptopic AS "Topic",
-	social AS "Social Tags"
+	ptopic AS "Topic"
    FROM "content/THOUGHTS"
    SORT level ASC, ptopic ASC, ID ASC
 ```
@@ -19,4 +18,6 @@ type:: #type/table
 
 ```dataview
  WHERE type != "#type/thought"
+
+social AS "Social Tags"
 ```

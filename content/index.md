@@ -40,7 +40,8 @@ Whether or not the sidebars to the left and right are visible is a function of h
 ## The Tags
 Tags are objects meant to make searching the increasingly vast ocean of The Book of Thoughts easier. Clicking on a tag in either a topic ('#type/topic/L2', for instance) or a thought (anything with a hashtag ['#'] in front of it) will take you to a page which will list every thought that tag is found in.
 
-WARNING; The Thoughts Table ("table-Thoughts-md") has more tags than any other page; since it is listed first in any tag page, you're going to have to scroll down to see which other thoughts, if any, that tag is found it.
+NOTICE; I have removed the Social Tags column from The Thoughts Table ("table-Thoughts-md") so that the Graph View doesn't repeat tags unnecessarily.
+
 ## Graph View
 The prime feature of this site is the Graph View, seen either at the top right or bottom of each page. What the Graph View displays is a function of each page's content; that is, when you load the page for a topic or thought, Graph View switches its focus to that topic or thought!
 
