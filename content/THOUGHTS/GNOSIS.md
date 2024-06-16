@@ -1,15 +1,17 @@
 ---
-creationdate: 2022-08-22
-creationdatetime: 21:32
-zettelkasten: 202208222132
-aliases: [Knowledge, Understanding]
+title: "Thought: GNOSIS"
+draft: false
+aliases:
+- "Thought: Knowledge"
+- "Thought: Understanding"
 ---
-# GNOSIS
-The Knowledge that brings IMMORTALITY is not hidden…it’s just incredibly difficult to BELIEVE (in the Biblical sense)!
+# Thought: GNOSIS
+> [!Thought]
+> The Knowledge that brings IMMORTALITY is not hidden…it’s just incredibly difficult to BELIEVE (in the Biblical sense)!
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
 type:: #type/thought
-title:: "TITLE"
+title:: "Thought: GNOSIS"
 level:: 4
 social:: [ #gnosis #faith #immortality #knowledge #believe ]

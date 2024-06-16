@@ -9,7 +9,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-FREEDOM]]
-type:: #type/template/passage
+type:: #type/passage
 title:: "Passage: FREEDOM OF DEATH"
 source:: 'Romans 6:7'
 biblelink:: (https://www.biblegateway.com/passage/?search=Romans+6:7&version=KJV)

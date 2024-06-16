@@ -34,6 +34,8 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 ## Quotes
 [[PERFECT-PEACE]]
 
+[[REINVENT]]
+
 ## Bible
 
 

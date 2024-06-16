@@ -22,6 +22,10 @@ God's Right to do as He pleases.
 
 [[VOLITION]]
 
+## Quotes
+
+## Bible
+[[HEART-OF-THE-KING]]
 ## Dataview
 topic:: "Topic: DIVINE SOVEREIGNTY"
 type:: #type/topic/L2

@@ -19,6 +19,9 @@ Confidence in the Words of God that inspires intent, speech and action.
 ## Thoughts
 [[GNOSIS]]
 
+## Bible
+[[NOT-OF-FAITH]]
+
 ## Dataview
 topic:: "FAITH"
 type:: #type/topic/L4

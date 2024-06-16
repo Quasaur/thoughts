@@ -11,7 +11,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/template/quote
+type:: #type/quote
 title:: "quote: PERFECT PEACE"
 source:: '"The Traveler's Oasis, Book One"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-One-ebook/dp/B00Y43B2OC)
