@@ -55,7 +55,7 @@ Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom 
 ## Roadmap
 This is what i intend to accomplish in the next few years:
 1. The 85 Thoughts currently posted must have their notes edited...this might take a few weeks (COMPLETED).
-2. There are HUNDREDS of more tweets in the original Book of Tweets; all of these must be added as well.
+2. There are HUNDREDS of more tweets in the original Book of Tweets; all of these must be added as well (IN-PROCESS).
 3. All of my social media posts will be added next.
 4. I *may* at this point add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
 5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (TESTING).
