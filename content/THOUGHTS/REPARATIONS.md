@@ -1,15 +1,17 @@
 ---
-creationdate: 2022-08-27
-creationdatetime: 14:57
-zettelkasten: 202208271457
-aliases: [Broken Promises, Slavery Compensation]
+title: "Thought: REPARATIONS"
+draft: false
+aliases:
+- "Thought: Broken Promises"
+- "Thought: Slavery Compensation"
 ---
-# REPARATIONS
-Reasonable reparations to the descendants of black slaves: those descendants should be FEDERAL & STATE TAX-EXEMPT.
+# Thought: REPARATIONS
+> [!Thought]
+> Reasonable reparations to the descendants of black slaves: those descendants should be FEDERAL & STATE TAX-EXEMPT.
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
 type:: #type/thought
-title:: "REPARATIONS"
+title:: "Thought: REPARATIONS"
 level:: 3
 social:: [ #reparations #slavery #blackamericans #compensation #justice ]

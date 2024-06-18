@@ -1,15 +1,18 @@
 ---
-creationdate: 2022-09-15
-creationdatetime: 18:50
-zettelkasten: 202209151850
-aliases: [Authentic Christianity, False Religion]
+title: "Thought: PERSECUTION"
+draft: false
+aliases:
+- "Thought: Authentic Christianity"
+- "Thought: False Religion"
 ---
-# PERSECUTION
-In most of the world Christianity is persecuted vigorously. In countries where it is NOT persecuted, the reason is because THAT VERSION OF CHRISTIANITY IS NOT WORTH PERSECUTING.
+# Thought: PERSECUTION
+> [!Thought]
+> In most of the world Christianity is persecuted vigorously.
+> In countries where it is NOT persecuted, the reason is because THAT VERSION OF CHRISTIANITY IS NOT WORTH PERSECUTING.
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
 type:: #type/thought
-title:: "PERSECUTION"
+title:: "Thought: PERSECUTION"
 level:: 4
-social:: [ #persecution #christianity #original #authentic #jesuschrist]
+social:: [ #persecution #christianity #original #authentic #jesuschrist ]

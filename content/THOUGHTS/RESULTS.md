@@ -1,15 +1,17 @@
 ---
-creationdate: 2022-08-27
-creationdatetime: 14:53
-zettelkasten: 202208271453
-aliases: [Motivation, Intent]
+title: "Thought: RESULTS"
+draft: false
+aliases:
+- "Thought: Motivation"
+- "Thought: Intent"
 ---
-# RESULTS
-The results speak for themselves: The NRA and US Congress want us to KILL EACH OTHER…for their profit and at our expense.
+# Thought: RESULTS
+> [!Thought]
+> The results speak for themselves: The NRA and US Congress want us to KILL EACH OTHER…for their profit and at our expense.
 
 ## Dataview
 ptopic:: [[topic-BEHAVIOR]]
 type:: #type/thought
-title:: "RESULTS"
+title:: "Thought: RESULTS"
 level:: 3
 social:: [ #gunviolence #massshootings #gunlaws #nra #uscongress ]

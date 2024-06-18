@@ -1,15 +1,17 @@
 ---
-creationdate: 2022-08-28
-creationdatetime: 12:58
-zettelkasten: 202208281258
-aliases: [Prosperity Gospel, Christian Sorcery]
+title: "Thought: PROSPERITY NOW"
+draft: false
+aliases:
+- "Thought: Prosperity Gospel"
+- "Thought: Christian Sorcery"
 ---
-# PROSPERITY NOW
-If the itinerary of our lives is in our hands instead of God’s, then prayer is no longer supplication, but sorcery.
+# Thought: PROSPERITY NOW
+> [!Thought]
+> If the itinerary of our lives is in our hands instead of God’s, then prayer is no longer supplication, but sorcery.
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
 type:: #type/thought
-title:: "PROSPERITY NOW"
+title:: "Thought: PROSPERITY NOW"
 level:: 4
 social:: [ #prosperity #faith #prayer #supplication #sorcery ]

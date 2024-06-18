@@ -1,7 +1,6 @@
 ---
-creationdate: 2009-01-13
-creationdatetime: 16:30
-zettelkasten: 200901131630
+title: "Thought: PROTECTION"
+draft: false
 aliases: [Strong Tower, Our Shield]
 ---
 # TITLE

@@ -1,15 +1,17 @@
 ---
-creationdate: 2022-09-06
-creationdatetime: 18:52
-zettelkasten: 202209061852
-aliases: [Russell Ellis, White Supremacy]
+title: "Thought: PAINFUL TRUTH"
+draft: false
+aliases:
+- "Thought: Russell Ellis"
+- "Thought: White Supremacy"
 ---
-# PAINFUL TRUTH
-Perhaps the Truth only hurts when we refuse to submit to It.
+# Thought: PAINFUL TRUTH
+> [!Thought]
+> Perhaps the Truth only hurts when we refuse to submit to It.
 
 ## Dataview
 type:: #type/thought
-title:: "PAINFUL TRUTH"
+title:: "Thought: PAINFUL TRUTH"
 ptopic:: [[topic-BEHAVIOR]]
 level:: 3
 social:: [ #tedx #russellellis #whitesupremacy #change #faith ]
