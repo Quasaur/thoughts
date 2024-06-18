@@ -3,7 +3,7 @@ title: "Thought: NOISE"
 draft: false
 aliases:
 - "Thought: Listening to God"
-- "Thought: Hearing God's Voice"]
+- "Thought: Hearing God's Voice"
 ---
 # Thought: NOISE
 > [!Thought]
