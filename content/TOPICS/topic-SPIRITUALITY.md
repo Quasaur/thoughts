@@ -19,6 +19,7 @@ Sensitivity or attachment to religious values.
 
 [[topic-MORALITY]]
 
+[[topic-UNDERSTANDING]]
 
 ## Thoughts
 [[THE-QUICK-AND-THE-DEAD]]

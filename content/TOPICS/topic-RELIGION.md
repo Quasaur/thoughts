@@ -24,6 +24,11 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 
 [[TREASURE]]
 
+## Quotes
+[[SO-MANY-GOSPELS]]
+
+## Bible
+
 ## Dataview
 topic:: "Topic: RELIGION"
 type:: #type/topic/L4

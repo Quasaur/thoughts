@@ -19,6 +19,11 @@ A system of discovering knowledge covering general truths or the operation of ge
 
 ## Thoughts
 
+## Quotes
+[[KNOWLEDGE]]
+
+## Bible
+
 
 ## Dataview
 topic:: "Topic: SCIENCE"

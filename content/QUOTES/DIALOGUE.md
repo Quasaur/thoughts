@@ -1,17 +1,14 @@
 ---
-title: "Thought: DIALOGUE"
+title: "Quote: DIALOGUE"
 draft: false
-aliases:
-- "Thought: Conversations with the god of this world"
-- "Thought: Submit to God"
 ---
-# Thought: DIALOGUE
-> [!Thought]
+# Quote: DIALOGUE
+> [!Quote]
 > Arguing with the Devil is extremely dangerous because far too often we share his point of view.
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/thought
-title:: "Thought: DIALOGUE"
+type:: #type/quote
+title:: "Quote: DIALOGUE"
 level:: 4
 social:: [ #devil #ego #slave #sin #tongue ]

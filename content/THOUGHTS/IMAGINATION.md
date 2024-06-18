@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-UNDERSTANDING]]
 type:: #type/thought
 title:: "Thought: IMAGINATION"
-level:: 4
+level:: 3
 social:: [ #imagination #imagery #vision #mind #realization]

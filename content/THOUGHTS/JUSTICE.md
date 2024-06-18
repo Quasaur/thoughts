@@ -1,17 +1,20 @@
 ---
-creationdate: 2022-09-01
-creationdatetime: 20:18
-zettelkasten: 202209012018
-aliases: [Atonement, Redemption]
+title: "Thought: Justice"
+draft: false
+aliases:
+- "Thought: Atonement"
+- "Thought: Redemption"
 ---
-# JUSTICE 
-You are correct: The Gospel of Jesus Christ is not fair…yet It is just! It is not fair that ANY sinner be forgiven their sins and escape the Lake of Fire; yet it is just for The Cross of Christ to atone for the sinner who, by Faith, is nailed on That Selfsame Cross along with Christ! 
-Galatians 2:20
+# Thought: JUSTICE 
+> [!Thought]
+> You are correct: The Gospel of Jesus Christ is not fair…yet It is just!
+> It is not fair that ANY sinner be forgiven their sins and escape the Lake of Fire and Sulfur; yet it is just for The Cross of Christ to atone for the sinner who, by Faith, is nailed on That Selfsame Cross along with Christ! 
+> Galatians 2:20
 
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
 type:: #type/thought
-title:: "JUSTICE"
+title:: "Thought: JUSTICE"
 level:: 3
 social:: [ #justice #spirituality #forgiveness #gospel #fair ]

@@ -15,8 +15,6 @@ the study of mind and behavior in relation to a particular field of knowledge or
 ## Sub-Topics
 [[topic-BEHAVIOR]]
 
-[[topic-UNDERSTANDING]]
-
 ## Thoughts
 [[ANTI-SEMITISM]]
 

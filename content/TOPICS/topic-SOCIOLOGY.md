@@ -30,7 +30,7 @@ The science of society, social institutions, and social relationships.
 topic:: "Topic: SOCIETY"
 type:: #type/topic/L2
 level:: 2
-ptopic:: [[topic-THE-GODHEAD]]
+ptopic:: [[topic-SPIRITUALITY]]
 
 ## Notes
 NOTE: Topic notes.

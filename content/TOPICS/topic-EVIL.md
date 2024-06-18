@@ -24,6 +24,12 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 
 [[THE-CROSS]]
 
+## Quotes
+[[DIALOGUE]]
+
+## Bible
+
+
 ## Dataview
 topic:: "Topic: EVIL"
 type:: #type/topic/L4

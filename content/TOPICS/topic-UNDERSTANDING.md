@@ -6,7 +6,8 @@ tags:
   - mental
   - grasp
   - agreement
-aliases: 
+aliases:
+- "Topic: Wisdom"
 date: 2024-06-06
 ---
 # Topic: UNDERSTANDING
@@ -21,12 +22,17 @@ A mental grasp of truth or an agreement between individuals or groups.
 
 [[MISUNDERSTOOD]]
 
+## Quotes
+[[GENIUS]]
+
+## Bible
+[[WHAT-THE-WISE-DO]]
 
 ## Dataview
 topic:: "Topic: UNDERSTANDING"
-type:: #type/topic/L4
-level:: 4
-ptopic:: [[topic-PSYCHOLOGY]]
+type:: #type/topic/L2
+level:: 3
+ptopic:: [[topic-SPIRITUALITY]]
 
 ## Notes
 NOTE: Topic notes.

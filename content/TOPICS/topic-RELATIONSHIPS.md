@@ -18,7 +18,7 @@ The relation connecting or binding participants.
 ## Thoughts
 [[DISCRETION]]
 
-[[LOVING or LOVED?]]
+[[LOVING-OR-LOVED?]]
 
 [[NOBODYS]]
 

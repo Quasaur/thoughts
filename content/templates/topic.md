@@ -22,7 +22,7 @@ date: 2024-06-06
 topic:: "Topic: TITLE"
 type:: #type/template/topic
 level:: 0
-ptopic:: 
+ptopic::
 
 ## Notes
 Topic notes.

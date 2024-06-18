@@ -1,7 +1,6 @@
 ---
-creationdate: 2022-08-22
-creationdatetime: 21:42
-zettelkasten: 202208222142
+title: "Thought: OBLIVION"
+draft: false
 aliases: [Extinction, Apocalypse]
 ---
 # OBLIVION
