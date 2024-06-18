@@ -2,7 +2,7 @@
 title: "Thought: HUMAN MERCY"
 draft: false
 aliases:
-- "Thought: "Mercy towards GOD"
+- "Thought: Mercy towards GOD"
 ---
 # Thought: HUMAN MERCY
 > [!Thought]
