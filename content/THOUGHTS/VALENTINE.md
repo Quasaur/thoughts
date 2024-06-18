@@ -1,15 +1,18 @@
 ---
-creationdate: 2009-02-12
-creationdatetime: 14:05
-zettelkasten: 200902121405
-aliases: ["St. Valentine's Day", My Wife]
+title: "Thought: VALENTINE"
+draft: false
+aliases:
+- "Thought: St. Valentine's Day"
+- "Thought: My Wife"
 ---
-# VALENTINE
-On this St. Valentine's Day I ask myself "How can I avoid taking my wife for granted? Why did God pick this woman for me?
+# Thought: VALENTINE
+> [!Thought]
+> On this St. Valentine's Day I ask myself "How can I avoid taking my wife for granted?
+> Why did God pick this woman for me?
 
 ## Dataview
 ptopic:: [[topic-RELATIONSHIPS]]
 type:: #type/thought
-title:: "VALENTINE"
+title:: "Thought: VALENTINE"
 level:: 3
 social:: [ #valentine #couples #romance #relationships #love ]

@@ -22,7 +22,7 @@ The practice or instance of giving to others what is their due.
 
 [[REPARATIONS]]
 
-[[THE LAKE OF FIRE]]
+[[THE-LAKE-OF-FIRE-AND-SULFUR]]
 
 [[TIME]]
 

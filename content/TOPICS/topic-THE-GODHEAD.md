@@ -13,6 +13,7 @@ date: 2024-06-06
 # Topic: THE GODHEAD
 ## Description
 The nature of God, especially as existing in Three Persons.
+
 ## Sub-Topics
 [[topic-DIVINE-SOVEREIGNTY]]
 
@@ -36,8 +37,6 @@ The nature of God, especially as existing in Three Persons.
 [[MEEK]]
 
 [[PROTECTION]]
-
-[[WORSHIP]]
 
 ## Dataview
 topic:: "Topic: THE GODHEAD"

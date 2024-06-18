@@ -1,15 +1,18 @@
 ---
-creationdate: 2022-08-22
-creationdatetime: 21:28
-zettelkasten: 202208222128
-aliases: [Inspiring, Awesome, Divine]
+title: "Thought: TRANSCENDENT"
+draft: false
+aliases:
+- "Thought: Inspiring"
+- "Thought: Awesome"
+- "Thought: Divine"
 ---
-# TRANSCENDENT
-What makes GOD so priceless, so precious and so worthy of awe and worship…is not only His immunity to corruption: HE CAN INFECT CORRUPTION WITH HOLINESS, making corruption itself INCORRUPTIBLE!!!!!!
+# Thought: TRANSCENDENT
+> [!Thought]
+> What makes GOD so priceless, so precious and so worthy of awe and worship…is not only His immunity to corruption: HE CAN INFECT CORRUPTION WITH HOLINESS, making corruption itself INCORRUPTIBLE!!!!!!
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
-title:: "TRANSCENDENT"
+title:: "Thought: TRANSCENDENT"
 level:: 2
-social:: [ #pure #untainted #deliverance #glorification #jesuschrist]
+social:: [ #pure #untainted #deliverance #glorification #jesuschrist ]

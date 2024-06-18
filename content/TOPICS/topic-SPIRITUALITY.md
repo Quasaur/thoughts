@@ -24,6 +24,8 @@ Sensitivity or attachment to religious values.
 ## Thoughts
 [[THE-QUICK-AND-THE-DEAD]]
 
+[[WORSHIP]]
+
 ## Dataview
 topic:: "Topic SPIRITUALITY"
 type:: #type/topic/L2

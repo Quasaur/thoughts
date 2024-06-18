@@ -1,15 +1,17 @@
 ---
-creationdate: 2008-11-07
-creationdatetime: 05:46
-zettelkasten: 200811070546
-aliases: [Praise in Prayer, Private Worship]
+title: "Thought: WORSHIP"
+draft: false
+aliases:
+- "Thought: Praise in Prayer"
+- "Thought: Private Worship"
 ---
-# WORSHIP
-A prayer life without worship will always be incomplete; a stillborn child.
+# Thought: WORSHIP
+> [!Thought]
+> A prayer life without worship will always be incomplete; a stillborn child.
 
 ## Dataview
-ptopic:: [[topic-THE-GODHEAD]]
+ptopic:: [[topic-SPIRITUALITY]]
 type:: #type/thought
-title:: "WORSHIP"
-level:: 1
+title:: "Thought: WORSHIP"
+level:: 2
 social:: [ #worship #praise #prayer #fellowship #eternalfather ]
