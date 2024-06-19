@@ -17,14 +17,14 @@ Each Quote is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File column are links that can be clicked on to take you to that particular Quote.
 
-|File6|Level|Book|
-|---|---|---|
-|[GENIUS](app://obsidian.md/content/QUOTES/GENIUS.md)|3|'"The Traveler's Oasis, Book Three"|
-|[PERFECT-PEACE](app://obsidian.md/content/QUOTES/PERFECT-PEACE.md)|2|'"The Traveler's Oasis, Book One"|
-|[GOD-IS-GOOD](app://obsidian.md/content/QUOTES/GOD-IS-GOOD.md)|1|'"The Traveler's Oasis, Book One"|
-|[REINVENT](app://obsidian.md/content/QUOTES/REINVENT.md)|2|'"The Traveler's Oasis, Book One"|
-|[SO-MANY-GOSPELS](app://obsidian.md/content/QUOTES/SO-MANY-GOSPELS.md)|4|'"The Traveler's Oasis, Book Two"|
-|[BEGOTTEN](app://obsidian.md/content/QUOTES/BEGOTTEN.md)|2|'The Basics and More: A Year's Sermons'|
+| File (6)                                                               | Level | Book                                    |
+| ---------------------------------------------------------------------- | ----- | --------------------------------------- |
+| [GENIUS](app://obsidian.md/content/QUOTES/GENIUS.md)                   | 3     | '"The Traveler's Oasis, Book Three"     |
+| [PERFECT-PEACE](app://obsidian.md/content/QUOTES/PERFECT-PEACE.md)     | 2     | '"The Traveler's Oasis, Book One"       |
+| [GOD-IS-GOOD](app://obsidian.md/content/QUOTES/GOD-IS-GOOD.md)         | 1     | '"The Traveler's Oasis, Book One"       |
+| [REINVENT](app://obsidian.md/content/QUOTES/REINVENT.md)               | 2     | '"The Traveler's Oasis, Book One"       |
+| [SO-MANY-GOSPELS](app://obsidian.md/content/QUOTES/SO-MANY-GOSPELS.md) | 4     | '"The Traveler's Oasis, Book Two"       |
+| [BEGOTTEN](app://obsidian.md/content/QUOTES/BEGOTTEN.md)               | 2     | 'The Basics and More: A Year's Sermons' |
 
 ## Dataview
 type:: #type/table
