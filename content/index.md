@@ -60,5 +60,8 @@ This is what i intend to accomplish in the next few years:
 4. I *may* at this point add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
 5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (TESTING).
 
+## Preface to the First Edition
+[[BookOfTweets-Preface]]
+
 ## Never Finished
 I brought this site to a condition that, i believe, **you will benefit from**. This site is NOT finished...it will NEVER be finished, even after I'm dead. I promise you, however, that i will NEVER stop adding to it until i am dead.
