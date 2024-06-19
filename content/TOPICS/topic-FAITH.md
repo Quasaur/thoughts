@@ -23,7 +23,7 @@ Confidence in the Words of God that inspires intent, speech and action.
 [[NOT-OF-FAITH]]
 
 ## Dataview
-topic:: "FAITH"
+topic:: "Topic: FAITH"
 type:: #type/topic/L4
 level:: 4
 ptopic:: [[topic-ATTITUDE]]

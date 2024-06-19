@@ -1,12 +1,12 @@
 ---
-title: "Table: Tweets"
+title: "Table: QUOTES"
 draft: true
 ---
 ```dataview
 TABLE
 	level AS "Level",
-	ptopic AS "Topic"
-   FROM "content/THOUGHTS"
+	source AS "Book"
+   FROM "content/QUOTES"
    SORT ID ASC
 ```
 

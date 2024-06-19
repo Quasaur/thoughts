@@ -20,7 +20,7 @@ Study of the solid matter of a celestial body.
 [[FOSSILS]]
 
 ## Dataview
-topic:: "GEOLOGY"
+topic:: "Topic: GEOLOGY"
 type:: #type/topic/L5
 level:: 5
 ptopic:: [[topic-SCIENCE]]

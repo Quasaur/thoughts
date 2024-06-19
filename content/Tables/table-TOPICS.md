@@ -8,7 +8,7 @@ TABLE
    type AS "Level",
    ptopic AS "Parent Topic"
    FROM "content/TOPICS"
-   SORT type ASC, topic ASC
+   SORT ID ASC
 ```
 
 

@@ -12,6 +12,6 @@ aliases:
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]
 type:: #type/thought
-title:: "Thought: WORSHIP"
+title:: 'Thought: WORSHIP"
 level:: 2
 social:: [ #worship #praise #prayer #fellowship #eternalfather ]

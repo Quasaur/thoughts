@@ -35,6 +35,8 @@ The best place to start is with the tables. The tables will provide you easy and
 Whether or not the sidebars to the left and right are visible is a function of how wide you've set the webpage in your browser; so I'm also going to list the Tables here...go ahead and select one!
 - [Table: Topics (md)](Tables/table-TOPICS-md)
 - [Table: Thoughts (md)](Tables/table-THOUGHTS-md)
+- [Table: Quotes (md)](Tables/table-QUOTES-md)
+- [Table: Passages (md)](Tables/table-PASSAGES-md)
 - [Table: Recent (md)](Tables/table-RECENT-md)
 
 ## The Tags
@@ -55,9 +57,9 @@ Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom 
 ## Roadmap
 This is what i intend to accomplish in the next few years:
 1. The 85 Thoughts currently posted must have their notes edited...this might take a few weeks (COMPLETED).
-2. There are HUNDREDS of more tweets in the original Book of Tweets; all of these must be added as well (IN-PROCESS).
-3. All of my social media posts will be added next.
-4. I *may* at this point add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
+2. There are HUNDREDS of more tweets in the original Book of Tweets (667, to be exact); all of these must be added as well (IN-PROCESS).
+3. All of my social media posts across all platforms I am currently a member of will be added next.
+4. I will at this point add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
 5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (TESTING).
 
 ## Preface to the First Edition

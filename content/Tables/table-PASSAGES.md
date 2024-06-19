@@ -1,12 +1,13 @@
 ---
-title: "Table: Tweets"
+title: "Table: PASSAGES"
 draft: true
 ---
 ```dataview
 TABLE
-	level AS "Level",
-	ptopic AS "Topic"
-   FROM "content/THOUGHTS"
+	source AS "Verse(s)",
+	ptopic AS "Topic",
+	level AS "Topic Level"
+   FROM "content/BIBLE"
    SORT ID ASC
 ```
 

@@ -23,7 +23,7 @@ The relation connecting or binding participants.
 [[NOBODYS]]
 
 ## Dataview
-topic:: "RELATIONSHIPS"
+topic:: "Topic: RELATIONSHIPS"
 type:: #type/topic/L3
 level:: 3
 ptopic:: [[topic-SOCIOLOGY]]

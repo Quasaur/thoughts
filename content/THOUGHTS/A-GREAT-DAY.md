@@ -7,7 +7,7 @@ draft: false
 > Today was great--except for the sleeping, eating and working.
 
 ## Dataview
-ptopic:: [[topic-BEHAVIOR]]]
+ptopic:: [[topic-BEHAVIOR]]
 type:: #type/thought
 title:: "Thought: A GREAT DAY"
 level:: 3

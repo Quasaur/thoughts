@@ -9,7 +9,7 @@ aliases:
 > Mercy is never fair.
 
 ## Dataview
-ptopic:: [[content/THOUGHTS/JUSTICE]]
+ptopic:: [[topic-JUSTICE]]
 type:: #type/thought
 title:: "Thought: FAIRNESS"
 level:: 3

@@ -6,7 +6,7 @@ draft: true
 TABLE 
 	dateformat(file.mtime, "yyyy.MM.dd - HH:mm") as "Last Modified",
 	level AS "Level"
-   FROM "content/TOPICS" or "content/THOUGHTS"
+   FROM "content/TOPICS" OR "content/THOUGHTS" OR "content/QUOTES" OR "content/BIBLE"
    SORT dateformat, DESC
    LIMIT 10
 ```
