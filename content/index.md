@@ -13,6 +13,7 @@ aliases:
 date: 2024-06-06
 ---
 # Welcome!
+# ![[content/attachments/og-image.png|675]]
 WELCOME TO THE BOOK OF THOUGHTS (formerly [The Book of Tweets: Proverbs for the Modern Age](https://www.amazon.com/Book-Tweets-Proverbs-Modern-Age-ebook/dp/B00RSE25H2))
 
 Back in January of 2015 i compiled all the Twitter (now called "X") posts i had posted up to that point into an ebook which i made available on Amazon Kindle Unlimited.
