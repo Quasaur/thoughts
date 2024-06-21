@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Welcome!
 
 WELCOME TO THE BOOK OF THOUGHTS (formerly [The Book of Tweets: Proverbs for the Modern Age](https://www.amazon.com/Book-Tweets-Proverbs-Modern-Age-ebook/dp/B00RSE25H2))
@@ -10,6 +12,20 @@ Having discovered [Obsidian.md](https://obsidian.md), i was excited to find a pl
 
 ...there was just one small problem: [Obsidian Publish](https://obsidian.md/publish)) did not have critical features that the desktop version of Obsidian had inspired so much excitement in me.
 
+=======
+# Welcome!
+
+WELCOME TO THE BOOK OF THOUGHTS (formerly [The Book of Tweets: Proverbs for the Modern Age](https://www.amazon.com/Book-Tweets-Proverbs-Modern-Age-ebook/dp/B00RSE25H2))
+
+Back in January of 2015 i compiled all the Twitter (now called "X") posts i had posted up to that point into an ebook which i made available on Amazon Kindle Unlimited.
+
+Since that time i have made innumerable posts on [various social media platforms](https://www.clmjournal.com/all-the-links)). My vision for the Book of Tweets then became more ambicious: i wanted to create a LIVE site on which ALL of my posted thoughts could be published, read, searched and connected to each other.
+
+Having discovered [Obsidian.md](https://obsidian.md), i was excited to find a platform on which i could broadcast the wisdom i had collected to the world and immediately commenced to transfer the content of The Book of Tweets to an Obsidian vault created for that purpose...
+
+...there was just one small problem: [Obsidian Publish](https://obsidian.md/publish)) did not have critical features that the desktop version of Obsidian had inspired so much excitement in me.
+
+>>>>>>> 10eac75b265bbed474fbd6cc1b8805a7a28d1abc
 Years have come and gone...
 
 ...and now I believe that, with the technology provided by the author of [Quartz](https://quartz.jzhao.xyz/), i now have all the components i need to see my dream come to fruition!
@@ -49,6 +65,11 @@ This is what i intend to accomplish in the next few years:
 4. I will at this point add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
 5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (TESTING).
 
+<<<<<<< HEAD
+## Never Finished
+I brought this site to a condition that, i believe, **you will benefit from**. This site is NOT finished...it will NEVER be finished, even after I'm dead. I promise you, however, that i will NEVER stop adding to it until i am dead.
+=======
 
 ## Never Finished
 I brought this site to a condition that, i believe, **you will benefit from**. This site is NOT finished...it will NEVER be finished, even after I'm dead. I promise you, however, that i will NEVER stop adding to it until i am dead.
+>>>>>>> 10eac75b265bbed474fbd6cc1b8805a7a28d1abc
