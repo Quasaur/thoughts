@@ -28,6 +28,10 @@ Action and response to stimulation and environment.
 
 [[RESULTS]]
 
+## Quotes
+[[MY-PROGRAMMING]]
+
+## Bible
 ## Dataview
 topic:: "Topic: BEHAVIOR"
 type:: #type/topic/L3

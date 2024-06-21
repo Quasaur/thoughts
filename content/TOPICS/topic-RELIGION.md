@@ -27,6 +27,8 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 ## Quotes
 [[SO-MANY-GOSPELS]]
 
+[[WORKS]]
+
 ## Bible
 
 ## Dataview

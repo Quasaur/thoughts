@@ -15,3 +15,6 @@ In honor of this priceless Gift of Heaven I publish this collection of wisdom th
 I’ve arranged the tweets in chronological order of 23 tweets per chapter. When completed (if I chose to publish no more “tweetverbs”) that would come to around 29 chapters (excluding retweets and non-wisdom material) for a total of 667 proverbs.
 
 In any case, it is my prayer that you, Kind Reader, will find something here to give you guidance, wisdom and (most of all) a more Heavenly perspective.
+
+## Dataview
+type:: #type/page

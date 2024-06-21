@@ -68,3 +68,6 @@ This is what i intend to accomplish in the next few years:
 
 ## Never Finished
 I brought this site to a condition that, i believe, **you will benefit from**. This site is NOT finished...it will NEVER be finished, even after I'm dead. I promise you, however, that i will NEVER stop adding to it until i am dead.
+
+## Dataview
+type:: #type/page

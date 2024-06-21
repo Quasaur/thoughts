@@ -17,14 +17,20 @@ Each Quote is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File column are links that can be clicked on to take you to that particular Quote.
 
-| File (6)                                                               | Level | Book                                    |
-| ---------------------------------------------------------------------- | ----- | --------------------------------------- |
-| [GENIUS](app://obsidian.md/content/QUOTES/GENIUS.md)                   | 3     | '"The Traveler's Oasis, Book Three"     |
-| [PERFECT-PEACE](app://obsidian.md/content/QUOTES/PERFECT-PEACE.md)     | 2     | '"The Traveler's Oasis, Book One"       |
-| [GOD-IS-GOOD](app://obsidian.md/content/QUOTES/GOD-IS-GOOD.md)         | 1     | '"The Traveler's Oasis, Book One"       |
-| [REINVENT](app://obsidian.md/content/QUOTES/REINVENT.md)               | 2     | '"The Traveler's Oasis, Book One"       |
-| [SO-MANY-GOSPELS](app://obsidian.md/content/QUOTES/SO-MANY-GOSPELS.md) | 4     | '"The Traveler's Oasis, Book Two"       |
-| [BEGOTTEN](app://obsidian.md/content/QUOTES/BEGOTTEN.md)               | 2     | 'The Basics and More: A Year's Sermons' |
+|File (12) |Level|Book|
+|---|---|---|
+|[BEGOTTEN](app://obsidian.md/content/QUOTES/BEGOTTEN.md)|2|'The Basics and More: A Year's Sermons'|
+|[GENIUS](app://obsidian.md/content/QUOTES/GENIUS.md)|3|'"The Traveler's Oasis, Book Three"|
+|[GOD-IS-GOOD](app://obsidian.md/content/QUOTES/GOD-IS-GOOD.md)|1|'"The Traveler's Oasis, Book One"|
+|[PERFECT-PEACE](app://obsidian.md/content/QUOTES/PERFECT-PEACE.md)|2|'"The Traveler's Oasis, Book One"|
+|[REINVENT](app://obsidian.md/content/QUOTES/REINVENT.md)|2|'"The Traveler's Oasis, Book One"|
+|[SO-MANY-GOSPELS](app://obsidian.md/content/QUOTES/SO-MANY-GOSPELS.md)|4|'"The Traveler's Oasis, Book Two"|
+|[UNCONDITIONAL](app://obsidian.md/content/QUOTES/UNCONDITIONAL.md)|2|'"Once Saved, Always Saved: The Assurance of Our Father's LOVE"|
+|[CHRIST-IS-ENOUGH](app://obsidian.md/content/QUOTES/CHRIST-IS-ENOUGH.md)|2|''The Traveler's Oasis, Book Two'|
+|[MY-PROGRAMMING](app://obsidian.md/content/QUOTES/MY-PROGRAMMING.md)|3|''The Traveler's Oasis, Book Two'|
+|[CHAOS](app://obsidian.md/content/QUOTES/CHAOS.md)|3|''The Traveler's Oasis, Book Three'|
+|[WORKS](app://obsidian.md/content/QUOTES/WORKS.md)|4|''The Basics and More: A Year's Sermons'|
+|[ETERNITY](app://obsidian.md/content/QUOTES/ETERNITY.md)|1|''Once Saved, Always Saved: The Assurance of Our Father's LOVE'|
 
 ## Dataview
 type:: #type/table

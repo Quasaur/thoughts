@@ -22,6 +22,10 @@ the study of mind and behavior in relation to a particular field of knowledge or
 
 [[SECRETS]]
 
+## Quotes
+[[CHAOS]]
+
+## Bible
 ## Dataview
 topic:: "Topic: PSYCHOLOGY"
 type:: #type/topic/L3

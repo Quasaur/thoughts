@@ -36,6 +36,9 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 
 [[REINVENT]]
 
+[[UNCONDITIONAL]]
+
+[[CHRIST-IS-ENOUGH]]
 ## Bible
 
 

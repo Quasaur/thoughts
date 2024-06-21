@@ -38,6 +38,11 @@ The nature of God, especially as existing in Three Persons.
 
 [[PROTECTION]]
 
+## Quotes
+[[ETERNITY]]
+
+## Bible
+
 ## Dataview
 topic:: "Topic: THE GODHEAD"
 type:: #type/topic/L1
