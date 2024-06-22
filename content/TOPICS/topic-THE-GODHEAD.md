@@ -36,6 +36,8 @@ The nature of God, especially as existing in Three Persons.
 
 [[MEEK]]
 
+[[MIRACLES]]
+
 [[PROTECTION]]
 
 ## Quotes

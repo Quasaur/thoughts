@@ -1,5 +1,5 @@
 ---
-title: "Thought: Dark Matter"
+title: "Thought: DARK MATTER"
 draft: false
 aliases:
 - "Thought: Dark Water"

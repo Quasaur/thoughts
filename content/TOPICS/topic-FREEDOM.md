@@ -16,9 +16,8 @@ date: 2024-06-15
 # TOPIC TITLE
 ## Sub-Topics
 
-
 ## Thoughts
-
+[[SHUT-DOWN]]
 ## Quotes
 
 ## Bible
