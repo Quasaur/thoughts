@@ -21,7 +21,7 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 
 [[NOBODY]]
 
-[[THE-CROSS]]
+[[DISPISING-THE-CROSS]]
 
 ## Quotes
 [[DIALOGUE]]
