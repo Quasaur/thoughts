@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-APOCALYPSE]]
 type:: #type/thought
 title:: "Thought: ENDING"
-level:: 4
+level:: 5
 social:: [ #ending #bible #apocalypse #judgment #newjerusalem ]

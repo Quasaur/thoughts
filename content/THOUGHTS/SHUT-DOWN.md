@@ -15,5 +15,5 @@ aliases:
 ptopic:: [[topic-FREEDOM]]
 type:: #type/thought
 title:: "Thought: SHUT DOWN"
-level:: 2
+level:: 5
 social:: [ #free #expression #constitutiion #rights #tiktok ]

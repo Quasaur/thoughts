@@ -7,12 +7,12 @@ aliases:
 ---
 # Thought: CITIZENSHIP
 > [!Thought]
-> REMEMBER: there is no "cost of Living" in the Kingdom of the Heavens.
+> REMEMBER: there is no "cost of living" in the Kingdom of the Heavens.
 > Change your citizenship IMMEDIATELY!
 
 ## Dataview
-ptopic:: [[topic-SOCIOLOGY]]
+ptopic:: [[topic-ECONOMICS]]
 type:: #type/thought
 title:: "Thought: CITIZENSHIP"
-level:: 2
+level:: 4
 social:: [ #citizenship #kingdom #reignofgod #freedom #jesuschrist ]

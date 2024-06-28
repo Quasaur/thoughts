@@ -9,10 +9,10 @@ draft: false
 > Fools despise wisdom and instruction.
 
 ## Dataview
-ptopic:: [[topic-SCIENCE]]
+ptopic:: [[topic-HUMANITY]]
 type:: #type/passage
 title:: "Passage: KNOWLEDGE"
 source:: 'Romans 1:7'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A7&version=NASB)
-level:: 4
+level:: 3
 social:: [ #fear #lord #knowledge #fools #instruction ]

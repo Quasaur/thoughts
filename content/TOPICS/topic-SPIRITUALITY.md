@@ -13,7 +13,6 @@ date: 2024-06-06
 Sensitivity or attachment to religious values.
 
 ## Sub-Topics
-[[topic-SPIRITS]]
 
 [[topic-ATTITUDE]]
 

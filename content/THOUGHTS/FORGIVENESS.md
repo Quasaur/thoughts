@@ -14,5 +14,5 @@ aliases:
 ptopic:: [[topic-MERCY]]
 type:: #type/thought
 title:: "Thought: FORGIVENESS"
-level:: 3
+level:: 5
 social:: [ #forgiveness #atonement #propitiation #thecross #jesuschrist ]

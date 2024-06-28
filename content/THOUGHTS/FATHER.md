@@ -11,5 +11,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: FATHER"
-level:: 2
+level:: 3
 social:: [ #father #flesh #spirit #knowledge #immortality ]

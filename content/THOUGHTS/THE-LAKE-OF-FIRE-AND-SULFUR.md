@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-JUSTICE]]
 type:: #type/thought
 title:: "Thought: THE LAKE OF FIRE AND SULFUR"
-level:: 3
+level:: 5
 social:: [ #lakeoffire #wrathofgod #hell #regret #eternity ]

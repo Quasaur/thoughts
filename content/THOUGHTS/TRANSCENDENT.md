@@ -14,5 +14,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: TRANSCENDENT"
-level:: 2
+level:: 3
 social:: [ #pure #untainted #deliverance #glorification #jesuschrist ]

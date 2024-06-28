@@ -20,12 +20,11 @@ A binding custom or practice of a community formally recognized as binding or e
 [[topic-FREEDOM]]
 
 ## Thoughts 
-[[BRIBERY]]
 
 ## Dataview
 topic:: "Topic: LAW"
 type:: #type/topic/L2
-level:: 2
+level:: 4
 ptopic:: [[topic-MORALITY]]
 
 ## Notes

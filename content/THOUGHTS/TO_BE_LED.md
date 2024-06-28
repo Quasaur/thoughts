@@ -14,5 +14,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: TO BE LED"
-level:: 2
+level:: 3
 social:: [ #led #follow #leadership #holyspirit #travel ]

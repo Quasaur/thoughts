@@ -6,31 +6,54 @@ tags:
   - psyche
   - mind
 aliases: 
+- "Topic: Behavioral Psychology"
+- "Topic: Clinical Psychology"
+- "Topic: Cognitive Psychology"
+- "Topic: Developmental Psychology"
+- "Topic: Social Psychology"
 date: 2024-06-06
 ---
 # Topic: PSYCHOLOGY 
 ## Description
-the study of mind and behavior in relation to a particular field of knowledge or activity
+The study of mind and behavior in relation to a particular field of knowledge or activity.
 
 ## Sub-Topics
-[[topic-BEHAVIOR]]
 
 ## Thoughts
+[[692-189]]
+
+[[ADDICTION]]
+
 [[ANTI-SEMITISM]]
 
+[[DISCRETION]]
+
+[[GODS]]
+
 [[INSANITY]]
+
+[[LOVING-OR-LOVED?]]
+
+[[MURDER]]
+
+[[PAINFUL-TRUTH]]
+
+[[RESULTS]]
 
 [[SECRETS]]
 
 ## Quotes
 [[CHAOS]]
 
+[[MY-PROGRAMMING]]
+
 ## Bible
+
 ## Dataview
 topic:: "Topic: PSYCHOLOGY"
-type:: #type/topic/L3
-level:: 3
-ptopic:: [[topic-SOCIOLOGY]]
+type:: #type/topic/L4
+level:: 4
+ptopic:: [[topic-HUMANITY]]
 
 ## Notes
 NOTE: Topic notes.

@@ -7,8 +7,8 @@ draft: false
 > You're not really an American unless you're addicted to something.
 
 ## Dataview
-ptopic:: [[topic-NATIONALISM]]
+ptopic:: [[topic-POLITICAL-SCIENCE]]
 type:: #type/thought
 title:: "Thought: AMERICAN"
-level:: 3
-social:: [ #nationalism #american #addiction #dependency #codependency]
+level:: 4
+social:: [ #nationalism #american #addiction #dependency #codependency ]

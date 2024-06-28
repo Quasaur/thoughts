@@ -29,7 +29,7 @@ The practice or instance of giving to others what is their due.
 ## Dataview
 topic:: "Topic: JUSTICE"
 type:: #type/topic/L3
-level:: 3
+level:: 5
 ptopic:: [[topic-LAW]]
 
 ## Notes

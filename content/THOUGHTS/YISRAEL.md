@@ -14,5 +14,5 @@ aliases:
 ptopic:: [[topic-HISTORY]]
 type:: #type/thought
 title:: "Thought: YISRAEL"
-level:: 3
+level:: 4
 social:: [ #israel #apartheid #genocide #palestinians #jesuschrist ]

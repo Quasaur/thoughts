@@ -9,5 +9,5 @@ It is IMPOSSIBLE to truly love The Lord Jesus Christ and simultaneously hate the
 type:: #type/thought
 title:: "Thought: ANTI-SEMITISM"
 ptopic:: [[topic-PSYCHOLOGY]]
-level:: 3
+level:: 4
 social:: [ #antisemitism #antinegro #antijew #antiblack #jesuschrist ]

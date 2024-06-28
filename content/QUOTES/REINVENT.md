@@ -13,5 +13,5 @@ type:: #type/quote
 title:: "quote: REINVENT"
 source:: '"The Traveler's Oasis, Book One"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-One-ebook/dp/B00Y43B2OC)
-level:: 2
+level:: 3
 social:: [ #gift #grace #accomplish #effort #duplicate ]

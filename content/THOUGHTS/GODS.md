@@ -8,8 +8,8 @@ aliases:
 > It is neither intelligence nor power that makes us gods...but Mercy and Compassion.
 
 ## Dataview
-ptopic:: [[topic-BEHAVIOR]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: GODS"
-level:: 3
+level:: 4
 social:: [ #behavior #intelligence #power #mercy #compassion]

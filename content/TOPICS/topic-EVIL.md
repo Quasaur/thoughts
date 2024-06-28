@@ -13,7 +13,6 @@ date: 2024-06-06
 Law, contract or belief that one is deserving of or entitled to certain rights, benefits and privileges.
 
 ## Sub-Topics
-[[topic-RELIGION]]
 
 ## Thoughts
 [[BRIBERY]]

@@ -11,8 +11,8 @@ aliases:
 > ...but when we're alone together and quiet, she gives me LIFE!
 
 ## Dataview
-ptopic:: [[topic-RELATIONSHIPS]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: MYSTERY"
-level:: 3
+level:: 4
 social:: [ #wife #mystery #understanding #life #gift ]

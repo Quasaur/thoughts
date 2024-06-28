@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-JUSTICE]]
 type:: #type/thought
 title:: "Thought: REPARATIONS"
-level:: 3
+level:: 5
 social:: [ #reparations #slavery #blackamericans #compensation #justice ]

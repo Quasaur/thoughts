@@ -14,7 +14,7 @@ aliases:
 ptopic:: [[topic-COSMOLOGY]]
 type:: #type/thought
 title:: "Thought: SCIENCE CONSPIRACY"
-level:: 5
+level:: 4
 social:: [ #science #cosmology #geocentricity #michelson #creationism  ]
   
 ## External Links

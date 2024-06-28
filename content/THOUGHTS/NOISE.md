@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: NOISE"
-level:: 2
+level:: 3
 social:: [ #heart #noise #voiceofgod #hearing #holyspirit ]

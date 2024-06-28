@@ -18,6 +18,7 @@ date: 2024-06-15
 
 ## Thoughts
 [[SHUT-DOWN]]
+
 ## Quotes
 
 ## Bible
@@ -26,7 +27,7 @@ date: 2024-06-15
 ## Dataview
 topic:: "Topic: FREEDOM"
 type:: #type/topic/L2
-level:: 2
+level:: 5
 ptopic:: [[topic-LAW]]
 
 ## Notes

@@ -1,14 +1,18 @@
 ---
-title: "Topic: NATIONALLISM"
+title: "Topic: POLITICAL SCIENCE"
 draft: false
 tags:
   - patriotism
   - chauvinism
   - nativism
 aliases: 
+- "Topic: Comparative Politics"
+- "Topic: International Relations"
+- "Topic: Political Theory"
+- "Topic: Geospacial Analysis"
 date: 2024-06-06
 ---
-# Topic NATIONALISM
+# Topic: POLITICAL SCIENCE
 ## Description
 Exalting one nation above all others and placing primary emphasis on promotion of its culture and interests as opposed to those of other nations.
 
@@ -19,10 +23,10 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 [[AMERICAN]]
 
 ## Dataview
-topic:: "Topic: NATIONALISM"
-type:: #type/topic/L3 
-level:: 3
-ptopic:: [[topic-SOCIOLOGY]]
+topic:: "Topic: POLITICAL SCIENCE"
+type:: #type/topic/L4 
+level:: 4
+ptopic:: [[topic-HUMANITY]]
 
 ## Notes
 NOTE: Topic notes.

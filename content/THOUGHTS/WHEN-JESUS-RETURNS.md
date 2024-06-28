@@ -15,5 +15,5 @@ aliases:
 ptopic:: [[topic-HISTORY]]
 type:: #type/thought
 title:: "Thought: WHEN JESUS RETURNS"
-level:: 3
+level:: 5
 social:: [ #apocalypse #demons #angels #spirituality #life ]

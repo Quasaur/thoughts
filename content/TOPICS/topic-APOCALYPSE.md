@@ -19,15 +19,14 @@ Eschatology; the End of all things.
 ## Thoughts
 [[OBLIVION]]
 
-[[WHEN-JESUS-RETURNS]]
-
 [[THE-BIBLE]]
 
+[[WHEN-JESUS-RETURNS]]
 
 ## Dataview
 topic:: "Topic: APOCALYPSE"
-type:: #type/topic/L4
-level:: 4
+type:: #type/topic/L5 
+level:: 5
 ptopic:: [[topic-HISTORY]]
 
 ## Notes

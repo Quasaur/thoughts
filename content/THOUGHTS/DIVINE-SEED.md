@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: DIVINE SEED"
-level:: 2
+level:: 3
 social:: [ #seed #wordofgod #holyspirit #sowing #reaping ]

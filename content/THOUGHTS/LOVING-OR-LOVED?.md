@@ -10,7 +10,7 @@ aliases:
 > So...which is better: loving God or being loved by God?
 
 ## Dataview
-ptopic:: [[topic-RELATIONSHIPS]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: LOVING or LOVED?"
 level:: 4

@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: FULLNESS"
-level:: 2
+level:: 3
 social:: [ #spirituality #fullness #overflow #immunity #life ]

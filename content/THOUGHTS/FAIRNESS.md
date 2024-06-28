@@ -12,5 +12,5 @@ aliases:
 ptopic:: [[topic-JUSTICE]]
 type:: #type/thought
 title:: "Thought: FAIRNESS"
-level:: 3
+level:: 5
 social:: [ #justice #fairness #mercy #forgiveness #compassion]

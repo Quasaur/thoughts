@@ -17,36 +17,37 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 
 
 ## Thoughts
+[[FATHER]]
+
 [[FULLNESS]]
+
+[[NOISE]]
 
 [[SIN]]
 
 [[THE-REAL-YOU]]
 
-[[TRANSCENDENT]]
-
 [[TO_BE_LED]]
 
-[[NOISE]]
-
-[[FATHER]]
+[[TRANSCENDENT]]
 
 ## Quotes
+[[CHRIST-IS-ENOUGH]]
+
 [[PERFECT-PEACE]]
 
 [[REINVENT]]
 
 [[UNCONDITIONAL]]
 
-[[CHRIST-IS-ENOUGH]]
 ## Bible
 
 
 ## Dataview
 topic:: "Topic GRACE"
 type:: #type/topic/L2 
-level:: 2
-ptopic:: "[[topic-THE-GODHEAD]]
+level:: 3
+ptopic:: "[[topic-CREATION]]
 
 ## Notes
 NOTE: Topic notes.

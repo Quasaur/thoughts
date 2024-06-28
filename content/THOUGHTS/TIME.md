@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-JUSTICE]]
 type:: #type/thought
 title:: "Thought: TIME"
-level:: 3
+level:: 5
 social:: [ #spirituality #damnation #soul #lakeoffire #judgment ]

@@ -13,5 +13,5 @@ type:: #type/quote
 title:: "quote: CHAOS"
 source:: ''The Traveler's Oasis, Book Three'
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Three-ebook/dp/B00YRKX8E4)
-level:: 3
+level:: 4
 social:: [ #chaos #disorder #fear #perception #delusion ]

@@ -13,5 +13,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: SIN"
-level:: 2
+level:: 3
 social:: [ #grace #gospel #love #power #jesuschrist ]

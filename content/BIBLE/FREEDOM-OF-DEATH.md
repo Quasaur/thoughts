@@ -13,5 +13,5 @@ type:: #type/passage
 title:: "Passage: FREEDOM OF DEATH"
 source:: 'Romans 6:7'
 biblelink:: (https://www.biblegateway.com/passage/?search=Romans+6:7&version=KJV)
-level:: 2
+level:: 5
 social:: [ #social/__ #social/__ #social/__ #social/__ #social/__]

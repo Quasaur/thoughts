@@ -14,5 +14,5 @@ type:: #type/quote
 title:: "quote: UNCONDITIONAL"
 source:: '"Once Saved, Always Saved: The Assurance of Our Father's LOVE"
 booklink:: (https://www.amazon.com/Once-Saved-Always-Assurance-Fathers-ebook/dp/B0132UEB68)
-level:: 2
+level:: 3
 social:: [ #gospel #purpose #fellowship #godhead #unconditional ]

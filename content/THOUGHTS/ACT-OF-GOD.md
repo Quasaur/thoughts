@@ -7,7 +7,7 @@ draft: false
 > If every person is an Act of God, what can my wife teach me about God?
 
 ## Dataview
-ptopic:: [[topic-RELATIONSHIPS]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: ACT OF GOD"
 level:: 3

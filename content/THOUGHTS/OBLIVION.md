@@ -10,7 +10,7 @@ The Lord Jesus said that humanity would be driven to the edge of extinction befo
 ptopic:: [[topic-HISTORY]]
 type:: #type/thought
 title:: "OBLIVION"
-level:: 3
+level:: 4
 social:: [ #apocalypse #ele #extinction #oblivion #thelastday ]
 
 ## Links

@@ -14,5 +14,5 @@ aliases:
 ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: SECRETS"
-level:: 3
+level:: 4
 social:: [ #secrets #distractions #eternity #immortality #transcendence ]

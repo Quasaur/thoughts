@@ -14,5 +14,5 @@ aliases:
 ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: INSANITY"
-level:: 3
+level:: 4
 social:: [ #insanity #madness #delusion #narcissism #fooliishness]

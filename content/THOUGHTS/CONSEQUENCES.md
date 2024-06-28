@@ -16,5 +16,5 @@ aliases:
 ptopic:: [[topic-HISTORY]]
 type:: #type/thought
 title:: "Thought: CONSEQUENCES"
-level:: 3
+level:: 4
 social:: [ #consequences #mercy #sovereignty #sin #suffering ]

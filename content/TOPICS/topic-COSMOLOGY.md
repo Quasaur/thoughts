@@ -10,7 +10,7 @@ date: 2024-06-06
 ---
 # Topic COSMOLOGY
 ## Description
-The natural order of the universe.
+The study of the social belief systems humans have held across different times and places. **Scientific cosmology** involves studying the universe through astronomy and physics.
 
 ## Sub-Topics
 
@@ -24,9 +24,9 @@ The natural order of the universe.
 
 ## Dataview
 topic:: "Topic: COSMOLOGY"
-type:: #type/topic/L5
-level:: 5
-ptopic:: [[topic-SCIENCE]]
+type:: #type/topic/L4 
+level:: 4
+ptopic:: [[topic-HUMANITY]]
 
 ## Notes
 NOTE: Topic notes.

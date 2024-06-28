@@ -12,18 +12,14 @@ date: 2024-06-06
 ---
 # Topic: THE GODHEAD
 ## Description
-The nature of God, especially as existing in Three Persons.
+The Nature of God as existing in Three Persons.
 
 ## Sub-Topics
+[[topic-CREATION]]
+
 [[topic-DIVINE-SOVEREIGNTY]]
 
 [[topic-FAITHFULNESS]]
-
-[[topic-GRACE]]
-
-[[topic-LAW]]
-
-[[topic-SOCIOLOGY]]
 
 [[topic-SPIRITUALITY]]
 

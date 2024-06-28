@@ -23,7 +23,7 @@ Compassion or forbearance shown to an offender or to one subject to another’s 
 ## Dataview
 topic:: "Topic: MERCY"
 type:: #type/topic/L3
-level:: 3
+level:: 5
 ptopic:: [[topic-LAW]]
 
 ## Notes

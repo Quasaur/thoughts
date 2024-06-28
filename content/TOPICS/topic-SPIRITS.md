@@ -30,7 +30,7 @@ The animating or vital Principle held to give life to physical organisms; supern
 topic:: "Topic: SPIRITS"
 type:: #type/topic/L3 
 level:: 3
-ptopic:: [[topic-SPIRITUALITY]]
+ptopic:: [[topic-CREATION]]
 
 ## Notes
 NOTE: Topic notes.

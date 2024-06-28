@@ -5,8 +5,9 @@ draft: true
 ```dataview
 TABLE
 	source AS "Verse(s)",
+	level AS "Passage Level",
 	ptopic AS "Topic",
-	level AS "Topic Level"
+	ptopic.level AS "Topic Level"
    FROM "content/BIBLE"
    SORT ID ASC
 ```

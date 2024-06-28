@@ -10,8 +10,8 @@ aliases:
 > An explanation.
 
 ## Dataview
-ptopic:: [[topic-BEHAVIOR]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: WHY"
-level:: 3
+level:: 4
 social:: [ #children #adults #demanded #cause #why ]

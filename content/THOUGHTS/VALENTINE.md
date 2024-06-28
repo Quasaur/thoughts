@@ -11,7 +11,7 @@ aliases:
 > Why did God pick this woman for me?
 
 ## Dataview
-ptopic:: [[topic-RELATIONSHIPS]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: VALENTINE"
 level:: 3

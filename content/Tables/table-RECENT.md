@@ -4,8 +4,10 @@ draft: true
 ---
 ```dataview
 TABLE 
-	dateformat(file.mtime, "yyyy.MM.dd - HH:mm") as "Last Modified*",
 	level AS "Level",
+	ptopic AS "Topic",
+	ptopic.level AS "Topic Level",
+	dateformat(file.mtime, "yyyy.MM.dd - HH:mm") as "Last Modified*",
 	type AS "Type"
    FROM "content"
    WHERE type != "#type/page"

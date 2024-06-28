@@ -13,5 +13,5 @@ type:: #type/quote
 title:: "quote: CHRIST IS ENOUGH"
 source:: ''The Traveler's Oasis, Book Two'
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Two-ebook/dp/B00YIT5O9Q)
-level:: 2
+level:: 3
 social:: [ #jesuschrist #sufficient #enough #salvation #redemption ]

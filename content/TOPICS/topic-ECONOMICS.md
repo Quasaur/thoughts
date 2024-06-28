@@ -6,7 +6,11 @@ tags:
   - production
   - distribution
 aliases:
-  - Topic Commerce
+  - "Topic: Commerce"
+  - "Topic: Microeconomics"
+  - "Topic: Macroeconomics"
+  - "Topic: Behavioral Economics"
+  - "Topic: Development Economics"
 date: 2024-06-06
 ---
 # Topic: ECONOMICS
@@ -17,13 +21,13 @@ Social science concerned chiefly with description and analysis of the production
 
 
 ## Thoughts
-
+[[CITIZENSHIP]]
 
 ## Dataview
 topic:: "Topic: ECONOMICS"
-type:: #type/topic/L3
-level:: 3
-ptopic:: [[topic-SOCIOLOGY]]
+type:: #type/topic/L4 
+level:: 4
+ptopic:: [[topic-HUMANITY]]
 
 ## Notes
 NOTE: Topic notes.

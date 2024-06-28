@@ -5,7 +5,8 @@ draft: true
 ```dataview
 TABLE
 	level AS "Level",
-	ptopic AS "Topic"
+	ptopic AS "Topic",
+	ptopic.level AS "Topic Level"
    FROM "content/THOUGHTS"
    SORT ID ASC
 ```

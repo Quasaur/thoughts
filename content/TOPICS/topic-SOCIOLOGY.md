@@ -6,6 +6,10 @@ tags:
   - relations
   - interactions
 aliases: 
+- "Topic: Social Structure"
+- "Topic: Social Change"
+- "Topic: Social Stratification"
+- "Topic: Social Institutions"
 date: 2024-06-06
 ---
 # Topic: SOCIOLOGY
@@ -13,24 +17,14 @@ date: 2024-06-06
 The science of society, social institutions, and social relationships.
 
 ## Sub-Topics
-[[topic-ECONOMICS]]
-
-[[topic-HISTORY]]
-
-[[topic-NATIONALISM]]
-
-[[topic-PSYCHOLOGY]]
-
-[[topic-RELATIONSHIPS]]
 
 ## Thoughts
-[[CITIZENSHIP]]
 
 ## Dataview
-topic:: "Topic: SOCIETY"
-type:: #type/topic/L2
-level:: 2
-ptopic:: [[topic-SPIRITUALITY]]
+topic:: "Topic: SOCIOLOGY"
+type:: #type/topic/L4 
+level:: 4
+ptopic:: [[topic-HUMANITY]]
 
 ## Notes
 NOTE: Topic notes.

@@ -21,9 +21,9 @@ Study of the solid matter of a celestial body.
 
 ## Dataview
 topic:: "Topic: GEOLOGY"
-type:: #type/topic/L5
-level:: 5
-ptopic:: [[topic-SCIENCE]]
+type:: #type/topic/L4 
+level:: 4
+ptopic:: [[topic-HUMANITY]]
 
 ## Notes
 NOTE: Topic notes.

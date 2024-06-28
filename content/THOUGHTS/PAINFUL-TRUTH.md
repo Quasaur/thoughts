@@ -12,8 +12,8 @@ aliases:
 ## Dataview
 type:: #type/thought
 title:: "Thought: PAINFUL TRUTH"
-ptopic:: [[topic-BEHAVIOR]]
-level:: 3
+ptopic:: [[topic-PSYCHOLOGY]]
+level:: 4
 social:: [ #tedx #russellellis #whitesupremacy #change #faith ]
 
 ## External Links

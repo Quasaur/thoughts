@@ -9,8 +9,8 @@ draft: false
 > Romans 6:7
 
 ## Dataview
-ptopic:: [[topic-BEHAVIOR]]
+ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: ADDICTION"
-level:: 3
+level:: 4
 social:: [ #sanctification #addiction #flesh #thecross #jesuschrist ]

@@ -13,7 +13,7 @@ aliases:
 type:: #type/thought
 title:: "Thought: FOSSILS"
 ptopic:: [[topic-GEOLOGY]]
-level:: 5
+level:: 4
 social:: [ #geology #fossils #creationism #intelligentdesign #evidence ]
 
 ## Links

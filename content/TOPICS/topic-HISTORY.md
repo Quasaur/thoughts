@@ -6,7 +6,7 @@ tags:
   - chronicles
   - biography
 aliases:
-  - Topic Chronology
+  - "Topic: Chronology"
 date: 2024-06-06
 ---
 # topic: HISTORY
@@ -21,11 +21,15 @@ an account of important events in the order in which they happened
 
 [[YISRAEL]]
 
+## Quotes
+
+## Bible
+
 ## Dataview
 topic:: "Topic: HISTORY"
-type:: #type/topic/L3
-level:: 3
-ptopic:: [[topic-SOCIOLOGY]]
+type:: #type/topic/L4 
+level:: 4
+ptopic:: [[topic-HUMANITY]]
 
 ## Notes
 NOTE: Topic notes.

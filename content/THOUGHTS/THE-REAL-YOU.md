@@ -15,5 +15,5 @@ aliases:
 ptopic:: [[topic-GRACE]]
 type:: #type/thought
 title:: "Thought: THE REAL YOU"
-level:: 2
+level:: 3
 social:: [ #identity #selfimage #imageofgod #christian #jesuschrist ]

@@ -12,5 +12,5 @@ aliases:
 ptopic:: [[topic-COSMOLOGY]]
 type:: #type/thought
 title:: "Thought: DARK MATTER"
-level:: 5
+level:: 4
 social:: [ #genesis #creation #universe #waters #science ]
