@@ -10,5 +10,5 @@ draft: false
 ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: ACT OF GOD"
-level:: 3
+level:: 4
 social:: [ #person #people# #wife #husband #imageofgod ]

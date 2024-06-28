@@ -14,5 +14,5 @@ aliases:
 ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: VALENTINE"
-level:: 3
+level:: 4
 social:: [ #valentine #couples #romance #relationships #love ]

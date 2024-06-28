@@ -20,39 +20,39 @@ Each topic is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File and Parent Topic File columns are links that can be clicked on to take you to that particular Topic.
 
-| File (31)                                                                                | Topic                     | Level                                                        | Parent Topic                                                                 |
-| ---------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| [topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)                     | Topic: ATTITUDE           | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md) |
-| [topic-BEHAVIOR](/TOPICS/topic-BEHAVIOR.md)                     | Topic: BEHAVIOR           | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)     |
-| [topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)                   | Topic: COSMOLOGY          | [#type/topic/L5](https://quasaur.github.io/thoughts/index.html#type/topic/L5) | [topic-SCIENCE](/TOPICS/topic-SCIENCE.md)           |
-| [topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md) | Topic: DIVINE SOVEREIGNTY | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)   |
-| [topic-ECONOMICS](/TOPICS/topic-ECONOMICS.md)                   | Topic: ECONOMICS          | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)       |
-| [topic-EVIL](/TOPICS/topic-EVIL.md)                             | Topic: EVIL               | [#type/topic/L4](https://quasaur.github.io/thoughts/index.html#type/topic/L4) | [topic-MORALITY](/TOPICS/topic-MORALITY.md)         |
-| [topic-FAITH](/TOPICS/topic-FAITH.md)                           | Topic: FAITH              | [#type/topic/L4](https://quasaur.github.io/thoughts/index.html#type/topic/L4) | [topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)         |
-| [topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)                 | Topic: APOCALYPSE         | [#type/topic/L4](https://quasaur.github.io/thoughts/index.html#type/topic/L4) | [topic-HISTORY](/TOPICS/topic-HISTORY.md)           |
-| [topic-FREEDOM](/TOPICS/topic-FREEDOM.md)                       | Topic: FREEDOM            | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-LAW](/TOPICS/topic-LAW.md)                   |
-| [topic-GRACE](/TOPICS/topic-GRACE.md)                           | Topic GRACE               | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | "[topic-THE-GODHEAD](https://quasaur.github.io/thoughts/topic-THE-GODHEAD)                    |
-| [topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)             | Topic: FAITHFULNESS       | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)   |
-| [topic-GEOLOGY](/TOPICS/topic-GEOLOGY.md)                       | Topic: GEOLOGY            | [#type/topic/L5](https://quasaur.github.io/thoughts/index.html#type/topic/L5) | [topic-SCIENCE](/TOPICS/topic-SCIENCE.md)           |
-| [topic-JUSTICE](/TOPICS/topic-JUSTICE.md)                       | Topic: JUSTICE            | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-LAW](/TOPICS/topic-LAW.md)                   |
-| [topic-HISTORY](/TOPICS/topic-HISTORY.md)                       | Topic: HISTORY            | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)       |
-| [topic-LAW](/TOPICS/topic-LAW.md)                               | Topic: LAW                | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-MORALITY](/TOPICS/topic-MORALITY.md)         |
-| [topic-ENTITLEMENT](/TOPICS/topic-ENTITLEMENT.md)               | Topic: ENTITLEMENT        | [#type/topic/L4](https://quasaur.github.io/thoughts/index.html#type/topic/L4) | [topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)         |
-| [topic-MERCY](/TOPICS/topic-MERCY.md)                           | Topic: MERCY              | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-LAW](/TOPICS/topic-LAW.md)                   |
-| [topic-MORALITY](/TOPICS/topic-MORALITY.md)                     | Topic: MORALITY           | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md) |
-| [topic-REALITY](/TOPICS/topic-REALITY.md)                       | Topic: REALITY            | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-TRUTH](/TOPICS/topic-TRUTH.md)               |
-| [topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)                 | Topic: PSYCHOLOGY         | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)       |
-| [topic-RELATIONSHIPS](/TOPICS/topic-RELATIONSHIPS.md)           | Topic: RELATIONSHIPS      | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)       |
-| [topic-SCIENCE](/TOPICS/topic-SCIENCE.md)                       | Topic: SCIENCE            | [#type/topic/L4](https://quasaur.github.io/thoughts/index.html#type/topic/L4) | [topic-REALITY](/TOPICS/topic-REALITY.md)           |
-| [topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)                   | Topic: SOCIETY            | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md) |
-| [topic-RELIGION](/TOPICS/topic-RELIGION.md)                     | Topic: RELIGION           | [#type/topic/L4](https://quasaur.github.io/thoughts/index.html#type/topic/L4) | [topic-MORALITY](/TOPICS/topic-MORALITY.md)         |
-| [topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)             | Topic SPIRITUALITY        | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)   |
-| [topic-NATIONALISM](/TOPICS/topic-NATIONALISM.md)               | Topic: NATIONALISM        | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)       |
-| [topic-SPIRITS](/TOPICS/topic-SPIRITS.md)                       | Topic: SPIRITS            | [#type/topic/L3](https://quasaur.github.io/thoughts/index.html#type/topic/L3) | [topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md) |
-| [topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)               | Topic: THE GODHEAD        | [#type/topic/L1](https://quasaur.github.io/thoughts/index.html#type/topic/L1) | None                                                                         |
-| [topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)           | Topic: UNDERSTANDING      | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md) |
-| [topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)                 | Topic: THE GOSPEL         | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)   |
-| [topic-TRUTH](/TOPICS/topic-TRUTH.md)                           | Topic: TRUTH              | [#type/topic/L2](https://quasaur.github.io/thoughts/index.html#type/topic/L2) | [topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)   |
+|File31|Topic|Level|Parent Topic|Parent Level|
+|---|---|---|---|---|
+|[topic-ANTHROPOLOGY](app://obsidian.md/content/TOPICS/topic-ANTHROPOLOGY.md)|Topic: ANTHROPOLOGY|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-ATTITUDE](app://obsidian.md/content/TOPICS/topic-ATTITUDE.md)|Topic: ATTITUDE|3|[topic-SPIRITUALITY](app://obsidian.md/content/TOPICS/topic-SPIRITUALITY.md)|2|
+|[topic-APOCALYPSE](app://obsidian.md/content/TOPICS/topic-APOCALYPSE.md)|Topic: APOCALYPSE|5|[topic-HISTORY](app://obsidian.md/content/TOPICS/topic-HISTORY.md)|4|
+|[topic-COSMOLOGY](app://obsidian.md/content/TOPICS/topic-COSMOLOGY.md)|Topic: COSMOLOGY|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-DIVINE-SOVEREIGNTY](app://obsidian.md/content/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|Topic: DIVINE SOVEREIGNTY|2|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-CREATION](app://obsidian.md/content/TOPICS/topic-CREATION.md)|Topic: CREATION|2|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-ECONOMICS](app://obsidian.md/content/TOPICS/topic-ECONOMICS.md)|Topic: ECONOMICS|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-ENTITLEMENT](app://obsidian.md/content/TOPICS/topic-ENTITLEMENT.md)|Topic: ENTITLEMENT|4|[topic-ATTITUDE](app://obsidian.md/content/TOPICS/topic-ATTITUDE.md)|3|
+|[topic-EVIL](app://obsidian.md/content/TOPICS/topic-EVIL.md)|Topic: EVIL|4|[topic-MORALITY](app://obsidian.md/content/TOPICS/topic-MORALITY.md)|3|
+|[topic-FAITHFULNESS](app://obsidian.md/content/TOPICS/topic-FAITHFULNESS.md)|Topic: FAITHFULNESS|2|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-FAITH](app://obsidian.md/content/TOPICS/topic-FAITH.md)|Topic: FAITH|4|[topic-ATTITUDE](app://obsidian.md/content/TOPICS/topic-ATTITUDE.md)|3|
+|[topic-FREEDOM](app://obsidian.md/content/TOPICS/topic-FREEDOM.md)|Topic: FREEDOM|5|[topic-LAW](app://obsidian.md/content/TOPICS/topic-LAW.md)|4|
+|[topic-GEOLOGY](app://obsidian.md/content/TOPICS/topic-GEOLOGY.md)|Topic: GEOLOGY|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-HISTORY](app://obsidian.md/content/TOPICS/topic-HISTORY.md)|Topic: HISTORY|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-JUSTICE](app://obsidian.md/content/TOPICS/topic-JUSTICE.md)|Topic: JUSTICE|5|[topic-LAW](app://obsidian.md/content/TOPICS/topic-LAW.md)|4|
+|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|Topic: HUMANITY|3|[topic-CREATION](app://obsidian.md/content/TOPICS/topic-CREATION.md)|2|
+|[topic-LAW](app://obsidian.md/content/TOPICS/topic-LAW.md)|Topic: LAW|4|[topic-MORALITY](app://obsidian.md/content/TOPICS/topic-MORALITY.md)|3|
+|[topic-MORALITY](app://obsidian.md/content/TOPICS/topic-MORALITY.md)|Topic: MORALITY|3|[topic-SPIRITUALITY](app://obsidian.md/content/TOPICS/topic-SPIRITUALITY.md)|2|
+|[topic-MERCY](app://obsidian.md/content/TOPICS/topic-MERCY.md)|Topic: MERCY|5|[topic-LAW](app://obsidian.md/content/TOPICS/topic-LAW.md)|4|
+|[topic-PSYCHOLOGY](app://obsidian.md/content/TOPICS/topic-PSYCHOLOGY.md)|Topic: PSYCHOLOGY|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-SOCIOLOGY](app://obsidian.md/content/TOPICS/topic-SOCIOLOGY.md)|Topic: SOCIOLOGY|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-SPIRITS](app://obsidian.md/content/TOPICS/topic-SPIRITS.md)|Topic: SPIRITS|3|[topic-CREATION](app://obsidian.md/content/TOPICS/topic-CREATION.md)|2|
+|[topic-SPIRITUALITY](app://obsidian.md/content/TOPICS/topic-SPIRITUALITY.md)|Topic SPIRITUALITY|2|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|Topic: THE GODHEAD|1|[topic-NULL](app://obsidian.md/content/TOPICS/topic-NULL.md)|0|
+|[topic-THE-GOSPEL](app://obsidian.md/content/TOPICS/topic-THE-GOSPEL.md)|Topic: THE GOSPEL|2|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-TRUTH](app://obsidian.md/content/TOPICS/topic-TRUTH.md)|Topic: TRUTH|2|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-UNDERSTANDING](app://obsidian.md/content/TOPICS/topic-UNDERSTANDING.md)|Topic: UNDERSTANDING|3|[topic-SPIRITUALITY](app://obsidian.md/content/TOPICS/topic-SPIRITUALITY.md)|2|
+|[topic-RELIGION](app://obsidian.md/content/TOPICS/topic-RELIGION.md)|Topic: RELIGION|4|[topic-MORALITY](app://obsidian.md/content/TOPICS/topic-MORALITY.md)|3|
+|[topic-POLITICAL-SCIENCE](app://obsidian.md/content/TOPICS/topic-POLITICAL-SCIENCE.md)|Topic: POLITICAL SCIENCE|4|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
+|[topic-WEALTH](app://obsidian.md/content/TOPICS/topic-WEALTH.md)|Topic: WEALTH|3|[topic-CREATION](app://obsidian.md/content/TOPICS/topic-CREATION.md)|2|
+|[topic-NULL](app://obsidian.md/content/TOPICS/topic-NULL.md)|-|0|-|-|
 
 ## Dataview
 type:: #type/table

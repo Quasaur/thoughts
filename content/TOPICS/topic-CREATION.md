@@ -22,6 +22,7 @@ date: 2024-06-26
 [[topic-SPIRITS]]
 
 ## Thoughts
+[[FIGMENTS]]
 
 ## Quotes
 

@@ -9,8 +9,8 @@ aliases:
 > We are all figments of the Divine Imagination--and what an Imagination!
 
 ## Dataview
-ptopic:: [[topic-REALITY]]
+ptopic:: [[topic-CREATION]]
 type:: #type/thought
 title:: "Thought: FIGMENTS"
-level:: 3
+level:: 2
 social:: [ #imagination #fables #lessreal #fictitious #created ]

@@ -12,5 +12,5 @@ aliases:
 ptopic:: [[topic-ECONOMICS]]
 type:: #type/thought
 title:: "Thought: DEBTORS"
-level:: 3
+level:: 4
 social:: [ #economics #nation #debtors #slaves #liability]

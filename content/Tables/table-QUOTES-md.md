@@ -17,20 +17,20 @@ Each Quote is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File column are links that can be clicked on to take you to that particular Quote.
 
-|File (12) |Level|Book|
-|---|---|---|
-|[BEGOTTEN](app://obsidian.md/content/QUOTES/BEGOTTEN.md)|2|'The Basics and More: A Year's Sermons'|
-|[GENIUS](app://obsidian.md/content/QUOTES/GENIUS.md)|3|'"The Traveler's Oasis, Book Three"|
-|[GOD-IS-GOOD](app://obsidian.md/content/QUOTES/GOD-IS-GOOD.md)|1|'"The Traveler's Oasis, Book One"|
-|[PERFECT-PEACE](app://obsidian.md/content/QUOTES/PERFECT-PEACE.md)|2|'"The Traveler's Oasis, Book One"|
-|[REINVENT](app://obsidian.md/content/QUOTES/REINVENT.md)|2|'"The Traveler's Oasis, Book One"|
-|[SO-MANY-GOSPELS](app://obsidian.md/content/QUOTES/SO-MANY-GOSPELS.md)|4|'"The Traveler's Oasis, Book Two"|
-|[UNCONDITIONAL](app://obsidian.md/content/QUOTES/UNCONDITIONAL.md)|2|'"Once Saved, Always Saved: The Assurance of Our Father's LOVE"|
-|[CHRIST-IS-ENOUGH](app://obsidian.md/content/QUOTES/CHRIST-IS-ENOUGH.md)|2|''The Traveler's Oasis, Book Two'|
-|[MY-PROGRAMMING](app://obsidian.md/content/QUOTES/MY-PROGRAMMING.md)|3|''The Traveler's Oasis, Book Two'|
-|[CHAOS](app://obsidian.md/content/QUOTES/CHAOS.md)|3|''The Traveler's Oasis, Book Three'|
-|[WORKS](app://obsidian.md/content/QUOTES/WORKS.md)|4|''The Basics and More: A Year's Sermons'|
-|[ETERNITY](app://obsidian.md/content/QUOTES/ETERNITY.md)|1|''Once Saved, Always Saved: The Assurance of Our Father's LOVE'|
+|File12|Level|Book|Topic|Topic Level|
+|---|---|---|---|---|
+|[CHRIST-IS-ENOUGH](app://obsidian.md/content/QUOTES/CHRIST-IS-ENOUGH.md)|3|''The Traveler's Oasis, Book Two'|[topic-GRACE](app://obsidian.md/content/TOPICS/topic-GRACE.md)|3|
+|[BEGOTTEN](app://obsidian.md/content/QUOTES/BEGOTTEN.md)|2|'The Basics and More: A Year's Sermons'|[topic-THE-GOSPEL](app://obsidian.md/content/TOPICS/topic-THE-GOSPEL.md)|2|
+|[CHAOS](app://obsidian.md/content/QUOTES/CHAOS.md)|4|''The Traveler's Oasis, Book Three'|[topic-PSYCHOLOGY](app://obsidian.md/content/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[GENIUS](app://obsidian.md/content/QUOTES/GENIUS.md)|3|'"The Traveler's Oasis, Book Three"|[topic-UNDERSTANDING](app://obsidian.md/content/TOPICS/topic-UNDERSTANDING.md)|3|
+|[MY-PROGRAMMING](app://obsidian.md/content/QUOTES/MY-PROGRAMMING.md)|4|''The Traveler's Oasis, Book Two'|[topic-PSYCHOLOGY](app://obsidian.md/content/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[REINVENT](app://obsidian.md/content/QUOTES/REINVENT.md)|3|'"The Traveler's Oasis, Book One"|[topic-GRACE](app://obsidian.md/content/TOPICS/topic-GRACE.md)|3|
+|[GOD-IS-GOOD](app://obsidian.md/content/QUOTES/GOD-IS-GOOD.md)|1|'"The Traveler's Oasis, Book One"|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
+|[PERFECT-PEACE](app://obsidian.md/content/QUOTES/PERFECT-PEACE.md)|3|'"The Traveler's Oasis, Book One"|[topic-GRACE](app://obsidian.md/content/TOPICS/topic-GRACE.md)|3|
+|[SO-MANY-GOSPELS](app://obsidian.md/content/QUOTES/SO-MANY-GOSPELS.md)|4|'"The Traveler's Oasis, Book Two"|[topic-RELIGION](app://obsidian.md/content/TOPICS/topic-RELIGION.md)|4|
+|[UNCONDITIONAL](app://obsidian.md/content/QUOTES/UNCONDITIONAL.md)|3|'"Once Saved, Always Saved: The Assurance of Our Father's LOVE"|[topic-GRACE](app://obsidian.md/content/TOPICS/topic-GRACE.md)|3|
+|[WORKS](app://obsidian.md/content/QUOTES/WORKS.md)|4|''The Basics and More: A Year's Sermons'|[topic-RELIGION](app://obsidian.md/content/TOPICS/topic-RELIGION.md)|4|
+|[ETERNITY](app://obsidian.md/content/QUOTES/ETERNITY.md)|1|''Once Saved, Always Saved: The Assurance of Our Father's LOVE'|[topic-THE-GODHEAD](app://obsidian.md/content/TOPICS/topic-THE-GODHEAD.md)|1|
 
 ## Dataview
 type:: #type/table

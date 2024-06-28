@@ -8,26 +8,24 @@ aliases:
   - Table: Recently Modified
 ---
 # Table: RECENT
-This table shows the Topics and/or Thoughts most recently added or modified.
+This table shows the Topics and/or Thoughts most recently deleted, added or modified.
 
 Each Topic or Thought note is identified by its LEVEL. The Level helps you to understand how all Topics and Thoughts are related to each other.
 
-The items in the File column are links that can be clicked on to take you to that particular Topic or Thought.
+The items in the File and Topic columns are links that can be clicked on to take you to that particular Topic or Thought.
 
-| File (12)              | Last Modified* | Level | Type                                                       |
+| File (12)              | Last Modified | Level | Type                                                       |
 | ---------------------- | -------------- | ----- | ---------------------------------------------------------- |
-| [[DARK-MATTER]]        | 2024.06.21     | 5     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[topic-FREEDOM]]      | 2024.06.21     | 2     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
-| [[topic-THE-GODHEAD]]  | 2024.06.21     | 1     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
-| [[topic-THE-GOSPEL]]   | 2024.06.21     | 2     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
-| [[table-THOUGHTS-md]]  | 2024.06.21     | N/A   | [#type/table](app://obsidian.md/index.html#type/table)     |
-| [[DIVINE-SEED]]        | 2024.06.21     | 2     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[INVITE-OR-COMMAND?]] | 2024.06.21     | 2     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[MARK-OF-THE-BEAST]]  | 2024.06.21     | 2     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[MIRACLES]]           | 2024.06.21     | 1     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[MODIFIED-GOSPEL]]    | 2024.06.21     | 2     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[SHUT-DOWN]]          | 2024.06.21     | 2     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[YOUR-KINGDOM]]       | 2024.06.21     | 2     | [#type/thought](app://obsidian.md/index.html#type/thought) |
+| [[SOURCE-OF-WEALTH]]        | 2024.06.27     | 3     | [#type/thought](app://obsidian.md/index.html#type/thought) |
+| [[topic-ANTHROPOLOGY]]      | 2024.06.27     | 4     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
+| [[topic-CREATION]]  | 2024.06.27     | 2     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
+| [[topic-HUMANITY]]   | 2024.06.27     | 3     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
+| [[topic-WEALTH]]  | 2024.06.26     | 3   | [#type/topic](app://obsidian.md/index.html#type/topic)     |
+| [[topic-POLITICAL-SCIENCE]]        | 2024.06.21     | 4     | [#type/topic](app://obsidian.md/index.html#type/topic) |
+| (topic-BEHAVIOR) | 2024.06.27     | N/A     | (DELETED) |
+| (topic-REALITY)  | 2024.06.27     | N/A     | (DELETED) |
+| (topic-RELATIONSHIPS)           | 2024.06.27     | N/A     | (DELETED) |
+| (topic-SCIENCE)    | 2024.06.27     | N/A     | (DELETED) |
 
 ## Dataview
 type:: #type/table

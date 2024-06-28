@@ -25,7 +25,7 @@ date: 2024-06-27
 ## Bible
 
 ## Dataview
-topic:: "Topic: TITLE"
+topic:: "Topic: ANTHROPOLOGY"
 type:: #type/topic/L4 
 level:: 4
 ptopic:: [[topic-HUMANITY]]

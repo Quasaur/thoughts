@@ -7,11 +7,11 @@ TABLE
 	level AS "Level",
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level",
-	dateformat(file.mtime, "yyyy.MM.dd - HH:mm") as "Last Modified*",
+	dateformat(file.mtime, "yyyy.MM.dd") as "Last Modified*",
 	type AS "Type"
    FROM "content"
    WHERE type != "#type/page"
-   SORT dateformat, DESC
+   SORT file.mtime DESC
    LIMIT 15
 ```
 

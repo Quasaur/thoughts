@@ -45,7 +45,7 @@ The Nature of God as existing in Three Persons.
 topic:: "Topic: THE GODHEAD"
 type:: #type/topic/L1
 level:: 1
-ptopic:: "None"
+ptopic:: [[topic-NULL]]
 
 ## Notes
 NOTE: Implement multi-level topics; THE-GODHEAD being the only topic level 1: #type/topic/L1

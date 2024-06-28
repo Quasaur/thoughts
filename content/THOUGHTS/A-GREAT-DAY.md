@@ -10,5 +10,5 @@ draft: false
 ptopic:: [[topic-PSYCHOLOGY]]
 type:: #type/thought
 title:: "Thought: A GREAT DAY"
-level:: 3
+level:: 4
 social:: [ #dailyroutine #eating #sleeping #working discipline ]
