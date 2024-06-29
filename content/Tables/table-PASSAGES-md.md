@@ -19,13 +19,13 @@ The items in the File and Topic columns are links that can be clicked on to take
 
 |File7|Verse(s)|Passage Level|Topic|Topic Level|
 |---|---|---|---|---|
-|[FAITHLESSNESS](app://obsidian.md/content/BIBLE/FAITHLESSNESS.md)|'Proverbs 1:32'|4|[topic-EVIL](app://obsidian.md/content/TOPICS/topic-EVIL.md)|4|
-|[FREEDOM-OF-DEATH](app://obsidian.md/content/BIBLE/FREEDOM-OF-DEATH.md)|'Romans 6:7'|5|[topic-FREEDOM](app://obsidian.md/content/TOPICS/topic-FREEDOM.md)|5|
-|[HEART-OF-THE-KING](app://obsidian.md/content/BIBLE/HEART-OF-THE-KING.md)|'Romans 21:1'|2|[topic-DIVINE-SOVEREIGNTY](app://obsidian.md/content/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
-|[KNOWLEDGE](app://obsidian.md/content/BIBLE/KNOWLEDGE.md)|'Romans 1:7'|3|[topic-HUMANITY](app://obsidian.md/content/TOPICS/topic-HUMANITY.md)|3|
-|[NOT-OF-FAITH](app://obsidian.md/content/BIBLE/NOT-OF-FAITH.md)|'Romans 14:23'|4|[topic-FAITH](app://obsidian.md/content/TOPICS/topic-FAITH.md)|4|
-|[SOURCE-OF-WEALTH](app://obsidian.md/content/BIBLE/SOURCE-OF-WEALTH.md)|'Deuteronomy 8:18'|3|[topic-WEALTH](app://obsidian.md/content/TOPICS/topic-WEALTH.md)|3|
-|[WHAT-THE-WISE-DO](app://obsidian.md/content/BIBLE/WHAT-THE-WISE-DO.md)|'Proverbs 1:5'|3|[topic-UNDERSTANDING](app://obsidian.md/content/TOPICS/topic-UNDERSTANDING.md)|3|
+|[FAITHLESSNESS](/BIBLE/FAITHLESSNESS.md)|'Proverbs 1:32'|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
+|[FREEDOM-OF-DEATH](/BIBLE/FREEDOM-OF-DEATH.md)|'Romans 6:7'|5|[topic-FREEDOM](/TOPICS/topic-FREEDOM.md)|5|
+|[HEART-OF-THE-KING](/BIBLE/HEART-OF-THE-KING.md)|'Romans 21:1'|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
+|[KNOWLEDGE](/BIBLE/KNOWLEDGE.md)|'Romans 1:7'|3|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
+|[NOT-OF-FAITH](/BIBLE/NOT-OF-FAITH.md)|'Romans 14:23'|4|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|
+|[SOURCE-OF-WEALTH](/BIBLE/SOURCE-OF-WEALTH.md)|'Deuteronomy 8:18'|3|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
+|[WHAT-THE-WISE-DO](/BIBLE/WHAT-THE-WISE-DO.md)|'Proverbs 1:5'|3|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
 
 ## Dataview
 type:: #type/table
