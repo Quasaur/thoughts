@@ -16,12 +16,12 @@ The items in the File and Topic columns are links that can be clicked on to take
 
 | File (12)              | Last Modified | Level | Type                                                       |
 | ---------------------- | -------------- | ----- | ---------------------------------------------------------- |
-| [[SOURCE-OF-WEALTH]]        | 2024.06.27     | 3     | [#type/thought](app://obsidian.md/index.html#type/thought) |
-| [[topic-ANTHROPOLOGY]]      | 2024.06.27     | 4     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
-| [[topic-CREATION]]  | 2024.06.27     | 2     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
-| [[topic-HUMANITY]]   | 2024.06.27     | 3     | [#type/topic](app://obsidian.md/index.html#type/topic)     |
-| [[topic-WEALTH]]  | 2024.06.26     | 3   | [#type/topic](app://obsidian.md/index.html#type/topic)     |
-| [[topic-POLITICAL-SCIENCE]]        | 2024.06.21     | 4     | [#type/topic](app://obsidian.md/index.html#type/topic) |
+| [[SOURCE-OF-WEALTH]]        | 2024.06.27     | 3     | [#type/thought](/index.html#type/thought) |
+| [[topic-ANTHROPOLOGY]]      | 2024.06.27     | 4     | [#type/topic](/index.html#type/topic)     |
+| [[topic-CREATION]]  | 2024.06.27     | 2     | [#type/topic](/index.html#type/topic)     |
+| [[topic-HUMANITY]]   | 2024.06.27     | 3     | [#type/topic](/index.html#type/topic)     |
+| [[topic-WEALTH]]  | 2024.06.26     | 3   | [#type/topic](/index.html#type/topic)     |
+| [[topic-POLITICAL-SCIENCE]]        | 2024.06.21     | 4     | [#type/topic](/index.html#type/topic) |
 | (topic-BEHAVIOR) | 2024.06.27     | N/A     | (DELETED) |
 | (topic-REALITY)  | 2024.06.27     | N/A     | (DELETED) |
 | (topic-RELATIONSHIPS)           | 2024.06.27     | N/A     | (DELETED) |
