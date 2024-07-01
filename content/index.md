@@ -39,7 +39,7 @@ Whether or not the sidebars to the left and right are visible is a function of h
 	- [Table: Thoughts (sorted by file)](table-THOUGHTS-MD-File.md)
 	- [Table: Thoughts (sorted by level)](table-THOUGHTS-MD-Level.md)
 	- [Table: Thoughts (sorted by modified date)](table-THOUGHTS-MD-Modified.md)
-	- [Table: Thoughts (sorted by topic)](table-THOUGHTS-MD-topic.md)
+	- [Table: Thoughts (sorted by topic)](table-THOUGHTS-MD-Topic.md)
 - [Table: Quotes (md)](Tables/table-QUOTES-md)
 - [Table: Passages (md)](Tables/table-PASSAGES-md)
 
