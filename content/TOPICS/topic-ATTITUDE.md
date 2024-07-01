@@ -19,6 +19,7 @@ A feeling, emotion or mental position to a fact or state.
 [[topic-ENTITLEMENT]]
 
 [[topic-FAITH]]
+
 ## Thoughts 
 [[AUTOMATIC MERCY]]
 
@@ -30,9 +31,13 @@ A feeling, emotion or mental position to a fact or state.
 
 [[HUMAN-MERCY]]
 
+[[INNER-REALITY]]
+
 [[ONE-REASON]]
 
 [[STRENGTH]]
+
+[[UNFORGIVENESS]]
 
 ## Dataview
 topic:: "Topic: ATTITUDE"

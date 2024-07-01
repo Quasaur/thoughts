@@ -22,6 +22,7 @@ The Life, Death, Burial and Resurrection of Jesus Christ.
 [[MARK-OF-THE-BEAST]]
 
 [[MODIFIED-GOSPEL]]
+
 ## Dataview
 topic:: "Topic: THE GOSPEL"
 type:: #type/topic/L2 

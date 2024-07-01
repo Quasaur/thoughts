@@ -1,14 +1,15 @@
 ---
-title: "Table: Tweets"
+title: "Table: Thoughts DV - Modified"
 draft: true
 ---
 ```dataview
 TABLE
 	level AS "Level",
+	dateformat(file.mtime, "yyyy.MM.dd") as "Last Modified*",
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level"
    FROM "content/THOUGHTS"
-   SORT ID ASC
+   SORT file.mtime DESC
 ```
 
 

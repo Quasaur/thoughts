@@ -24,6 +24,8 @@ date: 2024-06-26
 ## Thoughts
 [[FIGMENTS]]
 
+[[IN-HIM-WE-LIVE]]
+
 ## Quotes
 
 ## Bible

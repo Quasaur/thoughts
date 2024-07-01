@@ -35,10 +35,13 @@ The best place to start is with the tables. The tables will provide you easy and
 
 Whether or not the sidebars to the left and right are visible is a function of how wide you've set the webpage in your browser; so I'm also going to list the Tables here...go ahead and select one!
 - [Table: Topics (md)](Tables/table-TOPICS-md)
-- [Table: Thoughts (md)](Tables/table-THOUGHTS-md)
+- Table: Thoughts
+	- [Table: Thoughts (sorted by file)](table-THOUGHTS-MD-File.md)
+	- [Table: Thoughts (sorted by level)](table-THOUGHTS-MD-Level.md)
+	- [Table: Thoughts (sorted by modified date)](table-THOUGHTS-MD-Modified.md)
+	- [Table: Thoughts (sorted by topic)](table-THOUGHTS-MD-topic.md)
 - [Table: Quotes (md)](Tables/table-QUOTES-md)
 - [Table: Passages (md)](Tables/table-PASSAGES-md)
-- [Table: Recent (md)](Tables/table-RECENT-md)
 
 ## The Tags
 Tags are objects meant to make searching the increasingly vast ocean of The Book of Thoughts easier. Clicking on a tag in either a topic ('#type/topic/L2', for instance) or a thought (anything with a hashtag ['#'] in front of it) will take you to a page which will list every thought that tag is found in.

@@ -37,7 +37,7 @@ The best place to start is with the tables. The tables will provide you easy and
 
 Whether or not the sidebars to the left and right are visible is a function of how wide you've set the webpage in your browser; so I'm also going to list the Tables here...go ahead and select one!
 - [Table: Topics (md)](Tables/table-TOPICS-md)
-- [Table: Thoughts (md)](Tables/table-THOUGHTS-md)
+- [Table: Thoughts (md)](table-THOUGHTS-MD-File.md)
 - [Table: Quotes (md)](Tables/table-QUOTES-md)
 - [Table: Passages (md)](Tables/table-PASSAGES-md)
 - [Table: Recent (md)](Tables/table-RECENT-md)

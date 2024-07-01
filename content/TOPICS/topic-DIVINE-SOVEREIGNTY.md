@@ -18,7 +18,11 @@ God's Right to do as He pleases.
 
 
 ## Thoughts
+[[POINTLESS]]
+
 [[PREDESTINED]]
+
+[[UNSUBMISSIVE]]
 
 [[VOLITION]]
 
