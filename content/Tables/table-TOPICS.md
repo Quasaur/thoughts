@@ -1,7 +1,10 @@
 ---
 title: "Table: Topics"
 draft: true
+tags:
+- table
 ---
+# Table: TOPICS (hidden)
 ```dataview
 TABLE
    topic AS "Topic",
@@ -15,3 +18,4 @@ ptopic.level AS "Parent Level"
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index|index]]

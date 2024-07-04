@@ -2,11 +2,13 @@
 title: "table: QUOTES (md)"
 draft: false
 description: All of the QUOTES from Author Calvin Mitchell's other books.
+tags:
+- table
 aliases:
   - "Table: Citations"
   - "Table:: Menions"
 ---
-# Table: QUOTES
+# Table: QUOTES (md)
 This table identifies all of the Quotes from my other eight books currently added to the online Book of Thoughts.
 
 Each Quote has its own file, which includes:
@@ -34,3 +36,4 @@ The items in the File column are links that can be clicked on to take you to tha
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index]]

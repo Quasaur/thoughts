@@ -1,7 +1,10 @@
 ---
 title: "Table: RECENT"
 draft: true
+tags:
+- table
 ---
+# Table: RECENT (hidden)
 ```dataview
 TABLE 
 	level AS "Level",
@@ -18,6 +21,7 @@ TABLE
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index]]
 
 ## Snippets
 ```dataview

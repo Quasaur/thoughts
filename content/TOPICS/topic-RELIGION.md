@@ -16,6 +16,8 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 
 
 ## Thoughts
+[[EVOLUTION-IS-SCIENCE?]]
+
 [[ISLAM]]
 
 [[PERSECUTION]]

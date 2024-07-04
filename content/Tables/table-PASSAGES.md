@@ -1,7 +1,10 @@
 ---
 title: "Table: PASSAGES"
 draft: true
+tags:
+- table
 ---
+# Table: PASSAGES (hidden)
 ```dataview
 TABLE
 	source AS "Verse(s)",
@@ -15,6 +18,7 @@ TABLE
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index]]
 
 ## Snippets
 

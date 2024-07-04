@@ -1,7 +1,10 @@
 ---
 title: "Table: QUOTES"
 draft: true
+tags:
+- table
 ---
+# Table: QUOTES (hidden)
 ```dataview
 TABLE
 	level AS "Level",
@@ -14,6 +17,7 @@ SORT ID ASC
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index]]
 
 ## Snippets
 ```dataview

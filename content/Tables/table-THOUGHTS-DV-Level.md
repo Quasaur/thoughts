@@ -1,7 +1,10 @@
 ---
 title: "Table: Thoughts DV - Level"
 draft: true
+tags:
+- table
 ---
+# Table: THOUGHTS DV - Level (hidden)
 ```dataview
 TABLE
 	level AS "Level*",
@@ -14,6 +17,7 @@ TABLE
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index]]
 
 ## Snippets
 

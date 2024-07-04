@@ -34,7 +34,7 @@ So...here's how to get started:
 The best place to start is with the tables. The tables will provide you easy and browsable lists of The Book of Thoughts (formerly The Book of Tweets) content.
 
 Whether or not the sidebars to the left and right are visible is a function of how wide you've set the webpage in your browser; so I'm also going to list the Tables here...go ahead and select one!
-- [Table: Topics (md)](Tables/table-TOPICS-md)
+- [[table-TOPICS-md]]
 - Table: Thoughts
 	- [Table: Thoughts (sorted by file)](table-THOUGHTS-MD-File.md)
 	- [Table: Thoughts (sorted by level)](table-THOUGHTS-MD-Level.md)

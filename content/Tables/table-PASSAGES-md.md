@@ -2,11 +2,13 @@
 title: "table: PASSAGES (md)"
 draft: false
 description: All of the PASSAGES of Wisdom from The Bible.
+tags:
+- table
 aliases:
   - "Table: Proverbs"
   - "Table: Biblical Wisdom"
 ---
-# Table: PASSAGES
+# Table: PASSAGES (md)
 This table identifies all of the PASSAGES of Divine Wisdom located in the Holy Scriptures Christians refer to as The Holy Bible that have been added to this online Book of Thoughts.
 
 Each Passage has its own file, which includes:
@@ -29,3 +31,4 @@ The items in the File and Topic columns are links that can be clicked on to take
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index]]

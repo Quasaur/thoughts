@@ -2,12 +2,14 @@
 title: "table: TOPICS (md)"
 draft: false
 description: All of the TOPICS covered in the Book of Toughts.
+tags:
+- table
 aliases:
   - '"Table: Indexes"'
   - '"Table: Subjects"'
   - '"Table: Categories"'
 ---
-# Table: TOPICS
+# Table: TOPICS (md)
 This table identifies all of the topics addressed by my thoughts.
 
 Each topic has its own file, which includes:
@@ -56,3 +58,4 @@ The items in the File and Parent Topic File columns are links that can be clicke
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index|index]]

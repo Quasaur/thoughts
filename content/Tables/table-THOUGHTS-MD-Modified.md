@@ -2,11 +2,13 @@
 title: "table: THOUGHTS (sorted by Modified Date)"
 draft: false
 description: All of the THOUGHTS in the Book of Toughts.
+tags:
+- table
 aliases:
   - "Table: Proverbs (modified)"
   - "Table: Precepts (modified)"
 ---
-# Table: THOUGHTS
+# Table: THOUGHTS (sorted by Modfied Date)
 This table identifies all of the Thoughts currently added to the online Book of Thoughts.
 
 Each Thought has its own file, which includes:
@@ -123,3 +125,4 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 
 ## Dataview
 type:: #type/table
+parent:: [[content/index|index]]
