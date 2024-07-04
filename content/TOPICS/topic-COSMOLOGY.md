@@ -18,7 +18,9 @@ The study of the social belief systems humans have held across different times a
 ## Thoughts
 [[DARK-MATTER]]
 
-[[content/THOUGHTS/REALITY]]
+[[LOST-SCIENTISTS]]
+
+[[REALITY]]
 
 [[SCIENCE-CONSPIRACY]]
 
