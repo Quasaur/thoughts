@@ -147,6 +147,26 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // svg groups
   const graphNode = svg.append("g").selectAll("g").data(graphData.nodes).enter().append("g")
 
+  // color map copied over from index.mjs
+  var nodeClrs = {
+    black: "#000000",
+    red: "#bb0000",
+    green: "#00bb00",
+    yellow: "#bbbb00",
+    blue: "#0000bb",
+    magenta: "#ff00ff",
+    cyan: "#00bbbb",
+    white: "#eeeeee",
+    brightBlack: "#555555",
+    brightRed: "#ff5555",
+    brightGreen: "#00ff00",
+    brightYellow: "#ffff55",
+    brightBlue: "#5555ff",
+    brightMagenta: "#ff55ff",
+    brightCyan: "#55ffff",
+    brightWhite: "#ffffff"
+  };
+
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
@@ -155,13 +175,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return "var(--tertiary)"
     } else if (d.tags.includes("#type/topic")) {
-      return "var(magenta)"
+      return nodeClrs.magenta
     }  else if (d.tags.includes("#type/thought")) {
-      return "var(green)"
+      return nodeClrs.green
     }  else if (d.tags.includes("#type/quote")) {
-      return "var(brightyellow)"
+      return nodeClrs.brightyellow
     }  else if (d.tags.includes("#type/passage")) {
-      return "var(brightblue)"
+      return nodeClrs.brightblue
     } else { return "var(--gray)"}
   }
 
