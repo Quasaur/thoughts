@@ -46,24 +46,26 @@ Whether or not the sidebars to the left and right are visible is a function of h
 ## The Tags
 Tags are objects meant to make searching the increasingly vast ocean of The Book of Thoughts easier. Clicking on a tag in either a topic ('#type/topic/L2', for instance) or a thought (anything with a hashtag ['#'] in front of it) will take you to a page which will list every thought that tag is found in.
 
-NOTICE; I have removed the Social Tags column from The Thoughts Table ("table-Thoughts-md") so that the Graph View doesn't repeat tags unnecessarily.
+NOTICE; I have removed the Social Tags column from The Thoughts Table ("table-THOUGHTS-MD-File.md") so that the Graph View doesn't repeat tags unnecessarily.
 
 ## Graph View
-The prime feature of this site is the Graph View, seen either at the top right or bottom of each page. What the Graph View displays is a function of each page's content; that is, when you load the page for a topic or thought, Graph View switches its focus to that topic or thought!
+The prime feature of this site is the Graph View, seen either at the top right or bottom of each page. What the Graph View displays is a function of each page's content; that is, when you load the page for a topic, thought, quote or Bible Passage, Graph View switches its focus to that topic or thought!
 
-At the upper-right corner of the Graph View window there is a small icon; click on it and the Graph View will expand its size for easier navigation. You can always DRAG the content of the Graph View around to center on the area of your choice.
+At the upper-right corner of the Graph View window there is a small icon; click on it and the Graph View will expand its size for easier navigation. You can always DRAG the content of the Graph View around to center on the area of your choice. 
 
-If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Graph View to better discover the lines that link objects as well as receive a clearer view of the objects themselves. Every topic will (eventually) be preceded by the word "topic;" every tag will be preceded by a hashtag ('#'); and everything else will probably be a Thought, meant to feed your soul and spirit with Wisdom!
+If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Graph View to better discover the lines that link objects as well as receive a clearer view of the objects themselves. Every topic will (eventually) be preceded by the word "topic;" every tag will be preceded by a hashtag ('#'); and everything else will probably be a Thought, Quote or Bible Passage meant to feed your soul and spirit with Wisdom!
+
+Also be aware that if you hover your pointer over a particular node, when you zoom in or out with your scroll bar that node will remain the center of the zoom!
 
 ## Donate
 Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom will! If you find VALUE in the Wisdom presented at this site, [let me know](https://clmjournal.com/contact): my Cash App ID is [@Quasaur](https://cash.app/$Quasaur).
 
 ## Roadmap
 This is what i intend to accomplish in the next few years:
-1. The 85 Thoughts currently posted must have their notes edited...this might take a few weeks (COMPLETED).
+1. The 85 Thoughts originally posted must have their notes edited...this might take a few weeks (COMPLETED).
 2. There are HUNDREDS of more tweets in the original Book of Tweets (667, to be exact); all of these must be added as well (IN-PROCESS).
-3. All of my social media posts across all platforms I am currently a member of will be added next.
-4. I will at this point add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
+3. All of my social media posts across all platforms I am currently a member of will be added next (IN-PROCESS).
+4. I will also add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
 5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (TESTING).
 
 ## Preface to the First Edition
@@ -72,7 +74,7 @@ This is what i intend to accomplish in the next few years:
 ## Never Finished
 I brought this site to a condition that, i believe, **you will benefit from**. This site is NOT finished...it will NEVER be finished, even after I'm dead. I promise you, however, that i will NEVER stop adding to it until i am dead.
 
-## Abount the Author
+## About the Author
 [About the Author](https://clmjournal.com/author)
 ## Dataview
 type:: #type/page
