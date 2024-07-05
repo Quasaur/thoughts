@@ -154,9 +154,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       return "var(--secondary)"
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return "var(--tertiary)"
-    } else {
-      return "var(--gray)"
-    }
+    } else if (d.tags.includes("#type/topic")) {
+      return "var(magenta)"
+    }  else if (d.tags.includes("#type/thought")) {
+      return "var(green)"
+    }  else if (d.tags.includes("#type/quote")) {
+      return "var(brightyellow)"
+    }  else if (d.tags.includes("#type/passage")) {
+      return "var(brightblue)"
+    } else { return "var(--gray)"}
   }
 
   const drag = (simulation: d3.Simulation<NodeData, LinkData>) => {

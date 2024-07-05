@@ -9,7 +9,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-WEALTH]]
-type:: #type/template/passage
+type:: #type/passage
 title:: "Passage: SOURCE OF WEALTH"
 source:: 'Deuteronomy 8:18'
 biblelink:: (https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A18&version=NASB)

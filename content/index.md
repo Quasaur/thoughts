@@ -48,6 +48,13 @@ Tags are objects meant to make searching the increasingly vast ocean of The Book
 
 NOTICE; I have removed the Social Tags column from The Thoughts Table ("table-THOUGHTS-MD-File.md") so that the Graph View doesn't repeat tags unnecessarily.
 
+## The Templates
+I'm still learning the use of the Templater Obsidian plugin which, i'm sure, will enhance the features of The Book of Thoughts. Meanwhile, I'm employing (and, when necessary, updating) the following templates based on the core plugin:
+- [[topic]]
+- [[thought]]
+- [[quote]]
+- [[passage]]
+
 ## Graph View
 The prime feature of this site is the Graph View, seen either at the top right or bottom of each page. What the Graph View displays is a function of each page's content; that is, when you load the page for a topic, thought, quote or Bible Passage, Graph View switches its focus to that topic or thought!
 
