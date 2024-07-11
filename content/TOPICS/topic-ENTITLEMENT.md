@@ -1,6 +1,7 @@
 ---
 title: "ENTITLEMENT"
 draft: false
+type: TOPIC
 tags:
   - entitled
   - privilege
@@ -19,7 +20,6 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 [[DEBT]]
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-ATTITUDE]]
 

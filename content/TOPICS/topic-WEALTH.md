@@ -2,6 +2,7 @@
 title: "WEALTH"
 draft: false
 description: The abundance of valuable material, possessions or resources.
+type: TOPIC
 tags:
   - assets
   - capital
@@ -24,7 +25,6 @@ date: 2024-06-26
 [[UNJUST-GAIN]]
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: [[topic-CREATION]]
 

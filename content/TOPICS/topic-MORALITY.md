@@ -1,6 +1,7 @@
 ---
 title: "MORALITY"
 draft: false
+type: TOPIC
 tags:
   - morals
   - righteousness
@@ -24,7 +25,6 @@ A doctrine or system of moral conduct
 [[INTEGRITY]]
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 

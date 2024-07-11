@@ -1,6 +1,7 @@
 ---
 title: "RELIGION"
 draft: false
+type: TOPIC
 tags:
   - cult
   - creed
@@ -38,7 +39,6 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 ## Bible
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-MORALITY]]
 

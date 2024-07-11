@@ -4,5 +4,4 @@ draft: false
 ---
 
 ## Dataview
-type:: topic
 level:: 0

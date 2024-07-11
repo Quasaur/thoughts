@@ -1,6 +1,7 @@
 ---
 title: "SOCIOLOGY"
 draft: false
+type: TOPIC
 tags:
   - humanity
   - relations
@@ -21,7 +22,6 @@ The science of society, social institutions, and social relationships.
 ## Thoughts
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

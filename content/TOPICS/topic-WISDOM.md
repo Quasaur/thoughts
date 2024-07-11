@@ -1,6 +1,7 @@
 ---
 title: "WISDOM"
 draft: false
+type: TOPIC
 tags:
   - insight
   - discernment
@@ -18,7 +19,6 @@ A wise attitude, belief, or course of action
 ## Thoughts
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 

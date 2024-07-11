@@ -1,6 +1,7 @@
 ---
 title: "GEOLOGY"
 draft: false
+type: TOPIC
 tags:
   - rocks
   - strata
@@ -20,7 +21,6 @@ Study of the solid matter of a celestial body.
 [[FOSSILS]]
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

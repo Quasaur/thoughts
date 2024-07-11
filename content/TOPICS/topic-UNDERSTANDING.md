@@ -1,6 +1,7 @@
 ---
 title: "UNDERSTANDING"
 draft: false
+type: TOPIC
 tags:
   - comprehension
   - mental
@@ -29,7 +30,6 @@ A mental grasp of truth or an agreement between individuals or groups.
 [[WHAT-THE-WISE-DO]]
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 

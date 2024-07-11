@@ -1,6 +1,7 @@
 ---
 title: "DIVINE SOVEREIGNTY"
 draft: false
+type: TOPIC
 tags:
   - sovereignty
   - lordship
@@ -32,7 +33,6 @@ God's Right to do as He pleases.
 [[HEART-OF-THE-KING]]
 
 ## Dataview
-type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

@@ -1,6 +1,7 @@
 ---
 title: "Topic: POLITICAL SCIENCE"
 draft: false
+type: TOPIC
 tags:
   - patriotism
   - chauvinism
@@ -23,7 +24,6 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 [[AMERICAN]]
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

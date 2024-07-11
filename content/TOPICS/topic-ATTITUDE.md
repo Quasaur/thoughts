@@ -1,6 +1,7 @@
 ---
 title: "ATTITUDE"
 draft: false
+type: TOPIC
 tags:
   - mentality
   - disposition
@@ -40,7 +41,6 @@ A feeling, emotion or mental position to a fact or state.
 [[UNFORGIVENESS]]
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 

@@ -1,6 +1,7 @@
 ---
 title: "HISTORY"
 draft: false
+type: TOPIC
 tags:
   - annals
   - chronicles
@@ -28,7 +29,6 @@ an account of important events in the order in which they happened
 ## Bible
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

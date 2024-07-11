@@ -1,6 +1,7 @@
 ---
 title: "THE GOSPEL"
 draft: false
+type: TOPIC
 tags:
   - evangel
   - good
@@ -24,7 +25,6 @@ The Life, Death, Burial and Resurrection of Jesus Christ.
 [[MODIFIED-GOSPEL]]
 
 ## Dataview
-type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

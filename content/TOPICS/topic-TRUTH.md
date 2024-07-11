@@ -1,6 +1,7 @@
 ---
 title: "TRUTH"
 draft: false
+type: TOPIC
 tags:
   - actuality
   - reality
@@ -20,7 +21,6 @@ A transcendent fundamental or spiritual reality.
 
 
 ## Dataview
-type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

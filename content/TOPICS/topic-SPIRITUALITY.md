@@ -1,6 +1,7 @@
 ---
 title: "SPIRITUALITY"
 draft: false
+type: TOPIC
 tags:
   - philosophy
   - attitude
@@ -26,7 +27,6 @@ Sensitivity or attachment to religious values.
 [[WORSHIP]]
 
 ## Dataview
-type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

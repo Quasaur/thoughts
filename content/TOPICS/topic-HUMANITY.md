@@ -2,6 +2,7 @@
 title: "HUMANITY"
 draft: false
 description: Mankind, male and female, created in the Image and Likeness of The GODNEAD.
+type: TOPIC
 tags:
   - adam
   - humans
@@ -38,7 +39,6 @@ date: 2024-06-27
 [[KNOWLEDGE]]
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: [[topic-CREATION]]
 

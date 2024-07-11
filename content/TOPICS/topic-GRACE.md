@@ -1,6 +1,7 @@
 ---
 title: "GRACE"
 draft: false
+type: TOPIC
 tags:
   - kindness
   - blessing
@@ -44,7 +45,6 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: "[[topic-CREATION]]
 

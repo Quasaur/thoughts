@@ -1,6 +1,7 @@
 ---
 title: "THE GODHEAD"
 draft: false
+type: TOPIC
 tags:
   - starting_point
   - level_one
@@ -48,7 +49,6 @@ The Nature of God as existing in Three Persons.
 ## Bible
 
 ## Dataview
-type:: topic
 level:: 1
 ptopic:: [[topic-NULL]]
 

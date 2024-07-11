@@ -1,6 +1,7 @@
 ---
 title: "MERCY"
 draft: false
+type: TOPIC
 tags:
   - compassion
   - leniency
@@ -21,7 +22,6 @@ Compassion or forbearance shown to an offender or to one subject to another’s 
 [[FORGIVENESS]]
 
 ## Dataview
-type:: topic
 level:: 5
 ptopic:: [[topic-LAW]]
 

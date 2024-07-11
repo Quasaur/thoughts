@@ -2,6 +2,7 @@
 title: "CREATION"
 draft: false
 description: All beings, places and things that exist apart from The GODHEAD as a result of Divine Creation.
+type: TOPIC
 tags:
   - creation
   - cosmos
@@ -31,7 +32,6 @@ date: 2024-06-26
 ## Bible
 
 ## Dataview
-type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

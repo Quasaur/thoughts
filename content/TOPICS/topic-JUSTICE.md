@@ -1,6 +1,7 @@
 ---
 title: "JUSTICE"
 draft: false
+type: TOPIC
 tags:
   - equity
   - fairness
@@ -27,7 +28,6 @@ The practice or instance of giving to others what is their due.
 [[TIME]]
 
 ## Dataview
-type:: topic
 level:: 5
 ptopic:: [[topic-LAW]]
 

@@ -1,6 +1,7 @@
 ---
 title: "FAITH"
 draft: false
+type: TOPIC
 tags:
   - truth
   - belief
@@ -23,7 +24,6 @@ Confidence in the Words of God that inspires intent, speech and action.
 [[NOT-OF-FAITH]]
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-ATTITUDE]]
 

@@ -1,6 +1,7 @@
 ---
 title: "LAW"
 draft: false
+type: TOPIC
 tags:
   - ordiance
   - legislation
@@ -23,7 +24,6 @@ A binding custom or practice of a community formally recognized as binding or e
 [[HUMAN-LAW]]
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-MORALITY]]
 

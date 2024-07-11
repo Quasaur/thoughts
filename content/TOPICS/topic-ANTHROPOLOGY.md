@@ -2,6 +2,7 @@
 title: "ANTHROPOLOGY"
 draft: false
 description: The study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture.
+type: TOPIC
 tags:
   - cultural
   - physical
@@ -25,7 +26,6 @@ date: 2024-06-27
 ## Bible
 
 ## Dataview
-type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

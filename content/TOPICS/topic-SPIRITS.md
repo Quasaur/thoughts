@@ -1,6 +1,7 @@
 ---
 title: "SPIRITS"
 draft: false
+type: TOPIC
 tags:
   - life
   - attitude
@@ -27,7 +28,6 @@ The animating or vital Principle held to give life to physical organisms; supern
 
 
 ## Dataview
-type:: topic
 level:: 3
 ptopic:: [[topic-CREATION]]
 
