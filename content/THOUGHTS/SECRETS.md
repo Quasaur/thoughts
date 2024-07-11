@@ -1,7 +1,8 @@
 ---
 title: "Thought: SECRETS"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Secrets"
 - "Thought: Secrets of the Universe"
 ---

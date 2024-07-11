@@ -1,7 +1,8 @@
 ---
 title: "Thought: POINTLESS"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Absence of Purpose"
 - "Thought: Meaninglessness"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Thought: EMPTINESS"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: The Void Within:
 - "Thought: The GOD-Shaped Hole"
 ---

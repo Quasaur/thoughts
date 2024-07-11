@@ -1,7 +1,8 @@
 ---
 title: "Thought: LOVING OR LOVED?"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Which is Better?"
 - "Thought: Loving or Being Loved?"
 ---

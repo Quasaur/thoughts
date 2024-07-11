@@ -1,7 +1,8 @@
 ---
 title: "Thought: SKEWERED TIMELINES"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Evolutionary Timelines"
 ---
 # Thought: SKEWERED TIMELINES

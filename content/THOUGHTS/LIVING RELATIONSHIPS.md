@@ -1,7 +1,8 @@
 ---
 title: "Thought: LIVING RELATIONSHIP"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: The Two Greatest Commandments"
 - "Thought: Relating to God Through Others"
 ---

@@ -2,6 +2,7 @@
 title: Start Here!
 draft: false
 description: Home Page for the Book of Thoughts
+type: PAGE
 tags:
   - home
   - Introduction
@@ -86,4 +87,3 @@ I brought this site to a condition that, i believe, **you will benefit from**. T
 [About the Author](https://clmjournal.com/author)
 
 ## Dataview
-type:: page

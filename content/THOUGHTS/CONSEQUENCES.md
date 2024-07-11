@@ -1,7 +1,8 @@
 ---
 title: "Thought: CONSEQUENCES"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Consequences of Mercy"
 ---
 # Thought: CONSEQUENCES 

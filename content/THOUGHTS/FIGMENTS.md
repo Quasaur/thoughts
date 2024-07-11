@@ -1,7 +1,8 @@
 ---
 title: "Thought: FIGMENTS"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Fictitious Fables"
 ---
 # Thought: FIGMENTS

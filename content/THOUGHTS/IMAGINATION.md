@@ -1,7 +1,8 @@
 ---
 title: "Thought: IMAGINATION"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Visualization
 - "Thought: Conceptualization"
 ---

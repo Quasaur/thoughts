@@ -1,7 +1,8 @@
 ---
 title: "Thought: UNFORGIVENESS"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Grudge"
 - "Thought: Unmerciful"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Thought: ENDING"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: End of the World"
 - "Thought: Revelation"
 ---

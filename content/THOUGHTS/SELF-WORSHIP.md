@@ -1,7 +1,8 @@
 ---
 title: "Thought: SELF WORSHIP"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Narcissism"
 ---
 # Thought: SELF WORSHIP

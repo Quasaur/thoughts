@@ -1,7 +1,8 @@
 ---
 title: "Thought: GOD AWARENESS"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: The God Who is Here"
 ---
 # Thought: GOD AWARENESS

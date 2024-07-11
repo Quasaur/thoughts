@@ -5,7 +5,7 @@ draft: true
 # Table: THOUGHTS DV - File (hidden)
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Title*",
+	file.link AS "File*",
 	level AS "Level",
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level"

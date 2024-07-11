@@ -1,7 +1,8 @@
 ---
 title: "Thought: OBLIVION"
 draft: false
-type: THOUGHTaliases: [Extinction, Apocalypse]
+type: THOUGHT
+aliases: [Extinction, Apocalypse]
 ---
 # OBLIVION
 The Lord Jesus said that humanity would be driven to the edge of extinction before He returns…and Jesus never lies.

@@ -1,7 +1,8 @@
 ---
 title: "Thought: CITIZENSHIP"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Heavenly Nationalism"
 - "Thought: Kingdom of God"
 ---

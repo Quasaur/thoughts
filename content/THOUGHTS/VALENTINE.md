@@ -1,7 +1,8 @@
 ---
 title: "Thought: VALENTINE"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: St. Valentine's Day"
 - "Thought: My Wife"
 ---

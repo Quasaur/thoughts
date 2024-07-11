@@ -1,7 +1,8 @@
 ---
 title: "Thought: HUMANITARIANISM"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Humanity's Godhood"
 ---
 # Thought: HUMANITARIANISM

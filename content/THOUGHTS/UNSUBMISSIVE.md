@@ -1,7 +1,8 @@
 ---
 title: "Thought: UNSUBMISSIVE"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Rebellious"
 - "Thought: Resisting the Holy Spirit"
 ---

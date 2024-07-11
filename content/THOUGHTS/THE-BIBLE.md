@@ -1,7 +1,8 @@
 ---
 title: "Thought: THE BIBLE"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Apostasy"
 - "Thought: Heresy"
 ---

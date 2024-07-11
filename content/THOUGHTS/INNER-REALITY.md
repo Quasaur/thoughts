@@ -1,7 +1,8 @@
 ---
 title: "Thought: INNER REALITY"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Feelings"
 - "Thought: Self-Centeredness"
 ---

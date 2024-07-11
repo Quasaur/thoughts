@@ -1,7 +1,8 @@
 ---
 title: "Thought: MURDER"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Intent to Murder"
 - "Thought: Thou Shalt Not Kill"
 ---

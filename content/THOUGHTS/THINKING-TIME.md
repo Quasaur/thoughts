@@ -1,7 +1,8 @@
 ---
 title: "Thought: THINKING TIME"
 draft: false
-type: THOUGHTaliases:
+type: THOUGHT
+aliases:
 - "Thought: Focus"
 - "Thought: Priorities"
 ---
