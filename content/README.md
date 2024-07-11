@@ -1,6 +1,8 @@
 ---
 title: GitHub README
 draft: true
+tags:
+- PAGE
 ---
 
 # Welcome!

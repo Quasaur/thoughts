@@ -2,8 +2,6 @@
 title: "table: QUOTES (md)"
 draft: false
 description: All of the QUOTES from Author Calvin Mitchell's other books.
-tags:
-- table
 aliases:
   - "Table: Citations"
   - "Table:: Menions"
@@ -35,5 +33,5 @@ The items in the File column are links that can be clicked on to take you to tha
 |[ETERNITY](/QUOTES/ETERNITY.md)|1|''Once Saved, Always Saved: The Assurance of Our Father's LOVE'|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index]]

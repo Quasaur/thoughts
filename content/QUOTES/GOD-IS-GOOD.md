@@ -1,6 +1,13 @@
 ---
-title: "Quote: GOD IS GOOD"
+title: "GOD IS GOOD"
 draft: false
+tags:
+- QUOTE
+- goodness
+- divine
+- god
+- good
+- great
 ---
 
 # Quote: GOD IS GOOD
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/quote
-title:: "quote: GOD IS GOOD"
+type:: quote
 source:: '"The Traveler's Oasis, Book One"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-One-ebook/dp/B00Y43B2OC)
 level:: 1
-social:: [ #goodness #divine #god #good #great ]

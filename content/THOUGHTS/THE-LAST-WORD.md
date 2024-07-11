@@ -1,6 +1,13 @@
 ---
 title: "Thought: THE LAST WORD"
 draft: false
+tags:
+- THOUGHT
+- gospel
+- jesuschrist
+- livingword
+- lastword
+- wordofgod ]
 aliases:
 - "Thought: The Living Word"
 - "Thought: The Word of God"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: #type/thought
-title:: "Thought: THE LAST WORD"
+type:: thought
 level:: 2
-social:: [ #gospel #jesuschrist #livingword #lastword #wordofgod ]

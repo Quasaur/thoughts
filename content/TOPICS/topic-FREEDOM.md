@@ -1,5 +1,5 @@
 ---
-title: "Topic: FREEDOM"
+title: "FREEDOM"
 draft: false
 description: The absence of necessity, coercion, or constraint in choice or action with the framework of morality and law.
 tags:
@@ -25,8 +25,7 @@ date: 2024-06-15
 [[FREEDOM-OF-DEATH]]
 
 ## Dataview
-topic:: "Topic: FREEDOM"
-type:: #type/topic/L2
+type:: topic
 level:: 5
 ptopic:: [[topic-LAW]]
 

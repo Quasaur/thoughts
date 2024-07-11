@@ -1,5 +1,5 @@
 ---
-title: "Topic: TRUTH"
+title: "TRUTH"
 draft: false
 tags:
   - actuality
@@ -20,8 +20,7 @@ A transcendent fundamental or spiritual reality.
 
 
 ## Dataview
-topic:: "Topic: TRUTH"
-type:: #type/topic/L2
+type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

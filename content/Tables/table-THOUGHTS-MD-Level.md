@@ -2,8 +2,6 @@
 title: "table: THOUGHTS (sorted by level)"
 draft: false
 description: All of the THOUGHTS in the Book of Toughts.
-tags:
-- table
 aliases:
   - "Table: Proverbs (level)"
   - "Table: Precepts (level)"
@@ -124,5 +122,5 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[TIME](/THOUGHTS/TIME.md)|5|[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index|index]]

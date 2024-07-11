@@ -1,22 +1,21 @@
 ---
 title: "Table: Thoughts DV - File"
 draft: true
-tags:
-- table
 ---
 # Table: THOUGHTS DV - File (hidden)
 ```dataview
-TABLE
+TABLE WITHOUT ID
+	file.link AS "Title*",
 	level AS "Level",
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level"
    FROM "content/THOUGHTS"
-   SORT ID ASC
+   SORT file.link ASC
 ```
 
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index]]
 
 ## Snippets

@@ -1,6 +1,13 @@
 ---
-title: "Quote: SO MANY GOSPELS"
+title: "SO MANY GOSPELS"
 draft: false
+tags:
+- QUOTE
+- gospels
+- false
+- religion
+- doctrine
+- jesuschrist
 ---
 
 # Quote: SO MANY GOSPEL
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/quote
-title:: "quote: SO MANY GOSPELS"
+type:: quote
 source:: '"The Traveler's Oasis, Book Two"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Two-ebook/dp/B00YIT5O9Q)
 level:: 4
-social:: [ #gospels #false #religion #doctrine #jesuschrist ]

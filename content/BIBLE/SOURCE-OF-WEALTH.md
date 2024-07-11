@@ -1,6 +1,13 @@
 ---
-title: "Passage: SOURCE OF WEALTH"
+title: "SOURCE OF WEALTH"
 draft: false
+tags:
+- PASSAGE
+- wealth
+- gain
+- god
+- source
+- power
 ---
 
 # Passage: TITLE
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-WEALTH]]
-type:: #type/passage
-title:: "Passage: SOURCE OF WEALTH"
+type:: passage
 source:: 'Deuteronomy 8:18'
 biblelink:: (https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A18&version=NASB)
 level:: 3
-social:: [ #wealth #gain #god #source #power ]

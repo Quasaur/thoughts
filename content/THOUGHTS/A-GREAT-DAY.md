@@ -1,6 +1,13 @@
 ---
 title: "Thought: A Great Day"
 draft: false
+tags:
+- THOUGHT
+- dailyroutine
+- eating
+- sleeping
+- working
+- discipline
 ---
 # Thought: A GREAT DAY
 > [!Thought]
@@ -8,7 +15,5 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: A GREAT DAY"
+type:: thought
 level:: 4
-social:: [ #dailyroutine #eating #sleeping #working discipline ]

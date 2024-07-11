@@ -1,6 +1,13 @@
 ---
 title: "Thought: THE QUICK AND THE DEAD"
 draft: false
+tags:
+- THOUGHT
+- eternallife
+- immortality
+- spirituality
+- god
+- jesuschrist
 aliases:
 - "Thought: Alive or Dead"
 - "Thought: Spirit or Flesh"
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]
-type:: #type/thought
-title:: "Thought: THE QUICK AND THE DEAD"
+type:: thought
 level:: 2
-social:: [ #eternallife #immortality #spirituality #god #jesuschrist ]

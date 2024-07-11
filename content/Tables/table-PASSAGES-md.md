@@ -2,8 +2,6 @@
 title: "table: PASSAGES (md)"
 draft: false
 description: All of the PASSAGES of Wisdom from The Bible.
-tags:
-- table
 aliases:
   - "Table: Proverbs"
   - "Table: Biblical Wisdom"
@@ -30,5 +28,5 @@ The items in the File and Topic columns are links that can be clicked on to take
 |[WHAT-THE-WISE-DO](/BIBLE/WHAT-THE-WISE-DO.md)|'Proverbs 1:5'|3|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index]]

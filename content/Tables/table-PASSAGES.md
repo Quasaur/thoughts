@@ -1,23 +1,22 @@
 ---
 title: "Table: PASSAGES"
 draft: true
-tags:
-- table
 ---
 # Table: PASSAGES (hidden)
 ```dataview
-TABLE
+TABLE WITHOUT ID
+	file.link AS "Title*",
 	source AS "Verse(s)",
 	level AS "Passage Level",
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level"
    FROM "content/BIBLE"
-   SORT ID ASC
+   SORT file.link ASCENDING
 ```
 
 
 ## Dataview
-type:: #type/table
+type:: hiddentable
 parent:: [[content/index]]
 
 ## Snippets

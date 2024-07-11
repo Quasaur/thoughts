@@ -1,5 +1,5 @@
 ---
-title: "Topic: SPIRITS"
+title: "SPIRITS"
 draft: false
 tags:
   - life
@@ -27,8 +27,7 @@ The animating or vital Principle held to give life to physical organisms; supern
 
 
 ## Dataview
-topic:: "Topic: SPIRITS"
-type:: #type/topic/L3 
+type:: topic
 level:: 3
 ptopic:: [[topic-CREATION]]
 

@@ -23,8 +23,7 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 [[AMERICAN]]
 
 ## Dataview
-topic:: "Topic: POLITICAL SCIENCE"
-type:: #type/topic/L4 
+type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

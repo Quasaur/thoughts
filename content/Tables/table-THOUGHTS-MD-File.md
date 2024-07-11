@@ -2,8 +2,6 @@
 title: "Table: THOUGHTS (sorted by file)"
 draft: false
 description: All of the THOUGHTS in the Book of Toughts.
-tags:
-- table
 aliases:
   - "Table: Proverbs (file)"
   - "Table: Precepts (file)"
@@ -124,5 +122,5 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[LIVING RELATIONSHIPS](/THOUGHTS/LIVING%20RELATIONSHIPS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index|index]]

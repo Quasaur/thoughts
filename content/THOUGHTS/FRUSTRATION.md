@@ -1,6 +1,13 @@
 ---
 title: "Thought: FRUSTRATION"
 draft: false
+tags:
+- THOUGHT
+- frustration
+- spirituality
+- assurance
+- fathergod
+- jesuschrist
 aliases:
 - "Thought: Failure"
 - "Thought: Religion"
@@ -15,7 +22,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITHFULNESS]]
-type:: #type/thought
-title:: "Thought: FRUSTRATION"
+type:: thought
 level:: 2
-social:: [ #frustration #spirituality #assurance #fathergod #jesuschrist ]

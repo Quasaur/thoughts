@@ -1,6 +1,13 @@
 ---
 title: "Thought: INVITE OR COMMAND"
 draft: false
+tags:
+- THOUGHT
+- repent
+- invite
+- command
+- gospel
+- judgment
 aliases:
 - "Thought: Invitation or Commandment?"
 - "Thought: No Other Option"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: #type/thought
-title:: "Thought: INVITE OR COMMAND?"
+type:: thought
 level:: 2
-social:: [ #repent #invite #command #gospel #judgment ]

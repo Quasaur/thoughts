@@ -1,6 +1,7 @@
 ---
 title: "Passage: TITLE"
 draft: true
+"tags:":
 ---
 
 # Passage: TITLE
@@ -9,9 +10,7 @@ draft: true
 
 ## Dataview
 ptopic:: [[]]
-type:: #type/template/passage
-title:: "Passage: TITLE"
+type:: template
 source:: 'BOOK 0:0'
 biblelink:: ()
 level:: 0
-social:: [ #social/__ #social/__ #social/__ #social/__ #social/__]

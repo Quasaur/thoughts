@@ -1,6 +1,13 @@
 ---
 title: "Thought: DUST"
 draft: false
+tags:
+- THOUGHT
+- dust
+- humanity
+- humility
+- worth
+- dirt
 aliases:
 - "Thought: Dirt"
 ---
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: DUST"
+type:: thought
 level:: 3
-social:: [ #dust #humanity #humility #worth #dirt ]

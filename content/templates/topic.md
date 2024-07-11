@@ -22,10 +22,9 @@ date: 2024-06-06
 ## Bible
 
 ## Dataview
-topic:: "Topic: TITLE"
-type:: #type/template/topic
+type:: template
 level:: 0
-ptopic::
+ptopic:: 
 
 ## Notes
 Topic notes.

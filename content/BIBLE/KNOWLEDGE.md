@@ -1,6 +1,13 @@
 ---
-title: "Passage: KNOWLEDGE"
+title: "KNOWLEDGE"
 draft: false
+tags:
+- PASSAGE
+- fear
+- lord
+- knowledge
+- fools
+- instruction
 ---
 
 # Passage: KNOWLEDGE
@@ -10,9 +17,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-HUMANITY]]
-type:: #type/passage
-title:: "Passage: KNOWLEDGE"
+type:: passage
 source:: 'Romans 1:7'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A7&version=NASB)
 level:: 3
-social:: [ #fear #lord #knowledge #fools #instruction ]

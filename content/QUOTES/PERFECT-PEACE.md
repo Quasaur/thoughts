@@ -1,6 +1,13 @@
 ---
-title: "Quote: PERFECT PEACE"
+title: "PERFECT PEACE"
 draft: false
+tags:
+- QUOTE
+- peace
+- perfect
+- grace
+- holiness
+- love
 ---
 
 # Quote: PERFECT PEACE
@@ -11,9 +18,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/quote
-title:: "quote: PERFECT PEACE"
+type:: quote
 source:: '"The Traveler's Oasis, Book One"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-One-ebook/dp/B00Y43B2OC)
 level:: 3
-social:: [ #peace #perfect #grace #holiness #love ]

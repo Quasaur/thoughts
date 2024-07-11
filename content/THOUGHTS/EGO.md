@@ -1,6 +1,13 @@
 ---
 title: "Thought: EGO"
 draft: false
+tags:
+- THOUGHT
+- god
+- sun
+- earth
+- me
+- humility
 aliases:
 - "Thought: The Works of GOD"
 - "Thought: The Power of GOD"
@@ -14,7 +21,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: EGO"
+type:: thought
 level::1
-social:: [ #god #sun #earth #me #humility]

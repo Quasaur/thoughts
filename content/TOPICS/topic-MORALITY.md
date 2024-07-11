@@ -1,5 +1,5 @@
 ---
-title: "Topic: MORALITY"
+title: "MORALITY"
 draft: false
 tags:
   - morals
@@ -24,8 +24,7 @@ A doctrine or system of moral conduct
 [[INTEGRITY]]
 
 ## Dataview
-topic:: "Topic: MORALITY"
-type:: #type/topic/L3 
+type:: topic
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 

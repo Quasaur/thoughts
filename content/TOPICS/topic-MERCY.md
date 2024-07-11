@@ -1,5 +1,5 @@
 ---
-title: "Topic: MERCY"
+title: "MERCY"
 draft: false
 tags:
   - compassion
@@ -21,8 +21,7 @@ Compassion or forbearance shown to an offender or to one subject to another’s 
 [[FORGIVENESS]]
 
 ## Dataview
-topic:: "Topic: MERCY"
-type:: #type/topic/L3
+type:: topic
 level:: 5
 ptopic:: [[topic-LAW]]
 

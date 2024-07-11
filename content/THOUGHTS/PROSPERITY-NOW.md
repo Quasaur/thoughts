@@ -1,6 +1,13 @@
 ---
 title: "Thought: PROSPERITY NOW"
 draft: false
+tags:
+- THOUGHT
+- prosperity
+- faith
+- prayer
+- supplication
+- sorcery
 aliases:
 - "Thought: Prosperity Gospel"
 - "Thought: Christian Sorcery"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/thought
-title:: "Thought: PROSPERITY NOW"
+type:: thought"
 level:: 4
-social:: [ #prosperity #faith #prayer #supplication #sorcery ]

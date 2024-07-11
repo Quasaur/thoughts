@@ -1,6 +1,13 @@
 ---
 title: "Thought: WORSHIP"
 draft: false
+tags:
+- THOUGHT
+- worship
+- praise
+- prayer
+- fellowship
+- eternalfather
 aliases:
 - "Thought: Praise in Prayer"
 - "Thought: Private Worship"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]
-type:: #type/thought
-title:: 'Thought: WORSHIP"
+type:: thought
 level:: 2
-social:: [ #worship #praise #prayer #fellowship #eternalfather ]

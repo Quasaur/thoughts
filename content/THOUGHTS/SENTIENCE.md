@@ -1,6 +1,13 @@
 ---
 title: "Thought: SENTIENCE"
 draft: false
+tags:
+- THOUGHT
+- spirits
+- sentience
+- god
+- selfaware
+- iam
 aliases:
 - "Thought: Self-Awareness"
 - "Thought: I am"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: #type/thought
-title:: "Thought: SENTIENCE"
+type:: thought
 level:: 3
-social:: [ #spirits #sentience #god #selfaware #iam]

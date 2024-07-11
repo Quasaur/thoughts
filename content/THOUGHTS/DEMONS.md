@@ -1,6 +1,13 @@
 ---
 title: "Thought: DEMONS"
 draft: false
+tags:
+- THOUGHT
+- demons
+- hardhearted
+- grace
+- divine
+- jesuschrist
 aliases:
 - "THOUGHT: Fate of Humanity"
 ---
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: #type/thought
-title:: "Thought: DEMONS"
+type:: thought
 level:: 3
-social:: [ #demons #hardhearted #grace #divine #jesuschrist ]

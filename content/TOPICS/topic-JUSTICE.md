@@ -1,5 +1,5 @@
 ---
-title: "Topic: JUSTICE"
+title: "JUSTICE"
 draft: false
 tags:
   - equity
@@ -27,8 +27,7 @@ The practice or instance of giving to others what is their due.
 [[TIME]]
 
 ## Dataview
-topic:: "Topic: JUSTICE"
-type:: #type/topic/L3
+type:: topic
 level:: 5
 ptopic:: [[topic-LAW]]
 

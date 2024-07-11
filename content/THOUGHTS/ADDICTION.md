@@ -1,6 +1,13 @@
 ---
 title: "Thought: ADDICTION"
 draft: false
+tags:
+- THOUGHT
+- sanctification
+- addiction
+- flesh
+- thecross
+- jesuschrist
 ---
 # Thought: ADDICTION
 > [!Thought]
@@ -10,7 +17,5 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: ADDICTION"
+type:: thought
 level:: 4
-social:: [ #sanctification #addiction #flesh #thecross #jesuschrist ]

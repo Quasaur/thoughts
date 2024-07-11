@@ -1,6 +1,13 @@
 ---
 title: "Thought: STRENGTH"
 draft: false
+tags:
+- THOUGHT
+- power
+- virtue
+- strength
+- endurance
+- jesuschrist
 aliases:
 - "Thought: Power belongs to God"
 - "Thought: Steength is a Gift"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: STRENGTH"
+type:: thought
 level:: 3
-social:: [ #power #virtue #strength #endurance #jesuschrist ]

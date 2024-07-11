@@ -1,7 +1,16 @@
 ---
 title: "Thought: LOVE"
 draft: false
-aliases: [Agape, Unconditional Love]
+tags:
+- THOUGHT
+- love
+- spiri
+- attitude
+- selfless
+- generosity
+aliases: 
+- "Thought: Agape"
+- "Thought: Unconditional Love]"
 ---
 # Thought: LOVE
 > [!Thought]
@@ -9,7 +18,5 @@ aliases: [Agape, Unconditional Love]
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: LOVE"
+type:: thought
 level:: 3
-social:: [ #love #spirit #attitude #selfless #generosity ]

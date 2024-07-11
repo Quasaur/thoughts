@@ -1,6 +1,13 @@
 ---
 title: "Thought: CONTENTMENT"
 draft: false
+tags:
+- THOUGHT
+- contentment
+- acceptance
+- carefree
+- failure
+- faith
 aliases:
 - "Thought: Acceptance"
 - "Thought: Carefree"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: CONTENTMENT"
+type:: thought
 level:: 3
-social:: [ #contentment #acceptance #carefree #failure #faith ]

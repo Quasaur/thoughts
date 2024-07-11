@@ -1,6 +1,13 @@
 ---
 title: "Thought: AMERICAN"
 draft: false
+tags:
+- THOUGHT
+- nationalism
+- american
+- addiction
+- dependency
+- codependency
 ---
 # Thought: AMERICAN
 > [!Thought]
@@ -8,7 +15,5 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-POLITICAL-SCIENCE]]
-type:: #type/thought
-title:: "Thought: AMERICAN"
+type:: thought
 level:: 4
-social:: [ #nationalism #american #addiction #dependency #codependency ]

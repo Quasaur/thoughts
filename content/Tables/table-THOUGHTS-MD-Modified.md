@@ -2,8 +2,6 @@
 title: "table: THOUGHTS (sorted by Modified Date)"
 draft: false
 description: All of the THOUGHTS in the Book of Toughts.
-tags:
-- table
 aliases:
   - "Table: Proverbs (modified)"
   - "Table: Precepts (modified)"
@@ -124,5 +122,5 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[BRIBERY](/THOUGHTS/BRIBERY.md)|4|2024.06.19|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index|index]]

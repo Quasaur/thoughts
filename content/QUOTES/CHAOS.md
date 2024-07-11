@@ -1,6 +1,13 @@
 ---
-title: "Quote: CHAOS"
+title: "CHAOS"
 draft: false
+tags:
+- QUOTE
+- chaos
+- disorder
+- fear
+- perception
+- delusion
 ---
 
 # Quote: CHAOS
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/quote
-title:: "quote: CHAOS"
+type:: quote
 source:: ''The Traveler's Oasis, Book Three'
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Three-ebook/dp/B00YRKX8E4)
 level:: 4
-social:: [ #chaos #disorder #fear #perception #delusion ]

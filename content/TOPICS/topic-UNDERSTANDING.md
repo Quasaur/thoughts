@@ -1,5 +1,5 @@
 ---
-title: "Topic: UNDERSTANDING"
+title: "UNDERSTANDING"
 draft: false
 tags:
   - comprehension
@@ -29,8 +29,7 @@ A mental grasp of truth or an agreement between individuals or groups.
 [[WHAT-THE-WISE-DO]]
 
 ## Dataview
-topic:: "Topic: UNDERSTANDING"
-type:: #type/topic/L2
+type:: topic
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 

@@ -1,6 +1,13 @@
 ---
 title: "Thought: INTEGRITY"
 draft: false
+tags:
+- THOUGHT
+- stand
+- true
+- integrity
+- character
+- godliness
 aliases:
 - "Thought: Character"
 - "Thought: Nobility"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]
-type:: #type/thought
-title:: "Thought: INTEGRITY"
+type:: thought
 level:: 3
-social:: [ #stand #true #integrity #character #godliness]

@@ -1,6 +1,13 @@
 ---
 title: "Thought: EVIL WAS NECESSARY"
 draft: false
+tags:
+- THOUGHT
+- lambofgod
+- evil
+- salvation
+- forgiveness
+- jesuschrist
 aliases:
 - "Thought: The Necessity of Evil"
 ---
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/thought
-title:: "Thought: EVIL WAS NECESSARY"
+type:: thought
 level:: 4
-social:: [ #lambofgod #evil #salvation #forgiveness #jesuschrist ]

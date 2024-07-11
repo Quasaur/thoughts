@@ -1,5 +1,5 @@
 ---
-title: "Topic: COSMOLOGY"
+title: "COSMOLOGY"
 draft: false
 tags:
   - metaphysiucs
@@ -25,8 +25,7 @@ The study of the social belief systems humans have held across different times a
 [[SCIENCE-CONSPIRACY]]
 
 ## Dataview
-topic:: "Topic: COSMOLOGY"
-type:: #type/topic/L4 
+type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

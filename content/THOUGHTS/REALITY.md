@@ -1,6 +1,13 @@
 ---
 title: "Thought: REALITY"
 draft: false
+tags:
+- THOUGHT
+- cosmology
+- relativity
+- geocentricity
+- michelson
+- intelligentdesign
 aliases:
 - "Thought: Geocentric Universe"
 - "Thought: Dark Matter"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-TRUTH]]
-type:: #type/thought
-title:: "Thought: REALITY"
+type:: thought
 level:: 2
-social:: [ #cosmology #relativity #geocentricity #michelson #intelligentdesign

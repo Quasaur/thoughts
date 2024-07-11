@@ -1,5 +1,5 @@
 ---
-title: "Topic: HUMANITY"
+title: "HUMANITY"
 draft: false
 description: Mankind, male and female, created in the Image and Likeness of The GODNEAD.
 tags:
@@ -30,14 +30,15 @@ date: 2024-06-27
 [[topic-SOCIOLOGY]]
 
 ## Thoughts
+[[ACCOUNTABILITY]]
 
 ## Quotes
 
 ## Bible
 [[KNOWLEDGE]]
+
 ## Dataview
-topic:: "Topic: HUMANITY"
-type:: #type/topic/L3 
+type:: topic
 level:: 3
 ptopic:: [[topic-CREATION]]
 

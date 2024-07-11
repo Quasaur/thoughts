@@ -1,6 +1,13 @@
 ---
 title: "Thought: MIRACLES"
 draft: false
+tags:
+- THOUGHT
+- miracles
+- actsofgod
+- divine
+- power
+- gloryofgod
 aliases:
 - "Thought: Acts of God"
 - "Thought: The Power of God"
@@ -14,7 +21,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: YOUR KINGDOM"
+type:: thought
 level:: 1
-social:: [ #miracles #actsofgod #divine #power #gloryofgod ]

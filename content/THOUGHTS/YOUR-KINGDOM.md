@@ -1,6 +1,13 @@
 ---
 title: "Thought: YUOUR KINGDOM"
 draft: false
+tags:
+- THOUGHT
+- kingdom
+- heaven
+- earth
+- destruction
+- jesuschrist
 aliases:
 - "Thought: Two Masters"
 - "Thought: Dual Citizenship"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: #type/thought
-title:: "Thought: YOUR KINGDOM"
+type:: thought
 level:: 2
-social:: [ #kingdom #heaven #earth #destruction #jesuschrist ]

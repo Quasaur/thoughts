@@ -1,5 +1,5 @@
 ---
-title: "Topic: SPIRITUALITY"
+title: "SPIRITUALITY"
 draft: false
 tags:
   - philosophy
@@ -26,8 +26,7 @@ Sensitivity or attachment to religious values.
 [[WORSHIP]]
 
 ## Dataview
-topic:: "Topic SPIRITUALITY"
-type:: #type/topic/L2
+type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

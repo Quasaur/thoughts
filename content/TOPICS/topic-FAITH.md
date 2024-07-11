@@ -1,5 +1,5 @@
 ---
-title: "Topic: FAITH"
+title: "FAITH"
 draft: false
 tags:
   - truth
@@ -23,8 +23,7 @@ Confidence in the Words of God that inspires intent, speech and action.
 [[NOT-OF-FAITH]]
 
 ## Dataview
-topic:: "Topic: FAITH"
-type:: #type/topic/L4
+type:: topic
 level:: 4
 ptopic:: [[topic-ATTITUDE]]
 

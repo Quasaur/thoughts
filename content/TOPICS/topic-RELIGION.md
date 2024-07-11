@@ -1,5 +1,5 @@
 ---
-title: "Topic: RELIGION"
+title: "RELIGION"
 draft: false
 tags:
   - cult
@@ -18,11 +18,15 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 ## Thoughts
 [[EVOLUTION-IS-SCIENCE?]]
 
+[[HUMANITARIANISM]]
+
 [[ISLAM]]
 
 [[PERSECUTION]]
 
 [[PROSPERITY-NOW]]
+
+[[SELF-WORSHIP]]
 
 [[TREASURE]]
 
@@ -34,8 +38,7 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 ## Bible
 
 ## Dataview
-topic:: "Topic: RELIGION"
-type:: #type/topic/L4
+type:: topic
 level:: 4
 ptopic:: [[topic-MORALITY]]
 

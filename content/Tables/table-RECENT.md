@@ -1,8 +1,6 @@
 ---
 title: "Table: RECENT"
 draft: true
-tags:
-- table
 ---
 # Table: RECENT (hidden)
 ```dataview
@@ -13,14 +11,13 @@ TABLE
 	dateformat(file.mtime, "yyyy.MM.dd") as "Last Modified*",
 	type AS "Type"
    FROM "content"
-   WHERE type != "#type/page"
+   WHERE type != "#type/page" AND type != "table" AND draft = false
    SORT file.mtime DESC
-   LIMIT 15
 ```
 
 
 ## Dataview
-type:: #type/table
+type:: hiddentable
 parent:: [[content/index]]
 
 ## Snippets

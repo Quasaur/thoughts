@@ -1,5 +1,5 @@
 ---
-title: "Topic: DIVINE SOVEREIGNTY"
+title: "DIVINE SOVEREIGNTY"
 draft: false
 tags:
   - sovereignty
@@ -30,9 +30,9 @@ God's Right to do as He pleases.
 
 ## Bible
 [[HEART-OF-THE-KING]]
+
 ## Dataview
-topic:: "Topic: DIVINE SOVEREIGNTY"
-type:: #type/topic/L2
+type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

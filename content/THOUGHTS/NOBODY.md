@@ -1,6 +1,13 @@
 ---
 title: "Thought: NOBODY"
 draft: false
+tags:
+- THOUGHT
+- depravity
+- religion
+- apostasy
+- spirituality
+- hell
 aliases:
 - "Thought: The Sinner's Nature"
 - "Thought: The Necessity for Grace"
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/thought
-title:: "Thought: NOBODY"
+type:: thought
 level:: 4
-social:: [ #depravity #religion #apostasy #spirituality #hell ]

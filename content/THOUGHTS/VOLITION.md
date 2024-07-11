@@ -1,6 +1,13 @@
 ---
 title: "Thought: VOLITION"
 draft: false
+tags:
+- THOUGHT
+- paradox
+- volition
+- freewill
+- fullness
+- jesuschrist
 aliases:
 - "Thought: Free Will"
 - "Thought: Autonomous"
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: #type/thought
-title:: "Thought: VOLITION"
+type:: thought
 level:: 2
-social:: [ #paradox #volition #freewill #fullness #jesuschrist ]

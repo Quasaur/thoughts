@@ -1,6 +1,13 @@
 ---
 title: "Thought: THE REAL YOU"
 draft: false
+tags:
+- THOUGHT
+- identity
+- selfimage
+- imageofgod
+- christian
+- jesuschrist
 aliases:
 - "Thought: The Real You"
 - "Thought: Self-Image"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: THE REAL YOU"
+type:: thought
 level:: 3
-social:: [ #identity #selfimage #imageofgod #christian #jesuschrist ]

@@ -1,6 +1,13 @@
 ---
 title: "Thought: MISUNDERSTOOD"
 draft: false
+tags:
+- THOUGHT
+- misunderfstood
+- understanding
+- communication
+- fellowship
+- intimacy
 aliases:
 - "Thought: Miscommunicatiion"
 ---
@@ -10,7 +17,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: #type/thought
-title:: "MISUNDERSTOOD"
+type:: thought
 level:: 3
-social:: [ #misunderfstood #understanding #communication #fellowship #intimacy ]

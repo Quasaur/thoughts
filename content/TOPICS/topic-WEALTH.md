@@ -1,5 +1,5 @@
 ---
-title: "Topic: WEALTH"
+title: "WEALTH"
 draft: false
 description: The abundance of valuable material, possessions or resources.
 tags:
@@ -21,10 +21,10 @@ date: 2024-06-26
 ## Quotes
 
 ## Bible
+[[UNJUST-GAIN]]
 
 ## Dataview
-topic:: "Topic: WEALTH"
-type:: #type/topic/L3
+type:: topic
 level:: 3
 ptopic:: [[topic-CREATION]]
 

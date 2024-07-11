@@ -1,5 +1,5 @@
 ---
-title: "Topic: ECONOMICS"
+title: "ECONOMICS"
 draft: false
 tags:
   - consumption
@@ -24,8 +24,7 @@ Social science concerned chiefly with description and analysis of the production
 [[CITIZENSHIP]]
 
 ## Dataview
-topic:: "Topic: ECONOMICS"
-type:: #type/topic/L4 
+type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

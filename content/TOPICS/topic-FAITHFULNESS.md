@@ -1,5 +1,5 @@
 ---
-title: "Topic: FAITHFULNESS"
+title: "FAITHFULNESS"
 draft: false
 tags:
   - commitment
@@ -22,8 +22,7 @@ Adherence to something to which one is bound by a pledge or duty
 [[IMMORTALITY]]
 
 ## Dataview
-topic:: "Topic: FAITHFULNESS"
-type:: #type/topic/L2 
+type:: topic
 level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
 

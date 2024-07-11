@@ -1,6 +1,13 @@
 ---
 title: "Thought: ISLAM"
 draft: false
+tags:
+- THOUGHT
+- islam
+- religion
+- antichrist
+- demonic
+- deception
 aliases:
 - "Thought: Muslim Religion"
 - "Thought: Antichrist"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/thought
-title:: "Thought: ISLAM"
+type:: thought
 level:: 4
-social:: [ #islam #religion #antichrist #demonic #deception ]

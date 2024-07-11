@@ -1,10 +1,11 @@
 ---
 title: Start Here!
 draft: false
-description: "Home Page for the Book of Thoughts"
+description: Home Page for the Book of Thoughts
 tags:
   - home
   - Introduction
+  - PAGE
 aliases:
   - index
   - home
@@ -83,5 +84,6 @@ I brought this site to a condition that, i believe, **you will benefit from**. T
 
 ## About the Author
 [About the Author](https://clmjournal.com/author)
+
 ## Dataview
-type:: #type/page
+type:: page

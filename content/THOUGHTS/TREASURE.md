@@ -1,6 +1,13 @@
 ---
 title: "Thought: TREASURE"
 draft: false
+tags:
+- THOUGHT
+- spirituality
+- treasure
+- wealth
+- prosperity
+- jesuschrist
 aliases:
 - "Thought: Precious Things"
 - "Thought: Prized Posessions"
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/thought
-title:: "Thought: TREASURE"
+type:: thought
 level:: 4
-social:: [ #spirituality #treasure #wealth #prosperity #jesuschrist ]

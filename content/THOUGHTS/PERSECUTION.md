@@ -1,6 +1,13 @@
 ---
 title: "Thought: PERSECUTION"
 draft: false
+tags:
+- THOUGHT
+- persecution
+- christianity
+- original
+- authentic
+- jesuschrist
 aliases:
 - "Thought: Authentic Christianity"
 - "Thought: False Religion"
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/thought
-title:: "Thought: PERSECUTION"
+type:: thought
 level:: 4
-social:: [ #persecution #christianity #original #authentic #jesuschrist ]

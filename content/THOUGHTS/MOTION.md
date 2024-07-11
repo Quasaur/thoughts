@@ -1,6 +1,13 @@
 ---
 title: "Thought: MOTION"
 draft: false
+tags:
+- THOUGHT
+- rest
+- sabbath
+- peace
+- contentment
+- fullness
 aliases:
 - "Thought: Movement"
 - "Thought: Sabbath Rest"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: MOTION"
+type:: thought
 level:: 1
-social:: [ #rest #sabbath #peace #contentment #fullness ]

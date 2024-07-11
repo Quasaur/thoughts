@@ -1,6 +1,13 @@
 ---
-title: "Quote: WORKS"
+title: "WORKS"
 draft: false
+tags:
+- QUOTE
+- religion
+- gospel
+- truth
+- works
+- thecross
 ---
 
 # Quote: WORKS
@@ -10,9 +17,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/quote
-title:: "quote: CHAOS"
+type:: quote
 source:: ''The Basics and More: A Year's Sermons'
 booklink:: (https://www.amazon.com/Basics-More-Years-Sermons-ebook/dp/B00XLMBDR8)
 level:: 4
-social:: [ #religion #gospel #truth #works #thecross ]

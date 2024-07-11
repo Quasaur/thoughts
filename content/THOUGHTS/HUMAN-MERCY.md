@@ -1,6 +1,13 @@
 ---
 title: "Thought: HUMAN MERCY"
 draft: false
+tags:
+- THOUGHT
+- mercy
+- submission
+- faithfulness
+- obedience
+- jesuschrist
 aliases:
 - "Thought: Mercy towards GOD"
 ---
@@ -10,7 +17,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: HUMAN MERCY"
+type:: thought
 level:: 3
-social:: [ #mercy #submission #faithfulness #obedience #jesuschrist ]

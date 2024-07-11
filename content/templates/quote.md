@@ -1,6 +1,7 @@
 ---
 title: "Quote: TITLE"
 draft: true
+tags:
 ---
 
 # Quote: TITLE
@@ -9,9 +10,7 @@ draft: true
 
 ## Dataview
 ptopic:: [[]]
-type:: #type/template/quote
-title:: "Quote: TITLE"
+type:: template
 source:: 'BOOK'
 booklink:: ()
 level:: 0
-social:: [ #social/__ #social/__ #social/__ #social/__ #social/__]

@@ -1,6 +1,13 @@
 ---
-title: "Quote: ETERNITY"
+title: "ETERNITY"
 draft: false
+tags:
+- QUOTE
+- god
+- eternity
+- beginningless
+- endless
+- transcendence
 ---
 
 # Quote: ETERNITY
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/quote
-title:: "quote: ETERNITY"
+type:: quote
 source:: ''Once Saved, Always Saved: The Assurance of Our Father's LOVE'
 booklink:: (https://www.amazon.com/Once-Saved-Always-Assurance-Fathers-ebook/dp/B0132UEB68)
 level:: 1
-social:: [ #god #eternity #beginningless #endless #transcendence ]

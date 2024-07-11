@@ -1,5 +1,5 @@
 ---
-title: "Topic: HISTORY"
+title: "HISTORY"
 draft: false
 tags:
   - annals
@@ -19,6 +19,8 @@ an account of important events in the order in which they happened
 ## Thoughts
 [[CONSEQUENCES]]
 
+[[SKEWERED-TIMELINES]]
+
 [[YISRAEL]]
 
 ## Quotes
@@ -26,8 +28,7 @@ an account of important events in the order in which they happened
 ## Bible
 
 ## Dataview
-topic:: "Topic: HISTORY"
-type:: #type/topic/L4 
+type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

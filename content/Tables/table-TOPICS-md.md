@@ -2,8 +2,6 @@
 title: "table: TOPICS (md)"
 draft: false
 description: All of the TOPICS covered in the Book of Toughts.
-tags:
-- table
 aliases:
   - '"Table: Indexes"'
   - '"Table: Subjects"'
@@ -57,5 +55,5 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-NULL](/TOPICS/topic-NULL.md)|-|0|-|-|
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index|index]]

@@ -1,6 +1,13 @@
 ---
-title: "Quote: UNCONDITIONAL"
+title: "UNCONDITIONAL"
 draft: false
+tags:
+- QUOTE
+- gospel
+- purpose
+- fellowship
+- godhead
+- unconditional
 ---
 
 # Quote: UNCONDITIONAL
@@ -10,9 +17,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/quote
-title:: "quote: UNCONDITIONAL"
+type:: quote
 source:: '"Once Saved, Always Saved: The Assurance of Our Father's LOVE"
 booklink:: (https://www.amazon.com/Once-Saved-Always-Assurance-Fathers-ebook/dp/B0132UEB68)
 level:: 3
-social:: [ #gospel #purpose #fellowship #godhead #unconditional ]

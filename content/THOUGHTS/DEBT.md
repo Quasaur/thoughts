@@ -1,6 +1,13 @@
 ---
 title: "Thought: DEBT"
 draft: false
+tags:
+- THOUGHT
+- debt
+- entitlement
+- apocalypse
+- worship
+- grace
 aliases:
 - "Thought: God is in Debt to No One"
 - "Thought: We Owe God Everything"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ENTITLEMENT]]
-type:: #type/thought
-title:: "Thought: DEBT"
+type:: thought
 level:: 4
-social:: [ #debt #entitlement #apocalypse #worship #grace ]

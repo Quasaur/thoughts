@@ -1,6 +1,13 @@
 ---
-title: "Passage: FREEDOM OF DEATH"
+title: "FREEDOM OF DEATH"
 draft: false
+tags:
+- PASSAGE
+- freedom
+- death
+- sin
+- thecross
+- jesuschrist
 ---
 
 # Passage: FREEDOM OF DEATH
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-FREEDOM]]
-type:: #type/passage
-title:: "Passage: FREEDOM OF DEATH"
+type:: passage
 source:: 'Romans 6:7'
 biblelink:: (https://www.biblegateway.com/passage/?search=Romans+6:7&version=KJV)
 level:: 5
-social:: [ #social/__ #social/__ #social/__ #social/__ #social/__]

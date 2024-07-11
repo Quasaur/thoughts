@@ -1,5 +1,5 @@
 ---
-title: "Topic: ATTITUDE"
+title: "ATTITUDE"
 draft: false
 tags:
   - mentality
@@ -40,8 +40,7 @@ A feeling, emotion or mental position to a fact or state.
 [[UNFORGIVENESS]]
 
 ## Dataview
-topic:: "Topic: ATTITUDE"
-type:: #type/topic/L3
+type:: topic
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
 

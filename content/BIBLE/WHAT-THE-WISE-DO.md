@@ -1,6 +1,13 @@
 ---
-title: "Passage: WHAT THE WISE DO"
+title: "WHAT THE WISE DO"
 draft: false
+tags:
+- PASSAGE
+- wise
+- listening
+- learning
+- collecting
+- counsel
 ---
 
 # Passage: WHAT THE WISE DO
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: #type/passage
-title:: "Passage: WHAT THE WISE DO"
+type:: passage
 source:: 'Proverbs 1:5'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A5&version=NASB)
 level:: 3
-social:: [ #wise #listening #learning #collecting #counsel ]

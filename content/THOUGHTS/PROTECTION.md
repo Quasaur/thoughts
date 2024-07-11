@@ -1,6 +1,13 @@
 ---
 title: "Thought: PROTECTION"
 draft: false
+tags:
+- THOUGHT
+- holyspirit 
+- spiritoftruth
+- standard
+- defense
+- jesuschrist
 aliases: [Strong Tower, Our Shield]
 ---
 # TITLE
@@ -8,7 +15,5 @@ Without the Holy Spirit of Christ humanity has no defense against the Devil, the
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "PROTECTION"
+type:: thought
 level:: 1
-social:: [ #holyspirit #spiritoftruth #standard #defense #jesuschrist ]

@@ -1,6 +1,13 @@
 ---
-title: "Quote: MY PROGRAMMING"
+title: "MY PROGRAMMING"
 draft: false
+tags:
+- QUOTE
+- programming
+- brainwashing
+- training
+- dream
+- fiction
 ---
 
 # Quote: MY PROGRAMMING
@@ -10,9 +17,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/quote
-title:: "quote: MY PROGRAMMING"
+type:: quote
 source:: ''The Traveler's Oasis, Book Two'
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Two-ebook/dp/B00YIT5O9Q)
 level:: 4
-social:: [ #programming #brainwashing #training #dream #fiction ]

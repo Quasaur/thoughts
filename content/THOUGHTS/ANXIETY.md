@@ -1,8 +1,15 @@
 ---
 title: "Thought: ANXIETY"
 draft: false
+tags:
+- THOUGHT
+- peace
+- faith
+- carefree
+- confident
+- trust
 aliases:
-- "Thought: fear"
+- "Thought: Fear"
 - "Thought: Worry"
 ---
 # Thought: ANXIETY
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
-type:: #type/thought
-title:: "Thought: ANXIETY"
+type:: thought
 level:: 4
-social:: [ #peace #faith #carefree #confident #trust ]

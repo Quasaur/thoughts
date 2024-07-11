@@ -1,6 +1,13 @@
 ---
 title: "Thought: DIALOGUE"
 draft: false
+tags:
+- THOUGHT
+- devil
+- ego
+- slave
+- sin
+- tongue
 aliases:
 - "Thought: Don't Talk with The Devil"
 ---
@@ -10,7 +17,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/Thought
-title:: "Thought: DIALOGUE"
+type:: thought
 level:: 4
-social:: [ #devil #ego #slave #sin #tongue ]

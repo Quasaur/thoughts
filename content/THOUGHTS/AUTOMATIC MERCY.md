@@ -1,6 +1,13 @@
 ---
 title: "Thought: AUTHOMATIC MERCY"
 draft: false
+tags:
+- THOUGHT
+- spirituality
+- mercy
+- hatred
+- gospel
+- life
 aliases:
 - "Thought: Cheap Grace"
 - "Thought: Presumption"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: AUTOMATIC MERCY"
+type:: thought
 level:: 3
-social:: [ #spirituality #mercy #hatred #gospel #life ]

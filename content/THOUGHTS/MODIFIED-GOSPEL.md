@@ -1,6 +1,13 @@
 ---
 title: "Thought: MODIFIED GOSPEL"
 draft: false
+tags:
+- THOUGHT
+- gospel
+- human
+  wisdom
+  modification
+  corruption
 aliases:
 - "Thought: The Gospel with Modification"
 - "Thought: The Corruptive Influence of Human Wisdom"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: #type/thought
-title:: "Thought: MODIFIED GOSPEL"
+type:: thought
 level:: 2
-social:: [ #gospel #human #wisdom #modification #corruption ]

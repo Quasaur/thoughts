@@ -1,5 +1,5 @@
 ---
-title: "Topic: GEOLOGY"
+title: "GEOLOGY"
 draft: false
 tags:
   - rocks
@@ -20,8 +20,7 @@ Study of the solid matter of a celestial body.
 [[FOSSILS]]
 
 ## Dataview
-topic:: "Topic: GEOLOGY"
-type:: #type/topic/L4 
+type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

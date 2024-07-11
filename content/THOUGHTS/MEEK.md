@@ -1,6 +1,13 @@
 ---
 title: "Thought: MEEK"
 draft: false
+tags:
+- THOUGHT
+- meek
+- lowly
+- jesuschrist
+- crucified
+- despised
 aliases:
 - "Thought: The MEEK God"
 ---
@@ -17,7 +24,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: MEEK"
+type:: thought
 level:: 1
-social:: [ #meek #lowly #jesuschrist #crucified #despised ]

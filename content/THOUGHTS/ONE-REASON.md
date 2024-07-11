@@ -1,6 +1,13 @@
 ---
 title: "Thought: ONE REASON"
 draft: false
+tags:
+- THOUGHT
+- apocalypse
+- lakeoffire
+- pride
+- judgment
+- jesuschrist
 aliases:
 - "Thought: Why People Go to Hell"
 - "Thought: Rejecting Christ"
@@ -12,7 +19,6 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title: "Thought: ONE REASON"
+type:: thought
 level:: 3
-social:: [ #apocalypse #lakeoffire #pride #judgment #jesuschrist]
+

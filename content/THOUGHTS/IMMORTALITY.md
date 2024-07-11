@@ -1,6 +1,13 @@
 ---
 title: "Thought: IMMORTALITY"
 draft: false
+tags:
+- THOUGHT
+- immortality
+- eternallife
+- salvation
+- desire
+- jesuschrist
 aliases:
 - "Thought: Eternal Life"
 - :Thought: Eternal Fulness"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITHFULNESS]]
-type:: #type/thought
-title:: "Thought: IMMORTALITY"
+type:: thought
 level:: 2
-social:: [ #immortality #eternallife #salvation #desire #jesuschrist ]

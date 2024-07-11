@@ -1,6 +1,13 @@
 ---
 title: "Thought: PREDESTINED"
 draft: false
+tags:
+- THOUGHT
+- sovereignty
+- election
+- lordship
+- chosen
+- jesuschrist
 aliases:
 - "Thought: Foreordained"
 - "Thought: Foreknown"
@@ -12,7 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: #type/thought
-title:: "Thought: PREDESTINED"
+type:: thought
 level:: 2
-social:: [ #sovereignty #election #lordship #chosen #jesuschrist ]

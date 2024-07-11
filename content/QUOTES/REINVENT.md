@@ -1,6 +1,13 @@
 ---
-title: "Quote: REINVENT"
+title: "REINVENT"
 draft: false
+tags:
+- QUOTE
+- gift
+- grace
+- accomplish
+- effort
+- duplicate
 ---
 
 # Quote: REINVENT
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/quote
-title:: "quote: REINVENT"
+type:: quote
 source:: '"The Traveler's Oasis, Book One"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-One-ebook/dp/B00Y43B2OC)
 level:: 3
-social:: [ #gift #grace #accomplish #effort #duplicate ]

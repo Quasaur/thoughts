@@ -1,6 +1,13 @@
 ---
-title: "Quote: GENIUS"
+title: "GENIUS"
 draft: false
+tags:
+- QUOTE
+- gift
+- grace
+- accomplish
+- effort
+- duplicate
 ---
 
 # Quote: GENIUS
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: #type/quote
-title:: "quote: GENIUS"
+type:: quote
 source:: '"The Traveler's Oasis, Book Three"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Three-ebook/dp/B00YRKX8E4)
 level:: 3
-social:: [ #gift #grace #accomplish #effort #duplicate ]

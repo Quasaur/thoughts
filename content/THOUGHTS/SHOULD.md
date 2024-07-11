@@ -1,6 +1,13 @@
 ---
 title: "Thought: SHOULD"
 draft: false
+tags:
+- THOUGHT
+- law
+- order
+- discipline
+- principle
+- god
 aliases:
 - "Thought: Consciousness"
 - "Thought: Morality"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]
-type:: #type/thought
-title:: "Thoguht: SHOULD"
+type:: thought
 level:: 3
-social:: [ #law #order #discipline #principle #god ]

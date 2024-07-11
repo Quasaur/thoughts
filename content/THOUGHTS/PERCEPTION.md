@@ -1,6 +1,13 @@
 ---
 title: "Thought: PERCEPTION"
 draft: false
+tags:
+- THOUGHT
+- attitude
+- seeing
+- observing
+- perception
+- selfimprovement
 aliases:
 - "Thought: Sight"
 - "Thought: Observance"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: PERCEPTION"
+type:: thought
 level:: 3
-social:: [ #attitude #seeing #observing #perception #selfimprovement ]

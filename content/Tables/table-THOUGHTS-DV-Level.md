@@ -1,8 +1,6 @@
 ---
 title: "Table: Thoughts DV - Level"
 draft: true
-tags:
-- table
 ---
 # Table: THOUGHTS DV - Level (hidden)
 ```dataview
@@ -11,12 +9,12 @@ TABLE
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level"
    FROM "content/THOUGHTS"
-   SORT level ASC
+   SORT level ASC, file.link ASC
 ```
 
 
 ## Dataview
-type:: #type/table
+type:: table
 parent:: [[content/index]]
 
 ## Snippets

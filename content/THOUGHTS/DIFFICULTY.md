@@ -1,6 +1,13 @@
 ---
 title: "Thought: DIFFICULTY"
 draft: false
+tags:
+- THOUGHT
+- difficulty
+- challenge
+- struggle
+- humility
+- confession
 aliases:
 - "Thought: Challenge"
 - "Thought: Struggle"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: DIFFICULTY"
+type:: thought
 level:: 3
-social:: [ #difficulty #challenge #struggle #humility #confession ]

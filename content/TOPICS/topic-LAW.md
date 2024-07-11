@@ -1,5 +1,5 @@
 ---
-title: "Topic: LAW"
+title: "LAW"
 draft: false
 tags:
   - ordiance
@@ -20,10 +20,10 @@ A binding custom or practice of a community formally recognized as binding or e
 [[topic-FREEDOM]]
 
 ## Thoughts 
+[[HUMAN-LAW]]
 
 ## Dataview
-topic:: "Topic: LAW"
-type:: #type/topic/L2
+type:: topic
 level:: 4
 ptopic:: [[topic-MORALITY]]
 

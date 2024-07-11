@@ -1,6 +1,13 @@
 ---
 title: "Thought: GNOSIS"
 draft: false
+tags:
+- THOUGHT
+- gnosis
+- faith
+- immortality
+- knowledge
+- believe 
 aliases:
 - "Thought: Knowledge"
 - "Thought: Understanding"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
-type:: #type/thought
-title:: "Thought: GNOSIS"
+type:: thought
 level:: 4
-social:: [ #gnosis #faith #immortality #knowledge #believe ]

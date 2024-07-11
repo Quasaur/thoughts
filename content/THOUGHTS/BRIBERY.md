@@ -1,6 +1,13 @@
 ---
 title: "Thought: Bribery"
 draft: false
+tags:
+- THOUGHT
+- lobbying
+- uscongress
+- bribery
+- justice
+- oligarchy
 aliases:
 - "Thought: Lobbying"
 - "Thought: Free Speech"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/thought
-title:: "Thought: Bribery"
+type:: thought
 level:: 4
-social:: [ #lobbying #uscongress #bribery #justice #oligarchy ]

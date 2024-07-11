@@ -1,6 +1,13 @@
 ---
 title: "Thought: Act of God"
 draft: false
+tags:
+- THOUGHT
+- person
+- people#
+- wife
+- husband
+- imageofgod
 ---
 # Thought: ACT OF GOD
 > [!Thought]
@@ -8,7 +15,5 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: ACT OF GOD"
+type:: thought
 level:: 4
-social:: [ #person #people# #wife #husband #imageofgod ]

@@ -1,6 +1,13 @@
 ---
-title: "Quote: BEGOTTEN"
+title: "BEGOTTEN"
 draft: false
+tags:
+- QUOTE
+- adam
+- first
+- last
+- jesuschrist
+- begotten
 ---
 # Quote: BEGOTTEN
 > [!Quote]
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: #type/quote
-title:: "Quote: BEGOTTEN"
+type:: quote
 source:: 'The Basics and More: A Year's Sermons'
 booklink:: (https://www.amazon.com/Basics-More-Years-Sermons-ebook/dp/B00XLMBDR8)
 level:: 2
-social:: [ #adam #first #last #jesuschrist #begotten ]

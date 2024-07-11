@@ -1,5 +1,5 @@
 ---
-title: "Topic: PSYCHOLOGY"
+title: "PSYCHOLOGY"
 draft: false
 tags:
   - soul
@@ -54,8 +54,7 @@ The study of mind and behavior in relation to a particular field of knowledge or
 ## Bible
 
 ## Dataview
-topic:: "Topic: PSYCHOLOGY"
-type:: #type/topic/L4
+type:: topic
 level:: 4
 ptopic:: [[topic-HUMANITY]]
 

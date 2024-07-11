@@ -1,6 +1,13 @@
 ---
-title: "Passage: FAITHLESSNESS"
+title: "FAITHLESSNESS"
 draft: false
+tags:
+- PASSAGE
+- faithlessness
+- naive
+- complacency
+- fools
+- destruction
 ---
 
 # Passage: FAITHLESSNESS
@@ -10,9 +17,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/passage
-title:: "Passage: FAITHLESSNESS"
+type:: passage
 source:: 'Proverbs 1:32'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A32&version=NASB)
 level:: 4
-social:: [ #faithlessness #naive #complacency #fools #destruction ]

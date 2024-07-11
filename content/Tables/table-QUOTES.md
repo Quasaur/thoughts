@@ -1,22 +1,21 @@
 ---
 title: "Table: QUOTES"
 draft: true
-tags:
-- table
 ---
 # Table: QUOTES (hidden)
 ```dataview
-TABLE
+TABLE WITHOUT ID
+	file.link AS "Title*",
 	level AS "Level",
 	source AS "Book",
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level"
 FROM "content/QUOTES"
-SORT ID ASC
+SORT file.link ASCENDING
 ```
 
 ## Dataview
-type:: #type/table
+type:: hiddentable
 parent:: [[content/index]]
 
 ## Snippets

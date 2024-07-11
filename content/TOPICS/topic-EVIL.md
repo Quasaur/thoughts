@@ -1,5 +1,5 @@
 ---
-title: "Topic: ENTITLEMENT"
+title: "ENTITLEMENT"
 draft: false
 tags:
   - entitled
@@ -30,8 +30,7 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 
 
 ## Dataview
-topic:: "Topic: EVIL"
-type:: #type/topic/L4
+type:: topic
 level:: 4
 ptopic:: [[topic-MORALITY]]
 

@@ -1,5 +1,5 @@
 ---
-title: "Topic: THE GODHEAD"
+title: "THE GODHEAD"
 draft: false
 tags:
   - starting_point
@@ -30,11 +30,17 @@ The Nature of God as existing in Three Persons.
 ## Thoughts
 [[EMPTINESS]]
 
+[[GOD-AWARENESS]]
+
+[[IMPERSONAL-GOD]]
+
 [[MEEK]]
 
 [[MIRACLES]]
 
 [[PROTECTION]]
+
+[[THE-ULTIMATE]]
 
 ## Quotes
 [[ETERNITY]]
@@ -42,8 +48,7 @@ The Nature of God as existing in Three Persons.
 ## Bible
 
 ## Dataview
-topic:: "Topic: THE GODHEAD"
-type:: #type/topic/L1
+type:: topic
 level:: 1
 ptopic:: [[topic-NULL]]
 

@@ -1,5 +1,5 @@
 ---
-title: "Topic: APOCALYPSE"
+title: "APOCALYPSE"
 draft: false
 tags:
   - eschatology
@@ -24,8 +24,7 @@ Eschatology; the End of all things.
 [[WHEN-JESUS-RETURNS]]
 
 ## Dataview
-topic:: "Topic: APOCALYPSE"
-type:: #type/topic/L5 
+type:: topic
 level:: 5
 ptopic:: [[topic-HISTORY]]
 

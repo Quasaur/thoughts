@@ -1,6 +1,13 @@
 ---
-title: "Passage: NOT-OF-FAITH"
+title: "NOT-OF-FAITH"
 draft: false
+tags:
+- PASSAGE
+- faith
+- doubt
+- condemnation
+- sin
+- wordofgod
 ---
 
 # Passage: NOT OF FAITH
@@ -9,9 +16,7 @@ draft: false
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
-type:: #type/passage
-title:: "Passage: NOT OF FAITH"
+type:: passage
 source:: 'Romans 14:23'
 biblelink:: (https://www.biblegateway.com/passage/?search=Romans+14%3A23&version=NASB)
 level:: 4
-social:: [ #faith #sin #condemned #wordofgod #doubt ]

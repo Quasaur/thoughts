@@ -1,6 +1,13 @@
 ---
 title: "Thought: MARK OF THE BEAST"
 draft: false
+tags:
+- THOUGHT
+- gospel
+- sunday
+- sabbath
+- faith
+- works
 aliases:
 - "Thought: Subday Observance and The Mark of the Beast"
 - "Thought: Faith or Works?"
@@ -13,7 +20,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: #type/thought
-title:: "Thought: MARK OF THE BEAST"
+type:: thought
 level:: 2
-social:: [ #gospel #sunday #sabbath #faith #works ]
