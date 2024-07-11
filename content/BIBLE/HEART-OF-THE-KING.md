@@ -1,8 +1,8 @@
 ---
 title: "HEART OF THE KING"
 draft: false
+type: PASSAGE
 tags:
-- PASSAGE
 - heart
 - king
 - divine
@@ -16,7 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: passage
 source:: 'Romans 21:1'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+21%3A1&version=NASB)
 level:: 2

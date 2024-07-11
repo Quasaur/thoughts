@@ -1,8 +1,8 @@
 ---
 title: "WHAT THE WISE DO"
 draft: false
+type: PASSAGE
 tags:
-- PASSAGE
 - wise
 - listening
 - learning
@@ -16,7 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: passage
 source:: 'Proverbs 1:5'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A5&version=NASB)
 level:: 3

@@ -1,8 +1,8 @@
 ---
 title: "SOURCE OF WEALTH"
 draft: false
+type: PASSAGE
 tags:
-- PASSAGE
 - wealth
 - gain
 - god
@@ -16,7 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-WEALTH]]
-type:: passage
 source:: 'Deuteronomy 8:18'
 biblelink:: (https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A18&version=NASB)
 level:: 3

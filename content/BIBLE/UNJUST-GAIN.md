@@ -1,8 +1,8 @@
 ---
 title: "UNJUST GAIN"
 draft: false
+type: PASSAGE
 tags:
-- PASSAGE
 - gain
 - greed
 - unjust
@@ -16,7 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-WEALTH]]
-type:: passage
 source:: 'Proverbs 1:19'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A19&version=NASB)
 level:: 3

@@ -1,8 +1,8 @@
 ---
 title: "FAITHLESSNESS"
 draft: false
+type: PASSAGE
 tags:
-- PASSAGE
 - faithlessness
 - naive
 - complacency
@@ -17,7 +17,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: passage
 source:: 'Proverbs 1:32'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A32&version=NASB)
 level:: 4
