@@ -1,8 +1,8 @@
 ---
 title: "CHRIST IS ENOUGH"
 draft: false
+type: QUOTE
 tags:
-- QUOTE
 - jesuschrist
 - sufficient
 - enough
@@ -16,7 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: quote
-source:: ''The Traveler's Oasis, Book Two'
+source: ''The Traveler's Oasis, Book Two'
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Two-ebook/dp/B00YIT5O9Q)
 level:: 3

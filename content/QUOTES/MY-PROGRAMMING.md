@@ -1,8 +1,8 @@
 ---
 title: "MY PROGRAMMING"
 draft: false
+type: QUOTE
 tags:
-- QUOTE
 - programming
 - brainwashing
 - training
@@ -17,7 +17,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: quote
-source:: ''The Traveler's Oasis, Book Two'
+source: ''The Traveler's Oasis, Book Two'
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Two-ebook/dp/B00YIT5O9Q)
 level:: 4

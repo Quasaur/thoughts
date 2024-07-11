@@ -1,8 +1,8 @@
 ---
 title: "BEGOTTEN"
 draft: false
+type: QUOTE
 tags:
-- QUOTE
 - adam
 - first
 - last
@@ -16,7 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: quote
-source:: 'The Basics and More: A Year's Sermons'
+source: 'The Basics and More: A Year's Sermons'
 booklink:: (https://www.amazon.com/Basics-More-Years-Sermons-ebook/dp/B00XLMBDR8)
 level:: 2

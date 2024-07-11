@@ -1,8 +1,8 @@
 ---
 title: "WORKS"
 draft: false
+type: QUOTE
 tags:
-- QUOTE
 - religion
 - gospel
 - truth
@@ -17,7 +17,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: quote
-source:: ''The Basics and More: A Year's Sermons'
+source: ''The Basics and More: A Year's Sermons'
 booklink:: (https://www.amazon.com/Basics-More-Years-Sermons-ebook/dp/B00XLMBDR8)
 level:: 4

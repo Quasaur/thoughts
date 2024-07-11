@@ -1,8 +1,8 @@
 ---
 title: "PERFECT PEACE"
 draft: false
+type: QUOTE
 tags:
-- QUOTE
 - peace
 - perfect
 - grace
@@ -18,7 +18,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: quote
-source:: '"The Traveler's Oasis, Book One"
+source: '"The Traveler's Oasis, Book One"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-One-ebook/dp/B00Y43B2OC)
 level:: 3
