@@ -1,7 +1,7 @@
 ---
 title: "Thought: WHY"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: An Explanation"
 ---
 # Thought: WHY

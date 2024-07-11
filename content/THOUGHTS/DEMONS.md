@@ -1,8 +1,8 @@
 ---
 title: "Thought: DEMONS"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - demons
 - hardhearted
 - grace
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: thought
 level:: 3

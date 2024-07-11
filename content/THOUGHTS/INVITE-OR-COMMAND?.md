@@ -1,8 +1,8 @@
 ---
 title: "Thought: INVITE OR COMMAND"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - repent
 - invite
 - command
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: thought
 level:: 2

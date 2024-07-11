@@ -1,8 +1,8 @@
 ---
 title: "Thought: MIRACLES"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - miracles
 - actsofgod
 - divine
@@ -21,5 +21,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: thought
 level:: 1

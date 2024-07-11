@@ -1,8 +1,8 @@
 ---
 title: "Thought: HAPPINESS"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - happy
 - fulfilled
 - satisfied
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3

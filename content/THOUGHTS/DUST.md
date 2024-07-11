@@ -1,8 +1,8 @@
 ---
 title: "Thought: DUST"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - dust
 - humanity
 - humility
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3

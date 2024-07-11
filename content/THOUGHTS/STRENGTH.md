@@ -1,8 +1,8 @@
 ---
 title: "Thought: STRENGTH"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - power
 - virtue
 - strength
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3

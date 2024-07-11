@@ -1,8 +1,8 @@
 ---
 title: "Thought: ADDICTION"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - sanctification
 - addiction
 - flesh
@@ -17,5 +17,4 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: thought
 level:: 4

@@ -1,8 +1,8 @@
 ---
 title: "Thought: ANXIETY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - peace
 - faith
 - carefree
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
-type:: thought
 level:: 4

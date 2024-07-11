@@ -1,8 +1,8 @@
 ---
 title: "Thought: PROTECTION"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - holyspirit 
 - spiritoftruth
 - standard
@@ -15,5 +15,4 @@ Without the Holy Spirit of Christ humanity has no defense against the Devil, the
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: thought
 level:: 1

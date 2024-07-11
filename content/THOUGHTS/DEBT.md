@@ -1,8 +1,8 @@
 ---
 title: "Thought: DEBT"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - debt
 - entitlement
 - apocalypse
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ENTITLEMENT]]
-type:: thought
 level:: 4

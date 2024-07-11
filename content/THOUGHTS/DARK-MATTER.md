@@ -1,7 +1,7 @@
 ---
 title: "Thought: DARK MATTER"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Dark Water"
 ---
 # Thought: DARK MATTER

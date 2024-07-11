@@ -1,8 +1,8 @@
 ---
 title: "Thought: PERSECUTION"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - persecution
 - christianity
 - original
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: thought
 level:: 4

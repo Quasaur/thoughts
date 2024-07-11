@@ -1,8 +1,8 @@
 ---
 title: "Thought: ISLAM"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - islam
 - religion
 - antichrist
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: thought
 level:: 4

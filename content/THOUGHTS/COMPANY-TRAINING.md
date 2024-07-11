@@ -1,7 +1,7 @@
 ---
 title: "Thought: COMPANY TRAINING"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Company Training Schedules"
 - "Thought: Not Enough Time"
 ---

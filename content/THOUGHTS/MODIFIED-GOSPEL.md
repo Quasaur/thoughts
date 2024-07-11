@@ -1,8 +1,8 @@
 ---
 title: "Thought: MODIFIED GOSPEL"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - gospel
 - human
   wisdom
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: thought
 level:: 2

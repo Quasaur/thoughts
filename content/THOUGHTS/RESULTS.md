@@ -1,7 +1,7 @@
 ---
 title: "Thought: RESULTS"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Motivation"
 - "Thought: Intent"
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Thought: DIALOGUE"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - devil
 - ego
 - slave
@@ -17,5 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: thought
 level:: 4

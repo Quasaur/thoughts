@@ -1,8 +1,8 @@
 ---
 title: "Thought: FRUSTRATION"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - frustration
 - spirituality
 - assurance
@@ -22,5 +22,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITHFULNESS]]
-type:: thought
 level:: 2

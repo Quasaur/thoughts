@@ -1,7 +1,7 @@
 ---
 title: "Thought: DIVINE SEED"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: The Seed of God's Word"
 - "Thought: The Work of The Holy Spirit"
 ---

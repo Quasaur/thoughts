@@ -1,7 +1,7 @@
 ---
 title: "Thought: SIN"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Broken Chains'
 - "Thought: Released from Prison"
 ---

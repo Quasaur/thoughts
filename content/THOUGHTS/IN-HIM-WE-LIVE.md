@@ -1,7 +1,7 @@
 ---
 title: "Thought: IN HIM WE LIVE"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Our Absolute Dependence on God"
 - "Thought: The Fullness of The GODHEAD"
 ---

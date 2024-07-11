@@ -1,8 +1,8 @@
 ---
 title: "Thought: CONTENTMENT"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - contentment
 - acceptance
 - carefree
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3

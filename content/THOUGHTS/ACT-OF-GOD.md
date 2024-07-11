@@ -1,8 +1,8 @@
 ---
 title: "Thought: Act of God"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - person
 - people#
 - wife
@@ -15,5 +15,4 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: thought
 level:: 4

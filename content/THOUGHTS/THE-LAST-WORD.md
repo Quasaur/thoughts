@@ -1,8 +1,8 @@
 ---
 title: "Thought: THE LAST WORD"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - gospel
 - jesuschrist
 - livingword
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: thought
 level:: 2

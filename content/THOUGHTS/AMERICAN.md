@@ -1,8 +1,8 @@
 ---
 title: "Thought: AMERICAN"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - nationalism
 - american
 - addiction
@@ -15,5 +15,4 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-POLITICAL-SCIENCE]]
-type:: thought
 level:: 4

@@ -1,6 +1,13 @@
 ---
 title: "Thought: TIME"
 draft: false
+type: THOUGHT
+tags:
+- spirituality
+- damnation
+- soul
+- lakeoffire 
+- judgment
 aliases:
 - "Thought: The Afterlife"
 - "Thought: The Fate of the Soul"
@@ -11,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/thought
-title:: "Thought: TIME"
 level:: 5
-social:: [ #spirituality #damnation #soul #lakeoffire #judgment ]

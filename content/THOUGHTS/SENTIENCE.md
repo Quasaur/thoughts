@@ -1,8 +1,8 @@
 ---
 title: "Thought: SENTIENCE"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - spirits
 - sentience
 - god
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: thought
 level:: 3

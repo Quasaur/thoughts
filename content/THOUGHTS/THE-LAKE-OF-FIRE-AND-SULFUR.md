@@ -1,6 +1,13 @@
 ---
 title: "Thought: THE LAKE OF FIRE AND SULFUR"
 draft: false
+type: THOUGHT
+tags:
+- lakeoffire
+- wrathofgod
+- hell
+- regret
+- eternity
 aliases:
 - "Thought: Alone and Helpless"
 - "Thought: Eternally Hopeless"
@@ -11,7 +18,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/thought
-title:: "Thought: THE LAKE OF FIRE AND SULFUR"
 level:: 5
-social:: [ #lakeoffire #wrathofgod #hell #regret #eternity ]
+

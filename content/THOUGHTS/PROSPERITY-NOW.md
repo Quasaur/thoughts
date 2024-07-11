@@ -1,8 +1,8 @@
 ---
 title: "Thought: PROSPERITY NOW"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - prosperity
 - faith
 - prayer
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: thought"
 level:: 4

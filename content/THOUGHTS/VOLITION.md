@@ -1,8 +1,8 @@
 ---
 title: "Thought: VOLITION"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - paradox
 - volition
 - freewill
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: thought
 level:: 2

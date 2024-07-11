@@ -1,7 +1,7 @@
 ---
 title: "Thought: MYSTERY"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: My Wife is a Mystery
 - "Thought: I don't Understand My Wife"
 ---

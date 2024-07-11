@@ -1,8 +1,8 @@
 ---
 title: "Thought: REALITY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - cosmology
 - relativity
 - geocentricity
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-TRUTH]]
-type:: thought
 level:: 2

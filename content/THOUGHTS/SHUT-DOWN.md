@@ -1,6 +1,13 @@
 ---
 title: "Thought: SHUT DOWN"
 draft: false
+type: THOUGHT
+tags:
+- free
+- expression
+- constitutiion
+- rights
+- tiktok
 aliases:
 - "Thought: Freedom of Expression"
 - "Thought: Constitutional Right"
@@ -13,7 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FREEDOM]]
-type:: #type/thought
-title:: "Thought: SHUT DOWN"
 level:: 5
-social:: [ #free #expression #constitutiion #rights #tiktok ]

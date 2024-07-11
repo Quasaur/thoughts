@@ -1,7 +1,7 @@
 ---
 title: "Thought: HUMAN LAW"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: The Foundation of Human Law"
 ---
 # Thought: HUMAN LAW

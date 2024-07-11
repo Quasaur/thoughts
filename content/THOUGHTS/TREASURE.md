@@ -1,8 +1,8 @@
 ---
 title: "Thought: TREASURE"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - spirituality
 - treasure
 - wealth
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: thought
 level:: 4

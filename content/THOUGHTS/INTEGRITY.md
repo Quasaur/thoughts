@@ -1,8 +1,8 @@
 ---
 title: "Thought: INTEGRITY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - stand
 - true
 - integrity
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]
-type:: thought
 level:: 3

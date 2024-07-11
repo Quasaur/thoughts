@@ -1,6 +1,13 @@
 ---
 title: "Thought: TRANSCENDENT"
 draft: false
+type: THOUGHT
+tags:
+- pure
+- untainted
+- deliverance
+- glorification
+- jesuschrist
 aliases:
 - "Thought: Inspiring"
 - "Thought: Awesome"
@@ -12,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: TRANSCENDENT"
 level:: 3
-social:: [ #pure #untainted #deliverance #glorification #jesuschrist ]

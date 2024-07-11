@@ -1,8 +1,8 @@
 ---
 title: "Thought: MISUNDERSTOOD"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - misunderfstood
 - understanding
 - communication
@@ -17,5 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: thought
 level:: 3

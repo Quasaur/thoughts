@@ -1,8 +1,8 @@
 ---
 title: "Thought: EGO"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - god
 - sun
 - earth
@@ -21,5 +21,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: thought
 level::1

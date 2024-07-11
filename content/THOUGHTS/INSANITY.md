@@ -1,6 +1,13 @@
 ---
 title: "Thought: INSANITY"
 draft: false
+type: THOUGHT
+tags:
+- insanity
+- madness
+- delusion
+- narcissism
+- fooliishness
 aliases:
 - "Thought: Madness is Sin"
 - "Thought: Pride is Insanity"
@@ -12,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: INSANITY"
 level:: 4
-social:: [ #insanity #madness #delusion #narcissism #fooliishness]

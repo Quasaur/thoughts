@@ -1,8 +1,8 @@
 ---
 title: "Thought: THE QUICK AND THE DEAD"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - eternallife
 - immortality
 - spirituality
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]
-type:: thought
 level:: 2

@@ -1,7 +1,7 @@
 ---
 title: "Thought: PAINFUL TRUTH"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Russell Ellis"
 - "Thought: White Supremacy"
 ---

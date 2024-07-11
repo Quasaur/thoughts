@@ -1,7 +1,7 @@
 ---
 title: "Thought: FOSSILS"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Fast-Formed Fossils"
 - "Thought: Fossils' Age Questioned"
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Thought: THE REAL YOU"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - identity
 - selfimage
 - imageofgod
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: thought
 level:: 3

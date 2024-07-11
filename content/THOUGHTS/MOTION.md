@@ -1,8 +1,8 @@
 ---
 title: "Thought: MOTION"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - rest
 - sabbath
 - peace
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: thought
 level:: 1

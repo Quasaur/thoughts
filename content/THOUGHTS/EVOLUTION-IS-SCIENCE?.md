@@ -1,7 +1,7 @@
 ---
 title: "Thought: EVOLUTION IS SCIENCE?"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: The Evolutionary Religion"
 ---
 # Thought: EVOLUTION IS SCIENCE?

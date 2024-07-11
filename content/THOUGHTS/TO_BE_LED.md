@@ -1,6 +1,13 @@
 ---
 title: "Thought: TO BE LED"
 draft: false
+type: THOUGHT
+tags:
+- led
+- follow
+- leadership
+- holyspirit
+- travel
 aliases:
 - "Thought: To Be Led"
 - "Thought: To Follow"
@@ -12,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: TO BE LED"
 level:: 3
-social:: [ #led #follow #leadership #holyspirit #travel ]

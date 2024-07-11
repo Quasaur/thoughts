@@ -1,7 +1,7 @@
 ---
 title: "Thought: LOST SCIENTISTS"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Beyond the Big Bang"
 ---
 # Thought: DARK MATTER

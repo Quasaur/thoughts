@@ -1,7 +1,7 @@
 ---
 title: "Thought: DISPISING THE CROSS"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Dispising The Cross"
 - "Thought: Rejecting The Heart of the Gospel"
 ---

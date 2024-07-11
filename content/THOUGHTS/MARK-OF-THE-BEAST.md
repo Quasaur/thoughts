@@ -1,8 +1,8 @@
 ---
 title: "Thought: MARK OF THE BEAST"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - gospel
 - sunday
 - sabbath
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-type:: thought
 level:: 2

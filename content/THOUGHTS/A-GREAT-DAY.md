@@ -1,8 +1,8 @@
 ---
 title: "Thought: A Great Day"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - dailyroutine
 - eating
 - sleeping
@@ -15,5 +15,4 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: thought
 level:: 4

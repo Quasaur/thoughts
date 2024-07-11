@@ -1,8 +1,8 @@
 ---
 title: "Thought: HUMAN MERCY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - mercy
 - submission
 - faithfulness
@@ -17,5 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3

@@ -1,8 +1,8 @@
 ---
 title: "Thought: PERCEPTION"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - attitude
 - seeing
 - observing
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3

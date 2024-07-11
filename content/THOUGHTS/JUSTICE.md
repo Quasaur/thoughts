@@ -1,6 +1,13 @@
 ---
 title: "Thought: Justice"
 draft: false
+type: THOUGHT
+tags:
+- justice
+- spirituality
+- forgiveness
+- gospel
+- fair
 aliases:
 - "Thought: Atonement"
 - "Thought: Redemption"
@@ -14,7 +21,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/thought
-title:: "Thought: JUSTICE"
 level:: 5
-social:: [ #justice #spirituality #forgiveness #gospel #fair ]

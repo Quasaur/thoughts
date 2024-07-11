@@ -1,8 +1,8 @@
 ---
 title: "Thought: IMMORTALITY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - immortality
 - eternallife
 - salvation
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITHFULNESS]]
-type:: thought
 level:: 2

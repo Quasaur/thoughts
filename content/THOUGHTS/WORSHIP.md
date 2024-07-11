@@ -1,8 +1,8 @@
 ---
 title: "Thought: WORSHIP"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - worship
 - praise
 - prayer
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]
-type:: thought
 level:: 2

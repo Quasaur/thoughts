@@ -1,6 +1,13 @@
 ---
 title: "Thought: REPARATIONS"
 draft: false
+type: THOUGHT
+tags:
+- reparations
+- slavery
+- blackamericans
+- compensation
+- justice
 aliases:
 - "Thought: Broken Promises"
 - "Thought: Slavery Compensation"
@@ -11,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/thought
-title:: "Thought: REPARATIONS"
 level:: 5
-social:: [ #reparations #slavery #blackamericans #compensation #justice ]

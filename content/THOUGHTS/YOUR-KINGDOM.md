@@ -1,8 +1,8 @@
 ---
 title: "Thought: YUOUR KINGDOM"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - kingdom
 - heaven
 - earth
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: thought
 level:: 2

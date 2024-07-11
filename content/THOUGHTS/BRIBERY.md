@@ -1,8 +1,8 @@
 ---
 title: "Thought: Bribery"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - lobbying
 - uscongress
 - bribery
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: thought
 level:: 4

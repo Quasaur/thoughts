@@ -1,8 +1,8 @@
 ---
 title: "Thought: ACCOUNTABILITY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - god
 - lord
 - judgment
@@ -17,5 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-HUMANITY]]
-type:: thought
 level:: 3

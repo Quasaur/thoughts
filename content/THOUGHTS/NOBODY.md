@@ -1,8 +1,8 @@
 ---
 title: "Thought: NOBODY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - depravity
 - religion
 - apostasy
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: thought
 level:: 4

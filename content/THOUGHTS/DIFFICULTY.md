@@ -1,8 +1,8 @@
 ---
 title: "Thought: DIFFICULTY"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - difficulty
 - challenge
 - struggle
@@ -20,5 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3

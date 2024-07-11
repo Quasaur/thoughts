@@ -1,7 +1,7 @@
 ---
 title: "Thought: NOISE"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Listening to God"
 - "Thought: Hearing God's Voice"
 ---

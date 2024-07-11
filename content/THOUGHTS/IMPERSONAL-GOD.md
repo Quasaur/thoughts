@@ -1,7 +1,7 @@
 ---
 title: "Thought: IMPERSONAL GOD"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: The Genie God"
 ---
 # Thought: IMPERSONAL GOD

@@ -1,8 +1,8 @@
 ---
 title: "Thought: ONE REASON"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - apocalypse
 - lakeoffire
 - pride
@@ -19,6 +19,5 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3
 

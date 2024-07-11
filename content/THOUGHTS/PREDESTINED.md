@@ -1,8 +1,8 @@
 ---
 title: "Thought: PREDESTINED"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - sovereignty
 - election
 - lordship
@@ -19,5 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: thought
 level:: 2

@@ -1,7 +1,7 @@
 ---
 title: "Thought: THE ULTIMATE"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: The Most High"
 ---
 # Thought: THE ULTIMATE

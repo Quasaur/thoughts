@@ -1,8 +1,8 @@
 ---
 title: "Thought: SHOULD"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - law
 - order
 - discipline
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]
-type:: thought
 level:: 3

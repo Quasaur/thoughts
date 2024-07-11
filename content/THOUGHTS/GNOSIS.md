@@ -1,8 +1,8 @@
 ---
 title: "Thought: GNOSIS"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - gnosis
 - faith
 - immortality
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-FAITH]]
-type:: thought
 level:: 4

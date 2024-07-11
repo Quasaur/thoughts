@@ -1,7 +1,7 @@
 ---
 title: "Thought: WHEN JESUS RETURNS"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: On the Last Day"
 - "Thought: At the Last Trump"
 ---

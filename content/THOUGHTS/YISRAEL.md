@@ -1,7 +1,7 @@
 ---
 title: "Thought: YISRAEL"
 draft: false
-aliases:
+type: THOUGHTaliases:
 - "Thought: Jews Receiving Christ"
 - "Thought: Jewish Aparteid"
 ---

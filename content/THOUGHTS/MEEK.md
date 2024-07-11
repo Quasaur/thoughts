@@ -1,8 +1,8 @@
 ---
 title: "Thought: MEEK"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - meek
 - lowly
 - jesuschrist
@@ -24,5 +24,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: thought
 level:: 1

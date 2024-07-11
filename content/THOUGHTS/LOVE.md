@@ -1,8 +1,8 @@
 ---
 title: "Thought: LOVE"
 draft: false
+type: THOUGHT
 tags:
-- THOUGHT
 - love
 - spiri
 - attitude
@@ -18,5 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: thought
 level:: 3
