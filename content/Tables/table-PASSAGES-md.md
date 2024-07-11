@@ -2,6 +2,8 @@
 title: "table: PASSAGES (md)"
 draft: false
 description: All of the PASSAGES of Wisdom from The Bible.
+tags:
+- TABLE
 aliases:
   - "Table: Proverbs"
   - "Table: Biblical Wisdom"

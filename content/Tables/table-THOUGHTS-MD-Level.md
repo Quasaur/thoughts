@@ -2,6 +2,8 @@
 title: "table: THOUGHTS (sorted by level)"
 draft: false
 description: All of the THOUGHTS in the Book of Toughts.
+tags:
+- TABLE
 aliases:
   - "Table: Proverbs (level)"
   - "Table: Precepts (level)"

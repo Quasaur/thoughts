@@ -2,6 +2,8 @@
 title: "table: TOPICS (md)"
 draft: false
 description: All of the TOPICS covered in the Book of Toughts.
+tags:
+- TABLE
 aliases:
   - '"Table: Indexes"'
   - '"Table: Subjects"'

@@ -2,6 +2,8 @@
 title: "table: QUOTES (md)"
 draft: false
 description: All of the QUOTES from Author Calvin Mitchell's other books.
+tags:
+- TABLE
 aliases:
   - "Table: Citations"
   - "Table:: Menions"
