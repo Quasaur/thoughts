@@ -154,13 +154,13 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       return "var(--secondary)"
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return "var(--tertiary)"
-    } else if (d.tags.includes("#TOPIC")) {
+    } else if (d.simpleSlug.includes("TOPICS")) {
       return "#ff00ff" // magenta
-    }  else if (d.tags.includes("#THOUGHT")) {
+    }  else if (d.simpleSlug.includes("THOUGHTS")) {
       return "#00bb00" // green
-    }  else if (d.tags.includes("#QUOTE")) {
+    }  else if (d.simpleSlug.includes("QUOTES")) {
       return "#ffff55" // brightyellow
-    }  else if (d.tags.includes("#PASSAGE")) {
+    }  else if (d.simpleSlug.includes("PASSAGES")) {
       return "#55555ff" // brightblue
     } else { return "var(--gray)"}
   }
