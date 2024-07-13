@@ -2,6 +2,12 @@
 title: "Thought: NOISE"
 draft: false
 type: THOUGHT
+tags:
+- heart
+- noise
+- voiceofgod
+- hearing
+- holyspirit
 aliases:
 - "Thought: Listening to God"
 - "Thought: Hearing God's Voice"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: NOISE"
 level:: 3
-social:: [ #heart #noise #voiceofgod #hearing #holyspirit ]

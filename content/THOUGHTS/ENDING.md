@@ -2,6 +2,12 @@
 title: "Thought: ENDING"
 draft: false
 type: THOUGHT
+tags:
+- ending
+- bible
+- apocalypse
+- judgment
+- newjerusalem
 aliases:
 - "Thought: End of the World"
 - "Thought: Revelation"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-APOCALYPSE]]
-type:: #type/thought
-title:: "Thought: ENDING"
 level:: 5
-social:: [ #ending #bible #apocalypse #judgment #newjerusalem ]

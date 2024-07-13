@@ -2,8 +2,14 @@
 title: "Thought: MYSTERY"
 draft: false
 type: THOUGHT
+tags:
+- wife
+- mystery
+- understanding
+- life
+- gift
 aliases:
-- "Thought: My Wife is a Mystery
+- "Thought: My Wife is a Mystery"
 - "Thought: I don't Understand My Wife"
 ---
 # Thought: MYSTERY
@@ -13,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: MYSTERY"
 level:: 4
-social:: [ #wife #mystery #understanding #life #gift ]

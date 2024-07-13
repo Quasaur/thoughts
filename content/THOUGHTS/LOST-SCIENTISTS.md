@@ -2,6 +2,12 @@
 title: "Thought: LOST SCIENTISTS"
 draft: false
 type: THOUGHT
+tags:
+- science
+- bigbang
+- lost
+- creatiion
+- origin
 aliases:
 - "Thought: Beyond the Big Bang"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-COSMOLOGY]]
-type:: #type/thought
-title:: "Thought: LOST SCIENTISTS"
 level:: 4
-social:: [ #science #bigbang #lost #creatiion #origin ]

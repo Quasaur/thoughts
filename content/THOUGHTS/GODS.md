@@ -1,5 +1,13 @@
 ---
 title: "Thought: GODS"
+draft: false
+type: THOUGHT
+tags:
+- behavior
+- intelligence
+- power
+- mercy
+- compassion
 aliases:
 - "Thought: Greatness"
 ---
@@ -9,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: GODS"
 level:: 4
-social:: [ #behavior #intelligence #power #mercy #compassion]

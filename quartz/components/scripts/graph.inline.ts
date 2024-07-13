@@ -154,8 +154,10 @@ const color = (d: NodeData) => {
 	if (isCurrent) {
 		return "var(--secondary)"
 	} else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-		return "var(--tertiary)"
-		} else { return "var(--gray)"}
+		  return "var(--tertiary)"
+		} else { 
+        console.log("NodeData.id: " + d.id)
+        return "var(--gray)"}
 	}
 
   const drag = (simulation: d3.Simulation<NodeData, LinkData>) => {

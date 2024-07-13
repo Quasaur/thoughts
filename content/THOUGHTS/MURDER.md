@@ -2,6 +2,12 @@
 title: "Thought: MURDER"
 draft: false
 type: THOUGHT
+tags:
+- crime
+- punishment
+- intent
+- kill
+- judgment
 aliases:
 - "Thought: Intent to Murder"
 - "Thought: Thou Shalt Not Kill"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: MURDER"
 level:: 4
-social:: [ #crime #punishment #intent #kill #judgment ]

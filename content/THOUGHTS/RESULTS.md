@@ -2,6 +2,12 @@
 title: "Thought: RESULTS"
 draft: false
 type: THOUGHT
+tags:
+- gunviolence
+- massshootings
+- gunlaws
+- nra
+- uscongress
 aliases:
 - "Thought: Motivation"
 - "Thought: Intent"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: RESULTS"
 level:: 4
-social:: [ #gunviolence #massshootings #gunlaws #nra #uscongress ]

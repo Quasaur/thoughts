@@ -2,6 +2,12 @@
 title: "Thought: SELF WORSHIP"
 draft: false
 type: THOUGHT
+tags:
+- narcissism
+- selfworship
+- religion
+- humanitarian
+- evolution
 aliases:
 - "Thought: Narcissism"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/thought
-title:: "Thought: GOD AWARENESS"
 level:: 4
-social:: [ #narcissism #selfworship #religion #humanitarian #evolution ]

@@ -1,5 +1,13 @@
 ---
 title: "Thought: FORGIVENESS"
+draft: false
+type: THOUGHT
+tags:
+- forgiveness
+- atonement
+- propitiation
+- thecross
+- jesuschrist
 aliases:
 - "Thought: Atonement"
 - "Thought: Justice"
@@ -12,7 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-MERCY]]
-type:: #type/thought
-title:: "Thought: FORGIVENESS"
 level:: 5
-social:: [ #forgiveness #atonement #propitiation #thecross #jesuschrist ]

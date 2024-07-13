@@ -2,6 +2,12 @@
 title: "Thought: EVOLUTION IS SCIENCE?"
 draft: false
 type: THOUGHT
+tags:
+- evolution
+- science
+- religion
+- evidence
+- faith
 aliases:
 - "Thought: The Evolutionary Religion"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/thought
-title:: "Thought: EVOLUTION EQUALS SCIENCE?"
 level:: 4
-social:: [ #evolution #science #religion #evidence #faith ]

@@ -1,5 +1,12 @@
 ---
 title: "Thought: FATHER"
+draft: false
+type: THOUGHT
+tags:
+- father
+- flesh
+- spirit
+- knowledgeimmortality
 aliases:
 - "Thought: Father of Spirits"
 ---
@@ -9,7 +16,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: FATHER"
 level:: 3
-social:: [ #father #flesh #spirit #knowledge #immortality ]

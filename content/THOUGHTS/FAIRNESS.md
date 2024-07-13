@@ -1,5 +1,13 @@
 ---
 title: "Thought: FAIRNESS"
+draft: false
+type: THOUGHT
+tags:
+- justice
+- fairness
+- mercy
+- forgiveness
+- compassion
 aliases:
 - "Thought: Mercy vs Justice"
 - "Thought: Fairplay"
@@ -10,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-JUSTICE]]
-type:: #type/thought
-title:: "Thought: FAIRNESS"
 level:: 5
-social:: [ #justice #fairness #mercy #forgiveness #compassion]

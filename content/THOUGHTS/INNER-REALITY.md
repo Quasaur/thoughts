@@ -2,6 +2,12 @@
 title: "Thought: INNER REALITY"
 draft: false
 type: THOUGHT
+tags:
+- heart
+- feelings
+- perception
+- reaction
+- reality
 aliases:
 - "Thought: Feelings"
 - "Thought: Self-Centeredness"
@@ -12,7 +18,4 @@ aliases:
 > 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: INNER REALITY"
 level:: 3
-social:: [ #heart #feelings #perception #reaction #reality ]

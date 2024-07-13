@@ -1,5 +1,13 @@
 ---
 title: "Thought: SCIENCE CONSPIRACY"
+draft: false
+type: THOUGHT
+tags:
+- science
+- cosmology
+- geocentricity
+- michelson
+- creationism
 aliases:
 - "Thought: Geocentricity"
 - "Thought: Ether"
@@ -12,10 +20,7 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-COSMOLOGY]]
-type:: #type/thought
-title:: "Thought: SCIENCE CONSPIRACY"
 level:: 4
-social:: [ #science #cosmology #geocentricity #michelson #creationism  ]
   
 ## External Links
 ![Einstein: the Closet Geocentrist](https://youtu.be/embed/hKCO-TeVEgM)

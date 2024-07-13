@@ -2,6 +2,12 @@
 title: "Thought: HUMANITARIANISM"
 draft: false
 type: THOUGHT
+tags:
+- humanity
+- selfworship
+- god
+- judgment
+- accountable
 aliases:
 - "Thought: Humanity's Godhood"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-RELIGION]]
-type:: #type/thought
-title:: "Thought: HUMANITARIANISM"
 level:: 4
-social:: [ #humanity #selfworship #god #judgment #accountable ]

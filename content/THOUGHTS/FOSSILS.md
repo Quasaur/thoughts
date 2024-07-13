@@ -2,6 +2,12 @@
 title: "Thought: FOSSILS"
 draft: false
 type: THOUGHT
+tags:
+- geology
+- fossils
+- creationism
+- intelligentdesign
+- evidence
 aliases:
 - "Thought: Fast-Formed Fossils"
 - "Thought: Fossils' Age Questioned"
@@ -11,11 +17,8 @@ aliases:
 > Fossils, which evolutionists say prove how ancient the Earth is, HAVE BEEN ENGINEERED IN LABORATORIES WITHIN 24 HOURS!
 
 ## Dataview
-type:: #type/thought
-title:: "Thought: FOSSILS"
 ptopic:: [[topic-GEOLOGY]]
 level:: 4
-social:: [ #geology #fossils #creationism #intelligentdesign #evidence ]
 
 ## Links
 ![Experiment: Fast-Formed Fossils](https://answersingenesis.org/fossils/how-are-fossils-formed/experiment-fast-formed-fossils/)

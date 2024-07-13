@@ -2,6 +2,12 @@
 title: "Thought: HUMAN LAW"
 draft: false
 type: THOUGHT
+tags:
+- humanity
+- god
+- accountable
+- law
+- hope
 aliases:
 - "Thought: The Foundation of Human Law"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-LAW]]
-type:: #type/thought
-title:: "Thought: HUMAN LAW"
 level:: 4
-social:: [ #humanity #god #accountable #law #hope ]

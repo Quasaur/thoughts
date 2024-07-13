@@ -2,6 +2,12 @@
 title: "Thought: GOD AWARENESS"
 draft: false
 type: THOUGHT
+tags:
+- faith
+- awareness
+- self
+- god
+- worship
 aliases:
 - "Thought: The God Who is Here"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: GOD AWARENESS"
 level:: 1
-social:: [ #faith #awareness #self #god #worship ]

@@ -2,6 +2,12 @@
 title: "Thought: LIVING RELATIONSHIP"
 draft: false
 type: THOUGHT
+tags:
+- live
+- relationships
+- people
+- jesuschrist
+- god
 aliases:
 - "Thought: The Two Greatest Commandments"
 - "Thought: Relating to God Through Others"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: LIVING RELATIONSHIPS"
 level:: 4
-social:: [ #live #relationships #people #jesuschrist #god  ]

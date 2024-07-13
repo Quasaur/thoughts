@@ -2,6 +2,12 @@
 title: "Thought: IMAGINATION"
 draft: false
 type: THOUGHT
+tags:
+- imagination
+- imagery
+- vision
+- mind
+- realization
 aliases:
 - "Thought: Visualization
 - "Thought: Conceptualization"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-type:: #type/thought
-title:: "Thought: IMAGINATION"
 level:: 3
-social:: [ #imagination #imagery #vision #mind #realization]

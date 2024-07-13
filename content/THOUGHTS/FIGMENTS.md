@@ -2,6 +2,12 @@
 title: "Thought: FIGMENTS"
 draft: false
 type: THOUGHT
+tags:
+- imagination
+- fables
+- lessreal
+- fictitious
+- created
 aliases:
 - "Thought: Fictitious Fables"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-CREATION]]
-type:: #type/thought
-title:: "Thought: FIGMENTS"
 level:: 2
-social:: [ #imagination #fables #lessreal #fictitious #created ]

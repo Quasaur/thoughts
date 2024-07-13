@@ -33,7 +33,7 @@ The study of mind and behavior in relation to a particular field of knowledge or
 
 [[INSANITY]]
 
-[[LIVING RELATIONSHIPS]]
+[[LIVING-RELATIONSHIPS]]
 
 [[LOVING-OR-LOVED?]]
 

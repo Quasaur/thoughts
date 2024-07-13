@@ -1,5 +1,13 @@
 ---
 title: "Thought: FULLNESS"
+draft: false
+type: THOUGHT
+tags:
+- spirituality
+- fullness
+- overflow
+- immunity
+- life
 aliases:
 - "Thought: Purity"
 - "Thought: The Gift of Righteousness"
@@ -11,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: FULLNESS"
 level:: 3
-social:: [ #spirituality #fullness #overflow #immunity #life ]

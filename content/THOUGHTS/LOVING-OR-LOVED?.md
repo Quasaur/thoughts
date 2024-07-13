@@ -2,6 +2,12 @@
 title: "Thought: LOVING OR LOVED?"
 draft: false
 type: THOUGHT
+tags:
+- loving
+- loved
+- give
+- receive
+- preference
 aliases:
 - "Thought: Which is Better?"
 - "Thought: Loving or Being Loved?"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: LOVING or LOVED?"
 level:: 4
-social:: [ #loving #loved #give #receive #preference]

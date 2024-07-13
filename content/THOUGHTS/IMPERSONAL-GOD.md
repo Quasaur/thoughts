@@ -2,6 +2,12 @@
 title: "Thought: IMPERSONAL GOD"
 draft: false
 type: THOUGHT
+tags:
+- god
+- personal
+- impersonal
+- sentience
+- selfaware
 aliases:
 - "Thought: The Genie God"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: IMPERSONAL GOD"
 level:: 1
-social:: [ #god #personal #impersonal #sentience #selfaware ]

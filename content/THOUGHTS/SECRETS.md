@@ -2,6 +2,12 @@
 title: "Thought: SECRETS"
 draft: false
 type: THOUGHT
+tags:
+- secrets
+- distractions
+- eternity
+- immortality
+- transcendence
 aliases:
 - "Thought: Secrets"
 - "Thought: Secrets of the Universe"
@@ -13,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: SECRETS"
 level:: 4
-social:: [ #secrets #distractions #eternity #immortality #transcendence ]
