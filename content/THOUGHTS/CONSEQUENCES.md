@@ -2,6 +2,12 @@
 title: "Thought: CONSEQUENCES"
 draft: false
 type: THOUGHT
+tags:
+- consequences
+- mercy
+- sovereignty
+- sin
+- suffering
 aliases:
 - "Thought: Consequences of Mercy"
 ---
@@ -15,7 +21,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/thought
-title:: "Thought: CONSEQUENCES"
 level:: 4
-social:: [ #consequences #mercy #sovereignty #sin #suffering ]

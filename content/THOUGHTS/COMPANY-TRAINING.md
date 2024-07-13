@@ -2,6 +2,12 @@
 title: "Thought: COMPANY TRAINING"
 draft: false
 type: THOUGHT
+tags:
+- time
+- training
+- courses
+- company
+- mismanagement
 aliases:
 - "Thought: Company Training Schedules"
 - "Thought: Not Enough Time"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: COMPANYTRAINING"
-level:: 4
-social:: [ #time #training #courses #company #mismanagement ]
+level:: 4cd 

@@ -10,7 +10,7 @@ aliases:
 date: 2024-06-06
 ---
 # Topic: TRUTH
-## Descriptiion
+## Description
 A transcendent fundamental or spiritual reality.
 
 ## Sub-Topics

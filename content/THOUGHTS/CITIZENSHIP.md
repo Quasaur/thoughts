@@ -2,6 +2,12 @@
 title: "Thought: CITIZENSHIP"
 draft: false
 type: THOUGHT
+tags:
+- citizenship
+- kingdom
+- reignofgod
+- freedom
+- jesuschrist
 aliases:
 - "Thought: Heavenly Nationalism"
 - "Thought: Kingdom of God"
@@ -13,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ECONOMICS]]
-type:: #type/thought
-title:: "Thought: CITIZENSHIP"
 level:: 4
-social:: [ #citizenship #kingdom #reignofgod #freedom #jesuschrist ]
