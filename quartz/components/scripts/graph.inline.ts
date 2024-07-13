@@ -147,23 +147,16 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // svg groups
   const graphNode = svg.append("g").selectAll("g").data(graphData.nodes).enter().append("g")
 
-  // calculate color
-  const color = (d: NodeData) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return "var(--secondary)"
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return "var(--tertiary)"
-    } else if (d.simpleSlug.includes("TOPICS")) {
-      return "#ff00ff" // magenta
-    }  else if (d.simpleSlug.includes("THOUGHTS")) {
-      return "#00bb00" // green
-    }  else if (d.simpleSlug.includes("QUOTES")) {
-      return "#ffff55" // brightyellow
-    }  else if (d.simpleSlug.includes("PASSAGES")) {
-      return "#55555ff" // brightblue
-    } else { return "var(--gray)"}
-  }
+  /// calculate color
+const color = (d: NodeData) => {
+
+	const isCurrent = d.id === slug
+	if (isCurrent) {
+		return "var(--secondary)"
+	} else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+		return "var(--tertiary)"
+		} else { return "var(--gray)"}
+	}
 
   const drag = (simulation: d3.Simulation<NodeData, LinkData>) => {
     function dragstarted(event: any, d: NodeData) {
