@@ -51,8 +51,8 @@ export const defaultContentPageLayout = {
                 linkDistance: 400,
                 fontSize: 0.6,
                 opacityScale: 1,
-                removeTags: ["#TABLE"], // what tags to remove from the graph
-                showTags: true, // whether to show tags in the graph
+                removeTags: [], // what tags to remove from the graph
+                showTags: false, // whether to show tags in the graph
             },
         }),
         Component.DesktopOnly(Component.TableOfContents()),

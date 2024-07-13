@@ -2,6 +2,12 @@
 title: "Thought: DISPISING THE CROSS"
 draft: false
 type: THOUGHT
+tags:
+- cross
+- salvation
+- gospel
+- lakeoffire
+- jesuschrist
 aliases:
 - "Thought: Dispising The Cross"
 - "Thought: Rejecting The Heart of the Gospel"
@@ -13,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-EVIL]]
-type:: #type/thought
-title:: "Thought: THE CROSS"
 level:: 4
-social:: [ #cross #salvation #gospel #lakeoffire #jesuschrist ]

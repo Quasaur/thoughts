@@ -1,5 +1,13 @@
 ---
 title: "Thought: DEBTORS"
+draft: false
+type: THOUGHT
+tags:
+- economics
+- nation
+- debtors
+- slaves
+- liability
 aliases:
 - "Thought: A Nation of Debtors"
 - "Thought: Debt and Slavery"
@@ -10,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-ECONOMICS]]
-type:: #type/thought
-title:: "Thought: DEBTORS"
 level:: 4
-social:: [ #economics #nation #debtors #slaves #liability]

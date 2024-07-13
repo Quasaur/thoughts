@@ -2,6 +2,12 @@
 title: "Thought: DIVINE SEED"
 draft: false
 type: THOUGHT
+tags:
+- seed
+- wordofgod
+- holyspirit
+- sowing
+- reaping
 aliases:
 - "Thought: The Seed of God's Word"
 - "Thought: The Work of The Holy Spirit"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: DIVINE SEED"
 level:: 3
-social:: [ #seed #wordofgod #holyspirit #sowing #reaping ]

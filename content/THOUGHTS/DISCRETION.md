@@ -1,6 +1,13 @@
 ---
 title: "Thought: DISCRETION"
 driaft: false
+type: THOUGHT
+tags:
+- discretion
+- sensitivity
+- tactfulness
+- relationships
+- wisdom
 aliases:
 - "Thought: Sensitivity"
 - "Thought: Tactfulness"
@@ -11,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: DISCRETION"
 level:: 4
-social:: [ #discretion #sensitivity #tactfulness #relationships #wisdom ]

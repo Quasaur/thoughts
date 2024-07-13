@@ -2,6 +2,12 @@
 title: "Thought: EMPTINESS"
 draft: false
 type: THOUGHT
+tags:
+- emptiness
+- void
+- hunger
+- addiction
+- spirituality
 aliases:
 - "Thought: The Void Within:
 - "Thought: The GOD-Shaped Hole"
@@ -15,7 +21,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: EWMPTINESS"
 level:: 1
-social:: [ #emptiness #void #hunger #addiction #spirituality ]

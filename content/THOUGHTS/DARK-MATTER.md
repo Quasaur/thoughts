@@ -2,6 +2,12 @@
 title: "Thought: DARK MATTER"
 draft: false
 type: THOUGHT
+tags:
+- genesis
+- creation
+- universe
+- waters
+- science
 aliases:
 - "Thought: Dark Water"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-COSMOLOGY]]
-type:: #type/thought
-title:: "Thought: DARK MATTER"
 level:: 4
-social:: [ #genesis #creation #universe #waters #science ]
