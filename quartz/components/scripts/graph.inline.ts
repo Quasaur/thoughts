@@ -2,7 +2,7 @@ import type { ContentDetails, ContentIndex } from "../../plugins/emitters/conten
 import * as d3 from "d3"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
-import fs from "platform 'node:fs'";
+var fs: { writeFile: (arg0: string, arg1: any) => any; } any = require('fs');
 
 
 type NodeData = {
