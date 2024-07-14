@@ -27,13 +27,13 @@ function addToVisited(slug: SimpleSlug) {
 }
 
 async function debugWrite (data) {
-  const fs = require("fs");
-  try {
-    await fs.writeFile('colordebug.txt', data)
-    console.log('Data written to file successfully.')
-  } catch (err) {
-      console.error(err);
-  }
+  const fs = require("fs").promises;
+
+  const writePromise = fs.writeFile("./colorDebug.txt", data);
+  
+  writePromise
+    .then(() => console.log("success!"))
+    .catch(err => console.error(err));
 }
 
 async function renderGraph(container: string, fullSlug: FullSlug) {
