@@ -168,7 +168,7 @@ const color = (d: NodeData) => {
 	} else if (visited.has(d.id) || d.id.startsWith("tags/")) {
 		  return "var(--tertiary)"
 		} else { 
-        debugWrite("NodeData.id = " + d:id)
+        debugWrite("NodeData.id = " + d.id)
         } return "var(--gray)"
       }
 	}
