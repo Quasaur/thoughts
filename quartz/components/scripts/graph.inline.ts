@@ -2,7 +2,7 @@ import type { ContentDetails, ContentIndex } from "../../plugins/emitters/conten
 import * as d3 from "d3"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
-import f as fs from 'fs';
+import fs from 'fs';
 
 
 type NodeData = {
