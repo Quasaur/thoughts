@@ -169,10 +169,9 @@ const color = (d: NodeData) => {
 		  return "var(--tertiary)"
 		} else { 
         debugWrite("NodeData.id = " + d.id)
-        } return "var(--gray)"
-      }
+    } else {return "var(--gray)"}
 	}
-
+ 
   const drag = (simulation: d3.Simulation<NodeData, LinkData>) => {
     function dragstarted(event: any, d: NodeData) {
       if (!event.active) simulation.alphaTarget(1).restart()
