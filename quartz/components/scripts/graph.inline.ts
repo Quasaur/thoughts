@@ -27,14 +27,13 @@ function addToVisited(slug: SimpleSlug) {
   localStorage.setItem(localStorageKey, JSON.stringify([...visited]))
 }
 
-function debugWrite (data) {
-  fs.writeFile('colordebug.txt', data, (err) => {
-    if (err) {
+async function debugWrite (data) {
+  try {
+    await fs.writeFile('colordebug.txt', data)
+    console.log('Data written to file successfully.')
+  } catch (err) {
       console.error(err);
-    } else {
-        console.log('Data written to file successfully.');
-    }
-  });
+  }
 }
 
 async function renderGraph(container: string, fullSlug: FullSlug) {
