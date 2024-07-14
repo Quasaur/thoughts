@@ -164,8 +164,10 @@ const color = (d: NodeData) => {
 		return "var(--secondary)"
 	} else if (visited.has(d.id) || d.id.startsWith("tags/")) {
 		  return "var(--tertiary)"
-		} else { 
-        debugWrite("NodeData.id = " + d.id)
+		} else if (d.id.startsWith("BIBLE")){ 
+        return "#55555ff"
+    } else {
+        // debugWrite("NodeData.id = " + d.id)
         return "var(--gray)"
     }
 	}
