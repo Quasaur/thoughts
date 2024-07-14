@@ -2,7 +2,6 @@ import type { ContentDetails, ContentIndex } from "../../plugins/emitters/conten
 import * as d3 from "d3"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
-var fs: any = require('fs');
 
 
 type NodeData = {
@@ -28,6 +27,7 @@ function addToVisited(slug: SimpleSlug) {
 }
 
 async function debugWrite (data) {
+  const fs = require("fs");
   try {
     await fs.writeFile('colordebug.txt', data)
     console.log('Data written to file successfully.')
