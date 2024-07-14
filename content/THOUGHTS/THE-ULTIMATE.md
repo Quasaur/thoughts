@@ -2,6 +2,12 @@
 title: "Thought: THE ULTIMATE"
 draft: false
 type: THOUGHT
+tags:
+- humanity
+- selfworship
+- god
+- judgment
+- accountable
 aliases:
 - "Thought: The Most High"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
-type:: #type/thought
-title:: "Thought: THE ULTIMATE"
 level:: 1
-social:: [ #humanity #selfworship #god #judgment #accountable ]

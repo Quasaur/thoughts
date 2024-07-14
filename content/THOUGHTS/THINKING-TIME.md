@@ -2,6 +2,12 @@
 title: "Thought: THINKING TIME"
 draft: false
 type: THOUGHT
+tags:
+- thinking
+- time
+- focus
+- priorities
+- god
 aliases:
 - "Thought: Focus"
 - "Thought: Priorities"
@@ -12,7 +18,4 @@ aliases:
 > 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: THINKING TIME"
 level:: 4
-social:: [ #thinking #time #focus #priorities #god ]

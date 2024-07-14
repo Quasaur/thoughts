@@ -2,6 +2,12 @@
 title: "Thought: UNSUBMISSIVE"
 draft: false
 type: THOUGHT
+tags:
+- unsubmissive
+- rebellious
+- pointless
+- meaningless
+- god 
 aliases:
 - "Thought: Rebellious"
 - "Thought: Resisting the Holy Spirit"
@@ -13,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
-type:: #type/thought
-title:: "Thought: UNSUBMISSIV E"
 level:: 2
-social:: [ #unsubmissive #rebellious #pointless #meaningless #god  ]

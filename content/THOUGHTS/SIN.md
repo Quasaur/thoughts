@@ -2,6 +2,12 @@
 title: "Thought: SIN"
 draft: false
 type: THOUGHT
+tags:
+- grace
+- gospel
+- love
+- power
+- jesuschrist
 aliases:
 - "Thought: Broken Chains'
 - "Thought: Released from Prison"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-type:: #type/thought
-title:: "Thought: SIN"
 level:: 3
-social:: [ #grace #gospel #love #power #jesuschrist ]

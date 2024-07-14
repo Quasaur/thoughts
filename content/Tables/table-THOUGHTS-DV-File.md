@@ -1,6 +1,7 @@
 ---
 title: "Table: Thoughts DV - File"
 draft: true
+type: TABLE
 ---
 # Table: THOUGHTS DV - File (hidden)
 ```dataview
@@ -21,7 +22,7 @@ parent:: [[content/index]]
 ## Snippets
 
 ```dataview
- WHERE type != "#type/thought"
+ WHERE type != THOUGHT
 
-social AS "Social Tags"
+tags AS "Social Tags"
 ```

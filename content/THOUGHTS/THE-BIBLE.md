@@ -2,6 +2,12 @@
 title: "Thought: THE BIBLE"
 draft: false
 type: THOUGHT
+tags:
+- apocalypse
+- bible
+- rock
+- spirituality
+- delusion
 aliases:
 - "Thought: Apostasy"
 - "Thought: Heresy"
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/thought
-title:: "Topic: THE BIBLE"
 level:: 4
-social:: [ #apocalypse #bible #rock #spirituality #delusion ]

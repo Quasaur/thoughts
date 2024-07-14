@@ -2,6 +2,12 @@
 title: "Thought: WHY"
 draft: false
 type: THOUGHT
+tags:
+- children
+- adults
+- demanded
+- cause
+- why
 aliases:
 - "Thought: An Explanation"
 ---
@@ -12,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: WHY"
 level:: 4
-social:: [ #children #adults #demanded #cause #why ]

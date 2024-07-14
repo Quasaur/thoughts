@@ -2,6 +2,12 @@
 title: "Thought: UNFORGIVENESS"
 draft: false
 type: THOUGHT
+tags:
+- unforgiveness
+- hell
+- unmerciful
+- condemnation
+- salvation
 aliases:
 - "Thought: Grudge"
 - "Thought: Unmerciful"
@@ -12,7 +18,4 @@ aliases:
 > 
 ## Dataview
 ptopic:: [[topic-ATTITUDE]]
-type:: #type/thought
-title:: "Thought: UNFORGIVENESS"
 level:: 3
-social:: [ #unforgiveness #hell #unmerciful #condemnation #salvation ]

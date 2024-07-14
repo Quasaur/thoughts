@@ -1,6 +1,7 @@
 ---
 title: "Table: RECENT"
 draft: true
+type: TABLE
 ---
 # Table: RECENT (hidden)
 ```dataview
@@ -11,7 +12,7 @@ TABLE
 	dateformat(file.mtime, "yyyy.MM.dd") as "Last Modified*",
 	type AS "Type"
    FROM "content"
-   WHERE type != "#type/page" AND type != "table" AND draft = false
+   WHERE type != "PAGE" AND type != "TABLE" AND draft = false
    SORT file.mtime DESC
 ```
 
@@ -22,5 +23,5 @@ parent:: [[content/index]]
 
 ## Snippets
 ```dataview
-WHERE type = #type/thought OR #type/quote OR #type/passage OR #type/topic
+WHERE type = THOUGHT OR type = QUOTE OR type = PASSAGE OR type = TOPIC
 ```

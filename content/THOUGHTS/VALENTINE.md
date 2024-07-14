@@ -2,6 +2,12 @@
 title: "Thought: VALENTINE"
 draft: false
 type: THOUGHT
+tags:
+- valentine
+- couples
+- romance
+- relationships
+- love
 aliases:
 - "Thought: St. Valentine's Day"
 - "Thought: My Wife"
@@ -13,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-type:: #type/thought
-title:: "Thought: VALENTINE"
 level:: 4
-social:: [ #valentine #couples #romance #relationships #love ]

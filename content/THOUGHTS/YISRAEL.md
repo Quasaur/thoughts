@@ -2,6 +2,12 @@
 title: "Thought: YISRAEL"
 draft: false
 type: THOUGHT
+tags:
+- israel
+- apartheid
+- genocide
+- palestinians
+- jesuschrist
 aliases:
 - "Thought: Jews Receiving Christ"
 - "Thought: Jewish Aparteid"
@@ -13,7 +19,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/thought
-title:: "Thought: YISRAEL"
 level:: 4
-social:: [ #israel #apartheid #genocide #palestinians #jesuschrist ]

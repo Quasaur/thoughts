@@ -1,6 +1,13 @@
 ---
 title: "Thought: SPIRIT"
 driaft: false
+type: THOUGHT
+tags:
+- holyspirit
+- spiritofchrist
+- spiritoftruth
+- spiritofgrace
+- jesuschrist
 aliases:
 - "Thought: The Holy Spirit"
 - "Thought: The Spirit of Truth"
@@ -11,7 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-SPIRITS]]
-type:: #type/thought
-title:: "Thought: SPIRIT"
 level:: 3
-social:: [ #holyspirit #spiritofchrist #spiritoftruth #spiritofgrace #jesuschrist ]

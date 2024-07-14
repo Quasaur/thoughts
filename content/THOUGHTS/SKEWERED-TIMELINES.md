@@ -2,6 +2,12 @@
 title: "Thought: SKEWERED TIMELINES"
 draft: false
 type: THOUGHT
+tags:
+- evolution
+- pseudoscience
+- timelines
+- religion
+- creation
 aliases:
 - "Thought: Evolutionary Timelines"
 ---
@@ -11,7 +17,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/thought
-title:: "Thought: SKEWERED TIMELINES"
 level:: 4
-social:: [ #evolution #pseudoscience #timelines #religion #creation ]

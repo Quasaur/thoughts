@@ -2,6 +2,12 @@
 title: "Thought: WHEN JESUS RETURNS"
 draft: false
 type: THOUGHT
+tags:
+- apocalypse
+- demons
+- angels
+- spirituality
+- life
 aliases:
 - "Thought: On the Last Day"
 - "Thought: At the Last Trump"
@@ -14,7 +20,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]
-type:: #type/thought
-title:: "Thought: WHEN JESUS RETURNS"
 level:: 4
-social:: [ #apocalypse #demons #angels #spirituality #life ]

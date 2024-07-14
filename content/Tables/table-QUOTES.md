@@ -1,6 +1,7 @@
 ---
 title: "Table: QUOTES"
 draft: true
+type: TABLE
 ---
 # Table: QUOTES (hidden)
 ```dataview
@@ -21,7 +22,7 @@ parent:: [[content/index]]
 ## Snippets
 ```dataview
 
-WHERE type != "#type/thought"
+WHERE type != "THOUGHT"
 
 social AS "Social Tags"
 
