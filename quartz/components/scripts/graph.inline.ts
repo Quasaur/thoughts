@@ -27,9 +27,7 @@ function addToVisited(slug: SimpleSlug) {
 }
 
 async function debugWrite (data) {
-  const fs = require("fs").promises;
-
-  const writePromise = fs.writeFile("./colorDebug.txt", data);
+  const writePromise = console.log("NodeData.id: " + data);
   
   writePromise
     .then(() => console.log("success!"))
