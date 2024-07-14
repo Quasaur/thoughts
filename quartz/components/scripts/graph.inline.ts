@@ -2,6 +2,8 @@ import type { ContentDetails, ContentIndex } from "../../plugins/emitters/conten
 import * as d3 from "d3"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import f as fs from 'fs';
+
 
 type NodeData = {
   id: SimpleSlug
@@ -156,8 +158,14 @@ const color = (d: NodeData) => {
 	} else if (visited.has(d.id) || d.id.startsWith("tags/")) {
 		  return "var(--tertiary)"
 		} else { 
-        console.log("NodeData.id: " + d.id)
-        return "var(--gray)"}
+      const data = 'NodeData.id = ' + d.id;
+      fs.writeFile('colordebug.txt', data, (err) => {
+        if (err) {
+          console.error(err);
+        } else {
+          console.log('Data written to file successfully.');
+        } return "var(--gray)"
+      }
 	}
 
   const drag = (simulation: d3.Simulation<NodeData, LinkData>) => {
