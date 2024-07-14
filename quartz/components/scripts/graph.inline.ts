@@ -165,8 +165,14 @@ const color = (d: NodeData) => {
 	} else if (visited.has(d.id) || d.id.startsWith("tags/")) {
 		  return "var(--tertiary)"
 		} else if (d.id.startsWith("BIBLE")){ 
-        return "#55555ff"
-    } else {
+        return "#7478ff" // very light blue
+    } else if (d.id.startsWith("QUOTES")){ 
+      return "#ffff55" // bright yello
+    } else if (d.id.startsWith("THOUGHTS")){ 
+      return "#00bb00" // bright green
+    } else if (d.id.startsWith("TOPICS")){ 
+      return "#ff00ff" // bright magenta
+  } else {
         // debugWrite("NodeData.id = " + d.id)
         return "var(--gray)"
     }
