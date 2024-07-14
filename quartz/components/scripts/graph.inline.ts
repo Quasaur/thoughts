@@ -27,6 +27,16 @@ function addToVisited(slug: SimpleSlug) {
   localStorage.setItem(localStorageKey, JSON.stringify([...visited]))
 }
 
+function debugWrite (data) {
+  fs.writeFile('colordebug.txt', data, (err) => {
+    if (err) {
+      console.error(err);
+    } else {
+        console.log('Data written to file successfully.');
+    }
+  });
+}
+
 async function renderGraph(container: string, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
@@ -158,12 +168,7 @@ const color = (d: NodeData) => {
 	} else if (visited.has(d.id) || d.id.startsWith("tags/")) {
 		  return "var(--tertiary)"
 		} else { 
-      const data = 'NodeData.id = ' + d.id;
-      fs.writeFile('colordebug.txt', data, (err) => {
-        if (err) {
-          console.error(err);
-        } else {
-          console.log('Data written to file successfully.');
+        debugWrite("NodeData.id = " + d:id)
         } return "var(--gray)"
       }
 	}
