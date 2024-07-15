@@ -156,7 +156,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   // svg groups
   const graphNode = svg.append("g").selectAll("g").data(graphData.nodes).enter().append("g")
 
-  /// calculate color
+  // calculate color
 const color = (d: NodeData) => {
 
 	const isCurrent = d.id === slug
@@ -167,13 +167,15 @@ const color = (d: NodeData) => {
 		} else if (d.id.startsWith("BIBLE")){ 
         return "#7478ff" // very light blue
     } else if (d.id.startsWith("QUOTES")){ 
-      return "#ffff55" // bright yello
+      return "#ffff55" // bright yellow
     } else if (d.id.startsWith("THOUGHTS")){ 
       return "#00bb00" // bright green
     } else if (d.id.startsWith("TOPICS")){ 
       return "#ff00ff" // bright magenta
   } else {
-        // debugWrite("NodeData.id = " + d.id)
+        debugWrite("NodeData.id = " + d.id)
+        debugWrite("NodeData.text = " + d.text)
+        debugWrite("NodeData.tags = " + d.tags)
         return "var(--gray)"
     }
 	}
