@@ -27,11 +27,11 @@ function addToVisited(slug: SimpleSlug) {
 }
 
 async function debugWrite (data) {
-  const writePromise = console.log("NodeData.id: " + data);
-  
-  writePromise
-    .then(() => console.log("success!"))
-    .catch(err => console.error(err));
+  try{
+    console.log("NodeData.id: " + data);
+  } catch(err) {
+      console.error(err);
+  }
 }
 
 async function renderGraph(container: string, fullSlug: FullSlug) {
@@ -173,9 +173,9 @@ const color = (d: NodeData) => {
     } else if (d.id.startsWith("TOPICS")){ 
       return "#ff00ff" // bright magenta
   } else {
-        debugWrite("NodeData.id = " + d.id)
+        /* debugWrite("NodeData.id = " + d.id)
         debugWrite("NodeData.text = " + d.text)
-        debugWrite("NodeData.tags = " + d.tags)
+        debugWrite("NodeData.tags = " + d.tags) */
         return "var(--gray)"
     }
 	}

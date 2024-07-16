@@ -66,6 +66,8 @@ If your mouse has a Scroll Button, you can use it to ZOOM in and out of the Grap
 
 Also be aware that if you hover your pointer over a particular node, when you zoom in or out with your scroll bar that node will remain the center of the zoom!
 
+As in the Obsidian Desktop app, Every Topic (magenta), Passage (light blue), Quote (light yellow) and Thought (green) is color coded for easier navigation.
+
 ## Donate
 Wisdom is PRICELESS. Money will not save you from old age and death, but Wisdom will! If you find VALUE in the Wisdom presented at this site, [let me know](https://clmjournal.com/contact): my Cash App ID is [@Quasaur](https://cash.app/$Quasaur).
 

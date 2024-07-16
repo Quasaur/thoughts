@@ -19,20 +19,20 @@ Each Quote is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File column are links that can be clicked on to take you to that particular Quote.
 
-|File12|Level|Book|Topic|Topic Level|
+|Title* (12)|Level|Book|Topic|Topic Level|
 |---|---|---|---|---|
-|[CHRIST-IS-ENOUGH](/QUOTES/CHRIST-IS-ENOUGH.md)|3|''The Traveler's Oasis, Book Two'|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[BEGOTTEN](/QUOTES/BEGOTTEN.md)|2|'The Basics and More: A Year's Sermons'|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[CHAOS](/QUOTES/CHAOS.md)|4|''The Traveler's Oasis, Book Three'|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[CHRIST-IS-ENOUGH](/QUOTES/CHRIST-IS-ENOUGH.md)|3|''The Traveler's Oasis, Book Two'|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
+|[ETERNITY](/QUOTES/ETERNITY.md)|1|''Once Saved, Always Saved: The Assurance of Our Father's LOVE'|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[GENIUS](/QUOTES/GENIUS.md)|3|'"The Traveler's Oasis, Book Three"|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
-|[MY-PROGRAMMING](/QUOTES/MY-PROGRAMMING.md)|4|''The Traveler's Oasis, Book Two'|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
-|[REINVENT](/QUOTES/REINVENT.md)|3|'"The Traveler's Oasis, Book One"|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[GOD-IS-GOOD](/QUOTES/GOD-IS-GOOD.md)|1|'"The Traveler's Oasis, Book One"|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
+|[MY-PROGRAMMING](/QUOTES/MY-PROGRAMMING.md)|4|''The Traveler's Oasis, Book Two'|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[PERFECT-PEACE](/QUOTES/PERFECT-PEACE.md)|3|'"The Traveler's Oasis, Book One"|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
+|[REINVENT](/QUOTES/REINVENT.md)|3|'"The Traveler's Oasis, Book One"|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[SO-MANY-GOSPELS](/QUOTES/SO-MANY-GOSPELS.md)|4|'"The Traveler's Oasis, Book Two"|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[UNCONDITIONAL](/QUOTES/UNCONDITIONAL.md)|3|'"Once Saved, Always Saved: The Assurance of Our Father's LOVE"|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[WORKS](/QUOTES/WORKS.md)|4|''The Basics and More: A Year's Sermons'|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
-|[ETERNITY](/QUOTES/ETERNITY.md)|1|''Once Saved, Always Saved: The Assurance of Our Father's LOVE'|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 
 ## Dataview
 type:: table

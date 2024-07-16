@@ -19,14 +19,16 @@ Each PASSAGE is identified by its LEVEL according to the topic catalogue of this
 
 The items in the File and Topic columns are links that can be clicked on to take you to that particular Passage or its Topic.
 
-|File7|Verse(s)|Passage Level|Topic|Topic Level|
+|Title* (9)|Verse(s)|Passage Level|Topic|Topic Level|
 |---|---|---|---|---|
 |[FAITHLESSNESS](/BIBLE/FAITHLESSNESS.md)|'Proverbs 1:32'|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[FREEDOM-OF-DEATH](/BIBLE/FREEDOM-OF-DEATH.md)|'Romans 6:7'|5|[topic-FREEDOM](/TOPICS/topic-FREEDOM.md)|5|
 |[HEART-OF-THE-KING](/BIBLE/HEART-OF-THE-KING.md)|'Romans 21:1'|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[KNOWLEDGE](/BIBLE/KNOWLEDGE.md)|'Romans 1:7'|3|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[NOT-OF-FAITH](/BIBLE/NOT-OF-FAITH.md)|'Romans 14:23'|4|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|
+|[SECURITY](/BIBLE/SECURITY.md)|'Proverbs 1:33'|3|[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|
 |[SOURCE-OF-WEALTH](/BIBLE/SOURCE-OF-WEALTH.md)|'Deuteronomy 8:18'|3|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
+|[UNJUST-GAIN](/BIBLE/UNJUST-GAIN.md)|'Proverbs 1:19'|3|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
 |[WHAT-THE-WISE-DO](/BIBLE/WHAT-THE-WISE-DO.md)|'Proverbs 1:5'|3|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
 
 ## Dataview

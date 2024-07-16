@@ -1,16 +1,16 @@
 ---
-title: "Thought: YUOUR KINGDOM"
+title: "Thought: YOUR KINGDOM"
 draft: false
 type: THOUGHT
 tags:
-- kingdom
-- heaven
-- earth
-- destruction
-- jesuschrist
+  - kingdom
+  - heaven
+  - earth
+  - destruction
+  - jesuschrist
 aliases:
-- "Thought: Two Masters"
-- "Thought: Dual Citizenship"
+  - "Thought: Two Masters"
+  - "Thought: Dual Citizenship"
 ---
 # Thought: YOUR KINGDOM
 > [!Thought]
