@@ -17,5 +17,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
 source:: 'Proverbs 1:5'
+sortedSource:: 'Proverbs 01:05'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A5&version=NASB)
 level:: 3

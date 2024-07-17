@@ -17,5 +17,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-FREEDOM]]
 source:: 'Romans 6:7'
+sortedSource:: 'Romans 06:07'
 biblelink:: (https://www.biblegateway.com/passage/?search=Romans+6:7&version=KJV)
 level:: 5

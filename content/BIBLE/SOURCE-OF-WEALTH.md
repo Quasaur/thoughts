@@ -17,5 +17,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-WEALTH]]
 source:: 'Deuteronomy 8:18'
+sortedSource:: 'Deuteronomy 08:18'
 biblelink:: (https://www.biblegateway.com/passage/?search=Deuteronomy%208%3A18&version=NASB)
 level:: 3

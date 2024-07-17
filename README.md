@@ -39,7 +39,7 @@ Whether or not the sidebars to the left and right are visible is a function of h
 - [Table: Topics (md)](Tables/table-TOPICS-md)
 - [Table: Thoughts (md)](table-THOUGHTS-MD-File.md)
 - [Table: Quotes (md)](Tables/table-QUOTES-md)
-- [Table: Passages (md)](Tables/table-PASSAGES-md)
+- [Table: Passages (md)](table-PASSAGES-MD-File.md)
 - [Table: Recent (md)](Tables/table-RECENT-md)
 
 ## The Tags

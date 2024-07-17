@@ -17,5 +17,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-WISDOM]]
 source:: 'Proverbs 1:33'
+sortedSource:: 'Proverbs 01:33'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A33&version=NASB)
 level:: 3

@@ -17,5 +17,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-FAITH]]
 source:: 'Romans 14:23'
+sortedSource:: 'Romans 14:23'
 biblelink:: (https://www.biblegateway.com/passage/?search=Romans+14%3A23&version=NASB)
 level:: 4

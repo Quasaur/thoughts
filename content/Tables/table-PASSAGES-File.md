@@ -6,7 +6,7 @@ type: TABLE
 # Table: PASSAGES (hidden)
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Title*",
+	file.link AS "File*",
 	source AS "Verse(s)",
 	level AS "Passage Level",
 	ptopic AS "Topic",

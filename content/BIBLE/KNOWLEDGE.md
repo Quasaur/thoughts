@@ -18,5 +18,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-HUMANITY]]
 source:: 'Romans 1:7'
+sortedSource:: 'Romans 01:07'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A7&version=NASB)
 level:: 3

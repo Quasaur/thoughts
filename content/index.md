@@ -43,7 +43,9 @@ Whether or not the sidebars to the left and right are visible is a function of h
 	- [Table: Thoughts (sorted by modified date)](table-THOUGHTS-MD-Modified.md)
 	- [Table: Thoughts (sorted by topic)](table-THOUGHTS-MD-Topic.md)
 - [Table: Quotes (md)](Tables/table-QUOTES-md)
-- [Table: Passages (md)](Tables/table-PASSAGES-md)
+- Table: Bible Passages
+	- [Table: Passages (sorted by File)](table-PASSAGES-MD-File.md)
+	- [Table: Passages (sorted by Verse)](table-PASSAGES-MD-Verse.md)
 
 ## The Tags
 Tags are objects meant to make searching the increasingly vast ocean of The Book of Thoughts easier. Clicking on a tag in either a topic ('#type/topic/L2', for instance) or a thought (anything with a hashtag ['#'] in front of it) will take you to a page which will list every thought that tag is found in.
