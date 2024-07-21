@@ -1,9 +1,11 @@
 ---
 title: "table: PASSAGES (md), sorted by Verse"
 draft: false
-description: All of the PASSAGES of Wisdom from The Bible.
+type: table
+description: All of the PASSAGES of Wisdom from The Bible, sorted by Verse.
 tags:
-- TABLE
+- passages
+- sortbyverse
 aliases:
   - "Table: Proverbs"
   - "Table: Biblical Wisdom"
@@ -19,12 +21,15 @@ Each PASSAGE is identified by its LEVEL according to the topic catalogue of this
 
 The items in the File and Topic columns are links that can be clicked on to take you to that particular Passage or its Topic.
 
-|File (9)|Verse(s)*|Passage Level|Topic|Topic Level|
+|File (12)|Verse(s)*|Passage Level|Topic|Topic Level|
 |---|---|---|---|---|
-|[SOURCE-OF-WEALTH](/BIBLE/SOURCE-OF-WEALTH.md)|'Deuteronomy 8:18'|3|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
+|[THE-SOURCE-OF-WEALTH](/BIBLE/THE-SOURCE-OF-WEALTH.md)|'Deuteronomy 8:18'|3|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
 |[WHAT-THE-WISE-DO](/BIBLE/WHAT-THE-WISE-DO.md)|'Proverbs 1:5'|3|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
 |[UNJUST-GAIN](/BIBLE/UNJUST-GAIN.md)|'Proverbs 1:19'|3|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
 |[SECURITY](/BIBLE/SECURITY.md)|'Proverbs 1:33'|3|[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|
+|[THE-SOURCE-OF-WISDOM](/BIBLE/THE-SOURCE-OF-WISDOM.md)|'Proverbs 2:6-8'|3|[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|
+|[PROTECTIION-FROM-EVIL](/BIBLE/PROTECTIION-FROM-EVIL.md)|'Proverbs 2:10-12'|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
+|[FATE-OF-THE-WICKED](/BIBLE/FATE-OF-THE-WICKED.md)|'Proverbs 2:22'|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[FAITHLESSNESS](/BIBLE/FAITHLESSNESS.md)|'Proverbs 1:32'|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[KNOWLEDGE](/BIBLE/KNOWLEDGE.md)|'Romans 1:7'|3|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[FREEDOM-OF-DEATH](/BIBLE/FREEDOM-OF-DEATH.md)|'Romans 6:7'|5|[topic-FREEDOM](/TOPICS/topic-FREEDOM.md)|5|
@@ -32,5 +37,4 @@ The items in the File and Topic columns are links that can be clicked on to take
 |[HEART-OF-THE-KING](/BIBLE/HEART-OF-THE-KING.md)|'Romans 21:1'|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 
 ## Dataview
-type:: table
 parent:: [[content/index]]

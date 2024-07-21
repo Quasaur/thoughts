@@ -1,5 +1,5 @@
 ---
-title: "NOT-OF-FAITH"
+title: "Passage: NOT-OF-FAITH"
 draft: false
 type: PASSAGE
 tags:

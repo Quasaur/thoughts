@@ -1,12 +1,12 @@
 ---
 title: "Table: QUOTES"
 draft: true
-type: TABLE
+type: hiddentable
 ---
 # Table: QUOTES (hidden)
 ```dataview
 TABLE WITHOUT ID
-	file.link AS "Title*",
+	file.link AS "File*",
 	level AS "Level",
 	source AS "Book",
 	ptopic AS "Topic",
@@ -16,7 +16,6 @@ SORT file.link ASCENDING
 ```
 
 ## Dataview
-type:: hiddentable
 parent:: [[content/index]]
 
 ## Snippets

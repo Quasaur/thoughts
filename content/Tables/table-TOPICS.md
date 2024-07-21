@@ -1,11 +1,12 @@
 ---
 title: "Table: Topics"
 draft: true
+type: hiddentable
 ---
 # Table: TOPICS (hidden)
 ```dataview
 TABLE WITHOUT ID
-   file.link AS "Topic*",
+   file.link AS "File*",
    level AS "Level",
    ptopic AS "Parent Topic",
 ptopic.level AS "Parent Level"
@@ -15,5 +16,4 @@ ptopic.level AS "Parent Level"
 
 
 ## Dataview
-type:: table
 parent:: [[content/index|index]]

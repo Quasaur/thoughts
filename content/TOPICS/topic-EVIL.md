@@ -28,8 +28,9 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 [[DIALOGUE]]
 
 ## Bible
+[[PROTECTIION-FROM-EVIL]]
 
-
+[[FATE-OF-THE-WICKED]]
 ## Dataview
 level:: 4
 ptopic:: [[topic-MORALITY]]

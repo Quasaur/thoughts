@@ -1,7 +1,7 @@
 ---
 title: "Table: PASSAGES"
 draft: true
-type: TABLE
+type: hiddentable
 ---
 # Table: PASSAGES (hidden)
 ```dataview
@@ -17,7 +17,6 @@ TABLE WITHOUT ID
 
 
 ## Dataview
-type:: hiddentable
 parent:: [[content/index]]
 
 ## Snippets

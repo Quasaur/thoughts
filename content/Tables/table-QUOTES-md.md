@@ -1,9 +1,11 @@
 ---
 title: "table: QUOTES (md)"
 draft: false
+type: table
 description: All of the QUOTES from Author Calvin Mitchell's other books.
 tags:
-- TABLE
+- quotes
+- sortbyfile
 aliases:
   - "Table: Citations"
   - "Table:: Menions"
@@ -19,7 +21,7 @@ Each Quote is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File column are links that can be clicked on to take you to that particular Quote.
 
-|Title* (12)|Level|Book|Topic|Topic Level|
+|File (13)*|Level|Book|Topic|Topic Level|
 |---|---|---|---|---|
 |[BEGOTTEN](/QUOTES/BEGOTTEN.md)|2|'The Basics and More: A Year's Sermons'|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[CHAOS](/QUOTES/CHAOS.md)|4|''The Traveler's Oasis, Book Three'|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
@@ -31,9 +33,9 @@ The items in the File column are links that can be clicked on to take you to tha
 |[PERFECT-PEACE](/QUOTES/PERFECT-PEACE.md)|3|'"The Traveler's Oasis, Book One"|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[REINVENT](/QUOTES/REINVENT.md)|3|'"The Traveler's Oasis, Book One"|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[SO-MANY-GOSPELS](/QUOTES/SO-MANY-GOSPELS.md)|4|'"The Traveler's Oasis, Book Two"|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
+|[THE-TEN-COMMANDMENTS](/QUOTES/THE-TEN-COMMANDMENTS.md)|4|'"The Traveler's Oasis, Book Two"|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[UNCONDITIONAL](/QUOTES/UNCONDITIONAL.md)|3|'"Once Saved, Always Saved: The Assurance of Our Father's LOVE"|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[WORKS](/QUOTES/WORKS.md)|4|''The Basics and More: A Year's Sermons'|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 
 ## Dataview
-type:: table
 parent:: [[content/index]]

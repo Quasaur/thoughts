@@ -1,10 +1,13 @@
 ---
 title: "table: THOUGHTS (sorted by level)"
 draft: false
+type: table
 description: All of the THOUGHTS in the Book of Toughts.
-type: TABLE
+tags:
+- thoughts
+- sortbylevel
 aliases:
-  - "Table: Proverbs (level)"
+  - "Table: Thoughts (level)"
   - "Table: Precepts (level)"
 ---
 # Table: THOUGHTS (sorted by level)
@@ -20,7 +23,7 @@ The items in the File and Topic File columns are links that can be clicked on to
 
 I've removed the Social Tags column from the Thoughts table because it skewers the Graph View display.
 
-|File (109)|Level*|Topic|Topic Level|
+|File (114)|Level*|Topic|Topic Level|
 |---|---|---|---|
 |[EGO](/THOUGHTS/EGO.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[EMPTINESS](/THOUGHTS/EMPTINESS.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -33,6 +36,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[THE-ULTIMATE](/THOUGHTS/THE-ULTIMATE.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[FIGMENTS](/THOUGHTS/FIGMENTS.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[FRUSTRATION](/THOUGHTS/FRUSTRATION.md)|2|[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|
+|[GOD-IN-CHARGE](/THOUGHTS/GOD-IN-CHARGE.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[IMMORTALITY](/THOUGHTS/IMMORTALITY.md)|2|[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|
 |[IN-HIM-WE-LIVE](/THOUGHTS/IN-HIM-WE-LIVE.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[INVITE-OR-COMMAND?](/THOUGHTS/INVITE-OR-COMMAND?.md)|2|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
@@ -41,6 +45,8 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[POINTLESS](/THOUGHTS/POINTLESS.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[PREDESTINED](/THOUGHTS/PREDESTINED.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[REALITY](/THOUGHTS/REALITY.md)|2|[topic-TRUTH](/TOPICS/topic-TRUTH.md)|2|
+|[SOL-ROTATION](/THOUGHTS/SOL-ROTATION.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
+|[SOL-VELOCITY](/THOUGHTS/SOL-VELOCITY.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[THE-LAST-WORD](/THOUGHTS/THE-LAST-WORD.md)|2|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[THE-QUICK-AND-THE-DEAD](/THOUGHTS/THE-QUICK-AND-THE-DEAD.md)|2|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
 |[UNSUBMISSIVE](/THOUGHTS/UNSUBMISSIVE.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
@@ -84,6 +90,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[ANXIETY](/THOUGHTS/ANXIETY.md)|4|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|
 |[BRIBERY](/THOUGHTS/BRIBERY.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[CITIZENSHIP](/THOUGHTS/CITIZENSHIP.md)|4|[topic-ECONOMICS](/TOPICS/topic-ECONOMICS.md)|4|
+|[COMPANY-TRAINING](/THOUGHTS/COMPANY-TRAINING.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[CONSEQUENCES](/THOUGHTS/CONSEQUENCES.md)|4|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
 |[DARK-MATTER](/THOUGHTS/DARK-MATTER.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[DEBT](/THOUGHTS/DEBT.md)|4|[topic-ENTITLEMENT](/TOPICS/topic-ENTITLEMENT.md)|4|
@@ -93,6 +100,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[DISPISING-THE-CROSS](/THOUGHTS/DISPISING-THE-CROSS.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[EVIL-WAS-NECESSARY](/THOUGHTS/EVIL-WAS-NECESSARY.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[EVOLUTION-IS-SCIENCE?](/THOUGHTS/EVOLUTION-IS-SCIENCE?.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
+|[EVOLUTIONARY-THEORY](/THOUGHTS/EVOLUTIONARY-THEORY.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[FOSSILS](/THOUGHTS/FOSSILS.md)|4|[topic-GEOLOGY](/TOPICS/topic-GEOLOGY.md)|4|
 |[GNOSIS](/THOUGHTS/GNOSIS.md)|4|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|
 |[GODS](/THOUGHTS/GODS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
@@ -110,6 +118,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[PAINFUL-TRUTH](/THOUGHTS/PAINFUL-TRUTH.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[PERSECUTION](/THOUGHTS/PERSECUTION.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[PROSPERITY-NOW](/THOUGHTS/PROSPERITY-NOW.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
+|[PSEUDO-SCIENCE](/THOUGHTS/PSEUDO-SCIENCE.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[RESULTS](/THOUGHTS/RESULTS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[SCIENCE-CONSPIRACY](/THOUGHTS/SCIENCE-CONSPIRACY.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[SECRETS](/THOUGHTS/SECRETS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
@@ -130,8 +139,6 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[SHUT-DOWN](/THOUGHTS/SHUT-DOWN.md)|5|[topic-FREEDOM](/TOPICS/topic-FREEDOM.md)|5|
 |[THE-LAKE-OF-FIRE-AND-SULFUR](/THOUGHTS/THE-LAKE-OF-FIRE-AND-SULFUR.md)|5|[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|
 |[TIME](/THOUGHTS/TIME.md)|5|[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|
-|[COMPANY-TRAINING](/THOUGHTS/COMPANY-TRAINING.md)|4cd|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 
 ## Dataview
-type:: table
 parent:: [[content/index|index]]

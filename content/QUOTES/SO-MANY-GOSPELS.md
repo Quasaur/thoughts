@@ -1,5 +1,5 @@
 ---
-title: "SO MANY GOSPELS"
+title: "Quote: SO MANY GOSPELS"
 draft: false
 type: QUOTE
 tags:

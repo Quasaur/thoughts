@@ -1,5 +1,5 @@
 ---
-title: "PERFECT PEACE"
+title: "Quote: PERFECT PEACE"
 draft: false
 type: QUOTE
 tags:

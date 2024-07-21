@@ -1,5 +1,5 @@
 ---
-title: "REINVENT"
+title: "Quote: REINVENT"
 draft: false
 type: QUOTE
 tags:

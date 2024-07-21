@@ -1,5 +1,5 @@
 ---
-title: "UNJUST GAIN"
+title: "Passage: UNJUST GAIN"
 draft: false
 type: PASSAGE
 tags:

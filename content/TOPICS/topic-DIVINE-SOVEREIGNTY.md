@@ -19,6 +19,8 @@ God's Right to do as He pleases.
 
 
 ## Thoughts
+[[GOD-IN-CHARGE]]
+
 [[POINTLESS]]
 
 [[PREDESTINED]]

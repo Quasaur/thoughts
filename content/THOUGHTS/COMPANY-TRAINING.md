@@ -18,4 +18,4 @@ aliases:
 
 ## Dataview
 ptopic:: [[topic-PSYCHOLOGY]]
-level:: 4cd 
+level:: 4

@@ -1,7 +1,7 @@
 ---
 title: "Table: Thoughts DV - Modified"
 draft: true
-type: TABLE
+type: hiddentable
 ---
 # Table: Thoughts DV - Modified (hidden)
 
@@ -17,7 +17,6 @@ TABLE
 
 
 ## Dataview
-type:: table
 parent:: [[content/index|index]]
 ## Snippets
 

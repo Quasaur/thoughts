@@ -1,5 +1,5 @@
 ---
-title: "HEART OF THE KING"
+title: "Passage: HEART OF THE KING"
 draft: false
 type: PASSAGE
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "CHRIST IS ENOUGH"
+title: "Quote: CHRIST IS ENOUGH"
 draft: false
 type: QUOTE
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "SECURITY"
+title: "Passage: SECURITY"
 draft: false
 type: PASSAGE
 tags:

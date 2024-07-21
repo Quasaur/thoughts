@@ -1,10 +1,12 @@
 ---
 title: "Thought: TITLE"
 draft: true
+type: template
+tags:
+- 
 aliases:
   - "Thought: Alias 1"
   - "Thought: Alias 2"
-tags:
 ---
 
 # Thought: TITLE
@@ -13,5 +15,4 @@ tags:
 
 ## Dataview
 ptopic:: [[]]
-type:: template
 level:: 0

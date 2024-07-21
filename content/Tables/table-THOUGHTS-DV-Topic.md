@@ -1,7 +1,7 @@
 ---
 title: "Table: Thoughts DV - Topic"
 draft: true
-type: TABLE
+type: hiddentable
 ---
 # Table: Thoughts DV - Topic (hidden)
 ```dataview
@@ -15,7 +15,6 @@ TABLE
 
 
 ## Dataview
-type:: table
 parent:: [[content/index|index]]
 
 ## Snippets

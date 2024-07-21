@@ -1,5 +1,5 @@
 ---
-title: "MY PROGRAMMING"
+title: "Quote: MY PROGRAMMING"
 draft: false
 type: QUOTE
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Table: RECENT"
 draft: true
-type: TABLE
+type: hiddentable
 ---
 # Table: RECENT (hidden)
 ```dataview
@@ -14,11 +14,11 @@ TABLE
    FROM "content"
    WHERE type != "PAGE" AND type != "TABLE" AND draft = false
    SORT file.mtime DESC
+   LIMIT 40
 ```
 
 
 ## Dataview
-type:: hiddentable
 parent:: [[content/index]]
 
 ## Snippets

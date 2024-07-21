@@ -1,5 +1,5 @@
 ---
-title: "SOURCE OF WEALTH"
+title: "Passage: THE SOURCE OF WEALTH"
 draft: false
 type: PASSAGE
 tags:

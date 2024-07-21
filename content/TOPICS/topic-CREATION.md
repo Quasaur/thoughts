@@ -27,6 +27,9 @@ date: 2024-06-26
 
 [[IN-HIM-WE-LIVE]]
 
+[[SOL-ROTATION]]
+
+[[SOL-VELOCITY]]
 ## Quotes
 
 ## Bible

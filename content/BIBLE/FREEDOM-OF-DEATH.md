@@ -1,5 +1,5 @@
 ---
-title: "FREEDOM OF DEATH"
+title: "Passage: FREEDOM OF DEATH"
 draft: false
 type: PASSAGE
 tags:

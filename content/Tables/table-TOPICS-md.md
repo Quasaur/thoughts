@@ -1,13 +1,15 @@
 ---
 title: "table: TOPICS (md)"
 draft: false
-description: All of the TOPICS covered in the Book of Toughts.
+type: table
+description: All of the TOPICS covered in the Book of Thoughts.
 tags:
-- TABLE
+- topics
+- sortedbyfile
 aliases:
-  - '"Table: Indexes"'
-  - '"Table: Subjects"'
-  - '"Table: Categories"'
+  - "Table: Indexes"
+  - "Table: Subjects"
+  - "Table: Categories"
 ---
 # Table: TOPICS (md)
 This table identifies all of the topics addressed by my thoughts.
@@ -22,7 +24,7 @@ Each topic is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File and Parent Topic File columns are links that can be clicked on to take you to that particular Topic.
 
-|Topic* (32)|Level|Parent Topic|Parent Level|
+|File (32)*|Level|Parent Topic|Parent Level|
 |---|---|---|---|
 |[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)|5|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
@@ -58,5 +60,4 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
 
 ## Dataview
-type:: table
 parent:: [[content/index|index]]

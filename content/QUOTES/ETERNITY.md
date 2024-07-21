@@ -1,5 +1,5 @@
 ---
-title: "ETERNITY"
+title: "Quote: ETERNITY"
 draft: false
 type: QUOTE
 tags:

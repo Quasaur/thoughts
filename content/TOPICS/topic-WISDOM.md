@@ -18,6 +18,10 @@ A wise attitude, belief, or course of action
 
 ## Thoughts
 
+## Quotes
+
+## Bible
+[[THE-SOURCE-OF-WISDOM]]
 ## Dataview
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]

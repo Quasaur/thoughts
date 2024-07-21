@@ -1,5 +1,5 @@
 ---
-title: "UNCONDITIONAL"
+title: "Quote: UNCONDITIONAL"
 draft: false
 type: QUOTE
 tags:

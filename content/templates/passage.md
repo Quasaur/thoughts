@@ -1,7 +1,9 @@
 ---
 title: "Passage: TITLE"
 draft: true
-"tags:":
+type: PASSAGE
+tags:
+-
 ---
 
 # Passage: TITLE
@@ -12,5 +14,6 @@ draft: true
 ptopic:: [[]]
 type:: template
 source:: 'BOOK 0:0'
+sortSource:: 'BOOK 00:00'
 biblelink:: ()
 level:: 0

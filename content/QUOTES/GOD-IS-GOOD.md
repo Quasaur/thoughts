@@ -1,5 +1,5 @@
 ---
-title: "GOD IS GOOD"
+title: "Quote: GOD IS GOOD"
 draft: false
 type: QUOTE
 tags:

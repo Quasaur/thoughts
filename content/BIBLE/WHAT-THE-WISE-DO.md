@@ -1,5 +1,5 @@
 ---
-title: "WHAT THE WISE DO"
+title: "Passage: WHAT THE WISE DO"
 draft: false
 type: PASSAGE
 tags:

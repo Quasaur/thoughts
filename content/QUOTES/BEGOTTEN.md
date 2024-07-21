@@ -1,5 +1,5 @@
 ---
-title: "BEGOTTEN"
+title: "Quote: BEGOTTEN"
 draft: false
 type: QUOTE
 tags:

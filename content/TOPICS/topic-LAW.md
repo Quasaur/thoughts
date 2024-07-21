@@ -22,6 +22,10 @@ A binding custom or practice of a community formally recognized as binding or e
 
 ## Thoughts 
 [[HUMAN-LAW]]
+## Quotes
+
+## Bible
+
 
 ## Dataview
 level:: 4
