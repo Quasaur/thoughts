@@ -24,6 +24,8 @@ Social science concerned chiefly with description and analysis of the production
 ## Thoughts
 [[CITIZENSHIP]]
 
+[[DEBTORS]]
+
 ## Dataview
 level:: 4
 ptopic:: [[topic-HUMANITY]]
