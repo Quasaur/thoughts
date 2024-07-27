@@ -18,7 +18,7 @@ A transcendent fundamental or spiritual reality.
 
 
 ## Thoughts
-
+[[OUR-MASTER]]
 
 ## Dataview
 level:: 2

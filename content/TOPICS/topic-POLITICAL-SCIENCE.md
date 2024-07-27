@@ -23,6 +23,8 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 ## Thoughts
 [[AMERICAN]]
 
+[[US-FOREIGN-POLICY]]
+
 ## Dataview
 level:: 4
 ptopic:: [[topic-HUMANITY]]

@@ -29,6 +29,8 @@ The study of mind and behavior in relation to a particular field of knowledge or
 
 [[DISCRETION]]
 
+[[FOCUS]]
+
 [[GODS]]
 
 [[INSANITY]]
@@ -55,8 +57,8 @@ The study of mind and behavior in relation to a particular field of knowledge or
 ## Bible
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-HUMANITY]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes.
