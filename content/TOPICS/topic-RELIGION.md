@@ -6,8 +6,8 @@ tags:
   - cult
   - creed
   - sect
-aliases: 
-date: 2024-06-06
+aliases:
+- "Topic: False Spirituality"
 ---
 # Topic: RELIGION
 ## Description

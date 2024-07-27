@@ -6,8 +6,8 @@ tags:
   - ordiance
   - legislation
   - regulation
-aliases: 
-date: 2024-06-06
+aliases:
+- "Topic: Jurisprudence"
 ---
 # Topic: LAW
 ## Description

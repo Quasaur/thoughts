@@ -7,7 +7,6 @@ tags:
   - reality
   - fact
 aliases: 
-date: 2024-06-06
 ---
 # Topic: TRUTH
 ## Description

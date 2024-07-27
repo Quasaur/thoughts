@@ -8,7 +8,6 @@ tags:
   - wisdom
 aliases: 
 - "Topic: The Application of Knowledge"
-date: 2024-07-06
 ---
 # Topic: WISDOM 
 ## Description

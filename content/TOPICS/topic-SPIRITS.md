@@ -8,8 +8,7 @@ tags:
   - supernatural
   - being
 aliases:
-  - Topic:Spirituality
-date: 2024-06-06
+  - "Topic: Spirituality"
 ---
 # Topic: SPIRITS
 ## Description

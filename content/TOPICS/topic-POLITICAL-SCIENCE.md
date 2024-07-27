@@ -11,7 +11,6 @@ aliases:
 - "Topic: International Relations"
 - "Topic: Political Theory"
 - "Topic: Geospacial Analysis"
-date: 2024-06-06
 ---
 # Topic: POLITICAL SCIENCE
 ## Description

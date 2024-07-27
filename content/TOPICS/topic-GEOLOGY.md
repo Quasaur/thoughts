@@ -7,8 +7,7 @@ tags:
   - strata
   - layers
 aliases:
-  - Topic Rock Strata
-date: 2024-06-06
+  - "Topic Rock Strata"
 ---
 # Topic GEOLOGY
 ## Description

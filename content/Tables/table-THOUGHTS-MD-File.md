@@ -25,8 +25,8 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 
 |File (114)*|Level|Topic|Topic Level|
 |---|---|---|---|
-|[692-189](/THOUGHTS/692-189.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
-|[A-GREAT-DAY](/THOUGHTS/A-GREAT-DAY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[692-189](/THOUGHTS/0/692-189.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[A-GREAT-DAY](/THOUGHTS/a/A-GREAT-DAY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[ACCOUNTABILITY](/THOUGHTS/ACCOUNTABILITY.md)|3|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[ACT-OF-GOD](/THOUGHTS/ACT-OF-GOD.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[ADDICTION](/THOUGHTS/ADDICTION.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|

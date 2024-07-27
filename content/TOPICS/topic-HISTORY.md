@@ -8,7 +8,6 @@ tags:
   - biography
 aliases:
   - "Topic: Chronology"
-date: 2024-06-06
 ---
 # topic: HISTORY
 ## Description

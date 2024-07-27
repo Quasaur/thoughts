@@ -6,8 +6,8 @@ tags:
   - metaphysiucs
   - astronomy
   - unioverse
-aliases: 
-date: 2024-06-06
+aliases:
+- "Topic: The Universe"
 ---
 # Topic COSMOLOGY
 ## Description

@@ -10,7 +10,6 @@ aliases:
   - "Topic: Feeling Towards"
   - "Topic: Mental State"
   - "Topic: Dispositiion"
-date: 2024-06-06
 ---
 # Topic: ATTITUDE 
 ## Description

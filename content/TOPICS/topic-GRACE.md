@@ -7,8 +7,7 @@ tags:
   - blessing
   - benevolence
 aliases:
-  - Topic Gospel of Grace
-date: 2024-06-06
+  - "Topic Gospel of Grace"
 ---
 # Topic: GRACE
 ## Description

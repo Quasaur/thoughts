@@ -10,7 +10,6 @@ tags:
 aliases:
   - "Topic: Mankind"
   - "Topic: Homo Sapiens"
-date: 2024-06-27
 ---
 # Topic: HUMANITY
 ## Sub-Topics

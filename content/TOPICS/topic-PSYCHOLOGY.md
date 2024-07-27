@@ -12,7 +12,6 @@ aliases:
 - "Topic: Cognitive Psychology"
 - "Topic: Developmental Psychology"
 - "Topic: Social Psychology"
-date: 2024-06-06
 ---
 # Topic: PSYCHOLOGY 
 ## Description

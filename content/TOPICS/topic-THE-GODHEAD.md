@@ -9,7 +9,6 @@ aliases:
   - Prime Topic
   - Level One
   - Starting Point
-date: 2024-06-06
 ---
 # Topic: THE GODHEAD
 ## Description

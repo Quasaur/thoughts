@@ -11,7 +11,6 @@ aliases:
 - "Topic: Social Change"
 - "Topic: Social Stratification"
 - "Topic: Social Institutions"
-date: 2024-06-06
 ---
 # Topic: SOCIOLOGY
 ## Description

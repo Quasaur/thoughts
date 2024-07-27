@@ -9,7 +9,6 @@ aliases:
   - Divine Sovereignty
   - Lordship of Deity
   - Presdesination
-date: 2024-06-06
 ---
 # Topic: DIVINE SOVEREIGNTY
 ## Description
@@ -28,6 +27,10 @@ God's Right to do as He pleases.
 [[UNSUBMISSIVE]]
 
 [[VOLITION]]
+
+[[VOLITION2]]
+
+[[VOLITION3]]
 
 ## Quotes
 

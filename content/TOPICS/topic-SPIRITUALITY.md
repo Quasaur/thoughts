@@ -7,7 +7,7 @@ tags:
   - attitude
   - transcendence
 aliases: 
-date: 2024-06-06
+- "Topic: Godliness"
 ---
 # Topic: SPIRITUALITY 
 ## Description
@@ -24,11 +24,13 @@ Sensitivity or attachment to religious values.
 ## Thoughts
 [[THE-QUICK-AND-THE-DEAD]]
 
+[[THE-TRUE-VINE]]
+
 [[WORSHIP]]
 
 ## Dataview
-level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
+level:: 2
 
 ## Notes
 NOTE: Topic notes.

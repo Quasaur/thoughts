@@ -6,8 +6,8 @@ tags:
   - entitled
   - privilege
   - right
-aliases: 
-date: 2024-06-06
+aliases:
+- "Topic: Malevolence"
 ---
 # Topic: EVIL
 ## Description

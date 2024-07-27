@@ -6,8 +6,8 @@ tags:
   - morals
   - righteousness
   - decency
-aliases: 
-date: 2024-06-06
+aliases:
+- "Topic: Matters of the Conscience"
 ---
 # Topic: MORALITY
 ## Description

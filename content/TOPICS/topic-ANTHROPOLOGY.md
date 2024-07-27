@@ -13,7 +13,6 @@ aliases:
   - "Topic: Physical Anthropolgy"
   - "Topic: Archaeology"
   - "Topic: Linguistic Anthropology"
-date: 2024-06-27
 ---
 # Topic: ANTHROPOLOGY
 ## Sub-Topics

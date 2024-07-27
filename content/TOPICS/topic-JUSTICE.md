@@ -6,8 +6,8 @@ tags:
   - equity
   - fairness
   - impartiality
-aliases: 
-date: 2024-06-06
+aliases:
+- "Topic: Equity"
 ---
 # Topic: JUSTICE
 ## Description
@@ -19,7 +19,7 @@ The practice or instance of giving to others what is their due.
 ## Thoughts
 [[FAIRNESS]]
 
-[[content/THOUGHTS/JUSTICE]]
+[[JUSTICE]]
 
 [[REPARATIONS]]
 

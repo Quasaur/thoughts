@@ -12,7 +12,6 @@ aliases:
   - "Topic: Creation"
   - "Topic: The Cosmos"
   - "Topic: The Universe/Multiverse"
-date: 2024-06-26
 ---
 # Topic: CREATION
 ## Sub-Topics

@@ -12,7 +12,6 @@ aliases:
   - "Topic: Abundance"
   - "Topic: Value"
   - "Topic: Resources"
-date: 2024-06-26
 ---
 # Topic: WEALTH
 ## Sub-Topics

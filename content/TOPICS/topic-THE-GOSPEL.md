@@ -8,7 +8,8 @@ tags:
   - news
   - salvation
 aliases: 
-date: 2024-06-06
+- "Topic: Redemption"
+- "Topic: Salvatiion"
 ---
 # Topic: THE GOSPEL
 ## Description

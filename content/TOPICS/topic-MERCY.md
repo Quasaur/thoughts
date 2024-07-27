@@ -6,8 +6,8 @@ tags:
   - compassion
   - leniency
   - clemency
-aliases: 
-date: 2024-06-06
+aliases:
+- "Topic: Compassion"
 ---
 # Topic MERCY
 ## Description

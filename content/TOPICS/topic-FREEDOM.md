@@ -12,7 +12,6 @@ tags:
 aliases:
   - "Topic: Free Under the Law"
   - "Topic: Free to be Moral"
-date: 2024-06-15
 ---
 # TOPIC TITLE
 ## Sub-Topics

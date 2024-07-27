@@ -7,8 +7,7 @@ tags:
   - belief
   - confidence
 aliases:
-  - Topic Saving Faith
-date: 2024-06-06
+  - "Topic Saving Faith"
 ---
 # Topic: FAITH
 ## Description

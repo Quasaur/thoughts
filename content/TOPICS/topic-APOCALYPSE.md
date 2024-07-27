@@ -8,7 +8,6 @@ tags:
   - end_of_the_world
 aliases:
   - "Topic: ESCHATOLOGY"
-date: 2024-06-06
 ---
 # Topic: APOLCALYPSE
 ## Description

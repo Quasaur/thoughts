@@ -7,8 +7,7 @@ tags:
   - fidelity
   - steadfastness
 aliases:
-  - Topic Steadfastness
-date: 2024-06-06
+  - "Topic Steadfastness"
 ---
 # Topic FAITHFULNESS
 ## Description

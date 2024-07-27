@@ -12,7 +12,6 @@ aliases:
   - "Topic: Macroeconomics"
   - "Topic: Behavioral Economics"
   - "Topic: Development Economics"
-date: 2024-06-06
 ---
 # Topic: ECONOMICS
 ## Description
