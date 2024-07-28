@@ -42,7 +42,9 @@ Whether or not the sidebars to the left and right are visible is a function of h
 	- [Table: Thoughts (sorted by level)](table-THOUGHTS-MD-Level.md)
 	- [Table: Thoughts (sorted by modified date)](table-THOUGHTS-MD-Modified.md)
 	- [Table: Thoughts (sorted by topic)](table-THOUGHTS-MD-Topic.md)
-- [Table: Quotes (md)](table-QUOTES-md-File.md)
+- Table: Quotes
+- [Table: Quotes (sorted by File)](table-QUOTES-md-File.md)
+- [Table: Quotes (sorted by Book)](table-QUOTES-md-Book.md)
 - Table: Bible Passages
 	- [Table: Passages (sorted by File)](table-PASSAGES-MD-File.md)
 	- [Table: Passages (sorted by Verse)](table-PASSAGES-MD-Verse.md)
