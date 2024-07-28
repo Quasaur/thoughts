@@ -1,17 +1,17 @@
 ---
-title: "table: TOPICS (md)"
+title: TOPICS
 draft: false
 type: table
 description: All of the TOPICS covered in the Book of Thoughts.
 tags:
-- topics
-- sortedbyfile
+  - topics
+  - sortedbyfile
 aliases:
   - "Table: Indexes"
   - "Table: Subjects"
   - "Table: Categories"
 ---
-# Table: TOPICS (md)
+# Table: TOPICS
 This table identifies all of the topics addressed by my thoughts.
 
 Each topic has its own file, which includes:

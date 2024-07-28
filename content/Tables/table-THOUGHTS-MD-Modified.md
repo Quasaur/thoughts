@@ -1,16 +1,16 @@
 ---
-title: "table: THOUGHTS (sorted by Modified Date)"
+title: THOUGHTS by Modified Date
 draft: false
 type: table
 description: All of the THOUGHTS in the Book of Toughts.
 tags:
-- thoughts
-- sortedbymodified
+  - thoughts
+  - sortedbymodified
 aliases:
   - "Table: Thoughts (modified)"
   - "Table: Precepts (modified)"
 ---
-# Table: THOUGHTS (sorted by Modfied Date)
+# Table: THOUGHTS by Modfied Date
 This table identifies all of the Thoughts currently added to the online Book of Thoughts.
 
 Each Thought has its own file, which includes:

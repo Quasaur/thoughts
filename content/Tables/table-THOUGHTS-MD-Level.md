@@ -1,16 +1,16 @@
 ---
-title: "table: THOUGHTS (sorted by level)"
+title: THOUGHTS by Level
 draft: false
 type: table
 description: All of the THOUGHTS in the Book of Toughts.
 tags:
-- thoughts
-- sortbylevel
+  - thoughts
+  - sortbylevel
 aliases:
   - "Table: Thoughts (level)"
   - "Table: Precepts (level)"
 ---
-# Table: THOUGHTS (sorted by level)
+# Table: THOUGHTS by Level
 This table identifies all of the Thoughts currently added to the online Book of Thoughts.
 
 Each Thought has its own file, which includes:

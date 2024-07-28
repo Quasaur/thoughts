@@ -1,16 +1,16 @@
 ---
-title: "table: THOUGHTS (sorted by topic)"
+title: THOUGHTS by Topic
 draft: false
 type: table
 description: All of the THOUGHTS in the Book of Toughts.
 tags:
-- thoughts
-- sortedbytopic
+  - thoughts
+  - sortedbytopic
 aliases:
   - "Table: Thoughts (topic)"
   - "Table: Precepts (topic)"
 ---
-# Table: THOUGHTS (sorted by topic)
+# Table: THOUGHTS by Topic
 This table identifies all of the Thoughts currently added to the online Book of Thoughts.
 
 Each Thought has its own file, which includes:

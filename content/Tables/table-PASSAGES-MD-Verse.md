@@ -1,16 +1,16 @@
 ---
-title: "table: PASSAGES (md), sorted by Verse"
+title: PASSAGES by Verse
 draft: false
 type: table
 description: All of the PASSAGES of Wisdom from The Bible, sorted by Verse.
 tags:
-- passages
-- sortbyverse
+  - passages
+  - sortbyverse
 aliases:
   - "Table: Proverbs"
   - "Table: Biblical Wisdom"
 ---
-# Table: PASSAGES (md), sorted by Verse
+# Table: PASSAGES by Verse
 This table identifies all of the PASSAGES of Divine Wisdom located in the Holy Scriptures Christians refer to as The Holy Bible that have been added to this online Book of Thoughts.
 
 Each Passage has its own file, which includes:

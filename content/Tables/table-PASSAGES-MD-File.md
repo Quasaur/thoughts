@@ -1,16 +1,16 @@
 ---
-title: "table: PASSAGES (md), sorted by File"
+title: PASSAGES by File
 draft: false
 type: table
 description: All of the PASSAGES of Wisdom from The Bible, sorted by file name.
 tags:
-- passages
-- sortbyfile
+  - passages
+  - sortbyfile
 aliases:
   - "Table: Proverbs"
   - "Table: Biblical Wisdom"
 ---
-# Table: PASSAGES (md), sorted by File
+# Table: PASSAGES by File
 This table identifies all of the PASSAGES of Divine Wisdom located in the Holy Scriptures Christians refer to as The Holy Bible that have been added to this online Book of Thoughts.
 
 Each Passage has its own file, which includes:

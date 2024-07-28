@@ -1,16 +1,16 @@
 ---
-title: "table: QUOTES (md, sorted by File)"
+title: QUOTES by File
 draft: false
 type: table
 description: All of the QUOTES from Author Calvin Mitchell's other books, sorted by File Name.
 tags:
-- quotes
-- sortbyfile
+  - quotes
+  - sortbyfile
 aliases:
   - "Table: Citations"
   - "Table:: Menions"
 ---
-# Table: QUOTES (md, sorted by File Name)
+# Table: QUOTES by File
 This table identifies all of the Quotes from my other eight books currently added to the online Book of Thoughts.
 
 Each Quote has its own file, which includes:

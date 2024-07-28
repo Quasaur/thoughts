@@ -1,14 +1,14 @@
 ---
-title: "table: RECENT (md)"
+title: RECENT
 draft: false
 type: table
 description: The Topics and Thoughts most recently modified, sorted by File.
 tags:
-- recentfiles
-- sortedbyfile
+  - recentfiles
+  - sortedbyfile
 aliases:
-- "Table: All Modified Files"
-- "Table: All Last Modified Files"
+  - "Table: All Modified Files"
+  - "Table: All Last Modified Files"
 ---
 # Table: RECENT
 This table shows the Topics, Thoughts, Quotes and Bible Passages most recently added or modified.
