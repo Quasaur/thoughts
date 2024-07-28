@@ -1,9 +1,9 @@
 ---
-title: "Table: QUOTES"
+title: "Table: QUOTES (sorted by File)"
 draft: true
 type: hiddentable
 ---
-# Table: QUOTES (hidden)
+# Table: QUOTES (sorted by File)
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "File*",
@@ -12,7 +12,7 @@ TABLE WITHOUT ID
 	ptopic AS "Topic",
 	ptopic.level AS "Topic Level"
 FROM "content/QUOTES"
-SORT file.link ASCENDING
+SORT title ASCENDING
 ```
 
 ## Dataview

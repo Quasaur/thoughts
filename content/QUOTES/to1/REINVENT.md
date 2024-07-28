@@ -16,6 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-GRACE]]
-source:: '"The Traveler's Oasis, Book One"
+source:: "The Traveler's Oasis, Book One"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-One-ebook/dp/B00Y43B2OC)
 level:: 3

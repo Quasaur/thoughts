@@ -22,14 +22,16 @@ A binding custom or practice of a community formally recognized as binding or e
 
 ## Thoughts 
 [[HUMAN-LAW]]
+
 ## Quotes
+[[THE-TEN-COMMANDMENTS]]
 
 ## Bible
 
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-MORALITY]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes.

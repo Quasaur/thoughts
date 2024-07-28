@@ -33,6 +33,7 @@ God's Right to do as He pleases.
 [[VOLITION3]]
 
 ## Quotes
+[[ONE-WILL]]
 
 ## Bible
 [[HEART-OF-THE-KING]]

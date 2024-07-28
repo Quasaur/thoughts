@@ -28,6 +28,12 @@ Sensitivity or attachment to religious values.
 
 [[WORSHIP]]
 
+## Quotes
+[[HEAVENLY-FOOD]]
+
+## Bible
+
+
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2

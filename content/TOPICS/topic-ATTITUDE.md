@@ -39,6 +39,11 @@ A feeling, emotion or mental position to a fact or state.
 
 [[UNFORGIVENESS]]
 
+## Quotes
+[[WRONG-REASON]]
+
+## Bible
+
 ## Dataview
 level:: 3
 ptopic:: [[topic-SPIRITUALITY]]

@@ -32,7 +32,7 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 [[TRANSCENDENT]]
 
 ## Quotes
-[[CHRIST-IS-ENOUGH]]
+[[QUOTES/CHRIST-IS-ENOUGH]]
 
 [[PERFECT-PEACE]]
 

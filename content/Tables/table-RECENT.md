@@ -14,7 +14,7 @@ TABLE
    FROM "content"
    WHERE type != "PAGE" AND type != "TABLE" AND draft = false
    SORT file.mtime DESC
-   LIMIT 38
+   LIMIT 26
 ```
 
 

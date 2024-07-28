@@ -16,6 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-THE-GOSPEL]]
-source:: 'The Basics and More: A Year's Sermons'
+source:: "The Basics and More: A Year's Sermons"
 booklink:: (https://www.amazon.com/Basics-More-Years-Sermons-ebook/dp/B00XLMBDR8)
 level:: 2

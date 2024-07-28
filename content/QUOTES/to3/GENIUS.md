@@ -16,6 +16,6 @@ tags:
 
 ## Dataview
 ptopic:: [[topic-UNDERSTANDING]]
-source:: '"The Traveler's Oasis, Book Three"
+source:: "The Traveler's Oasis, Book Three"
 booklink:: (https://www.amazon.com/Travelers-Oasis-Book-Three-ebook/dp/B00YRKX8E4)
 level:: 3

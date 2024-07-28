@@ -25,8 +25,8 @@ A doctrine or system of moral conduct
 [[INTEGRITY]]
 
 ## Dataview
-level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
+level:: 3
 
 ## Notes
 NOTE: Topic notes.
