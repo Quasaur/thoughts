@@ -24,6 +24,15 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 
 [[US-FOREIGN-POLICY]]
 
+## Quotes
+[[NATION-OF-ISRAEL]]
+
+[[POLITICAL-CHRIST]]
+
+[[THE-CHRISTIAN-SYSTEM]]
+## Bible
+
+
 ## Dataview
 level:: 4
 ptopic:: [[topic-HUMANITY]]

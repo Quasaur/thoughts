@@ -21,6 +21,8 @@ aliases:
 
 [[topic-SPIRITS]]
 
+[[topic-WORSHIP]]
+
 ## Thoughts
 [[FIGMENTS]]
 
@@ -29,13 +31,14 @@ aliases:
 [[SOL-ROTATION]]
 
 [[SOL-VELOCITY]]
+
 ## Quotes
 
 ## Bible
 
 ## Dataview
-level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
+level:: 2
 
 ## Notes
 Topic notes.

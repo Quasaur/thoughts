@@ -45,6 +45,8 @@ The Nature of God as existing in Three Persons.
 ## Quotes
 [[ETERNITY]]
 
+[[GOODNESS-OF-GOD]]
+
 ## Bible
 
 ## Dataview
