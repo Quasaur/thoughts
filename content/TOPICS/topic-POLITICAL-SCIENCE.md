@@ -30,6 +30,7 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 [[POLITICAL-CHRIST]]
 
 [[THE-CHRISTIAN-SYSTEM]]
+
 ## Bible
 
 

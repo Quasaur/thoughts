@@ -45,6 +45,7 @@ Whether or not the sidebars to the left and right are visible is a function of h
 - Table: Quotes
 	- [Table: Quotes (sorted by File)](table-QUOTES-md-File.md)
 	- [Table: Quotes (sorted by Book)](table-QUOTES-md-Book.md)
+	- [Table: Quotes (sorted by Topic)](table-QUOTES-md-Topic.md)
 - Table: Bible Passages
 	- [Table: Passages (sorted by File)](table-PASSAGES-MD-File.md)
 	- [Table: Passages (sorted by Verse)](table-PASSAGES-MD-Verse.md)

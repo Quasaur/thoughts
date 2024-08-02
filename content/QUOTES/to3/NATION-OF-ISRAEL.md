@@ -10,7 +10,7 @@ tags:
 - prophecy
 ---
 
-# Quote: CHAOS
+# Quote: NATION OF ISRAEL
 > [!Quote]
 > The Bible makes a crucial distinction between the Earthly, physical Nation of Israel, which is temporary and the SPIRITUAL Nation of Israel, which is Eternal; nothing about the Gospel or Biblical prophecy makes sense without this truth.
 

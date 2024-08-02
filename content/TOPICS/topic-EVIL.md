@@ -27,6 +27,8 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 ## Quotes
 [[DIALOGUE]]
 
+[[THE-DESIRE-TO-RETURN]]
+
 ## Bible
 [[PROTECTIION-FROM-EVIL]]
 

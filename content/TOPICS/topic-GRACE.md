@@ -40,12 +40,14 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 
 [[UNCONDITIONAL]]
 
+[[UNCONDITIONAL-GRACE]]
+
 ## Bible
 
 
 ## Dataview
+ptopic:: [[topic-CREATION]]
 level:: 3
-ptopic:: "[[topic-CREATION]]
 
 ## Notes
 NOTE: Topic notes.

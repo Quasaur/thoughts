@@ -18,7 +18,7 @@ aliases:
 
 ## Quotes
 [[[THE-DESIRE-OF-NATIONS]]
-]
+
 ## Bible
 
 ## Dataview

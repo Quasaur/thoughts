@@ -19,6 +19,9 @@ Confidence in the Words of God that inspires intent, speech and action.
 ## Thoughts
 [[GNOSIS]]
 
+## Quotes
+[[LOGICAL-COURSE]]
+
 ## Bible
 [[NOT-OF-FAITH]]
 

@@ -24,6 +24,8 @@ A binding custom or practice of a community formally recognized as binding or e
 [[HUMAN-LAW]]
 
 ## Quotes
+[[CHRIST-THE-END]]
+
 [[THE-TEN-COMMANDMENTS]]
 
 ## Bible

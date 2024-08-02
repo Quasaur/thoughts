@@ -9,7 +9,7 @@ tags:
 - nations
 - thepearl
 ---
-# Quote: BEGOTTEN
+# Quote: THE DESIRE OF NATIONS
 > [!Quote]
 > He (the rich young ruler) believed that Jesus had what he wanted, but he didn't know that Jesus WAS what he wanted.
 

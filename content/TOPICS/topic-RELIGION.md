@@ -32,6 +32,8 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 [[TREASURE]]
 
 ## Quotes
+[[ISLAM-DEFEATED]]
+
 [[SO-MANY-GOSPELS]]
 
 [[WORKS]]

@@ -10,7 +10,7 @@ tags:
   - transcendent
 ---
 
-# Quote: GOD IS GOOD
+# Quote: GOODNESS OF GOD
 > [!Quote]
 > None of the darkest horrors concocted by the most evil demonic force can ever have a chance against the Goodness of God.
 
