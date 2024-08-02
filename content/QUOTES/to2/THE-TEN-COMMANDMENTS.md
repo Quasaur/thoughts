@@ -10,7 +10,7 @@ tags:
 - love
 ---
 
-# Quote: PERFECT PEACE
+# Quote: THE TEN COMMANDMENTS
 > [!Quote]
 > God places an INESTIMABLE VALUE upon the Ten Commandments; and it deeply concerns me that so many of today's Christians take NO TIME to familiarize themselves with any of the first five books of the Bible which clearly identify the One True God in no uncertain terms.
 

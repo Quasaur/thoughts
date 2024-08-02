@@ -10,7 +10,7 @@ tags:
 - sovereignty
 ---
 
-# Quote: ETERNITY
+# Quote: ONE WILL
 > [!Quote]
 > Precious Reader, I have experienced The Light of Eternity saturating my being (The Traveler's Oasis: Book One, Chapter 18) and i can tell you that THERE IS ONLY ONE WILL THAT HAS EVER AND WILL EVER EXIST!
 

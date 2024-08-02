@@ -10,7 +10,7 @@ tags:
 - forgotten
 ---
 
-# Quote: ETERNITY
+# Quote: ETERNAL LIGHT
 > [!Quote]
 > Eventually, as saved beings, our understanding of God will reach the point where darkness will recede into the past as a faint memory.
 

@@ -9,7 +9,7 @@ tags:
 - parable
 - prayer
 ---
-# Quote: BEGOTTEN
+# Quote: WRONG REASON
 > [!Quote]
 > IT IS POSSIBLE TO PERFORM A GOOD DEED FOR THE WRONG REASON (Luke 18:9-14).
 > Is there anything wrong with fasting or tithing?
