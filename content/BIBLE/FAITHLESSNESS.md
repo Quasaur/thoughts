@@ -18,6 +18,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-EVIL]]
 source:: 'Proverbs 1:32'
-sortedSource:: 'Proverbs 1:32'
+sortedSource:: 'Proverbs 01:32'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+1%3A32&version=NASB)
 level:: 4
