@@ -32,6 +32,8 @@ God's Right to do as He pleases.
 
 [[VOLITION3]]
 
+[[VOLITION4]]
+
 ## Quotes
 [[ONE-WILL]]
 

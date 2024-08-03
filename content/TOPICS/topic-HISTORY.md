@@ -11,7 +11,7 @@ aliases:
 ---
 # topic: HISTORY
 ## Description
-an account of important events in the order in which they happened
+An account of important events in the order in which they happened
 
 ## Sub-Topics
 [[topic-APOCALYPSE]]

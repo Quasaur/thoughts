@@ -21,6 +21,8 @@ aliases:
 
 [[topic-GEOLOGY]]
 
+[[topic-HEALTH]]
+
 [[topic-HISTORY]]
 
 [[topic-POLITICAL-SCIENCE]]
