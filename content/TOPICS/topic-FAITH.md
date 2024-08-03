@@ -25,6 +25,8 @@ Confidence in the Words of God that inspires intent, speech and action.
 ## Bible
 [[NOT-OF-FAITH]]
 
+[[TRUST-THE-LORD]]
+
 ## Dataview
 level:: 4
 ptopic:: [[topic-ATTITUDE]]

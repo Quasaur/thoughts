@@ -37,6 +37,8 @@ God's Right to do as He pleases.
 ## Quotes
 [[ONE-WILL]]
 
+[[THE-BOOK-OF-LIFE]]
+
 ## Bible
 [[HEART-OF-THE-KING]]
 

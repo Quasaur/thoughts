@@ -21,7 +21,7 @@ Each PASSAGE is identified by its LEVEL according to the topic catalogue of this
 
 The items in the File and Topic columns are links that can be clicked on to take you to that particular Passage or its Topic.
 
-|File13|Verse(s)*|Passage Level|Topic|Topic Level|
+|File (13)|Verse(s)*|Passage Level|Topic|Topic Level|
 |---|---|---|---|---|
 |[THE-SOURCE-OF-WEALTH](/BIBLE/Deut/THE-SOURCE-OF-WEALTH.md)|'Deuteronomy 8:18'|3|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
 |[WHAT-THE-WISE-DO](/BIBLE/Prov/WHAT-THE-WISE-DO.md)|'Proverbs 1:5'|3|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
