@@ -32,6 +32,8 @@ The study of mind and behavior in relation to a particular field of knowledge or
 
 [[GODS]]
 
+[[IDIOTS-ALL]]
+
 [[INSANITY]]
 
 [[LIVING-RELATIONSHIPS]]
