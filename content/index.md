@@ -33,7 +33,9 @@ Years have come and gone...
 So...here's how to get started:
 
 ## The Tables
-The best place to start is with the tables. The tables will provide you easy and browsable lists of The Book of Thoughts (formerly The Book of Tweets) content. The Topic (magenta), Passage (light blue), Quote (bright yellow) and  Thoughts (bright green) nodes are all color-coded. The Table nodes are not color coded because i indent to exclude them from the main (global) Graph View eventually.
+The best place to start is with the tables. The tables will provide you easy and browsable lists of The Book of Thoughts (formerly The Book of Tweets) content. The Topic (magenta), Passage (light blue), Quote (bright yellow) and  Thoughts (bright green) nodes are all color-coded. The Table nodes are not color coded because i intend to exclude them from the main (global) Graph View eventually.
+
+It should be noted that in my zeal to add entries continually, the tables are not always up to date; the Graph Views, however, are always current...so if you visit the page of any table its Graph should always display recently-added nodes. Up till now I've always managed to update the tables once per week.
 
 Whether or not the sidebars to the left and right are visible is a function of how wide you've set the webpage in your browser; so I'm also going to list the Tables here...go ahead and select one!
 - [[table-TOPICS-md]]
