@@ -24,8 +24,8 @@ aliases:
 [[UNJUST-GAIN]]
 
 ## Dataview
-level:: 3
 ptopic:: [[topic-CREATION]]
+level:: 3
 
 ## Notes
 Topic notes.

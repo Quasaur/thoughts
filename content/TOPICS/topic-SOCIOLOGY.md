@@ -21,8 +21,8 @@ The science of society, social institutions, and social relationships.
 ## Thoughts
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-HUMANITY]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes.

@@ -17,9 +17,10 @@ The study of the social belief systems humans have held across different times a
 
 
 ## Thoughts
-[[DARK-MATTER]] | [[EVOLUTIONARY-THEORY]] | [[LOST-SCIENTISTS]]
--
-[[PSEUDO-SCIENCE]] | [[REALITY]] | [[SCIENCE-CONSPIRACY]]
+|     |     |     |
+| --- | --- | --- |
+| [[DARK-MATTER]] | [[EVOLUTIONARY-THEORY]] | [[LOST-SCIENTISTS]] |
+| [[PSEUDO-SCIENCE]] | [[REALITY]] | [[SCIENCE-CONSPIRACY]] |
 
 ## Dataview
 ptopic:: [[topic-HUMANITY]]

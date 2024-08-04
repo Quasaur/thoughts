@@ -14,13 +14,17 @@ aliases:
 A binding custom or practice of a community formally recognized as binding or enforced by a controlling authority.
 
 ## Sub-Topics
-[[topic-JUSTICE]] | [[topic-MERCY]] | [[topic-FREEDOM]]
+|     |     |     |
+| --- | --- | --- |
+| [[topic-JUSTICE]] | [[topic-MERCY]] | [[topic-FREEDOM]] |
 
 ## Thoughts 
 [[HUMAN-LAW]]
 
 ## Quotes
-[[CHRIST-THE-END]] | [[THE-TEN-COMMANDMENTS]]
+|     |     |
+| --- | --- |
+| [[CHRIST-THE-END]] | [[THE-TEN-COMMANDMENTS]] |
 
 ## Bible
 

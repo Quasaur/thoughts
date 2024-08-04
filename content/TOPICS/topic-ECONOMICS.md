@@ -21,7 +21,9 @@ Social science concerned chiefly with description and analysis of the production
 
 
 ## Thoughts
-[[CITIZENSHIP]] | [[DEBTORS]]
+|     |     |
+| --- | --- |
+| [[CITIZENSHIP]] | [[DEBTORS]] |
 
 ## Dataview
 ptopic:: [[topic-HUMANITY]]

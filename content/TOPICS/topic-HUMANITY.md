@@ -13,11 +13,11 @@ aliases:
 ---
 # Topic: HUMANITY
 ## Sub-Topics
-[[topic-ANTHROPOLOGY]] | [[topic-COSMOLOGY]] | [[topic-ECONOMICS]]
--
-[[topic-GEOLOGY]] | [[topic-HEALTH]] | [[topic-HISTORY]]
--
-[[topic-POLITICAL-SCIENCE]] |[[topic-PSYCHOLOGY]] | [[topic-SOCIOLOGY]]
+|     |     |     |
+| --- | --- | --- |
+| [[topic-ANTHROPOLOGY]] | [[topic-COSMOLOGY]] | [[topic-ECONOMICS]] |
+| [[topic-GEOLOGY]] | [[topic-HEALTH]] | [[topic-HISTORY]] |
+| [[topic-POLITICAL-SCIENCE]] |[[topic-PSYCHOLOGY]] | [[topic-SOCIOLOGY]] |
 
 ## Thoughts
 [[ACCOUNTABILITY]]

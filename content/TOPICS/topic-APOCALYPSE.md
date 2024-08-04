@@ -17,7 +17,9 @@ Eschatology; the End of all things.
 
 
 ## Thoughts
-[[OBLIVION]] | [[THE-BIBLE]] | [[WHEN-JESUS-RETURNS]]
+|     |     |     |
+| --- | --- | --- |
+| [[OBLIVION]] | [[THE-BIBLE]] | [[WHEN-JESUS-RETURNS]] |
 
 ## Dataview
 ptopic:: [[topic-HISTORY]]

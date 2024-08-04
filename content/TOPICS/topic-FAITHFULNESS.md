@@ -17,7 +17,10 @@ Adherence to something to which one is bound by a pledge or duty
 
 
 ## Thoughts
-[[FRUSTRATION]] | [[IMMORTALITY]]
+
+|     |     |
+| --- | --- |
+| [[FRUSTRATION]] | [[IMMORTALITY]] |
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]

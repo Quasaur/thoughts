@@ -17,9 +17,10 @@ The practice or instance of giving to others what is their due.
 
 
 ## Thoughts
-[[FAIRNESS]] | [[JUSTICE]] | [[REPARATIONS]]
--
-[[THE-LAKE-OF-FIRE-AND-SULFUR]] | [[TIME]]
+|     |     |     |
+| --- | --- | --- |
+| [[FAIRNESS]] | [[JUSTICE]] | [[REPARATIONS]] |
+| [[THE-LAKE-OF-FIRE-AND-SULFUR]] | [[TIME]] |
 
 ## Dataview
 ptopic:: [[topic-LAW]]

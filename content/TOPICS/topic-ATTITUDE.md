@@ -16,14 +16,16 @@ aliases:
 A feeling, emotion or mental position to a fact or state.
 
 ## Sub-Topics
-[[topic-ENTITLEMENT]] | [[topic-FAITH]]
+|     |     |
+| --- | --- |
+| [[topic-ENTITLEMENT]] | [[topic-FAITH]] |
 
-## Thoughts 
-[[AUTOMATIC MERCY]] | [[CONTENTMENT]] | [[DIFFICULTY]]
--
-[[DUST]] | [[HUMAN-MERCY]] [[INNER-REALITY]]
--
-[[ONE-REASON]] | [[STRENGTH]] | [[UNFORGIVENESS]]
+## Thoughts
+|     |     |     |
+| --- | --- | --- |
+| [[AUTOMATIC MERCY]] | [[CONTENTMENT]] | [[DIFFICULTY]] |
+| [[DUST]] | [[HUMAN-MERCY]] | [[INNER-REALITY]] |
+| [[ONE-REASON]] | [[STRENGTH]] | [[UNFORGIVENESS]] |
 
 ## Quotes
 [[WRONG-REASON]]

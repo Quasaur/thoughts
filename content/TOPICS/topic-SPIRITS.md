@@ -18,17 +18,14 @@ The animating or vital Principle held to give life to physical organisms; supern
 
 
 ## Thoughts
-
-[[DEMONS]]
-
-[[SENTIENCE]]
-
-[[SPIRIT]]
+|     |     |     |
+| --- | --- | --- |
+| [[DEMONS]] | [[SENTIENCE]] | [[SPIRIT]] |
 
 
 ## Dataview
-level:: 3
 ptopic:: [[topic-CREATION]]
+level:: 3
 
 ## Notes
 NOTE: Topic notes.

@@ -19,9 +19,9 @@ A mental grasp of truth or an agreement between individuals or groups.
 
 
 ## Thoughts
-[[IMAGINATION]]
-
-[[MISUNDERSTOOD]]
+|     |     |
+| --- | --- |
+| [[IMAGINATION]] | [[MISUNDERSTOOD]] |
 
 ## Quotes
 [[GENIUS]]
@@ -30,8 +30,8 @@ A mental grasp of truth or an agreement between individuals or groups.
 [[WHAT-THE-WISE-DO]]
 
 ## Dataview
-level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
+level:: 3
 
 ## Notes
 NOTE: Topic notes.

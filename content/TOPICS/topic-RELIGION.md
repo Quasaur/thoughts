@@ -17,34 +17,21 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 
 
 ## Thoughts
-[[EVOLUTION-IS-SCIENCE?]]
-
-[[HUMANITARIANISM]]
-
-[[ISLAM]]
-
-[[PERSECUTION]]
-
-[[PROSPERITY-NOW]]
-
-[[SELF-WORSHIP]]
-
-[[TREASURE]]
+|     |     |     |
+| --- | --- | --- |
+| [[EVOLUTION-IS-SCIENCE?]] | [[HUMANITARIANISM]] | [[ISLAM]] |
+| [[TREASURE]] |
 
 ## Quotes
-[[DEAD-WORKS]]
-
-[[ISLAM-DEFEATED]]
-
-[[SO-MANY-GOSPELS]]
-
-[[WORKS]]
+|     |     |     |
+| --- | --- | --- |
+| [[ISLAM-DEFEATED]] | [[SO-MANY-GOSPELS]] | [[WORKS]] |
 
 ## Bible
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-MORALITY]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes

@@ -16,15 +16,20 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 ## Sub-Topics
 
 ## Thoughts
-[[BRIBERY]] | [[EVIL-WAS-NECESSARY]] | [[NOBODY]]
--
-[[DISPISING-THE-CROSS]]
+|     |     |     |
+| --- | --- | --- |
+| [[BRIBERY]] | [[EVIL-WAS-NECESSARY]] | [[NOBODY]] |
+| [[DISPISING-THE-CROSS]] |
 
 ## Quotes
-[[DIALOGUE]] | [[THE-DESIRE-TO-RETURN]]
+|     |     |
+| --- | --- |
+| [[DIALOGUE]] | [[THE-DESIRE-TO-RETURN]] |
 
 ## Bible
-[[PROTECTIION-FROM-EVIL]] | [[FATE-OF-THE-WICKED]]
+|     |     |
+| --- | --- |
+| [[PROTECTIION-FROM-EVIL]] | [[FATE-OF-THE-WICKED]] |
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]

@@ -15,14 +15,16 @@ aliases:
 ---
 # Topic: CREATION
 ## Sub-Topics
-[[topic-GRACE]] | [[topic-HUMANITY]] | [[topic-SPIRITS]]
--
-[[topic-WORSHIP]]
+|     |     |     |
+| --- | --- | --- |
+| [[topic-GRACE]] | [[topic-HUMANITY]] | [[topic-SPIRITS]] |
+| [[topic-WORSHIP]] |
 
 ## Thoughts
-[[FIGMENTS]] | [[IN-HIM-WE-LIVE]] | [[SOL-ROTATION]]
--
-[[SOL-VELOCITY]]
+|     |     |     |
+| --- | --- | --- |
+| [[FIGMENTS]] | [[IN-HIM-WE-LIVE]] | [[SOL-ROTATION]] |
+| [[SOL-VELOCITY]] |
 
 ## Quotes
 

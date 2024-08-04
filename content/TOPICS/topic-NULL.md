@@ -1,5 +1,5 @@
 ---
-title: "Topic: NULL"
+title: "NULL"
 draft: false
 type: TOPIC
 ---

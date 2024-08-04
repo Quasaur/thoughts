@@ -20,8 +20,8 @@ A transcendent fundamental or spiritual reality.
 [[OUR-MASTER]]
 
 ## Dataview
-level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
+level:: 2
 
 ## Notes
 NOTE: Topic notes.

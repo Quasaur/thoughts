@@ -14,19 +14,14 @@ aliases:
 Sensitivity or attachment to religious values.
 
 ## Sub-Topics
-
-[[topic-ATTITUDE]]
-
-[[topic-MORALITY]]
-
-[[topic-UNDERSTANDING]]
+|     |     |     |
+| --- | --- | --- |
+| [[topic-ATTITUDE]] | [[topic-MORALITY]] | [[topic-UNDERSTANDING]] |
 
 ## Thoughts
-[[THE-QUICK-AND-THE-DEAD]]
-
-[[THE-TRUE-VINE]]
-
-[[WORSHIP]]
+|     |     |     |
+| --- | --- | --- |
+| [[THE-QUICK-AND-THE-DEAD]] | [[THE-TRUE-VINE]] | [[WORSHIP]] |
 
 ## Quotes
 [[HEAVENLY-FOOD]]

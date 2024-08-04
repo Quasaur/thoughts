@@ -1,16 +1,16 @@
 ---
-title: "Topic: POLITICAL SCIENCE"
+title: POLITICAL SCIENCE
 draft: false
 type: TOPIC
 tags:
   - patriotism
   - chauvinism
   - nativism
-aliases: 
-- "Topic: Comparative Politics"
-- "Topic: International Relations"
-- "Topic: Political Theory"
-- "Topic: Geospacial Analysis"
+aliases:
+  - "Topic: Comparative Politics"
+  - "Topic: International Relations"
+  - "Topic: Political Theory"
+  - "Topic: Geospacial Analysis"
 ---
 # Topic: POLITICAL SCIENCE
 ## Description
@@ -20,10 +20,15 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 
 
 ## Thoughts
-[[AMERICAN]] | [[US-FOREIGN-POLICY]]
+
+|     |     |
+| --- | --- |
+| [[AMERICAN]] | [[US-FOREIGN-POLICY]] |
 
 ## Quotes
-[[NATION-OF-ISRAEL]] | [[POLITICAL-CHRIST]] | [[THE-CHRISTIAN-SYSTEM]]
+|     |     |     |
+| --- | --- | --- |
+| [[NATION-OF-ISRAEL]] | [[POLITICAL-CHRIST]] | [[THE-CHRISTIAN-SYSTEM]] |
 
 ## Bible
 

@@ -19,15 +19,13 @@ The Life, Death, Burial and Resurrection of Jesus Christ.
 
 
 ## Thoughts
-[[INVITE-OR-COMMAND?]]
-
-[[MARK-OF-THE-BEAST]]
-
-[[MODIFIED-GOSPEL]]
+|     |     |     |
+| --- | --- | --- |
+| [[INVITE-OR-COMMAND?]] | [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
 
 ## Dataview
-level:: 2
 ptopic:: [[topic-THE-GODHEAD]]
+level:: 2
 
 ## Notes
 NOTE: Topic notes.
