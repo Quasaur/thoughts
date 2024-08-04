@@ -17,7 +17,6 @@ The condition of being sound in body, mind, or spirit; freedom from physical dis
 
 ## Thoughts
 
-
 ## Quotes
 
 ## Bible

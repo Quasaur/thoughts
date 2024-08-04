@@ -16,28 +16,14 @@ aliases:
 A feeling, emotion or mental position to a fact or state.
 
 ## Sub-Topics
-[[topic-ENTITLEMENT]]
-
-[[topic-FAITH]]
+[[topic-ENTITLEMENT]] | [[topic-FAITH]]
 
 ## Thoughts 
-[[AUTOMATIC MERCY]]
-
-[[CONTENTMENT]]
-
-[[DIFFICULTY]]
-
-[[DUST]]
-
-[[HUMAN-MERCY]]
-
-[[INNER-REALITY]]
-
-[[ONE-REASON]]
-
-[[STRENGTH]]
-
-[[UNFORGIVENESS]]
+[[AUTOMATIC MERCY]] | [[CONTENTMENT]] | [[DIFFICULTY]]
+-
+[[DUST]] | [[HUMAN-MERCY]] [[INNER-REALITY]]
+-
+[[ONE-REASON]] | [[STRENGTH]] | [[UNFORGIVENESS]]
 
 ## Quotes
 [[WRONG-REASON]]
@@ -46,8 +32,9 @@ A feeling, emotion or mental position to a fact or state.
 [[KINDNESS-AND-TRUTH]]
 
 ## Dataview
-level:: 3
 ptopic:: [[topic-SPIRITUALITY]]
+level:: 3
+
 
 ## Notes
 NOTE: Topic Notes.

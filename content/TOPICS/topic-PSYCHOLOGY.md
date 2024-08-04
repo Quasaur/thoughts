@@ -20,42 +20,19 @@ The study of mind and behavior in relation to a particular field of knowledge or
 ## Sub-Topics
 
 ## Thoughts
-[[692-189]]
-
-[[ADDICTION]]
-
-[[ANTI-SEMITISM]]
-
-[[DISCRETION]]
-
-[[FOCUS]]
-
-[[GUILT]]
-
-[[GODS]]
-
-[[IDIOTS-ALL]]
-
-[[INSANITY]]
-
-[[LIVING-RELATIONSHIPS]]
-
-[[LOVING-OR-LOVED?]]
-
-[[MURDER]]
-
-[[PAINFUL-TRUTH]]
-
-[[RESULTS]]
-
-[[SECRETS]]
-
-[[THINKING-TIME]]
+|     |     |     |
+| --- | --- | --- |
+| [[692-189]] | [[ADDICTION]] | [[ANTI-SEMITISM]] |
+| [[DISCRETION]] | [[FOCUS]] | [[GUILT]] |
+| [[GODS]] | [[IDIOTS-ALL]] | [[INSANITY]] |
+| [[LIVING-RELATIONSHIPS]] | [[LOVING-OR-LOVED?]] | [[MURDER]] |
+| [[PAINFUL-TRUTH]] | [[RESULTS]] | [[SECRETS]] |
+| [[THINKING-TIME]] |
 
 ## Quotes
-[[CHAOS]]
-
-[[MY-PROGRAMMING]]
+|     |     |     |
+| --- | --- | --- |
+| [[CHAOS]] | [[MY-PROGRAMMING]] |
 
 ## Bible
 

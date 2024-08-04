@@ -17,15 +17,12 @@ Eschatology; the End of all things.
 
 
 ## Thoughts
-[[OBLIVION]]
-
-[[THE-BIBLE]]
-
-[[WHEN-JESUS-RETURNS]]
+[[OBLIVION]] | [[THE-BIBLE]] | [[WHEN-JESUS-RETURNS]]
 
 ## Dataview
-level:: 5
 ptopic:: [[topic-HISTORY]]
+level:: 5
+
 
 ## Notes
 NOTE: Topic Notes.

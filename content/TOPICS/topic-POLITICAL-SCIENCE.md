@@ -20,23 +20,17 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 
 
 ## Thoughts
-[[AMERICAN]]
-
-[[US-FOREIGN-POLICY]]
+[[AMERICAN]] | [[US-FOREIGN-POLICY]]
 
 ## Quotes
-[[NATION-OF-ISRAEL]]
-
-[[POLITICAL-CHRIST]]
-
-[[THE-CHRISTIAN-SYSTEM]]
+[[NATION-OF-ISRAEL]] | [[POLITICAL-CHRIST]] | [[THE-CHRISTIAN-SYSTEM]]
 
 ## Bible
 
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-HUMANITY]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes.

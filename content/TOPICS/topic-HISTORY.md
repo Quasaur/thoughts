@@ -17,19 +17,15 @@ An account of important events in the order in which they happened
 [[topic-APOCALYPSE]]
 
 ## Thoughts
-[[CONSEQUENCES]]
-
-[[SKEWERED-TIMELINES]]
-
-[[YISRAEL]]
+[[CONSEQUENCES]] | [[SKEWERED-TIMELINES]] | [[YISRAEL]]
 
 ## Quotes
 
 ## Bible
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-HUMANITY]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes.

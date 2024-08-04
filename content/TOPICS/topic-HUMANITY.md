@@ -13,23 +13,11 @@ aliases:
 ---
 # Topic: HUMANITY
 ## Sub-Topics
-[[topic-ANTHROPOLOGY]]
-
-[[topic-COSMOLOGY]]
-
-[[topic-ECONOMICS]]
-
-[[topic-GEOLOGY]]
-
-[[topic-HEALTH]]
-
-[[topic-HISTORY]]
-
-[[topic-POLITICAL-SCIENCE]]
-
-[[topic-PSYCHOLOGY]]
-
-[[topic-SOCIOLOGY]]
+[[topic-ANTHROPOLOGY]] | [[topic-COSMOLOGY]] | [[topic-ECONOMICS]]
+-
+[[topic-GEOLOGY]] | [[topic-HEALTH]] | [[topic-HISTORY]]
+-
+[[topic-POLITICAL-SCIENCE]] |[[topic-PSYCHOLOGY]] | [[topic-SOCIOLOGY]]
 
 ## Thoughts
 [[ACCOUNTABILITY]]
@@ -40,8 +28,8 @@ aliases:
 [[KNOWLEDGE]]
 
 ## Dataview
-level:: 3
 ptopic:: [[topic-CREATION]]
+level:: 3
 
 ## Notes
 Topic notes.

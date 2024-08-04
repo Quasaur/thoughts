@@ -26,8 +26,8 @@ Not having or showing any feelings of superiority, self-assertiveness, or showin
 [[PRIDE-AS-EVIL]]
 
 ## Dataview
-level:: 4
 ptopic:: [[[topic-ATTITUDE]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes.

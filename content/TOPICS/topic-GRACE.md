@@ -17,30 +17,16 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 
 
 ## Thoughts
-[[FATHER]]
-
-[[FULLNESS]]
-
-[[NOISE]]
-
-[[SIN]]
-
-[[THE-REAL-YOU]]
-
-[[TO_BE_LED]]
-
+[[FATHER]] | [[FULLNESS]] | [[NOISE]]
+-
+[[SIN]] | [[THE-REAL-YOU]] | [[TO_BE_LED]]
+-
 [[TRANSCENDENT]]
 
 ## Quotes
-[[QUOTES/CHRIST-IS-ENOUGH]]
-
-[[PERFECT-PEACE]]
-
-[[REINVENT]]
-
-[[UNCONDITIONAL]]
-
-[[UNCONDITIONAL-GRACE]]
+[[QUOTES/CHRIST-IS-ENOUGH]] | [[PERFECT-PEACE]] | [[REINVENT]]
+-
+[[UNCONDITIONAL]] | [[UNCONDITIONAL-GRACE]]
 
 ## Bible
 

@@ -25,8 +25,8 @@ aliases:
 [[FREEDOM-OF-DEATH]]
 
 ## Dataview
-level:: 5
 ptopic:: [[topic-LAW]]
+level:: 5
 
 ## Notes
 As sinners we are never free from morality nor the rule of law.

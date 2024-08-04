@@ -14,15 +14,10 @@ aliases:
 A doctrine or system of moral conduct
 
 ## Sub-Topics
-[[topic-EVIL]]
-
-[[topic-LAW]]
-
-[[topic-RELIGION]]
+[[topic-EVIL]] | [[topic-LAW]] | [[topic-RELIGION]]
 
 ## Thoughts
-[[SHOULD]]
-[[INTEGRITY]]
+[[SHOULD]] | [[INTEGRITY]]
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]

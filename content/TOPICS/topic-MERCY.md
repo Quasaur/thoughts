@@ -17,13 +17,11 @@ Compassion or forbearance shown to an offender or to one subject to another’s 
 
 
 ## Thoughts
-[[CONSEQUENCES]]
-
-[[FORGIVENESS]]
+[[CONSEQUENCES]] | [[FORGIVENESS]]
 
 ## Dataview
-level:: 5
 ptopic:: [[topic-LAW]]
+level:: 5
 
 ## Notes
 NOTE: Topic notes.

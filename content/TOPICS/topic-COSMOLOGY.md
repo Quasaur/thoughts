@@ -11,27 +11,20 @@ aliases:
 ---
 # Topic COSMOLOGY
 ## Description
-The study of the social belief systems humans have held across different times and places. **Scientific cosmology** involves studying the universe through astronomy and physics.
+The study of the social belief systems humans have held across different times and places. Scientific cosmology involves studying the universe through astronomy and physics.
 
 ## Sub-Topics
 
 
 ## Thoughts
-[[DARK-MATTER]]
-
-[[EVOLUTIONARY-THEORY]]
-
-[[LOST-SCIENTISTS]]
-
-[[PSEUDO-SCIENCE]]
-
-[[REALITY]]
-
-[[SCIENCE-CONSPIRACY]]
+[[DARK-MATTER]] | [[EVOLUTIONARY-THEORY]] | [[LOST-SCIENTISTS]]
+-
+[[PSEUDO-SCIENCE]] | [[REALITY]] | [[SCIENCE-CONSPIRACY]]
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-HUMANITY]]
+level:: 4
+
 
 ## Notes
 NOTE: Topic notes.

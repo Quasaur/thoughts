@@ -20,8 +20,8 @@ Study of the solid matter of a celestial body.
 [[FOSSILS]]
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-HUMANITY]]
+level:: 4
 
 ## Notes
 NOTE: Topic notes.

@@ -25,8 +25,9 @@ aliases:
 ## Bible
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-HUMANITY]]
+level:: 4
+
 
 ## Notes
 Topic notes.

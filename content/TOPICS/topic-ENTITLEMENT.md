@@ -20,8 +20,9 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 [[DEBT]]
 
 ## Dataview
-level:: 4
 ptopic:: [[topic-ATTITUDE]]
+level:: 4
+
 
 ## Notes
 NOTE: Topic notes.
