@@ -21,7 +21,9 @@ aliases:
 ## Quotes
 
 ## Bible
-[[UNJUST-GAIN]]
+|     |     |
+| --- | --- |
+| [[HONOR-GOD]] | [[UNJUST-GAIN]] |
 
 ## Dataview
 ptopic:: [[topic-CREATION]]

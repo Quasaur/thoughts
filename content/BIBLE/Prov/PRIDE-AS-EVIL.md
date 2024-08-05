@@ -13,7 +13,7 @@ tags:
 # Passage: PRIDE AS EVIL
 > [!Passage]
 > Do not be wise in your own eyes;
-> Fear the Lord and turn away from evil.
+> Fear the LORD and turn away from evil.
 > It will be healing to your body
 > And refreshment to your bones.
 

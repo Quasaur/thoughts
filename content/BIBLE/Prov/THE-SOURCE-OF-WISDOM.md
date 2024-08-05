@@ -12,7 +12,7 @@ tags:
 
 # Passage: THE SOURCE OF WISDOM
 > [!Passage]
-> For the Lord gives wisdom; 
+> For the LORD gives wisdom; 
 > From His Mouth _come_ knowledge and understanding.
 > He stores up sound wisdom for the upright; 
 > _He is_ a Shield to those who walk in integrity,

@@ -20,7 +20,9 @@ A wise attitude, belief, or course of action
 ## Quotes
 
 ## Bible
-[[THE-SOURCE-OF-WISDOM]]
+|     |     |
+| --- | --- |
+| [[PRICELESS-WISDOM]] | [[THE-SOURCE-OF-WISDOM]] |
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]

@@ -23,7 +23,7 @@ The items in the File and Topic File columns are links that can be clicked on to
 
 I've removed the Social Tags column from the Thoughts table because it skewers the Graph View display.
 
-|File (120)|Level*|Topic|Topic Level|
+|File (124)|Level*|Topic|Topic Level|
 |---|---|---|---|
 |[EGO](/THOUGHTS/e/EGO.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[EMPTINESS](/THOUGHTS/e/EMPTINESS.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -55,6 +55,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[VOLITION](/THOUGHTS/v/VOLITION.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[VOLITION2](/THOUGHTS/v/VOLITION2.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[VOLITION3](/THOUGHTS/v/VOLITION3.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
+|[VOLITION4](/THOUGHTS/v/VOLITION4.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[WORSHIP](/THOUGHTS/w/WORSHIP.md)|2|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
 |[YOUR-KINGDOM](/THOUGHTS/y/YOUR-KINGDOM.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[ACCOUNTABILITY](/THOUGHTS/a/ACCOUNTABILITY.md)|3|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
@@ -109,8 +110,10 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[FOSSILS](/THOUGHTS/f/FOSSILS.md)|4|[topic-GEOLOGY](/TOPICS/topic-GEOLOGY.md)|4|
 |[GNOSIS](/THOUGHTS/g/GNOSIS.md)|4|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|
 |[GODS](/THOUGHTS/g/GODS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
-|[HUMAN-LAW](/THOUGHTS/h/HUMAN-LAW.md)|4|[topic-LAW](app://obsidian.md/TOPICS/topic-LAW.md)|-|
+|[GUILT](/THOUGHTS/g/GUILT.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[HUMAN-LAW](/THOUGHTS/h/HUMAN-LAW.md)|4|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[HUMANITARIANISM](/THOUGHTS/h/HUMANITARIANISM.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
+|[IDIOTS-ALL](/THOUGHTS/i/IDIOTS-ALL.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[INSANITY](/THOUGHTS/i/INSANITY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[ISLAM](/THOUGHTS/i/ISLAM.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[LIVING-RELATIONSHIPS](/THOUGHTS/l/LIVING-RELATIONSHIPS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
@@ -125,6 +128,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[PROSPERITY-NOW](/THOUGHTS/p/PROSPERITY-NOW.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[PSEUDO-SCIENCE](/THOUGHTS/p/PSEUDO-SCIENCE.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[RESULTS](/THOUGHTS/r/RESULTS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[ROYAL-DIET](/THOUGHTS/r/ROYAL-DIET.md)|4|[topic-HEALTH](/TOPICS/topic-HEALTH.md)|4|
 |[SCIENCE-CONSPIRACY](/THOUGHTS/s/SCIENCE-CONSPIRACY.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[SECRETS](/THOUGHTS/s/SECRETS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[SELF-WORSHIP](/THOUGHTS/s/SELF-WORSHIP.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|

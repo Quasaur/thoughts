@@ -24,7 +24,7 @@ Each topic is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File and Parent Topic File columns are links that can be clicked on to take you to that particular Topic.
 
-|File* (34)|Level|Parent Topic|Parent Level|
+|File* (36)|Level|Parent Topic|Parent Level|
 |---|---|---|---|
 |[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)|5|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
@@ -40,8 +40,10 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-FREEDOM](/TOPICS/topic-FREEDOM.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[topic-GEOLOGY](/TOPICS/topic-GEOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-GRACE](/TOPICS/topic-GRACE.md)|3|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
+|[topic-HEALTH](/TOPICS/topic-HEALTH.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
+|[topic-HUMILITY](/TOPICS/topic-HUMILITY.md)|4|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[topic-LAW](/TOPICS/topic-LAW.md)|4|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|
 |[topic-MERCY](/TOPICS/topic-MERCY.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|

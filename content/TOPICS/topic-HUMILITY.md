@@ -23,10 +23,12 @@ Not having or showing any feelings of superiority, self-assertiveness, or showin
 
 
 ## Bible
-[[PRIDE-AS-EVIL]]
+|     |     |
+| --- | --- |
+| [[DISCIPLINE-REBUKE]] | [[PRIDE-AS-EVIL]] |
 
 ## Dataview
-ptopic:: [[[topic-ATTITUDE]]
+ptopic:: [[topic-ATTITUDE]]
 level:: 4
 
 ## Notes

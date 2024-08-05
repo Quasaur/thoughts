@@ -23,7 +23,7 @@ The items in the File and Topic File columns are links that can be clicked on to
 
 I've removed the Social Tags column from the Thoughts table because it skewers the Graph View display.
 
-|File* (120)|Level|Topic|Topic Level|
+|File* (124)|Level|Topic|Topic Level|
 |---|---|---|---|
 |[692-189](/THOUGHTS/0/692-189.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[A-GREAT-DAY](/THOUGHTS/a/A-GREAT-DAY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
@@ -67,10 +67,12 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[GOD-AWARENESS](/THOUGHTS/g/GOD-AWARENESS.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[GOD-IN-CHARGE](/THOUGHTS/g/GOD-IN-CHARGE.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[GODS](/THOUGHTS/g/GODS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[GUILT](/THOUGHTS/g/GUILT.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[HAPPINESS](/THOUGHTS/h/HAPPINESS.md)|3|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
-|[HUMAN-LAW](/THOUGHTS/h/HUMAN-LAW.md)|4|[topic-LAW](app://obsidian.md/TOPICS/topic-LAW.md)|-|
+|[HUMAN-LAW](/THOUGHTS/h/HUMAN-LAW.md)|4|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[HUMAN-MERCY](/THOUGHTS/h/HUMAN-MERCY.md)|3|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[HUMANITARIANISM](/THOUGHTS/h/HUMANITARIANISM.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
+|[IDIOTS-ALL](/THOUGHTS/i/IDIOTS-ALL.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[IMAGINATION](/THOUGHTS/i/IMAGINATION.md)|3|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
 |[IMMORTALITY](/THOUGHTS/i/IMMORTALITY.md)|2|[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|
 |[IMPERSONAL-GOD](/THOUGHTS/i/IMPERSONAL-GOD.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -109,6 +111,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[REALITY](/THOUGHTS/r/REALITY.md)|2|[topic-TRUTH](/TOPICS/topic-TRUTH.md)|2|
 |[REPARATIONS](/THOUGHTS/r/REPARATIONS.md)|5|[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|
 |[RESULTS](/THOUGHTS/r/RESULTS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[ROYAL-DIET](/THOUGHTS/r/ROYAL-DIET.md)|4|[topic-HEALTH](/TOPICS/topic-HEALTH.md)|4|
 |[SCIENCE-CONSPIRACY](/THOUGHTS/s/SCIENCE-CONSPIRACY.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[SECRETS](/THOUGHTS/s/SECRETS.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[SELF-WORSHIP](/THOUGHTS/s/SELF-WORSHIP.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
@@ -140,6 +143,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[VOLITION](/THOUGHTS/v/VOLITION.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[VOLITION2](/THOUGHTS/v/VOLITION2.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[VOLITION3](/THOUGHTS/v/VOLITION3.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
+|[VOLITION4](/THOUGHTS/v/VOLITION4.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[WHEN-JESUS-RETURNS](/THOUGHTS/w/WHEN-JESUS-RETURNS.md)|4|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
 |[WHY](/THOUGHTS/w/WHY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[WORSHIP](/THOUGHTS/w/WORSHIP.md)|2|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|

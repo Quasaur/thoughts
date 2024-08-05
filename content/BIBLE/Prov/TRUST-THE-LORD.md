@@ -12,7 +12,7 @@ tags:
 
 # Passage: TRUST THE LORD
 > [!Passage]
-> Trust in the Lord with all your heart
+> Trust in the LORD with all your heart
 > And do not lean on your own understanding.
 > In all your ways acknowledge Him,
 > And He will make your paths straight.

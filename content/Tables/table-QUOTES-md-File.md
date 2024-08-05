@@ -21,13 +21,14 @@ Each Quote is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File column are links that can be clicked on to take you to that particular Quote.
 
-|File* (30)|Level|Book|Topic|Topic Level|
+|File* (32)|Level|Book|Topic|Topic Level|
 |---|---|---|---|---|
 |[BEGOTTEN](/QUOTES/bom/BEGOTTEN.md)|2|The Basics and More: A Year's Sermons|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[CESSATION-OF-LABOR](/QUOTES/to2/CESSATION-OF-LABOR.md)|3|The Traveler's Oasis, Book Two|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[CHAOS](/QUOTES/to3/CHAOS.md)|4|The Traveler's Oasis, Book Three|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[CHRIST-IS-ENOUGH](/QUOTES/to2/CHRIST-IS-ENOUGH.md)|3|The Traveler's Oasis, Book Two|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[CHRIST-THE-END](/QUOTES/to2/CHRIST-THE-END.md)|4|The Traveler's Oasis, Book Two|[topic-LAW](/TOPICS/topic-LAW.md)|4|
+|[DEAD-WORKS](/QUOTES/imm/DEAD-WORKS.md)|4|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[ETERNAL-LIGHT](/QUOTES/osas/ETERNAL-LIGHT.md)|3|Once Saved, Always Saved: The Assurance of Our Father's LOVE|[topic-UNDERSTANDING](/TOPICS/topic-UNDERSTANDING.md)|3|
 |[ETERNITY](/QUOTES/osas/ETERNITY.md)|1|Once Saved, Always Saved: The Assurance of Our Father's LOVE|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[FORGOTTEN-INJUSTICE](/QUOTES/to1/FORGOTTEN-INJUSTICE.md)|1|The Traveler's Oasis, Book One|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -43,6 +44,7 @@ The items in the File column are links that can be clicked on to take you to tha
 |[POLITICAL-CHRIST](/QUOTES/to3/POLITICAL-CHRIST.md)|4|The Traveler's Oasis, Book Three|[topic-POLITICAL-SCIENCE](/TOPICS/topic-POLITICAL-SCIENCE.md)|4|
 |[REINVENT](/QUOTES/to1/REINVENT.md)|3|The Traveler's Oasis, Book One|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[SO-MANY-GOSPELS](/QUOTES/to2/SO-MANY-GOSPELS.md)|4|The Traveler's Oasis, Book Two|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
+|[THE-BOOK-OF-LIFE](/QUOTES/imm/THE-BOOK-OF-LIFE.md)|2|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[THE-CHRISTIAN-SYSTEM](/QUOTES/to3/THE-CHRISTIAN-SYSTEM.md)|4|The Traveler's Oasis, Book Three|[topic-POLITICAL-SCIENCE](/TOPICS/topic-POLITICAL-SCIENCE.md)|4|
 |[THE-DESIRE-OF-NATIONS](/QUOTES/bom/THE-DESIRE-OF-NATIONS.md)|2|The Basics and More: A Year's Sermons|[topic-WORSHIP](/TOPICS/topic-WORSHIP.md)|3|
 |[THE-DESIRE-TO-RETURN](/QUOTES/imm/THE-DESIRE-TO-RETURN.md)|4|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
