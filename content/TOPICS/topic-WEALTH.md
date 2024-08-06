@@ -1,7 +1,6 @@
 ---
 title: "WEALTH"
 draft: false
-description: The abundance of valuable material, possessions or resources.
 type: TOPIC
 tags:
   - assets
@@ -14,6 +13,10 @@ aliases:
   - "Topic: Resources"
 ---
 # Topic: WEALTH
+
+## Description
+The abundance of valuable material, possessions or resources.
+
 ## Sub-Topics
 
 ## Thoughts

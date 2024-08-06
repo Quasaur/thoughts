@@ -18,7 +18,7 @@ aliases:
 The study of mind and behavior in relation to a particular field of knowledge or activity.
 
 ## Sub-Topics
-
+[[topic-HUMOR]]
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |

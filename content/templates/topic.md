@@ -1,7 +1,6 @@
 ---
 title: "Topic: Title"
 draft: true
-description: "Template from which every Topic is created"
 tags:
   - topic_tag_1
   - topic_tag_2
@@ -12,6 +11,10 @@ aliases:
 date: 2024-06-06
 ---
 # Topic: TITLE
+
+## Description
+Template from which every Topic is created.
+
 ## Sub-Topics
 
 

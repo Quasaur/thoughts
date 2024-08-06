@@ -1,7 +1,6 @@
 ---
 title: "HUMANITY"
 draft: false
-description: Mankind, male and female, created in the Image and Likeness of The GODNEAD.
 type: TOPIC
 tags:
   - adam
@@ -12,6 +11,10 @@ aliases:
   - "Topic: Homo Sapiens"
 ---
 # Topic: HUMANITY
+
+## Description
+Mankind, male and female, created in the Image and Likeness of The GODHEAD.
+
 ## Sub-Topics
 |     |     |     |
 | --- | --- | --- |

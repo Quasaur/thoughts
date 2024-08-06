@@ -1,7 +1,6 @@
 ---
 title: "FREEDOM"
 draft: false
-description: The absence of necessity, coercion, or constraint in choice or action with the framework of morality and law.
 type: TOPIC
 tags:
   - free
@@ -14,6 +13,11 @@ aliases:
   - "Topic: Free to be Moral"
 ---
 # TOPIC TITLE
+
+## Description
+The absence of necessity, coercion, or constraint in choice or action with the framework of morality and law.
+type: TOPIC
+
 ## Sub-Topics
 
 ## Thoughts
