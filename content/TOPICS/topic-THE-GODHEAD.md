@@ -18,14 +18,15 @@ The Nature of God as existing in Three Persons.
 |     |     |     |
 | --- | --- | --- |
 | [[topic-CREATION]] | [[topic-DIVINE-SOVEREIGNTY]] | [[topic-FAITHFULNESS]] |
-| [[topic-SPIRITUALITY]] | [[topic-THE-GOSPEL]] | [[topic-TRUTH]] |
+| [[topic-LOVE]] | [[topic-SPIRITUALITY]] | [[topic-THE-GOSPEL]] |
+| [[topic-TRUTH]] |
 
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
 | [[EMPTINESS]] | [[GOD-AWARENESS]] | [[IMPERSONAL-GOD]] |
 | [[MEEK]] | [[MIRACLES]] | [[PROTECTION]] |
-| [[THE-ULTIMATE]] |
+| [[THE-HOLY-SPIRIT]] | [[THE-ULTIMATE]] |
 
 ## Quotes
 |     |     |     |
@@ -39,4 +40,4 @@ ptopic:: [[topic-NULL]]
 level:: 1
 
 ## Notes
-NOTE: Implement multi-level topics; THE-GODHEAD being the only topic level 1: #type/topic/L1
+NOTE: Implement multi-level topics; THE-GODHEAD being the only topic level 1.

@@ -1,9 +1,9 @@
 ---
-title: "Table: Thoughts DV - Level"
+title: "Table: Thoughts - Level"
 draft: true
 type: hiddentable
 ---
-# Table: THOUGHTS DV - Level (hidden)
+# Table: THOUGHTS - Level (hidden)
 ```dataview
 TABLE
 	level AS "Level*",

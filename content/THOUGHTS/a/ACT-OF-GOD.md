@@ -4,7 +4,7 @@ draft: false
 type: THOUGHT
 tags:
 - person
-- people#
+- people
 - wife
 - husband
 - imageofgod

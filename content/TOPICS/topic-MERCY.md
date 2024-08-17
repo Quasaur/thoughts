@@ -17,9 +17,9 @@ Compassion or forbearance shown to an offender or to one subject to another’s 
 
 
 ## Thoughts
-|     |     |
-| --- | --- |
-| [[CONSEQUENCES]] | [[FORGIVENESS]] |
+|     |     |     |
+| --- | --- | --- |
+| [[CONSEQUENCES]] | [[FORGIVENESS]] | [[MAYBE]] |
 
 ## Dataview
 ptopic:: [[topic-LAW]]

@@ -24,8 +24,9 @@ A feeling, emotion or mental position to a fact or state.
 |     |     |     |
 | --- | --- | --- |
 | [[AUTOMATIC MERCY]] | [[CONTENTMENT]] | [[DIFFICULTY]] |
-| [[DUST]] | [[HUMAN-MERCY]] | [[INNER-REALITY]] |
-| [[ONE-REASON]] | [[STRENGTH]] | [[UNFORGIVENESS]] |
+| [[DUST]] | [[GRATITUDE]] | [[HUMAN-MERCY]] 
+| [[INNER-REALITY]] | [[ONE-REASON]] | [[PERSEVERANCE]] |
+| [[STRENGTH]] | [[UNFORGIVENESS]] |
 
 ## Quotes
 [[WRONG-REASON]]

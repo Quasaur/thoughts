@@ -9,19 +9,20 @@ tags:
   - salvation
 aliases: 
 - "Topic: Redemption"
-- "Topic: Salvatiion"
+- "Topic: Salvation"
 ---
 # Topic: THE GOSPEL
 ## Description
-The Life, Death, Burial and Resurrection of Jesus Christ.
+The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
 
 ## Sub-Topics
-
+[[topic-EVANGELISM]]
 
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[INVITE-OR-COMMAND?]] | [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
+| [[AMBITION]] | [[DEATH-VS-DEATH]] | [[HOME-SWEET-HOME]] |
+|[[INVITE-OR-COMMAND?]] | [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]

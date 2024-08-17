@@ -17,7 +17,10 @@ Confidence in the Words of God that inspires intent, speech and action.
 
 
 ## Thoughts
-[[GNOSIS]]
+|     |     |
+| --- | --- |
+| [[GNOSIS]] | [[TRUE FAITH]] |
+
 
 ## Quotes
 [[LOGICAL-COURSE]]

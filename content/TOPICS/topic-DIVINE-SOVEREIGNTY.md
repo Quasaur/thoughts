@@ -22,7 +22,7 @@ God's Right to do as He pleases.
 | --- | --- | --- |
 | [[GOD-IN-CHARGE]] | [[POINTLESS]] | [[PREDESTINED]] |
 | [[UNSUBMISSIVE]] | [[VOLITION]] | [[VOLITION2]] |
-| [[VOLITION3]] | [[VOLITION4]] |
+| [[VOLITION3]] | [[VOLITION4]] | [[VOLITION5]]
 
 ## Quotes
 |     |     |

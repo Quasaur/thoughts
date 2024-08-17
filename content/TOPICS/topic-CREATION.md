@@ -26,8 +26,8 @@ All beings, places and things that exist apart from The GODHEAD as a result of D
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[FIGMENTS]] | [[IN-HIM-WE-LIVE]] | [[SOL-ROTATION]] |
-| [[SOL-VELOCITY]] |
+| [[EVERYTHING]] | [[FIGMENTS]] | [[HAPPY-SABBATH]] |
+| [[IN-HIM-WE-LIVE]] | [[SOL-ROTATION]] | [[SOL-VELOCITY]] |
 
 ## Quotes
 

@@ -1,9 +1,9 @@
 ---
-title: "Table: Thoughts DV - Modified"
+title: "Table: Thoughts - Modified"
 draft: true
 type: hiddentable
 ---
-# Table: Thoughts DV - Modified (hidden)
+# Table: Thoughts - Modified (hidden)
 
 ```dataview
 TABLE

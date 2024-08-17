@@ -1,9 +1,9 @@
 ---
-title: "Table: Thoughts DV - File"
+title: "Table: Thoughts - File"
 draft: true
 type: hiddentable
 ---
-# Table: THOUGHTS DV - File (hidden)
+# Table: THOUGHTS - File (hidden)
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "File*",
