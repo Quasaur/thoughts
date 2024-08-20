@@ -12,7 +12,7 @@ aliases:
   - "Thought: The Weekly Holiday"
   - "Thought: Honoring the Creator"
 ---
-# Thought: HAPPINESS
+# Thought: HAPPY SABBATH
 > [!Thought]
 > Happy Sabbath, Earth!
 

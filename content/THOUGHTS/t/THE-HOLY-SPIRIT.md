@@ -11,7 +11,7 @@ tags:
 aliases:
 - "Thought: The Most High"
 ---
-# Thought: THE ULTIMATE
+# Thought: THE HOLY SPIRIT
 > [!Thought]
 > The Holy Spirit is God, and all men must be filled with Him.
 

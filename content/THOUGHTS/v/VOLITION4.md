@@ -11,7 +11,7 @@ tags:
 aliases:
 - "Thought: The End Justifies the Means"
 ---
-# Thought: VOLITION
+# Thought: FOURTH VOLITION
 > [!Thought]
 >  If Free Will puts you in Hell, what was the point???
 

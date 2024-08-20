@@ -9,9 +9,9 @@ tags:
 - life
 - purpose
 aliases:
-- "Thought: The Purpose of Intelligent Human Llife"
+- "Thought: The Purpose of Intelligent Human Life"
 ---
-# Thought: HUMAN LAW
+# Thought: HUMAN LIFE
 > [!Thought]
 > The purpose of intelligent human life is to Worship, Obey and Serve The Godhead.
 

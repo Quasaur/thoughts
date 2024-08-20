@@ -12,7 +12,7 @@ aliases:
 - "Thought: The Greater Cause"
 - "Thought: Unconditional Love"
 ---
-# Thought: LOVE
+# Thought: LOVE 2
 > [!Thought]
 > What drives you to give yourself to a cause bigger than you? LOVE.
 

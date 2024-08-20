@@ -9,9 +9,9 @@ tags:
 - mercy
 - dead
 aliases:
-- "Thought: Greatness"
+- "Thought: Thanksgiving"
 ---
-# Thought: GODS
+# Thought: GRATITUDE
 > [!Thought]
 > The past couple of months have been very challenging...but it beats being dead (LOL)!
 

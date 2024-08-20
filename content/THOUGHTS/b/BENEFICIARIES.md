@@ -1,5 +1,5 @@
 ---
-title: "Thought: Beneficiaries"
+title: "Thought: BENEFICIARIES"
 draft: false
 type: THOUGHT
 tags:
@@ -12,7 +12,7 @@ aliases:
 - "Thought: The Effect of Faith on Interpersonal Encounters"
 - "Thought: An Effective Witness"
 ---
-# Thought: BRIBERY
+# Thought: BENEFICIARIES
 > [!Thought]
 > Those I encounter in my everyday life are either victims or beneficiaries of my relationship with God.
 

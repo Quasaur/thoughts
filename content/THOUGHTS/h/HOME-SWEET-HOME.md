@@ -11,7 +11,7 @@ tags:
 aliases:
   - "Thought: God my Beginning an Destination"
 ---
-# Thought: HAPPINESS
+# Thought: HOME, SWEET HOME
 > [!Thought]
 > GOD is my Home...and I am His!
 

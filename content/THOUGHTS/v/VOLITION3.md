@@ -11,7 +11,7 @@ tags:
 aliases:
 - "Thought: We Answer to God for Our Choices"
 ---
-# Thought: VOLITION
+# Thought: THIRD VOLITION
 > [!Thought]
 >  Free Will is great...as long as you're making the choices God approves of.
 

@@ -11,7 +11,7 @@ tags:
 aliases:
 - "Thought: Free Will Misused is Free Will Forfeited"
 ---
-# Thought: VOLITION
+# Thought: SECOND VOLITION
 > [!Thought]
 > Could it be that God gave humanity fourteen thousand years of free will; so that when He takes it away...we won't miss it?
 
