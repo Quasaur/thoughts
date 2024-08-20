@@ -24,6 +24,11 @@ The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
 | [[AMBITION]] | [[DEATH-VS-DEATH]] | [[HOME-SWEET-HOME]] |
 |[[INVITE-OR-COMMAND?]] | [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
 
+## Quotes
+|     |     |
+| --- | --- |
+| [[TRUTH-AND-FAITH]] | [[SALVATION]] |
+
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2

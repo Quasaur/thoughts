@@ -23,7 +23,10 @@ Confidence in the Words of God that inspires intent, speech and action.
 
 
 ## Quotes
-[[LOGICAL-COURSE]]
+|     |     |
+| --- | --- |
+| [[VALUE-OF-FAITH]] | [[LOGICAL-COURSE]] |
+
 
 ## Bible
 |     |     |

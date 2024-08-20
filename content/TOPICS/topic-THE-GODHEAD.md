@@ -25,13 +25,14 @@ The Nature of God as existing in Three Persons.
 |     |     |     |
 | --- | --- | --- |
 | [[EMPTINESS]] | [[GOD-AWARENESS]] | [[IMPERSONAL-GOD]] |
-| [[MEEK]] | [[MIRACLES]] | [[PROTECTION]] |
+| [[MEEK]] | [[/THOUGHTS/m/MIRACLES]] | [[PROTECTION]] |
 | [[THE-HOLY-SPIRIT]] | [[THE-ULTIMATE]] |
 
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
 | [[ETERNITY]] | [[FORGOTTEN-INJUSTICE]] | [[GOODNESS-OF-GOD]] |
+| [[/QUOTES/imm/MIRACLES]] |
 
 ## Bible
 

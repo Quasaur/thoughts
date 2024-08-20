@@ -25,7 +25,8 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[ISLAM-DEFEATED]] | [[SO-MANY-GOSPELS]] | [[WORKS]] |
+| [[ISLAM-DEFEATED]] | [[PERFORMANCE]] | [[SO-MANY-GOSPELS]] |
+| [[WORKS]] |
 
 ## Bible
 
