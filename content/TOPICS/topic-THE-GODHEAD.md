@@ -32,7 +32,7 @@ The Nature of God as existing in Three Persons.
 |     |     |     |
 | --- | --- | --- |
 | [[ETERNITY]] | [[FORGOTTEN-INJUSTICE]] | [[GOODNESS-OF-GOD]] |
-| [[/QUOTES/imm/MIRACLES]] |
+| [[/QUOTES/imm/MIRACLES]] | [[PERFECTION]] |
 
 ## Bible
 

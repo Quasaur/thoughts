@@ -24,7 +24,7 @@ Each topic is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File and Parent Topic File columns are links that can be clicked on to take you to that particular Topic.
 
-|File* (36)|Level|Parent Topic|Parent Level|
+|File* (41)|Level|Parent Topic|Parent Level|
 |---|---|---|---|
 |[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)|5|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
@@ -34,6 +34,7 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[topic-ECONOMICS](/TOPICS/topic-ECONOMICS.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-ENTITLEMENT](/TOPICS/topic-ENTITLEMENT.md)|4|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
+|[topic-EVANGELISM](/TOPICS/topic-EVANGELISM.md)|3|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[topic-EVIL](/TOPICS/topic-EVIL.md)|4|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|
 |[topic-FAITH](/TOPICS/topic-FAITH.md)|4|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -44,8 +45,11 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[topic-HUMILITY](/TOPICS/topic-HUMILITY.md)|4|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
+|[topic-HUMOR](/TOPICS/topic-HUMOR.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[topic-LAW](/TOPICS/topic-LAW.md)|4|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|
+|[topic-LINGUISTICS](/TOPICS/topic-LINGUISTICS.md)|5|[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|
+|[topic-LOVE](/TOPICS/topic-LOVE.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[topic-MERCY](/TOPICS/topic-MERCY.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
 |[topic-NULL](/TOPICS/topic-NULL.md)|0|-|-|
@@ -55,6 +59,7 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-SPIRITS](/TOPICS/topic-SPIRITS.md)|3|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-THE-BIBLE](/TOPICS/topic-THE-BIBLE.md)|5|[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|
 |[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|[topic-NULL](/TOPICS/topic-NULL.md)|0|
 |[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[topic-TRUTH](/TOPICS/topic-TRUTH.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|

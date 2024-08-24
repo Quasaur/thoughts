@@ -25,9 +25,9 @@ God's Right to do as He pleases.
 | [[VOLITION3]] | [[VOLITION4]] | [[VOLITION5]]
 
 ## Quotes
-|     |     |
-| --- | --- |
-| [[ONE-WILL]] | [[THE-BOOK-OF-LIFE]] |
+|     |     |     |
+| --- | --- | --- |
+| [[/QUOTES/imm/CONSEQUENCES]]| [[ONE-WILL]] | [[THE-BOOK-OF-LIFE]] |
 
 ## Bible
 [[HEART-OF-THE-KING]]

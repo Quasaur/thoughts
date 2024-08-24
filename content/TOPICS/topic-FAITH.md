@@ -23,9 +23,9 @@ Confidence in the Words of God that inspires intent, speech and action.
 
 
 ## Quotes
-|     |     |
-| --- | --- |
-| [[VALUE-OF-FAITH]] | [[LOGICAL-COURSE]] |
+|     |     |     |
+| --- | --- | --- |
+| [[FEELINGS]] | [[VALUE-OF-FAITH]] | [[LOGICAL-COURSE]] |
 
 
 ## Bible

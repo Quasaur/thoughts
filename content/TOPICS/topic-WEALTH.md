@@ -22,6 +22,10 @@ The abundance of valuable material, possessions or resources.
 ## Thoughts
 
 ## Quotes
+|     |     |
+| --- | --- |
+| [[NO-NEED]] | [[WEEALTH-AND-FAITH]] |
+
 
 ## Bible
 |     |     |

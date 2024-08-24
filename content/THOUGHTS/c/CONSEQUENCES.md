@@ -20,5 +20,5 @@ aliases:
 > Mercy means thousands of years of death, abuse, rape, torture, starvation, famine, natural and manmade disasters, plague, disease, war, the ripping apart of families, the occult, deep darkness, deception and blindness.
 
 ## Dataview
-ptopic:: [[topic-HISTORY]]
+ptopic:: [[topic-MERCY]]
 level:: 4

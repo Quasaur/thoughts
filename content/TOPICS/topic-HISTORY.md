@@ -17,9 +17,9 @@ An account of important events in the order in which they happened
 [[topic-APOCALYPSE]]
 
 ## Thoughts
-|     |     |     |
-| --- | --- | --- |
-| [[CONSEQUENCES]] | [[SKEWERED-TIMELINES]] | [[YISRAEL]] |
+|     |     |
+| --- | --- |
+| [[SKEWERED-TIMELINES]] | [[YISRAEL]] |
 
 ## Quotes
 

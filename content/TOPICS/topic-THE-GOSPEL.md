@@ -25,9 +25,10 @@ The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
 |[[INVITE-OR-COMMAND?]] | [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
 
 ## Quotes
-|     |     |
-| --- | --- |
-| [[TRUTH-AND-FAITH]] | [[SALVATION]] |
+|     |     |     |
+| --- | --- | --- |
+| [[SALVATION]] | [[THE-CROSS]] |[[TRUTH-AND-FAITH]] |
+| [[TRANSCENDENT-VALUE]] |
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]

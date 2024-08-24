@@ -26,8 +26,9 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[QUOTES/CHRIST-IS-ENOUGH]] | [[PERFECT-PEACE]] | [[REINVENT]] |
-| [[UNCONDITIONAL]] | [[UNCONDITIONAL-GRACE]] |
+| [[BANKRUPT]] | [[CHRIST-IS-ENOUGH]] | [[GOD-IS-GENEROUS]] |
+| [[PERFECT-PEACE]] | [[REINVENT]] | [[UNCONDITIONAL]] |
+| [[UNCONDITIONAL-GRACE]] |
 
 ## Bible
 

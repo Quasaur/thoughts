@@ -19,7 +19,15 @@ Compassion or forbearance shown to an offender or to one subject to another’s 
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[CONSEQUENCES]] | [[FORGIVENESS]] | [[MAYBE]] |
+| [[content/THOUGHTS/c/CONSEQUENCES]] | [[FORGIVENESS]] | [[MAYBE]] |
+
+## Quotes
+|     |     |
+| --- | --- |
+| [[FORGIVE-SINS]] |  [[NO-OBLIGATION]] |
+
+
+## Bible
 
 ## Dataview
 ptopic:: [[topic-LAW]]

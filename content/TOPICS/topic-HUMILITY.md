@@ -20,7 +20,7 @@ Not having or showing any feelings of superiority, self-assertiveness, or showin
 
 
 ## Quotes
-
+[[HUMILITY]]
 
 ## Bible
 |     |     |

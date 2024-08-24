@@ -17,7 +17,7 @@ aliases:
 # Topic: ANTHROPOLOGY
 
 ## Description
-The sacred scriptures of Christians comprising the Old Testament and the New Testament.
+The Sacred Scriptures of Christians comprising the Old Testament and the New Testament.
 
 ## Sub-Topics
 
@@ -26,6 +26,7 @@ The sacred scriptures of Christians comprising the Old Testament and the New Tes
 [[ACTS-OF-THE-APOSTLES]]
 
 ## Quotes
+[[LIMITED-BIBLE]]
 
 ## Bible
 

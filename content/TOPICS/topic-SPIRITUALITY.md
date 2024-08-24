@@ -24,7 +24,10 @@ Sensitivity or attachment to religious values.
 | [[THE-QUICK-AND-THE-DEAD]] | [[THE-TRUE-VINE]] | [[WORSHIP]] |
 
 ## Quotes
-[[HEAVENLY-FOOD]]
+|     |     |
+| --- | --- |
+| [[HEAVENLY-FOOD]] | [[INCOMPATIBLE]] |
+
 
 ## Bible
 

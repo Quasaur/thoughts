@@ -19,7 +19,9 @@ aliases:
 The study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture.
 
 ## Sub-Topics
-[[topic-THE-BIBLE]]
+|     |     |
+| --- | --- |
+| [[topic-LINGUISTICS]] | [[topic-THE-BIBLE]] |
 
 ## Thoughts
 

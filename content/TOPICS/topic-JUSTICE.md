@@ -22,6 +22,11 @@ The practice or instance of giving to others what is their due.
 | [[FAIRNESS]] | [[JUSTICE]] | [[REPARATIONS]] |
 | [[THE-LAKE-OF-FIRE-AND-SULFUR]] | [[TIME]] |
 
+## Quotes
+[[DUAL-PUNISHMENT]]
+
+## Bible
+
 ## Dataview
 ptopic:: [[topic-LAW]]
 level:: 5
