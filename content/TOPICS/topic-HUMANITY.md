@@ -20,7 +20,8 @@ Mankind, male and female, created in the Image and Likeness of The GODHEAD.
 | --- | --- | --- |
 | [[topic-ANTHROPOLOGY]] | [[topic-COSMOLOGY]] | [[topic-ECONOMICS]] |
 | [[topic-GEOLOGY]] | [[topic-HEALTH]] | [[topic-HISTORY]] |
-| [[topic-POLITICAL-SCIENCE]] |[[topic-PSYCHOLOGY]] | [[topic-SOCIOLOGY]] |
+| [[topic-PHILOSOPHY]] | [[topic-POLITICAL-SCIENCE]] |[[topic-PSYCHOLOGY]] |
+| [[topic-SOCIOLOGY]] |
 
 ## Thoughts
 [[ACCOUNTABILITY]]

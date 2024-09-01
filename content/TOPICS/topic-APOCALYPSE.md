@@ -21,6 +21,11 @@ Eschatology; the End of all things.
 | --- | --- | --- |
 | [[OBLIVION]] | [[THE-BIBLE]] | [[WHEN-JESUS-RETURNS]] |
 
+## Quotes
+[[ETERNAL-DAMNATION]]
+
+## Bible
+
 ## Dataview
 ptopic:: [[topic-HISTORY]]
 level:: 5

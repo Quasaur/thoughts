@@ -26,7 +26,10 @@ The Sacred Scriptures of Christians comprising the Old Testament and the New Tes
 [[ACTS-OF-THE-APOSTLES]]
 
 ## Quotes
-[[LIMITED-BIBLE]]
+|     |     |
+| --- | --- |
+| [[LIMITED-BIBLE]] | [[SCRIPTURE-AS-HISTORY]] |
+
 
 ## Bible
 

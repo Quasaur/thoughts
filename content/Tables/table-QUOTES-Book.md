@@ -1,9 +1,9 @@
 ---
-title: "Table: QUOTES (sorted by Book)"
+title: "Table: QUOTES (by Book)"
 draft: true
 type: hiddentable
 ---
-# Table: QUOTES (sorted by Book)
+# Table: QUOTES (by Book)
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "File",

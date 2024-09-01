@@ -19,14 +19,14 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[EVOLUTION-IS-SCIENCE?]] | [[HUMANITARIANISM]] | [[ISLAM]] |
-| [[TREASURE]] |
+| [[EVOLUTION-IS-SCIENCE?]] | [[HEART-OF-MANKIND]] | [[HUMANITARIANISM]] |
+| [[ISLAM]] | [[TREASURE]] |
 
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[ISLAM-DEFEATED]] | [[PERFORMANCE]] | [[SO-MANY-GOSPELS]] |
-| [[WORKS]] |
+| [[ISLAM-DEFEATED]] | [[LAW-OF-DOUBT]] | [[PERFORMANCE]] |
+| [[SO-MANY-GOSPELS]] | [[WORKS]] |
 
 ## Bible
 

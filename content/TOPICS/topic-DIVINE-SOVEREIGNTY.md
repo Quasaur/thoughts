@@ -27,7 +27,8 @@ God's Right to do as He pleases.
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[/QUOTES/imm/CONSEQUENCES]]| [[ONE-WILL]] | [[THE-BOOK-OF-LIFE]] |
+| [[CHOSEN]] | [[/QUOTES/imm/CONSEQUENCES]] | [[FOREKNOWN]] |
+| [[ONE-WILL]] | [[THE-BOOK-OF-LIFE]] |
 
 ## Bible
 [[HEART-OF-THE-KING]]

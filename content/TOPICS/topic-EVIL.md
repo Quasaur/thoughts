@@ -22,9 +22,11 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 | [[DISPISING-THE-CROSS]] |
 
 ## Quotes
-|     |     |
-| --- | --- |
-| [[DIALOGUE]] | [[THE-DESIRE-TO-RETURN]] |
+|     |     |     |
+| --- | --- | --- |
+| [[CHILD-OF-SATAN]] | [[DIALOGUE]] | [[EVIL-IDENTIFIED]] |
+| [[HIS-TOOL]] | [[THE-DESIRE-TO-RETURN]] | [[UNGODLY]] | 
+| [[WHERE-IS-GOD]] |
 
 ## Bible
 |     |     |

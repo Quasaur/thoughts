@@ -21,7 +21,9 @@ To honor or show reverence for as The Divine Being; to regard with great or extr
 [[HUMAN-LIFE]]
 
 ## Quotes
-[[[THE-DESIRE-OF-NATIONS]]
+|     |     |
+| --- | --- |
+| [[PRAYER]] | [[THE-DESIRE-OF-NATIONS]] |
 
 ## Bible
 

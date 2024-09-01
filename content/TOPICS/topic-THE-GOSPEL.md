@@ -27,8 +27,9 @@ The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[SALVATION]] | [[THE-CROSS]] |[[TRUTH-AND-FAITH]] |
-| [[TRANSCENDENT-VALUE]] |
+| [[HEIR-OF-GOD]] | [[SALVATION]] | [[SOMETHING-BETTER]] |
+| [[THE-CALL]] | [[THE-NARROW-WAY]] | [[THE-SALVATION]] |
+| [[TRUTH-AND-FAITH]] | [[TRANSCENDENT-VALUE]] |
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]

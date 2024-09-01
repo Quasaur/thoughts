@@ -29,7 +29,10 @@ A feeling, emotion or mental position to a fact or state.
 | [[STRENGTH]] | [[UNFORGIVENESS]] |
 
 ## Quotes
-[[WRONG-REASON]]
+|     |     |     |
+| --- | --- | --- |
+| [[NOT-WITHOUT-HUMILITY]] | [[THE-SERVANT-KING]] | [[WRONG-REASON]] |
+
 
 ## Bible
 [[KINDNESS-AND-TRUTH]]

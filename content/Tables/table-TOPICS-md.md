@@ -24,7 +24,7 @@ Each topic is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File and Parent Topic File columns are links that can be clicked on to take you to that particular Topic.
 
-|File* (41)|Level|Parent Topic|Parent Level|
+|File* (42)|Level|Parent Topic|Parent Level|
 |---|---|---|---|
 |[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)|5|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
@@ -53,6 +53,7 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-MERCY](/TOPICS/topic-MERCY.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
 |[topic-NULL](/TOPICS/topic-NULL.md)|0|-|-|
+|[topic-PHILOSOPHY](/TOPICS/topic-PHILOSOPHY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-POLITICAL-SCIENCE](/TOPICS/topic-POLITICAL-SCIENCE.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|

@@ -13,11 +13,18 @@ aliases:
 A transcendent fundamental or spiritual reality.
 
 ## Sub-Topics
-[[topic-REALITY]]
 
 
 ## Thoughts
 [[OUR-MASTER]]
+
+## Quotes
+|     |     |
+| --- | --- |
+| [[HEADING-HOME]] | [[NORMAL-REALITY]] |
+
+## Bible
+
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]
