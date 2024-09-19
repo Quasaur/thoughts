@@ -16,6 +16,7 @@ A wise attitude, belief, or course of action
 ## Sub-Topics
 
 ## Thoughts
+[[PRIORITIES]]
 
 ## Quotes
 

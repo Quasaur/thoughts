@@ -23,7 +23,7 @@ The items in the File and Topic File columns are links that can be clicked on to
 
 I've removed the Social Tags column from the Thoughts table because it skewers the Graph View display.
 
-|File* (143)|Level|Topic|Topic Level|
+|File* (152)|Level|Topic|Topic Level|
 |---|---|---|---|
 |[692-189](/THOUGHTS/0/692-189.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[A-GREAT-DAY](/THOUGHTS/a/A-GREAT-DAY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
@@ -31,6 +31,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[ACT-OF-GOD](/THOUGHTS/a/ACT-OF-GOD.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[ACTS-OF-THE-APOSTLES](/THOUGHTS/a/ACTS-OF-THE-APOSTLES.md)|5|[topic-THE-BIBLE](/TOPICS/topic-THE-BIBLE.md)|5|
 |[ADDICTION](/THOUGHTS/a/ADDICTION.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[ADOPTION](/THOUGHTS/a/ADOPTION.md)|2|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[AMBITION](/THOUGHTS/a/AMBITION.md)|2|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[AMERICAN](/THOUGHTS/a/AMERICAN.md)|4|[topic-POLITICAL-SCIENCE](/TOPICS/topic-POLITICAL-SCIENCE.md)|4|
 |[ANTI-SEMITISM](/THOUGHTS/a/ANTI-SEMITISM.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
@@ -40,7 +41,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[BRIBERY](/THOUGHTS/b/BRIBERY.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[CITIZENSHIP](/THOUGHTS/c/CITIZENSHIP.md)|4|[topic-ECONOMICS](/TOPICS/topic-ECONOMICS.md)|4|
 |[COMPANY-TRAINING](/THOUGHTS/c/COMPANY-TRAINING.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
-|[CONSEQUENCES](/THOUGHTS/c/CONSEQUENCES.md)|4|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
+|[CONSEQUENCES](/THOUGHTS/c/CONSEQUENCES.md)|4|[topic-MERCY](/TOPICS/topic-MERCY.md)|5|
 |[CONTENTMENT](/THOUGHTS/c/CONTENTMENT.md)|3|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[DARK-MATTER](/THOUGHTS/d/DARK-MATTER.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
 |[DEATH-VS-DEATH](/THOUGHTS/d/DEATH-VS-DEATH.md)|2|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
@@ -57,6 +58,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[EMPATHY](/THOUGHTS/e/EMPATHY.md)|2|[topic-LOVE](/TOPICS/topic-LOVE.md)|2|
 |[EMPTINESS](/THOUGHTS/e/EMPTINESS.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[ENDING](/THOUGHTS/e/ENDING.md)|5|[topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)|5|
+|[ETERNAL-LIFE](/THOUGHTS/e/ETERNAL-LIFE.md)|2|[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|
 |[EVERYTHING](/THOUGHTS/e/EVERYTHING.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[EVIL-WAS-NECESSARY](/THOUGHTS/e/EVIL-WAS-NECESSARY.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[EVOLUTION-IS-SCIENCE?](/THOUGHTS/e/EVOLUTION-IS-SCIENCE?.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
@@ -69,6 +71,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[FOSSILS](/THOUGHTS/f/FOSSILS.md)|4|[topic-GEOLOGY](/TOPICS/topic-GEOLOGY.md)|4|
 |[FRUSTRATION](/THOUGHTS/f/FRUSTRATION.md)|2|[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|
 |[FULLNESS](/THOUGHTS/f/FULLNESS.md)|3|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
+|[GLORY-TO-GOD](/THOUGHTS/g/GLORY-TO-GOD.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[GLOVES](/THOUGHTS/g/GLOVES.md)|3|[topic-EVANGELISM](/TOPICS/topic-EVANGELISM.md)|3|
 |[GNOSIS](/THOUGHTS/g/GNOSIS.md)|4|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|
 |[GOD-AWARENESS](/THOUGHTS/g/GOD-AWARENESS.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -78,6 +81,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[GUILT](/THOUGHTS/g/GUILT.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[HAPPINESS](/THOUGHTS/h/HAPPINESS.md)|3|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[HAPPY-SABBATH](/THOUGHTS/h/HAPPY-SABBATH.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
+|[HIS-DREAM](/THOUGHTS/h/HIS-DREAM.md)|2|[topic-TRUTH](/TOPICS/topic-TRUTH.md)|2|
 |[HOME-SWEET-HOME](/THOUGHTS/h/HOME-SWEET-HOME.md)|2|[topic-THE-GOSPEL](/TOPICS/topic-THE-GOSPEL.md)|2|
 |[HUMAN-LAW](/THOUGHTS/h/HUMAN-LAW.md)|4|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[HUMAN-LIFE](/THOUGHTS/h/HUMAN-LIFE.md)|3|[topic-WORSHIP](/TOPICS/topic-WORSHIP.md)|3|
@@ -109,8 +113,10 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[MOTION](/THOUGHTS/m/MOTION.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[MURDER](/THOUGHTS/m/MURDER.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[MYSTERY](/THOUGHTS/m/MYSTERY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[NEAR-TO-GOD](/THOUGHTS/n/NEAR-TO-GOD.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[NOBODY](/THOUGHTS/n/NOBODY.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
 |[NOISE](/THOUGHTS/n/NOISE.md)|3|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
+|[NOT-LIKE-ME](/THOUGHTS/n/NOT-LIKE-ME.md)|5|[topic-MERCY](/TOPICS/topic-MERCY.md)|5|
 |[OBLIVION](/THOUGHTS/o/OBLIVION.md)|4|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
 |[ONE-REASON](/THOUGHTS/o/ONE-REASON.md)|3|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[OUR-MASTER](/THOUGHTS/o/OUR-MASTER.md)|2|[topic-TRUTH](/TOPICS/topic-TRUTH.md)|2|
@@ -121,6 +127,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[POINTLESS](/THOUGHTS/p/POINTLESS.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[PREDESTINED](/THOUGHTS/p/PREDESTINED.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[PRIMAL-SCREAM](/THOUGHTS/p/PRIMAL-SCREAM.md)|4|[topic-HUMOR](/TOPICS/topic-HUMOR.md)|4|
+|[PRIORITIES](/THOUGHTS/p/PRIORITIES.md)|4|[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|
 |[PROSPERITY-NOW](/THOUGHTS/p/PROSPERITY-NOW.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[PROTECTION](/THOUGHTS/p/PROTECTION.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[PSEUDO-SCIENCE](/THOUGHTS/p/PSEUDO-SCIENCE.md)|4|[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|
@@ -139,6 +146,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[SOL-ROTATION](/THOUGHTS/s/SOL-ROTATION.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[SOL-VELOCITY](/THOUGHTS/s/SOL-VELOCITY.md)|2|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[SPIRIT](/THOUGHTS/s/SPIRIT.md)|3|[topic-SPIRITS](/TOPICS/topic-SPIRITS.md)|3|
+|[SPIRITUAL-HEALTH](/THOUGHTS/s/SPIRITUAL-HEALTH.md)|2|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
 |[STRENGTH](/THOUGHTS/s/STRENGTH.md)|3|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[THE-BIBLE](/THOUGHTS/t/THE-BIBLE.md)|4|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
 |[THE-HOLY-SPIRIT](/THOUGHTS/t/THE-HOLY-SPIRIT.md)|1|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -165,6 +173,7 @@ I've removed the Social Tags column from the Thoughts table because it skewers t
 |[VOLITION5](/THOUGHTS/v/VOLITION5.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[WHEN-JESUS-RETURNS](/THOUGHTS/w/WHEN-JESUS-RETURNS.md)|4|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
 |[WHY](/THOUGHTS/w/WHY.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[WILL-VS-WILL](/THOUGHTS/w/WILL-VS-WILL.md)|2|[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|
 |[WORSHIP](/THOUGHTS/w/WORSHIP.md)|2|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
 |[YISRAEL](/THOUGHTS/y/YISRAEL.md)|4|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
 |[YOUR-KINGDOM](/THOUGHTS/y/YOUR-KINGDOM.md)|2|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|

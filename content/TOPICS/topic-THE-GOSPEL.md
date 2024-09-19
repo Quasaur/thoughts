@@ -21,8 +21,9 @@ The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[AMBITION]] | [[DEATH-VS-DEATH]] | [[HOME-SWEET-HOME]] |
-|[[INVITE-OR-COMMAND?]] | [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
+| [[/THOUGHTS/a/ADOPTION]] | [[AMBITION]] |
+| [[DEATH-VS-DEATH]] | [[HOME-SWEET-HOME]] | [[INVITE-OR-COMMAND?]] |
+| [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
 
 ## Quotes
 |     |     |     |

@@ -16,7 +16,10 @@ A transcendent fundamental or spiritual reality.
 
 
 ## Thoughts
-[[OUR-MASTER]]
+|     |     |
+| --- | --- |
+| [[HIS-DREAM]] | [[OUR-MASTER]] |
+
 
 ## Quotes
 |     |     |

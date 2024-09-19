@@ -26,7 +26,7 @@ Unmerited Divine Favor given to humans for their sanctification and regeneration
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[ADOPTION]] | [[BANKRUPT]] | [[CHRIST-IS-ENOUGH]] |
+| [[content/QUOTES/tnw/ADOPTION]] | [[BANKRUPT]] | [[CHRIST-IS-ENOUGH]] |
 | [[FRUIT-OF-THE-SPIRIT]] | [[FULL-ASSURANCE]] | [[GOD-IS-GENEROUS]] |
 | [[JUSTIFICATION]] | [[PERFECT-PEACE]] | [[REINVENT]] |
 | [[UNCONDITIONAL]] | [[UNCONDITIONAL-GRACE]] |

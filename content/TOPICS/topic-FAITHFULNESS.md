@@ -11,16 +11,16 @@ aliases:
 ---
 # Topic FAITHFULNESS
 ## Description
-Adherence to something to which one is bound by a pledge or duty
+Adherence to something to which one is bound by a pledge or duty.
 
 ## Sub-Topics
 
 
 ## Thoughts
-
-|     |     |
-| --- | --- |
-| [[FRUSTRATION]] | [[IMMORTALITY]] |
+|     |     |     |
+| --- | --- | --- |
+| [[ETERNAL-LIFE]] | [[FRUSTRATION]] | [[IMMORTALITY]] |
+| [[WILL-VS-WILL]] |
 
 ## Dataview
 ptopic:: [[topic-THE-GODHEAD]]

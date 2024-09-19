@@ -21,7 +21,8 @@ Sensitivity or attachment to religious values.
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[THE-QUICK-AND-THE-DEAD]] | [[THE-TRUE-VINE]] | [[WORSHIP]] |
+| [[SPIRITUAL-HEALTH]] | [[THE-QUICK-AND-THE-DEAD]] | [[THE-TRUE-VINE]] |
+| [[WORSHIP]] |
 
 ## Quotes
 |     |     |

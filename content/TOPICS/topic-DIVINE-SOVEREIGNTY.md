@@ -20,9 +20,10 @@ God's Right to do as He pleases.
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[GOD-IN-CHARGE]] | [[POINTLESS]] | [[PREDESTINED]] |
-| [[UNSUBMISSIVE]] | [[VOLITION]] | [[VOLITION2]] |
-| [[VOLITION3]] | [[VOLITION4]] | [[VOLITION5]]
+| [[GLORY-TO-GOD]] | [[GOD-IN-CHARGE]] | [[NEAR-TO-GOD]] |
+| [[POINTLESS]] | [[PREDESTINED]] | [[UNSUBMISSIVE]] |
+| [[VOLITION]] | [[VOLITION2]] | [[VOLITION3]] |
+| [[VOLITION4]] | [[VOLITION5]] |
 
 ## Quotes
 |     |     |     |
