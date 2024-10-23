@@ -32,7 +32,7 @@ Years have come and gone...
 
 So...here's how to get started:
 ## Latest Update
-The most recent file(s) were created or updated on **19-Sep-2024**.
+The most recent file(s) were created or updated on **22-Oct-2024**.
 
 ## The Tables
 The best place to start is with the tables. The tables will provide you easy and browsable lists of The Book of Thoughts (formerly The Book of Tweets) content. The Topic (magenta), Passage (light blue), Quote (bright yellow) and  Thoughts (bright green) nodes are all color-coded. The Table nodes are not color coded because i intend to exclude them from the main (global) Graph View eventually.
