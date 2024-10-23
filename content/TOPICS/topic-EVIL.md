@@ -29,14 +29,15 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 | [[WHERE-IS-GOD]] |
 
 ## Bible
-|     |     |
-| --- | --- |
-| [[PROTECTIION-FROM-EVIL]] | [[FATE-OF-THE-WICKED]] |
+|     |     |     |
+| --- | --- | --- |
+| [[FATE-OF-THE-WICKED]] | [[HOUSE-OF-THE-WICKED]] | [[MAN-OF-VIOLENCE]] |
+| [[PROTECTIION-FROM-EVIL]] | [[SCORNERS]] |
 
 ## Dataview
 ptopic:: [[topic-MORALITY]]
 level:: 4
-
+ 
 
 ## Notes
 NOTE: Topic notes.

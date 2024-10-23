@@ -23,6 +23,15 @@ A doctrine or system of moral conduct
 | --- | --- |
 | [[SHOULD]] | [[INTEGRITY]] |
 
+## Quotes
+
+
+## Bible
+|     |     |
+| --- | --- |
+| [[OBLIGATION]] |     |
+
+
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]
 level:: 3

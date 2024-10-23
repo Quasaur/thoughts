@@ -21,9 +21,10 @@ A wise attitude, belief, or course of action
 ## Quotes
 
 ## Bible
-|     |     |
-| --- | --- |
-| [[PRICELESS-WISDOM]] | [[THE-SOURCE-OF-WISDOM]] |
+|     |     |     |
+| --- | --- | --- |
+| [[INHERITED-HONOR]] | [[PRICELESS-WISDOM]] | [[/BIBLE/Prov/01/SECURITY]] |
+| [[SECURITY2]] | [[THE-SOURCE-OF-WISDOM]] |
 
 ## Dataview
 ptopic:: [[topic-SPIRITUALITY]]

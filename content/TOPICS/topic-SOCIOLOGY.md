@@ -20,6 +20,14 @@ The science of society, social institutions, and social relationships.
 
 ## Thoughts
 
+## Quotes
+
+## Bible
+|     |     |
+| --- | --- |
+| [[NEIGHBORS]] |     |
+
+
 ## Dataview
 ptopic:: [[topic-HUMANITY]]
 level:: 4

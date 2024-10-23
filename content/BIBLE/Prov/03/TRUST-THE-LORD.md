@@ -20,6 +20,6 @@ tags:
 ## Dataview
 ptopic:: [[topic-FAITH]]
 source:: 'Proverbs 3:5,6'
-sortedSource:: 'Proverbs 03:05,06'
+sortedSource:: 'Proverbs 03:05-06'
 biblelink:: (https://www.biblegateway.com/passage/?search=Proverbs+3%3A5-6&version=NASB)
 level:: 4

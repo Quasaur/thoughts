@@ -10,7 +10,7 @@ tags:
 - land
 ---
 
-# Passage: THE SOURCE OF WISDOM
+# Passage: FATE OF THE WICKED
 > [!Passage]
 > But the wicked will be eliminated from the land,
 > And the treacherous will be torn away from it.
