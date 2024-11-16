@@ -16,7 +16,7 @@ aliases:
 > [!Thought-en]
 > How can a fish say there is no water? Yet men say there is no God!
 
-> [!Thought-es]
+> [!Pensamiento-es]
 > ¿Cómo puede un pez decir que no hay agua? ¡Pero los hombres dicen que no hay Dios!
 
 > [!Pensée-fr]
