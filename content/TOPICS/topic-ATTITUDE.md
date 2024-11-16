@@ -2,6 +2,7 @@
 title: "ATTITUDE"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - mentality
   - disposition

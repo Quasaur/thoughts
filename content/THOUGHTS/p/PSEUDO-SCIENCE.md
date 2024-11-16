@@ -2,6 +2,7 @@
 title: "Thought: PSEUDO-SCIENCE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - science
 - divinity
@@ -12,7 +13,7 @@ aliases:
 - "Thought: God Invented Science"
 ---
 # Thought: DARK MATTER
-> [!Thought]
+> [!Thought-en]
 > There is no science without God.
 
 ## Dataview

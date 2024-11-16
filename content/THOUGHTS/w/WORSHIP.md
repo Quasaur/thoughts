@@ -2,6 +2,7 @@
 title: "Thought: WORSHIP"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - worship
 - praise
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Private Worship"
 ---
 # Thought: WORSHIP
-> [!Thought]
+> [!Thought-en]
 > A prayer life without worship will always be incomplete; a stillborn child.
 
 ## Dataview

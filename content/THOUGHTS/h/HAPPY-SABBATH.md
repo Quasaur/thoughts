@@ -2,6 +2,7 @@
 title: "Thought: HAPPY SABBATH"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - happy
 - sabbath
@@ -13,7 +14,7 @@ aliases:
   - "Thought: Honoring the Creator"
 ---
 # Thought: HAPPY SABBATH
-> [!Thought]
+> [!Thought-en]
 > Happy Sabbath, Earth!
 
 ## Dataview

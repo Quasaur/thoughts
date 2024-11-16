@@ -2,6 +2,7 @@
 title: "Thought: SECOND VOLITION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - freedom
 - volition
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Free Will Misused is Free Will Forfeited"
 ---
 # Thought: SECOND VOLITION
-> [!Thought]
+> [!Thought-en]
 > Could it be that God gave humanity fourteen thousand years of free will; so that when He takes it away...we won't miss it?
 
 ## Dataview

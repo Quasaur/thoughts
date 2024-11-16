@@ -2,6 +2,7 @@
 title: "Thought: OUR MASTER"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - truth
 - master
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Our Master Truth"
 ---
 # Thought: DARK MATTER
-> [!Thought]
+> [!Thought-en]
 > Truth belongs to no one; It is It's own Master...and ours.
 
 ## Dataview

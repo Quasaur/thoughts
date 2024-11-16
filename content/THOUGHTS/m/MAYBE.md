@@ -2,6 +2,7 @@
 title: "Thought: MAYBE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - compassion
 - pity
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The Least of These"
 ---
 # Thought: MAYBE
-> [!Thought]
+> [!Thought-en]
 > Maybe...just maybe...maybe monsters need love, too.
 
 ## Dataview

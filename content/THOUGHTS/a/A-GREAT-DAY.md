@@ -2,6 +2,7 @@
 title: "Thought: A Great Day"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - dailyroutine
 - eating
@@ -10,7 +11,7 @@ tags:
 - discipline
 ---
 # Thought: A GREAT DAY
-> [!Thought]
+> [!Thought-en]
 > Today was great--except for the sleeping, eating and working.
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "SOCIOLOGY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - humanity
   - relations

@@ -2,6 +2,7 @@
 title: "Thought: TRUE FAITH"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - faith
 - trust
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The Obedience of Faith"
 ---
 # Thought: TRUE FAITH
-> [!Thought]
+> [!Thought-en]
 > True Faith is believing in God enough to place His Revealed Will above my own.
 
 ## Dataview

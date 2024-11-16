@@ -2,6 +2,7 @@
 title: "DIVINE SOVEREIGNTY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - sovereignty
   - lordship

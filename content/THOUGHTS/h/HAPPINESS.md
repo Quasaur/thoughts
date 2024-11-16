@@ -2,6 +2,7 @@
 title: "Thought: HAPPINESS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - happy
 - fulfilled
@@ -13,7 +14,7 @@ aliases:
   - "Thought: Delight"
 ---
 # Thought: HAPPINESS
-> [!Thought]
+> [!Thought-en]
 > HAPPINESS is not the product of doing what you want...
 > ...but of doing what is RIGHT. 
 

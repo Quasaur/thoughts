@@ -2,6 +2,7 @@
 title: "Thought: INTEGRITY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - stand
 - true
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Nobility"
 ---
 # Thought: INTEGRITY
-> [!Thought]
+> [!Thought-en]
 > Winning is fun and success is great; but far more fulfilling is standing firm and being true!
 
 ## Dataview

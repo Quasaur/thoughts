@@ -2,6 +2,7 @@
 title: "Thought: HOME, SWEET HOME"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - home
 - sweet
@@ -12,7 +13,7 @@ aliases:
   - "Thought: God my Beginning an Destination"
 ---
 # Thought: HOME, SWEET HOME
-> [!Thought]
+> [!Thought-en]
 > GOD is my Home...and I am His!
 
 ## Dataview

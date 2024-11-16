@@ -2,6 +2,7 @@
 title: "Thought: MYSTERY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - wife
 - mystery
@@ -13,7 +14,7 @@ aliases:
 - "Thought: I don't Understand My Wife"
 ---
 # Thought: MYSTERY
-> [!Thought]
+> [!Thought-en]
 > There are so many things about my wife I don’t understand...
 > ...but when we're alone together and quiet, she gives me LIFE!
 

@@ -2,6 +2,7 @@
 title: "Thought: WHY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - children
 - adults
@@ -12,7 +13,7 @@ aliases:
 - "Thought: An Explanation"
 ---
 # Thought: WHY
-> [!Thought]
+> [!Thought-en]
 > What is often overlooked by children but frequently demanded by grown-ups?
 > An explanation.
 

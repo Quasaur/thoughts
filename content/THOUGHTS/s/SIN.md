@@ -2,6 +2,7 @@
 title: "Thought: SIN"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - grace
 - gospel
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Released from Prison"
 ---
 # Thought: SIN
-> [!Thought]
+> [!Thought-en]
 > Grace is not GOD being weak towards Sin; Grace is GOD making you Stronger than sin!
 
 ## Dataview

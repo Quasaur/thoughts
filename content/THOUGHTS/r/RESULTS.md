@@ -2,6 +2,7 @@
 title: "Thought: RESULTS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - gunviolence
 - massshootings
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Intent"
 ---
 # Thought: RESULTS
-> [!Thought]
+> [!Thought-en]
 > The results speak for themselves: The NRA and US Congress want us to KILL EACH OTHER…for their profit and at our expense.
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "HUMANITY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - adam
   - humans

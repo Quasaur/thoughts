@@ -2,6 +2,7 @@
 title: "Thought: ENDING"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - ending
 - bible
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Revelation"
 ---
 # Thought: ENDING
-> [!Thought]
+> [!Thought-en]
 > The Bible goes into far more detail regarding how the world will end than how the world began.
 
 ## Dataview

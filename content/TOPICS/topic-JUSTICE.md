@@ -2,6 +2,7 @@
 title: "JUSTICE"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - equity
   - fairness

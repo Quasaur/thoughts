@@ -2,6 +2,7 @@
 title: "Thought: EVOLUTIONARY THEORY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - evolution
 - theory
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Evolutiion is Not a Law"
 ---
 # Thought: DARK MATTER
-> [!Thought]
+> [!Thought-en]
 > Evolution is considered a theory (not a law) for a reason.
 
 ## Dataview

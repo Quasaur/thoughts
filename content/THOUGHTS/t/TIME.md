@@ -2,6 +2,7 @@
 title: "Thought: TIME"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - spirituality
 - damnation
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The Fate of the Soul"
 ---
 # Thought: TIME
-> [!Thought]
+> [!Thought-en]
 > You will spend more time in Eternity than you ever did in this life (or “previous” lives)…and you have NO concern regarding the fate of your soul?!
 
 ## Dataview

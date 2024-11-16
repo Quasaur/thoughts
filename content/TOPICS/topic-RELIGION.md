@@ -2,6 +2,7 @@
 title: "RELIGION"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - cult
   - creed

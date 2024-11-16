@@ -2,6 +2,7 @@
 title: "Thought: IMMORTALITY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - immortality
 - eternallife
@@ -13,7 +14,7 @@ aliases:
 - :Thought: Eternal Fulness"
 ---
 # Thought: IMMORTALITY
-> [!Thought]
+> [!Thought-en]
 > We have been brainwashed to believe that our GREATEST NEED is at best beyond our grasp or at worst doesn’t exist.
 > Even at best we mis-define It as the fulfillment of all desire.
 > IMMORTALITY is to be SO FULL OF JESUS that Desire itself ceases to exist!!!!

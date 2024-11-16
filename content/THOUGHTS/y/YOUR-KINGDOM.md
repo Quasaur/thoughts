@@ -2,6 +2,7 @@
 title: "Thought: YOUR KINGDOM"
 draft: false
 type: THOUGHT
+mling: false
 tags:
   - kingdom
   - heaven
@@ -13,7 +14,7 @@ aliases:
   - "Thought: Dual Citizenship"
 ---
 # Thought: YOUR KINGDOM
-> [!Thought]
+> [!Thought-en]
 > To establish the Kingdom of the Heavens on this Earth, Christ must destroy your kingdom.
 
 ## Dataview

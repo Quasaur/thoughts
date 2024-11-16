@@ -2,6 +2,7 @@
 title: "Thought: LOST SCIENTISTS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - science
 - bigbang
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Beyond the Big Bang"
 ---
 # Thought: DARK MATTER
-> [!Thought]
+> [!Thought-en]
 > The truth is that scientists have had to admit that they're lost beyond the Big Bang.
 
 ## Dataview

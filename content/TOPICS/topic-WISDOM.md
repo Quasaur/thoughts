@@ -2,6 +2,7 @@
 title: "WISDOM"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - insight
   - discernment

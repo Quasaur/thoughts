@@ -2,6 +2,7 @@
 title: "Thought: THE TRUE VINE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
   - spirituality
   - bible
@@ -13,7 +14,7 @@ aliases:
   - "Thought: The Christ-Centered Cosmos"
 ---
 # Thought: THE BIBLE
-> [!Thought]
+> [!Thought-en]
 > In the annals of spirituality EVERYTHING points to Jesus Christ.
 
 ## Dataview

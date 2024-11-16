@@ -2,6 +2,7 @@
 title: "Thought: PRIORITIES"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - priorities
 - seekyefirst
@@ -13,7 +14,7 @@ aliases:
 - "Thought: God's Will Above All"
 ---
 # Thought: PRIORITIES
-> [!Thought]
+> [!Thought-en]
 > The truth is that God's Will is not important enough to any of us.
 
 ## Dataview

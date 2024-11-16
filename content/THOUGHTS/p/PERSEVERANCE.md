@@ -2,6 +2,7 @@
 title: "Thought: PERSEVERANCE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - persistence
 - failure
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Never Give Up!"
 ---
 # Thought: PERSEVERANCE
-> [!Thought]
+> [!Thought-en]
 > Failure is assured to the one who stops trying.
 
 ## Dataview

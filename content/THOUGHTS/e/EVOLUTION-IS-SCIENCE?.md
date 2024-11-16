@@ -2,6 +2,7 @@
 title: "Thought: EVOLUTION IS SCIENCE?"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - evolution
 - science
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Evolutionary Religion"
 ---
 # Thought: EVOLUTION IS SCIENCE?
-> [!Thought]
+> [!Thought-en]
 > To equate science and evolution (considering the MOUNTAIN of evidence against evolution) would be premature, I think!
 
 ## Dataview

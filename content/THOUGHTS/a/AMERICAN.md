@@ -2,6 +2,7 @@
 title: "Thought: AMERICAN"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - nationalism
 - american
@@ -10,7 +11,7 @@ tags:
 - codependency
 ---
 # Thought: AMERICAN
-> [!Thought]
+> [!Thought-en]
 > You're not really an American unless you're addicted to something.
 
 ## Dataview

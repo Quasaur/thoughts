@@ -2,6 +2,7 @@
 title: "MORALITY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - morals
   - righteousness

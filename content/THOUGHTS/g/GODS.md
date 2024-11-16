@@ -2,6 +2,7 @@
 title: "Thought: GODS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - behavior
 - intelligence
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Greatness"
 ---
 # Thought: GODS
-> [!Thought]
+> [!Thought-en]
 > It is neither intelligence nor power that makes us gods...but Mercy and Compassion.
 
 ## Dataview

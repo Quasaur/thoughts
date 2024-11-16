@@ -2,6 +2,7 @@
 title: "Thought: HUMAN LIFE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - humanity
 - godhead
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Purpose of Intelligent Human Life"
 ---
 # Thought: HUMAN LIFE
-> [!Thought]
+> [!Thought-en]
 > The purpose of intelligent human life is to Worship, Obey and Serve The Godhead.
 
 ## Dataview

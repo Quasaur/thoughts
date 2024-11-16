@@ -2,6 +2,7 @@
 title: "Thought: GNOSIS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - gnosis
 - faith
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Understanding"
 ---
 # Thought: GNOSIS
-> [!Thought]
+> [!Thought-en]
 > The Knowledge that brings IMMORTALITY is not hidden…it’s just incredibly difficult to BELIEVE (in the Biblical sense)!
 
 ## Dataview

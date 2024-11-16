@@ -2,6 +2,7 @@
 title: "Thought: STRENGTH"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - power
 - virtue
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Steength is a Gift"
 ---
 # Thought: STRENGTH:
-> [!Thought]
+> [!Thought-en]
 > In 61 years I’ve never met a strong Christian.
 > Yet, in that same time, I have encountered a precious few weak Christians who have submitted themselves to the Strength of Jesus!
 > “Blessed are the poor in spirit.” - Matthew 5:3

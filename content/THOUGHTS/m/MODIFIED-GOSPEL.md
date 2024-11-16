@@ -2,6 +2,7 @@
 title: "Thought: MODIFIED GOSPEL"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - gospel
 - human
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The Corruptive Influence of Human Wisdom"
 ---
 # Thought: MODIFIED GOSPEL
-> [!Thought]
+> [!Thought-en]
 > Christians LOVE to inject their "wisdom" into the Gospel; nowhere does this happen more than in the American church.
 
 ## Dataview

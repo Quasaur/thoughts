@@ -2,6 +2,7 @@
 title: "Thought: FAIRNESS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - justice
 - fairness
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Fairplay"
 ---
 # Thought: FAIRNESS
-> [!Thought]
+> [!Thought-en]
 > Mercy is never fair.
 
 ## Dataview

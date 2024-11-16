@@ -2,6 +2,7 @@
 title: "ANTHROPOLOGY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - cultural
   - physical

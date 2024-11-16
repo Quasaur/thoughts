@@ -2,6 +2,7 @@
 title: "Thought: SHUT DOWN"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - free
 - expression
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Constitutional Right"
 ---
 # Thought: SHUT DOWN
-> [!Thought]
+> [!Thought-en]
 > To the United States Congress:
 > You can't shut down the porn industry, yet you can shut down my constitutional right to free expression on TikTok...
 > ...you're FIRED.

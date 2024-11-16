@@ -2,6 +2,7 @@
 title: "Thought: CITIZENSHIP"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - citizenship
 - kingdom
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Kingdom of God"
 ---
 # Thought: CITIZENSHIP
-> [!Thought]
+> [!Thought-en]
 > REMEMBER: there is no "cost of living" in the Kingdom of the Heavens.
 > Change your citizenship IMMEDIATELY!
 

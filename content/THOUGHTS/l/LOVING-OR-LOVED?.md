@@ -2,6 +2,7 @@
 title: "Thought: LOVING OR LOVED?"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - loving
 - loved
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Loving or Being Loved?"
 ---
 # Thought: LOVING OR LOVED?
-> [!Thought]
+> [!Thought-en]
 > So...which is better: loving God or being loved by God?
 
 ## Dataview

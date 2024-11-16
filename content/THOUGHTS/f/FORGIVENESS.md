@@ -2,6 +2,7 @@
 title: "Thought: FORGIVENESS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - forgiveness
 - atonement
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Justice"
 ---
 # Thought: FORGIVENESS
-> [!Thought]
+> [!Thought-en]
 > Forgiven sin must still be punished and atoned for.
 > The Cross of Jesus Christ SATISFIES GOD’s Relentless Justice and Vengeance!
 > Without The Cross, Divine Forgiveness is impossible.

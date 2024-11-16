@@ -2,6 +2,7 @@
 title: "Thought: SENTIENCE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - spirits
 - sentience
@@ -13,7 +14,7 @@ aliases:
 - "Thought: I am"
 ---
 # Thought: SENTIENCE
-> [!Thought]
+> [!Thought-en]
 > What a wonder is sentience: not only am I to God, but I am to myself!
 
 ## Dataview

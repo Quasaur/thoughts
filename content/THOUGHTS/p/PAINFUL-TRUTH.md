@@ -2,6 +2,7 @@
 title: "Thought: PAINFUL TRUTH"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - tedx
 - russellellis
@@ -13,7 +14,7 @@ aliases:
 - "Thought: White Supremacy"
 ---
 # Thought: PAINFUL TRUTH
-> [!Thought]
+> [!Thought-en]
 > Perhaps the Truth only hurts when we refuse to submit to It.
 
 ## Dataview

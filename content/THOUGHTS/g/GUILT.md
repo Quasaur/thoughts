@@ -2,6 +2,7 @@
 title: "Thought: GUILT"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - guilt
 - expression
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Origins of Conscience"
 ---
 # Thought: GUILT
-> [!Thought]
+> [!Thought-en]
 > Guilt is just another expression of the ego.
 
 ## Dataview

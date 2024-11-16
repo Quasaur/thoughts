@@ -2,6 +2,7 @@
 title: "Thought: MOTION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - rest
 - sabbath
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Sabbath Rest"
 ---
 # Thought: MOTION
-> [!Thought]
+> [!Thought-en]
 > Everything that exists is MOVING…
 >…except God. Even when He MOVES, God is at REST
 >.GLORY!!!!!!!!!!!!!!!!!!!!

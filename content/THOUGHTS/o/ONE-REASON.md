@@ -2,6 +2,7 @@
 title: "Thought: ONE REASON"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - apocalypse
 - lakeoffire
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Rejecting Christ"
 ---
 # Thought: ONE REASON
-> [!Thought]
+> [!Thought-en]
 > There’s one reason why many will find themselves in the Lake of Fire when they could’ve been saved: Pride.
 > Lay down your weapons and surrender your body and soul to The Lord Jesus Christ…you will NOT regret it!
 

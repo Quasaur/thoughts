@@ -2,6 +2,7 @@
 title: "COSMOLOGY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - metaphysiucs
   - astronomy

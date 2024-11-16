@@ -2,6 +2,7 @@
 title: "Thought: HUMANITARIANISM"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - humanity
 - selfworship
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Humanity's Godhood"
 ---
 # Thought: HUMANITARIANISM
-> [!Thought]
+> [!Thought-en]
 > Without accountability, man can call himself God (humanitarianism, evolution's twin sister).
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "Thought: BENEFICIARIES"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - interpersonal
 - encounter
@@ -13,7 +14,7 @@ aliases:
 - "Thought: An Effective Witness"
 ---
 # Thought: BENEFICIARIES
-> [!Thought]
+> [!Thought-en]
 > Those I encounter in my everyday life are either victims or beneficiaries of my relationship with God.
 
 ## Dataview

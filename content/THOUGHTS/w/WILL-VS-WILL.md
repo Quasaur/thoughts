@@ -2,6 +2,7 @@
 title: "Thought: WILL VS WILL"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - selfdenial
 - humility
@@ -12,7 +13,7 @@ aliases:
 - "Thought: God's Will Above Mine"
 ---
 # Thought: WILL VS WILL
-> [!Thought]
+> [!Thought-en]
 > The Challenge of life is not to do God's Will, it is to do God's Will when your will is headed in another direction.
 
 ## Dataview

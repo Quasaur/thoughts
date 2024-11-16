@@ -2,6 +2,7 @@
 title: "Thought: SHOULD"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - law
 - order
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Morality"
 ---
 # Thought: SHOULD
-> [!Thought]
+> [!Thought-en]
 > The word “should” proves God’s Existence…points us to an Ideal that we don’t quite measure up to and gives us a Standard by which we must judge ourselves.
 
 ## Dataview

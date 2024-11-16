@@ -2,6 +2,7 @@
 title: "Thought: MISUNDERSTOOD"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - misunderfstood
 - understanding
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Miscommunicatiion"
 ---
 # Thought: MISUNDERSTOOD
-> [!Thought]
+> [!Thought-en]
 > Among life's greatest agonies is being misunderstood.
 
 ## Dataview

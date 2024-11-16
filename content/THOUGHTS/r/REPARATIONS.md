@@ -2,6 +2,7 @@
 title: "Thought: REPARATIONS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - reparations
 - slavery
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Slavery Compensation"
 ---
 # Thought: REPARATIONS
-> [!Thought]
+> [!Thought-en]
 > Reasonable reparations to the descendants of black slaves: those descendants should be FEDERAL & STATE TAX-EXEMPT.
 
 ## Dataview

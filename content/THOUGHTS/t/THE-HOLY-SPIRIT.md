@@ -2,6 +2,7 @@
 title: "Thought: THE HOLY SPIRIT"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - holyspirit
 - deity
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Most High"
 ---
 # Thought: THE HOLY SPIRIT
-> [!Thought]
+> [!Thought-en]
 > The Holy Spirit is God, and all men must be filled with Him.
 
 ## Dataview

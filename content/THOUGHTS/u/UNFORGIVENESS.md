@@ -2,6 +2,7 @@
 title: "Thought: UNFORGIVENESS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - unforgiveness
 - hell
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Unmerciful"
 ---
 # Thought: UNFORGIVENESS
-> [!Thought]
+> [!Thought-en]
 > The ONLY people going to Hell are those who COULD NOT FORGIVE!
 > 
 ## Dataview

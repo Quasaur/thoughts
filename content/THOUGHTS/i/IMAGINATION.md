@@ -2,6 +2,7 @@
 title: "Thought: IMAGINATION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - imagination
 - imagery
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Conceptualization"
 ---
 # Thought: IMAGINATION 
-> [!Thought]
+> [!Thought-en]
 > Imagination was designed to be the vehicle by which we are able to grasp, appreciate and submit to Divine Truth; not the engine of fantasies and delusions of grandeur.
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: POLITICAL SCIENCE
 draft: false
 type: TOPIC
+mling: false
 tags:
   - patriotism
   - chauvinism

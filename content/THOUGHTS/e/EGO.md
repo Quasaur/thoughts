@@ -2,6 +2,7 @@
 title: "Thought: EGO"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - god
 - sun
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The Power of GOD"
 ---
 # Thought: EGO
-> [!Thought]
+> [!Thought-en]
 > The Earth is 3.5 million times bigger than me...
 > ..the Sun is a million times bigger than the Earth...
 > ...that means the Sun is 176 SEPTILLION (176 followed by 24 zeros) times larger than myself...

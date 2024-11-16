@@ -2,6 +2,7 @@
 title: "Thought: POINTLESS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - pointless
 - purpose
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Meaninglessness"
 ---
 # Thought: POINTLESS
-> [!Thought]
+> [!Thought-en]
 >  A God-less life is truly pointless.
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "Thought: GOD AWARENESS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - faith
 - awareness
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The God Who is Here"
 ---
 # Thought: GOD AWARENESS
-> [!Thought]
+> [!Thought-en]
 > Self-awareness is the second most precious gift God has given us; the first is God-awareness!
 
 ## Dataview

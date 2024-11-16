@@ -2,6 +2,7 @@
 title: "Thought: NEAR TO GOD"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - access
 - calling
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Sanctification"
 ---
 # Thought: NEAR TO GOD
-> [!Thought]
+> [!Thought-en]
 > No one comes near to God who is not called by God to do so (John 6:44).
 
 ## Dataview

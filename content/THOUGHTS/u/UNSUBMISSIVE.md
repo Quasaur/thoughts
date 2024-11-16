@@ -2,6 +2,7 @@
 title: "Thought: UNSUBMISSIVE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - unsubmissive
 - rebellious
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Resisting the Holy Spirit"
 ---
 # Thought: UNSUBMISSIVE
-> [!Thought]
+> [!Thought-en]
 >  It's just a shame that so many would rather lead a pointless life than 
 >  submit to Divine Authority.
 

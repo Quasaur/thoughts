@@ -2,6 +2,7 @@
 title: "Thought: IDIOTS ALL"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - foolish
 - stupid
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Flaws of Human Intellect"
 ---
 # Thought: IDIOTS ALL
-> [!Thought]
+> [!Thought-en]
 > Everyone's an idiot about something!
 
 ## Dataview

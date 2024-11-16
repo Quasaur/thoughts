@@ -2,6 +2,7 @@
 title: "Thought: INNER REALITY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - heart
 - feelings
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Self-Centeredness"
 ---
 # Thought: INNER REALITY
-> [!Thought]
+> [!Thought-en]
 > What's going on INSIDE of you is far more potent, effectual and real—to you--than what's going on outside of you.
 > 
 ## Dataview

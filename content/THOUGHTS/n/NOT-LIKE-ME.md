@@ -2,6 +2,7 @@
 title: "Thought: NOT-LIKE-ME"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - idolatry
 - divine
@@ -13,7 +14,7 @@ aliases:
 - "Thought: God is Superior"
 ---
 # Thought: NOT-LIKE-ME
-> [!Thought]
+> [!Thought-en]
 > I was wrong about God; He's not in any way near as vindictive, judgmental or self-righteous as I am.
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "Thought: FOSSILS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - geology
 - fossils
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Fossils' Age Questioned"
 ---
 # Thought: FOSSILS
-> [!Thought]
+> [!Thought-en]
 > Fossils, which evolutionists say prove how ancient the Earth is, HAVE BEEN ENGINEERED IN LABORATORIES WITHIN 24 HOURS!
 
 ## Dataview

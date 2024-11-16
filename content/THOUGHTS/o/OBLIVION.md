@@ -2,6 +2,7 @@
 title: "Thought: OBLIVION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - apocalypse
 - ele

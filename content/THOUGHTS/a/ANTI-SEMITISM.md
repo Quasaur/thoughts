@@ -2,6 +2,7 @@
 title: "Thought: ANTI-SEMITISM"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - antisemitism
 - antinegro

@@ -2,6 +2,7 @@
 title: "Thought: Acts of the Apostles"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - bible
 - luke
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Accuracy of the Acts of the Apostles"
 ---
 # Thought: ACTS OF THE APOSTLES
-> [!Thought]
+> [!Thought-en]
 > The Acts of the Apostles mentions thirty-two countries, fifty-four cities and nine islands without a factual or historical error.
 
 ## Dataview

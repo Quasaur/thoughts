@@ -2,6 +2,7 @@
 title: "Thought: SOL VELOCITY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - sol
 - sun
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Sun's Vewlocity"
 ---
 # Thought: SOL VELOCITY
-> [!Thought]
+> [!Thought-en]
 >   Creation Wonder: Our Sun is moving at 600,000 miles per hour around the center of the Milky Way galaxy, or 100,000 m.p.h. faster than past calculations!
 
 ## Dataview

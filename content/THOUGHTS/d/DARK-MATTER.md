@@ -2,6 +2,7 @@
 title: "Thought: DARK MATTER"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - genesis
 - creation
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Dark Water"
 ---
 # Thought: DARK MATTER
-> [!Thought]
+> [!Thought-en]
 > What if dark matter is a type of WATER?
 
 ## Dataview

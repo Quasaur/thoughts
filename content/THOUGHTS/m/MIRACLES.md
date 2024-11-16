@@ -2,6 +2,7 @@
 title: "Thought: MIRACLES"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - miracles
 - actsofgod
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The Power of God"
 ---
 # Thought: MIRACLES
-> [!Thought]
+> [!Thought-en]
 > Miracles are...
 > ...the only Acts God has ever done,
 > the only Acts God is doing,

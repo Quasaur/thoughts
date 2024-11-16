@@ -2,6 +2,7 @@
 title: "Thought: THINKING TIME"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - thinking
 - time
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Priorities"
 ---
 # Thought: THINKING TIME
-> [!Thought]
+> [!Thought-en]
 > God spends 100% of His Time thinking about us...how much time do we spend thinking about Him?
 > 
 ## Dataview

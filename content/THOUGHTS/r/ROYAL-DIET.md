@@ -2,6 +2,7 @@
 title: "Thought: DIET01"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - breakfast
 - lunch
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Dark Water"
 ---
 # Thought: DARK MATTER
-> [!Thought]
+> [!Thought-en]
 > Eat breakfast like a king | queen; eat lunch like a prince | princess; eat dinner like a pauper. - Brian Tracy
 
 ## Dataview

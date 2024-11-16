@@ -2,6 +2,7 @@
 title: "Thought: FOCUS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - focus
 - crisis
@@ -10,7 +11,7 @@ tags:
 - faith
 ---
 # Thought: 692, 189
-> [!Thought]
+> [!Thought-en]
 > When your back is against the wall, you don't have to look behind you.
 
 ## Dataview

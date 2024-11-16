@@ -2,6 +2,7 @@
 title: "FREEDOM"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - free
   - choice
@@ -17,6 +18,7 @@ aliases:
 ## Description
 The absence of necessity, coercion, or constraint in choice or action with the framework of morality and law.
 type: TOPIC
+mling: false
 
 ## Sub-Topics
 

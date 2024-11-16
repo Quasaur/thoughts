@@ -2,6 +2,7 @@
 title: "Thought: MEEK"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - meek
 - lowly
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The MEEK God"
 ---
 # Thought: MEEK
-> [!Thought]
+> [!Thought-en]
 > While others worship the gods of Might, Power, Speed, Mammon and Spirituality...
 > ...we Christians worship the Meek and Lowly GOD...
 > ...the Despised and Rejected GOD...

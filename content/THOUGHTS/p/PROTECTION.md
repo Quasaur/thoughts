@@ -2,6 +2,7 @@
 title: "Thought: PROTECTION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - holyspirit 
 - spiritoftruth

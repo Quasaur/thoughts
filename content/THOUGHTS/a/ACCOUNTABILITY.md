@@ -2,6 +2,7 @@
 title: "Thought: ACCOUNTABILITY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - god
 - lord
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Judgment"
 ---
 # Thought: ACCOUNTABILITY
-> [!Thought]
+> [!Thought-en]
 > The idea of God introduces the concept of accountability.
 
 ## Dataview

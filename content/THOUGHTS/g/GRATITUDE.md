@@ -2,6 +2,7 @@
 title: "Thought: GRATITUDE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - thanksgiving
 - humility
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Thanksgiving"
 ---
 # Thought: GRATITUDE
-> [!Thought]
+> [!Thought-en]
 > The past couple of months have been very challenging...but it beats being dead (LOL)!
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "Thought: NOBODY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - depravity
 - religion
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The Necessity for Grace"
 ---
 # Thought: NOBODY
-> [!Thought]
+> [!Thought-en]
 > Nobody wants to go to Hell…or Heaven. 
 > That is to say: apart from the Grace of The Lord Jesus Christ, while any soul would do everything in their power (religion) to escape the Lake of Fire, no soul innately has any appetite (Faith) whatsoever for a Holy GOD.
 

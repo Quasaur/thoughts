@@ -2,6 +2,7 @@
 title: "Thought: CONSEQUENCES"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - consequences
 - mercy
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Consequences of Mercy"
 ---
 # Thought: CONSEQUENCES 
-> [!Thought]
+> [!Thought-en]
 > Mercy itself has consequences that never occur to the mind of the selfish, self-obsessed sinner. 
 > Mercy means Lucifer becomes Satan. 
 > Mercy means Satan seduces a third of Heaven’s angels, damning them to eternal shame. 

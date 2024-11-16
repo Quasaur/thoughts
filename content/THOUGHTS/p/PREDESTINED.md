@@ -2,6 +2,7 @@
 title: "Thought: PREDESTINED"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - sovereignty
 - election
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Foreknown"
 ---
 # Thought: PREDESTINED
-> [!Thought]
+> [!Thought-en]
 > For decades I’ve tried every possible method to destroy my Salvation.
 > Now, in the latter part of my life, I’m finally beginning to realize that It was never my Salvation to begin with.
 

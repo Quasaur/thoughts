@@ -2,6 +2,7 @@
 title: "Thought: LOVE 2"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - love
 - sacrificial
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Unconditional Love"
 ---
 # Thought: LOVE 2
-> [!Thought]
+> [!Thought-en]
 > What drives you to give yourself to a cause bigger than you? LOVE.
 
 ## Dataview

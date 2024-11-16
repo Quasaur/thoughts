@@ -2,6 +2,7 @@
 title: "Thought: LOVE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - love
 - spirit
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Unconditional Love"
 ---
 # Thought: LOVE
-> [!Thought]
+> [!Thought-en]
 > Love is so much more than just a feeling...It's a decision to treat someone as good as or better than you treat yourself!
 
 ## Dataview

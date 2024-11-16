@@ -2,6 +2,7 @@
 title: "Thought: LIVING RELATIONSHIP"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - live
 - relationships
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Relating to God Through Others"
 ---
 # Thought: LIVING RELATIONSHIPS
-> [!Thought]
+> [!Thought-en]
 >  Life is all about relationships.
 
 ## Dataview

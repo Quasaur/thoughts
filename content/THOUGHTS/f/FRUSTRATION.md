@@ -2,6 +2,7 @@
 title: "Thought: FRUSTRATION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - frustration
 - spirituality
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Religion"
 ---
 # Thought: FRUSTRATION
-> [!Thought]
+> [!Thought-en]
 > You will give up on you...
 > …before GOD does.
 > That is the POWER of The Gospel!!!

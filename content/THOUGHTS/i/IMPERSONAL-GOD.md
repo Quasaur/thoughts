@@ -2,6 +2,7 @@
 title: "Thought: IMPERSONAL GOD"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - god
 - personal
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Genie God"
 ---
 # Thought: IMPERSONAL GOD
-> [!Thought]
+> [!Thought-en]
 > An impersonal god is not God at all; that is why the God of the Hebrews named Himself "I AM".
 
 ## Dataview

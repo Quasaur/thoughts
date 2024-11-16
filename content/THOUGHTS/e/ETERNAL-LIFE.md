@@ -2,6 +2,7 @@
 title: "Thought: ETERNAL LIFE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - immortality
 - eternallife
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Immortality"
 ---
 # Thought: ETERNAL LIFE
-> [!Thought]
+> [!Thought-en]
 > ETERNAL LIFE: God's promise (covenant) to NEVER stop dreaming about you!
 
 ## Dataview

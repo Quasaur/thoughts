@@ -2,6 +2,7 @@
 title: "Thought: ADOPTION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - adoption
 - abba
@@ -10,7 +11,7 @@ tags:
 - everlasting
 ---
 # Thought: ADOPTION
-> [!Thought]
+> [!Thought-en]
 > He is the Architect of the Cosmos and the Seat of Absolute Power...and my Daddy!
 
 ## Dataview

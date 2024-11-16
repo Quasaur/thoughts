@@ -2,6 +2,7 @@
 title: "PSYCHOLOGY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - soul
   - psyche

@@ -2,6 +2,7 @@
 title: "Thought: VOLITION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - paradox
 - volition
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Autonomous"
 ---
 # Thought: VOLITION
-> [!Thought]
+> [!Thought-en]
 > Your will is never more free than when it is under the absolute control of the Holy Spirit of Jesus Christ! 
 > John 14:11
 

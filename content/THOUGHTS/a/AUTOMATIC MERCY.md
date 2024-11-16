@@ -2,6 +2,7 @@
 title: "Thought: AUTHOMATIC MERCY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - spirituality
 - mercy
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Presumption"
 ---
 # Thought: AUTOMATIC MERCY
-> [!Thought]
+> [!Thought-en]
 > God’s love for sinners doesn’t negate His utter hatred of sin. Mercy is neither owed nor deserved and should NEVER be presumed.
 
 ## Dataview

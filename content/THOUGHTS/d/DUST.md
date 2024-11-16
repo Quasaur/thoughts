@@ -2,6 +2,7 @@
 title: "Thought: DUST"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - dust
 - humanity
@@ -12,7 +13,7 @@ aliases:
 - "Thought: Dirt"
 ---
 # Thought: DUST
-> [!Thought]
+> [!Thought-en]
 > GOD made the 1st human from the cheapest, most abundant substance on Earth: DIRT. 
 > Our value lies neither in our content nor our capability, but in Who we were made for. 
 > We were made for Christ’s Pleasure!

@@ -2,6 +2,7 @@
 title: "Thought: AMBITION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - dailyroutine
 - eating
@@ -10,7 +11,7 @@ tags:
 - discipline
 ---
 # Thought: AMBITION
-> [!Thought]
+> [!Thought-en]
 > God is Everything you want to be!
 
 ## Dataview

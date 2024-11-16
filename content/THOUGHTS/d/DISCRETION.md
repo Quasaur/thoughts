@@ -2,6 +2,7 @@
 title: "Thought: DISCRETION"
 driaft: false
 type: THOUGHT
+mling: false
 tags:
 - discretion
 - sensitivity
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Tactfulness"
 ---
 # Thought: DISCRETION
-> [!Thought]
+> [!Thought-en]
 > God knows things about the people around you that you have no idea of; if one of those things comes to light, it is for a reason.
 
 ## Dataview

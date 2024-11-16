@@ -2,6 +2,7 @@
 title: "Thought: TITLE"
 draft: true
 type: template
+mling: false
 tags:
 - 
 aliases:

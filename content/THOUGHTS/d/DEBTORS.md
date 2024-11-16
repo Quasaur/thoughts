@@ -2,6 +2,7 @@
 title: "Thought: DEBTORS"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - economics
 - nation
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Debt and Slavery"
 ---
 # Thought: DEBTORS
-> [!Thought]
+> [!Thought-en]
 > A nation of debtors is a nation of slaves.
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "Thought: EMPATHY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - emptiness
 - void
@@ -13,7 +14,7 @@ aliases:
 - "Thought: The GOD-Shaped Hole"
 ---
 # Thought: EMPATHY
-> [!Thought]
+> [!Thought-en]
 > To LOVE you, I must be as tolerant of your flaws as I am of my own.
 
 ## Dataview

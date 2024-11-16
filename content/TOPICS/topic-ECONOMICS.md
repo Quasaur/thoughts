@@ -2,6 +2,7 @@
 title: "ECONOMICS"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - consumption
   - production

@@ -2,6 +2,7 @@
 title: "LINGUISTICS"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - human
   - speach

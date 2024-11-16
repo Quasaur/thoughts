@@ -2,6 +2,7 @@
 title: "Thought: TRANSCENDENT"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - pure
 - untainted
@@ -14,7 +15,7 @@ aliases:
 - "Thought: Divine"
 ---
 # Thought: TRANSCENDENT
-> [!Thought]
+> [!Thought-en]
 > What makes GOD so priceless, so precious and so worthy of awe and worship…is not only His immunity to corruption: HE CAN INFECT CORRUPTION WITH HOLINESS, making corruption itself INCORRUPTIBLE!!!!!!
 
 ## Dataview

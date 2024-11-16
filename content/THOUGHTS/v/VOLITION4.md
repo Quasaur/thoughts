@@ -2,6 +2,7 @@
 title: "Thought: FOURTH VOLITION"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - freedom
 - volition
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The End Justifies the Means"
 ---
 # Thought: FOURTH VOLITION
-> [!Thought]
+> [!Thought-en]
 >  If Free Will puts you in Hell, what was the point???
 
 ## Dataview

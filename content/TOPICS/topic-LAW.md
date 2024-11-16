@@ -2,6 +2,7 @@
 title: "LAW"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - ordiance
   - legislation

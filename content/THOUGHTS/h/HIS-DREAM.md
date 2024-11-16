@@ -13,7 +13,7 @@ aliases:
 ---
 
 # Quote: NORMAL REALITY
-> [!Thought]
+> [!Thought-en]
 > When God dreams, it's called REALITY.
 
 ## Dataview

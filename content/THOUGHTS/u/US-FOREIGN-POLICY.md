@@ -2,6 +2,7 @@
 title: "Thought: DARK US FOREIGN POLICY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - usa
 - foreignpolicy
@@ -12,7 +13,7 @@ aliases:
 - "Thought: US as an Evil Empire"
 ---
 # Thought: US FOREIGN POLICY
-> [!Thought]
+> [!Thought-en]
 > USA foreign policy is imperial, dictatorial, ruthless, dirty, immoral...inevitably invoking the WRATH OF GOD against us all.
 
 ## External Links

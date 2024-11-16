@@ -2,6 +2,7 @@
 title: "Thought: THE ULTIMATE"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - humanity
 - selfworship
@@ -12,7 +13,7 @@ aliases:
 - "Thought: The Most High"
 ---
 # Thought: THE ULTIMATE
-> [!Thought]
+> [!Thought-en]
 > That which is Ultimate cannot be Ultimate unless "it" (He) is also PERSONAL.
 
 ## Dataview

@@ -2,6 +2,7 @@
 title: "GEOLOGY"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - rocks
   - strata

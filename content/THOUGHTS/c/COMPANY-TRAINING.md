@@ -2,6 +2,7 @@
 title: "Thought: COMPANY TRAINING"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - time
 - training
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Not Enough Time"
 ---
 # Thought: COMPANY TRAINING
-> [!Thought]
+> [!Thought-en]
 > Why is it that companies don't give their employees time to complete Web- and Computer-based training courses?
 
 ## Dataview

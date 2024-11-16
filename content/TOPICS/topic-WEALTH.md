@@ -2,6 +2,7 @@
 title: "WEALTH"
 draft: false
 type: TOPIC
+mling: false
 tags:
   - assets
   - capital

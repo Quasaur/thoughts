@@ -2,6 +2,7 @@
 title: "Thought: ANXIETY"
 draft: false
 type: THOUGHT
+mling: false
 tags:
 - peace
 - faith
@@ -13,7 +14,7 @@ aliases:
 - "Thought: Worry"
 ---
 # Thought: ANXIETY
-> [!Thought]
+> [!Thought-en]
 > Don't worry...be obedient in faith!
 
 ## Dataview
