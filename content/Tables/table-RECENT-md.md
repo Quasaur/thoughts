@@ -19,23 +19,13 @@ The items in the File and Topic columns are links that can be clicked on to take
 
   
 
-|File (15)|Level|Topic|Topic Level|Last Modified*|Type|
+|File5|Level|Topic|Topic Level|Last Modified*|Type|
 |---|---|---|---|---|---|
-|[table-PASSAGES-MD-Verse](/Tables/table-PASSAGES-MD-Verse.md)|-|-|-|2024.10.22|table|
-|[table-PASSAGES-MD-File](/Tables/table-PASSAGES-MD-File.md)|-|-|-|2024.10.22|table|
-|[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|2024.10.22|TOPIC|
-|[INHERITED-HONOR](/BIBLE/Prov/03/INHERITED-HONOR.md)|3|[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|2024.10.22|PASSAGE|
-|[SCORNERS](/BIBLE/Prov/03/SCORNERS.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|2024.10.22|PASSAGE|
-|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|2024.10.22|TOPIC|
-|[TRUST-THE-LORD](/BIBLE/Prov/03/TRUST-THE-LORD.md)|4|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|2024.10.21|PASSAGE|
-|[HOUSE-OF-THE-WICKED](/BIBLE/Prov/03/HOUSE-OF-THE-WICKED.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|2024.10.21|PASSAGE|
-|[FATE-OF-THE-WICKED](/BIBLE/Prov/02/FATE-OF-THE-WICKED.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|2024.10.21|PASSAGE|
-|[MAN-OF-VIOLENCE](/BIBLE/Prov/03/MAN-OF-VIOLENCE.md)|4|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|2024.10.13|PASSAGE|
-|[topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|2024.10.13|TOPIC|
-|[NEIGHBORS](/BIBLE/Prov/03/NEIGHBORS.md)|4|[topic-SOCIOLOGY](/TOPICS/topic-SOCIOLOGY.md)|4|2024.10.13|PASSAGE|
-|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|2024.10.13|TOPIC|
-|[OBLIGATION](/BIBLE/Prov/03/OBLIGATION.md)|3|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|2024.10.06|PASSAGE|
-|[SECURITY2](/BIBLE/Prov/03/SECURITY2.md)|3|[topic-WISDOM](/TOPICS/topic-WISDOM.md)|3|2024.10.06|PASSAGE|
+|[table-THOUGHTS-MD-Modified](/Tables/table-THOUGHTS-MD-Modified.md)|-|-|-|2024.11.16|table|
+|[table-THOUGHTS-MD-Level](/Tables/table-THOUGHTS-MD-Level.md)|-|-|-|2024.11.16|table|
+|[table-THOUGHTS-MD-File](/Tables/table-THOUGHTS-MD-File.md)|-|-|-|2024.11.16|table|
+|[topic-PHILOSOPHY](/TOPICS/topic-PHILOSOPHY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|2024.11.16|TOPIC|
+|[NO-WATER](/THOUGHTS/n/NO-WATER.md)|4|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|2024.11.16|THOUGHT|
 
 ## Dataview
 parent:: [[content/index]]
