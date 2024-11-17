@@ -29,5 +29,5 @@ aliases:
 > 鱼怎么会说没有水？而人却说没有上帝！
 
 ## Dataview
-ptopic:: [[topic-RELIGION]]
+ptopic:: [[topic-PHILOSOPHY]]
 level:: 4

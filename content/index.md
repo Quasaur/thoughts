@@ -54,6 +54,7 @@ Whether or not the sidebars to the left and right are visible is a function of h
 	- [Table: Passages (sorted by File)](table-PASSAGES-MD-File.md)
 	- [Table: Passages (sorted by Verse)](table-PASSAGES-MD-Verse.md)
 - [Table: RECENT (sorted by Last Modified)](Tables/table-RECENT-md)
+- [Table: MultiLingual (sorted by Last Modified)](Tables/table-MultiLingual-md)
 
 ## The Tags
 Tags are objects meant to make searching the increasingly vast ocean of The Book of Thoughts easier. Clicking on a tag in either a topic ('#type/topic/L2', for instance) or a thought (anything with a hashtag ['#'] in front of it) will take you to a page which will list every thought that tag is found in.
@@ -86,8 +87,9 @@ This is what i intend to accomplish in the next few years:
 1. The 85 Thoughts originally posted must have their notes edited...this might take a few weeks (COMPLETED).
 2. There are HUNDREDS of more tweets in the original Book of Tweets (667, to be exact); all of these must be added as well (IN-PROCESS).
 3. All of my social media posts across all platforms I am currently a member of will be added next (IN-PROCESS).
-4. I will also add quotes from my other [nine books](https://www.clmjournal.com/books) (TESTING).
-5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (TESTING).
+4. I will also add quotes from my other [nine books](https://www.clmjournal.com/books) (COMPLETE).
+5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (IN-PROCESS).
+6. I will add multi-language support (English, Spanish, French, Hindi and Simplified Mandarin) to all Topics, Thoughts, Quotes and Biblical Passages (IN-PROCESS).
 
 ## Preface to the First Edition
 [[BookOfTweets-Preface]]
