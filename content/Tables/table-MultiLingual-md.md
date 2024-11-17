@@ -10,8 +10,8 @@ aliases:
   - "Table: All Multi-Lingual Files"
   - "Table: All Last Modified Files in Multiple Languages"
 ---
-# Table: RECENT
-This table shows the Topics, Thoughts, Quotes and Bible Passages that have multi-lingual support (English, Spanish, French, Hindi, Simplified Mandarin.
+# Table: MultiLingual
+This table shows the Topics, Thoughts, Quotes and Bible Passages that have multi-lingual support (English, Spanish, French, Hindi, Simplified Mandarin) added.
 
 Each item (Tables excluded) is identified by its LEVEL. The Level helps you to understand how all items are related to each other.
 
