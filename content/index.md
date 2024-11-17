@@ -89,7 +89,7 @@ This is what i intend to accomplish in the next few years:
 3. All of my social media posts across all platforms I am currently a member of will be added next (IN-PROCESS).
 4. I will also add quotes from my other [nine books](https://www.clmjournal.com/books) (COMPLETE).
 5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (IN-PROCESS).
-6. I will add multi-language support (English, Spanish, French, Hindi and Simplified Mandarin) to all Topics, Thoughts, Quotes and Biblical Passages (IN-PROCESS).
+6. I will add multi-language support (English, Spanish, French, Hindi and Simplified Mandarin) to all Topics (Definition), Thoughts, Quotes and Biblical Passages (IN-PROCESS).
 
 ## Preface to the First Edition
 [[BookOfTweets-Preface]]
