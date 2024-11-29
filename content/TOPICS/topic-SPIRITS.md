@@ -1,5 +1,5 @@
 ---
-title: "SPIRITS"
+title: "Topic: SPIRITS"
 draft: false
 type: TOPIC
 mling: false
@@ -8,8 +8,7 @@ tags:
   - attitude
   - supernatural
   - being
-aliases:
-  - "Topic: Spirituality"
+  - incorporeals
 ---
 # Topic: SPIRITS
 ## Description
@@ -25,6 +24,7 @@ The animating or vital Principle held to give life to physical organisms; supern
 
 
 ## Dataview
+alias:: "Topic Children of the Holy Spirit"
 ptopic:: [[topic-CREATION]]
 level:: 3
 

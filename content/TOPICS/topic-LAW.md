@@ -1,5 +1,5 @@
 ---
-title: "LAW"
+title: "Topic: LAW"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - ordiance
   - legislation
   - regulation
-aliases:
-- "Topic: Jurisprudence"
+  - statute
+  - act
 ---
 # Topic: LAW
 ## Description
@@ -31,6 +31,7 @@ A binding custom or practice of a community formally recognized as binding or e
 
 
 ## Dataview
+alias:: "Topic: Jurisprudence"
 ptopic:: [[topic-MORALITY]]
 level:: 4
 

@@ -1,5 +1,5 @@
 ---
-title: "THE GOSPEL"
+title: "Topic: THE GOSPEL"
 draft: false
 type: TOPIC
 mling: false
@@ -8,9 +8,7 @@ tags:
   - good
   - news
   - salvation
-aliases: 
-- "Topic: Redemption"
-- "Topic: Salvation"
+  - redemption
 ---
 # Topic: THE GOSPEL
 ## Description
@@ -20,20 +18,22 @@ The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
 [[topic-EVANGELISM]]
 
 ## Thoughts
-|     |     |     |
-| --- | --- | --- |
-| [[/THOUGHTS/a/ADOPTION]] | [[AMBITION]] |
-| [[DEATH-VS-DEATH]] | [[HOME-SWEET-HOME]] | [[INVITE-OR-COMMAND?]] |
-| [[MARK-OF-THE-BEAST]] | [[MODIFIED-GOSPEL]] |
+|                         |                        |                       |
+| ----------------------- | ---------------------- | --------------------- |
+| [[THOUGHTS/a/ADOPTION]] | [[AMBITION]]           | [[DEATH-VS-DEATH]]    |
+| [[HOME-SWEET-HOME]]     | [[INVITE-OR-COMMAND?]] | [[MARK-OF-THE-BEAST]] |
+| [[MODIFIED-GOSPEL]]     | [[THE-LAST-WORD]]      |                       |
 
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[HEIR-OF-GOD]] | [[SALVATION]] | [[SOMETHING-BETTER]] |
-| [[THE-CALL]] | [[THE-NARROW-WAY]] | [[THE-SALVATION]] |
+| [[BEGOTTEN]] | [[HEIR-OF-GOD]] | [[ONE-FAMILY]] |
+| [[SALVATION]] | [[SOMETHING-BETTER]] | [[THE-CALL]] | 
+| [[THE-CROSS]] | [[THE-NARROW-WAY]] | [[THE-SALVATION]] |
 | [[TRUTH-AND-FAITH]] | [[TRANSCENDENT-VALUE]] |
 
 ## Dataview
+alias:: "Topic: Salvation"
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2
 

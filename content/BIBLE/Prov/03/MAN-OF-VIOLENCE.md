@@ -2,6 +2,7 @@
 title: "Passage: MAN OF VIOLENCE"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - violent
 - devious
@@ -18,6 +19,7 @@ tags:
     but the upright are in his confidence.
 
 ## Dataview
+alias:: "Passage: Violence and Deviousness"
 ptopic:: [[topic-EVIL]]
 source:: 'Proverbs 3:31,32'
 sortedSource:: 'Proverbs 03:31-32'

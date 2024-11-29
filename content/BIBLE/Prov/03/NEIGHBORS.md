@@ -2,6 +2,7 @@
 title: "Passage: NEIGHBORS"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - scheme
 - neighbor
@@ -18,6 +19,7 @@ tags:
     when he has done you no harm.
 
 ## Dataview
+alias:: "Passage: Don't be a Fountain of Evil"
 ptopic:: [[topic-SOCIOLOGY]]
 source:: 'Proverbs 3:29,30'
 sortedSource:: 'Proverbs 03:29-30'

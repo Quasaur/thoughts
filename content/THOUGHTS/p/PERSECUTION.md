@@ -9,9 +9,6 @@ tags:
 - original
 - authentic
 - jesuschrist
-aliases:
-- "Thought: Authentic Christianity"
-- "Thought: False Religion"
 ---
 # Thought: PERSECUTION
 > [!Thought-en]
@@ -19,5 +16,6 @@ aliases:
 > In countries where it is NOT persecuted, the reason is because THAT VERSION OF CHRISTIANITY IS NOT WORTH PERSECUTING.
 
 ## Dataview
+alias:: "Thought: Authentic Christianity"
 ptopic:: [[topic-RELIGION]]
 level:: 4

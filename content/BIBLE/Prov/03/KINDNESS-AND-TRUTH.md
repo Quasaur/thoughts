@@ -2,6 +2,7 @@
 title: "Passage: KINDNESS AND TRUTH"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - kindness
 - truth
@@ -19,6 +20,7 @@ tags:
 > In the sight of God and man.
 
 ## Dataview
+alias:: "Passage: The Keys to Favor and a Good Reputation"
 ptopic:: [[topic-ATTITUDE]]
 source:: 'Proverbs 3:3,4'
 sortedSource:: 'Proverbs 03:03,04'

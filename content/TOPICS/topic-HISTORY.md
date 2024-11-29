@@ -1,5 +1,5 @@
 ---
-title: "HISTORY"
+title: "Topic: HISTORY"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - annals
   - chronicles
   - biography
-aliases:
-  - "Topic: Chronology"
+  - records
+  - journal
 ---
 # topic: HISTORY
 ## Description
@@ -27,6 +27,7 @@ An account of important events in the order in which they happened
 ## Bible
 
 ## Dataview
+alias:: "Topic: Chronology"
 ptopic:: [[topic-HUMANITY]]
 level:: 4
 

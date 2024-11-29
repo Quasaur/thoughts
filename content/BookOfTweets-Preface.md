@@ -19,3 +19,4 @@ I’ve arranged the tweets in chronological order of 23 tweets per chapter. When
 In any case, it is my prayer that you, Kind Reader, will find something here to give you guidance, wisdom and (most of all) a more Heavenly perspective.
 
 ## Dataview
+ptopic:: [[content/index|index]]

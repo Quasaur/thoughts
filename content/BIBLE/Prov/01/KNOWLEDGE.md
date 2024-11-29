@@ -2,6 +2,7 @@
 title: "Passage: KNOWLEDGE"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - fear
 - lord
@@ -16,6 +17,7 @@ tags:
 > Fools despise wisdom and instruction.
 
 ## Dataview
+alias:: "Passage: God's Existence as the Foundation of Education"
 ptopic:: [[topic-HUMANITY]]
 source:: 'Proverbs 1:7'
 sortedSource:: 'Proverbs 01:07'

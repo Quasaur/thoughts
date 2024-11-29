@@ -9,9 +9,6 @@ tags:
 - understanding
 - life
 - gift
-aliases:
-- "Thought: My Wife is a Mystery"
-- "Thought: I don't Understand My Wife"
 ---
 # Thought: MYSTERY
 > [!Thought-en]
@@ -19,5 +16,6 @@ aliases:
 > ...but when we're alone together and quiet, she gives me LIFE!
 
 ## Dataview
+alias:: "Thought: My Wife is a Mystery"
 ptopic:: [[topic-PSYCHOLOGY]]
 level:: 4

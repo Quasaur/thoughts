@@ -9,9 +9,6 @@ tags:
 - satisfied
 - delighted
 - content
-aliases:
-  - "Thought: Contentment"
-  - "Thought: Delight"
 ---
 # Thought: HAPPINESS
 > [!Thought-en]
@@ -19,5 +16,6 @@ aliases:
 > ...but of doing what is RIGHT. 
 
 ## Dataview
+alias:: "Thought: Contentment"
 ptopic:: [[topic-ATTITUDE]]
 level:: 3

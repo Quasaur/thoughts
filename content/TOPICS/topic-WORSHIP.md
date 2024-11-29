@@ -1,5 +1,5 @@
 ---
-title: "WORSHIP"
+title: "Topic: WORSHIP"
 draft: false
 type: TOPIC
 mling: false
@@ -8,8 +8,7 @@ tags:
   - reference
   - devotion
   - humility
-aliases:
-  - "Topic: Obeisance"
+  - adoration
 ---
 # Topic: WORSHIP
 
@@ -29,6 +28,7 @@ To honor or show reverence for as The Divine Being; to regard with great or extr
 ## Bible
 
 ## Dataview
+alias:: "Topic: Obeisance"
 ptopic:: [[topic-CREATION]]
 level:: 3
 

@@ -2,6 +2,7 @@
 title: "Passage: DISCIPLINE AND REBUKE"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - humility
 - discipline
@@ -18,6 +19,7 @@ tags:
 _Just_ as a father _disciplines_ the son in whom he delights
 
 ## Dataview
+alias:: "Passage: Discipline and Rebuke are the Attributes of Love"
 ptopic:: [[topic-HUMILITY]]
 source:: 'Proverbs 3:11,12'
 sortedSource:: 'Proverbs 03:11,12'

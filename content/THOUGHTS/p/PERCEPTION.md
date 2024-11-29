@@ -9,14 +9,12 @@ tags:
 - observing
 - perception
 - selfimprovement
-aliases:
-- "Thought: Sight"
-- "Thought: Observance"
 ---
 # Thought: PERCEPTION
 > [!Thought-en]
 > We cannot always change what we see...but we can always change how we see it.
 
 ## Dataview
+alias:: "Thought: Observance"
 ptopic:: [[topic-ATTITUDE]]
 level:: 3

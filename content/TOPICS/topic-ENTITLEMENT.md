@@ -1,5 +1,5 @@
 ---
-title: "ENTITLEMENT"
+title: "Topic: ENTITLEMENT"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,6 @@ tags:
   - entitled
   - privilege
   - right
-aliases:
-- "Topic: Arrogance"
 ---
 # Topic: ENTITLEMENT
 ## Description
@@ -21,6 +19,7 @@ Law, contract or belief that one is deserving of or entitled to certain rights, 
 [[DEBT]]
 
 ## Dataview
+alias:: "Topic: Arrogance"
 ptopic:: [[topic-ATTITUDE]]
 level:: 4
 

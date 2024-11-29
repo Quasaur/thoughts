@@ -2,6 +2,7 @@
 title: "Passage: PROTECTION FROM EVIL"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - wisdom
 - knowledge
@@ -20,6 +21,7 @@ tags:
 > From a person who speaks perverse things;
 
 ## Dataview
+alias:: "Wisdom brings Protection and Deliverance"
 ptopic:: [[topic-EVIL]]
 source:: 'Proverbs 2:10-12'
 sortedSource:: 'Proverbs 02:10-12'

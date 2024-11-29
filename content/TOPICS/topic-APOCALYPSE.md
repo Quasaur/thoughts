@@ -1,5 +1,5 @@
 ---
-title: "APOCALYPSE"
+title: "Topic: APOCALYPSE"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,6 @@ tags:
   - eschatology
   - last_day
   - end_of_the_world
-aliases:
-  - "Topic: ESCHATOLOGY"
 ---
 # Topic: APOLCALYPSE
 ## Description
@@ -20,7 +18,8 @@ Eschatology; the End of all things.
 ## Thoughts
 |     |     |     |
 | --- | --- | --- |
-| [[OBLIVION]] | [[THE-BIBLE]] | [[WHEN-JESUS-RETURNS]] |
+| [[OBLIVION]] | [[ENDING]] | [[THE-BIBLE]] | 
+| [[WHEN-JESUS-RETURNS]] |
 
 ## Quotes
 [[ETERNAL-DAMNATION]]
@@ -28,6 +27,7 @@ Eschatology; the End of all things.
 ## Bible
 
 ## Dataview
+alias:: "Topic: ESCHATOLOGY"
 ptopic:: [[topic-HISTORY]]
 level:: 5
 

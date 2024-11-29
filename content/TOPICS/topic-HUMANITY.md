@@ -1,5 +1,5 @@
 ---
-title: "HUMANITY"
+title: "Topic: HUMANITY"
 draft: false
 type: TOPIC
 mling: false
@@ -7,9 +7,8 @@ tags:
   - adam
   - humans
   - mankind
-aliases:
-  - "Topic: Mankind"
-  - "Topic: Homo Sapiens"
+  - homosapiens
+  - likenessofgod
 ---
 # Topic: HUMANITY
 
@@ -28,11 +27,13 @@ Mankind, male and female, created in the Image and Likeness of The GODHEAD.
 [[ACCOUNTABILITY]]
 
 ## Quotes
+[[THE-LAST-ADAM]]
 
 ## Bible
 [[KNOWLEDGE]]
 
 ## Dataview
+alias:: "Topic: Mankind"
 ptopic:: [[topic-CREATION]]
 level:: 3
 

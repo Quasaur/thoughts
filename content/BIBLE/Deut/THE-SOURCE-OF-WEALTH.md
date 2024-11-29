@@ -10,11 +10,12 @@ tags:
 - power
 ---
 
-# Passage: TITLE
+# Passage: THE SOURCE OF WEALTH
 > [!Passage]
 > But you are to remember the LORD your God, for it is He Who is giving you power to make wealth, in order to confirm His Covenant which He swore to your fathers, as it is this day.
 
 ## Dataview
+alias:: "Passage: God the Source of Abundance!"
 ptopic:: [[topic-WEALTH]]
 source:: 'Deuteronomy 8:18'
 sortedSource:: 'Deuteronomy 08:18'

@@ -1,19 +1,14 @@
 ---
-title: "THE BIBLE"
+title: "Topic: THE BIBLE"
 draft: false
 type: TOPIC
 mling: false
 tags:
   - literature
-  - holyscriptures
+  - scriptures
   - hebrew
   - greek
   - linquistic
-aliases:
-  - "Topic: The Holy Bible"
-  - "Topic: The Hebrew and Greek Scriptures"
-  - "Topic: Literature of the Holy Land"
-  - "Topic: Israeli Linguistic Anthropology"
 ---
 # Topic: ANTHROPOLOGY
 
@@ -35,10 +30,15 @@ The Sacred Scriptures of Christians comprising the Old Testament and the New Tes
 ## Bible
 
 ## Dataview
+alias:: "Topic: The Story of Redemption"
 ptopic:: [[topic-ANTHROPOLOGY]]
 level:: 5
 
 
 ## Notes
-Topic notes.
+Possible Subtopics:
+- "Topic: The Holy Bible"
+- "Topic: The Hebrew and Greek Scriptures"
+- "Topic: Literature of the Holy Land"
+- "Topic: Israeli Linguistic Anthropology"
 

@@ -15,5 +15,6 @@ tags:
 > You're not really an American unless you're addicted to something.
 
 ## Dataview
+alias:: "Thought: The Ubiquitousness of Addiction in America"
 ptopic:: [[topic-POLITICAL-SCIENCE]]
 level:: 4

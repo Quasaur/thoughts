@@ -2,6 +2,7 @@
 title: "Passage: HONOR GOD"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - god
 - wealth
@@ -18,6 +19,7 @@ tags:
 > And your vats will overflow with new wine.
 
 ## Dataview
+alias:: "Passage: Add Offerings and Charity to your Budget"
 ptopic:: [[topic-WEALTH]]
 source:: 'Proverbs 3:9,10'
 sortedSource:: 'Proverbs 03:09,10'

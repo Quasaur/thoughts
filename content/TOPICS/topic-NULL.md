@@ -1,5 +1,5 @@
 ---
-title: "NULL"
+title: "Topic: NULL"
 draft: false
 type: TOPIC
 mling: false
@@ -13,4 +13,5 @@ The Null Topic
 [[topic-THE-GODHEAD]]
 
 ## Dataview
+alias:: "Topic ZERO: THE NULL TOPIC"
 level:: 0

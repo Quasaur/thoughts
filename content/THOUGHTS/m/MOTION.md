@@ -9,16 +9,14 @@ tags:
 - peace
 - contentment
 - fullness
-aliases:
-- "Thought: Movement"
-- "Thought: Sabbath Rest"
 ---
 # Thought: MOTION
 > [!Thought-en]
 > Everything that exists is MOVING…
 >…except God. Even when He MOVES, God is at REST
->.GLORY!!!!!!!!!!!!!!!!!!!!
+>…GLORY!!!!!!!!!!!!!!!!!!!!
 
 ## Dataview
+alias:: "Thought: Movement"
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 1

@@ -1,5 +1,5 @@
 ---
-title: "ANTHROPOLOGY"
+title: "Topic: ANTHROPOLOGY"
 draft: false
 type: TOPIC
 mling: false
@@ -8,11 +8,6 @@ tags:
   - physical
   - archaeology
   - linquistic
-aliases:
-  - "Topic: Cultural Anthropology"
-  - "Topic: Physical Anthropolgy"
-  - "Topic: Archaeology"
-  - "Topic: Linguistic Anthropology"
 ---
 # Topic: ANTHROPOLOGY
 
@@ -31,10 +26,15 @@ The study of human beings and their ancestors through time and space and in rela
 ## Bible
 
 ## Dataview
+alias:: "Topic: The Study of Humanity Throughout its History"
 ptopic:: [[topic-HUMANITY]]
 level:: 4
 
 
 ## Notes
-Topic notes.
+Possible Subtopics:
+- "Topic: Cultural Anthropology"
+- "Topic: Physical Anthropolgy"
+- "Topic: Archaeology"
+- "Topic: Linguistic Anthropology"
 

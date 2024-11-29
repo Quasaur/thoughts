@@ -1,5 +1,5 @@
 ---
-title: "HUMOR"
+title: "Topic: HUMOR"
 draft: false
 type: TOPIC
 mling: false
@@ -9,9 +9,6 @@ tags:
   - incongruous
   - comical
   - funny
-aliases:
-  - "Topic: Humor"
-  - "Topic: Comedy"
 ---
 # Topic: HUMOR
 
@@ -22,15 +19,19 @@ The mental faculty of discovering, expressing, or appreciating the ludicrous or 
 
 
 ## Thoughts
-[[PRIMAL-SCREAM]]
+|     |     |     |
+| --- | --- | --- |
+| [[A-GREAT-DAY]] | [[FIRST-RULE]] | [[PRIMAL-SCREAM]] |
+
 
 ## Quotes
 
 ## Bible
 
 ## Dataview
+alias:: "Topic: The Science of Laughter"
 ptopic:: [[topic-PSYCHOLOGY]]
-level:: 4
+level:: 5
 
 
 ## Notes

@@ -1,5 +1,5 @@
 ---
-title: "SPIRITUALITY"
+title: "Topic: SPIRITUALITY"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - philosophy
   - attitude
   - transcendence
-aliases: 
-- "Topic: Godliness"
+  - metaphysical
+  - supernatural
 ---
 # Topic: SPIRITUALITY 
 ## Description
@@ -35,6 +35,7 @@ Sensitivity or attachment to religious values.
 
 
 ## Dataview
+alias:: "Topic: Godliness"
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2
 

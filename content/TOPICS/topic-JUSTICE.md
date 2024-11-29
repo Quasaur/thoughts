@@ -1,5 +1,5 @@
 ---
-title: "JUSTICE"
+title: "Topic: JUSTICE"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - equity
   - fairness
   - impartiality
-aliases:
-- "Topic: Equity"
+  - equitability
+  - honor
 ---
 # Topic: JUSTICE
 ## Description
@@ -29,6 +29,7 @@ The practice or instance of giving to others what is their due.
 ## Bible
 
 ## Dataview
+alias:: "Topic: Equity Between All Peoples"
 ptopic:: [[topic-LAW]]
 level:: 5
 

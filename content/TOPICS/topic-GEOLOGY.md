@@ -1,5 +1,5 @@
 ---
-title: "GEOLOGY"
+title: "Topic: GEOLOGY"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - rocks
   - strata
   - layers
-aliases:
-  - "Topic Rock Strata"
+  - earth
+  - land
 ---
 # Topic GEOLOGY
 ## Description
@@ -22,6 +22,7 @@ Study of the solid matter of a celestial body.
 [[FOSSILS]]
 
 ## Dataview
+alias:: "Topic Rock Strata"
 ptopic:: [[topic-HUMANITY]]
 level:: 4
 

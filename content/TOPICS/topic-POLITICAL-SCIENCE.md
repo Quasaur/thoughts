@@ -1,5 +1,5 @@
 ---
-title: POLITICAL SCIENCE
+title: "Topic: POLITICAL SCIENCE"
 draft: false
 type: TOPIC
 mling: false
@@ -7,11 +7,8 @@ tags:
   - patriotism
   - chauvinism
   - nativism
-aliases:
-  - "Topic: Comparative Politics"
-  - "Topic: International Relations"
-  - "Topic: Political Theory"
-  - "Topic: Geospacial Analysis"
+  - governing
+  - power
 ---
 # Topic: POLITICAL SCIENCE
 ## Description
@@ -35,8 +32,13 @@ Exalting one nation above all others and placing primary emphasis on promotion o
 
 
 ## Dataview
+alias:: "Topic Political Theory"
 ptopic:: [[topic-HUMANITY]]
 level:: 4
 
 ## Notes
-NOTE: Topic notes.
+Possible Subtopics:
+- "Topic: Comparative Politics"
+- "Topic: International Relations"
+- "Topic: Political Theory"
+- "Topic: Geospacial Analysis"

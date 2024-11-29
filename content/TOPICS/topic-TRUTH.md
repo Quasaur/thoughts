@@ -1,5 +1,5 @@
 ---
-title: "TRUTH"
+title: "Topic: TRUTH"
 draft: false
 type: TOPIC
 mling: false
@@ -7,7 +7,8 @@ tags:
   - actuality
   - reality
   - fact
-aliases: 
+  - authenticity
+  - verity
 ---
 # Topic: TRUTH
 ## Description
@@ -31,6 +32,7 @@ A transcendent fundamental or spiritual reality.
 
 
 ## Dataview
+alias:: "Topic: The Divine Being"
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2
 

@@ -1,15 +1,14 @@
 ---
-title: "LINGUISTICS"
+title: "Topic: LINGUISTICS"
 draft: false
 type: TOPIC
 mling: false
 tags:
   - human
-  - speach
+  - speech
   - anthropology
-  - linquistic
-aliases:
-  - "Topic: Linguistic Anthropology"
+  - language
+  - lexical
 ---
 # Topic: LINGUISTICS
 
@@ -26,6 +25,7 @@ The study of human speech including the units, nature, structure, and modificati
 ## Bible
 
 ## Dataview
+alias:: "Topic: Linguistic Anthropology"
 ptopic:: [[topic-ANTHROPOLOGY]]
 level:: 5
 

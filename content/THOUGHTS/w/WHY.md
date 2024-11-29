@@ -9,8 +9,6 @@ tags:
 - demanded
 - cause
 - why
-aliases:
-- "Thought: An Explanation"
 ---
 # Thought: WHY
 > [!Thought-en]
@@ -18,5 +16,6 @@ aliases:
 > An explanation.
 
 ## Dataview
+alias:: "Thought: An Explanation"
 ptopic:: [[topic-PSYCHOLOGY]]
 level:: 4

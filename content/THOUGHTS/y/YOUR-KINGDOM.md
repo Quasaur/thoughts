@@ -9,14 +9,12 @@ tags:
   - earth
   - destruction
   - jesuschrist
-aliases:
-  - "Thought: Two Masters"
-  - "Thought: Dual Citizenship"
 ---
 # Thought: YOUR KINGDOM
 > [!Thought-en]
 > To establish the Kingdom of the Heavens on this Earth, Christ must destroy your kingdom.
 
 ## Dataview
+alias:: "Thought: Dual Citizenship"
 ptopic:: [[topic-DIVINE-SOVEREIGNTY]]
 level:: 2

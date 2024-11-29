@@ -15,5 +15,6 @@ tags:
 > God is Everything you want to be!
 
 ## Dataview
+alias:: "Thought: Be Like God All You Can Be!"
 ptopic:: [[topic-THE-GOSPEL]]
 level:: 2

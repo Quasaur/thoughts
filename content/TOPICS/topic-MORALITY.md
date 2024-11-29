@@ -1,5 +1,5 @@
 ---
-title: "MORALITY"
+title: "Topic: MORALITY"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - morals
   - righteousness
   - decency
-aliases:
-- "Topic: Matters of the Conscience"
+  - virtue
+  - integrity
 ---
 # Topic: MORALITY
 ## Description
@@ -34,6 +34,7 @@ A doctrine or system of moral conduct
 
 
 ## Dataview
+alias:: "Topic: Matters of the Conscience"
 ptopic:: [[topic-SPIRITUALITY]]
 level:: 3
 

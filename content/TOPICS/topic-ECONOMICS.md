@@ -1,5 +1,5 @@
 ---
-title: "ECONOMICS"
+title: "Topic: ECONOMICS"
 draft: false
 type: TOPIC
 mling: false
@@ -7,12 +7,6 @@ tags:
   - consumption
   - production
   - distribution
-aliases:
-  - "Topic: Commerce"
-  - "Topic: Microeconomics"
-  - "Topic: Macroeconomics"
-  - "Topic: Behavioral Economics"
-  - "Topic: Development Economics"
 ---
 # Topic: ECONOMICS
 ## Description
@@ -27,8 +21,14 @@ Social science concerned chiefly with description and analysis of the production
 | [[CITIZENSHIP]] | [[DEBTORS]] |
 
 ## Dataview
+alias:: "Topic: Commerce"
 ptopic:: [[topic-HUMANITY]]
 level:: 4
 
 ## Notes
-NOTE: Topic notes.
+Possible Subtopics:
+- "Topic: Commerce"
+- "Topic: Microeconomics"
+- "Topic: Macroeconomics"
+- "Topic: Behavioral Economics"
+- "Topic: Development Economics"

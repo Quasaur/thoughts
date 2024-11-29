@@ -31,8 +31,6 @@ Years have come and gone...
 ...and now I believe that, with the technology provided by the author of [Quartz](https://quartz.jzhao.xyz/), i now have all the components i need to see my dream come to fruition!
 
 So...here's how to get started:
-## Latest Update
-The most recent file(s) were created or updated on **16-Nov-2024**.
 
 ## The Tables
 The best place to start is with the tables. The tables will provide you easy and browsable lists of The Book of Thoughts (formerly The Book of Tweets) content. The Topic (magenta), Passage (light blue), Quote (bright yellow) and  Thoughts (bright green) nodes are all color-coded. The Table nodes are not color coded because i intend to exclude them from the main (global) Graph View eventually.
@@ -87,9 +85,10 @@ This is what i intend to accomplish in the next few years:
 1. The 85 Thoughts originally posted must have their notes edited...this might take a few weeks (COMPLETED).
 2. There are HUNDREDS of more tweets in the original Book of Tweets (667, to be exact); all of these must be added as well (IN-PROCESS).
 3. All of my social media posts across all platforms I am currently a member of will be added next (IN-PROCESS).
-4. I will also add quotes from my other [nine books](https://www.clmjournal.com/books) (COMPLETE).
+4. I will also add quotes from my other [nine books](https://www.clmjournal.com/books) (IN PROCESS).
 5. I will then add a new section/folder filled with the proverbs from the Biblical Texts of Ecclesiastes and Proverbs as well as wisdom literature from the entire Bible (IN-PROCESS).
-6. I will add multi-language support (English, Spanish, French, Hindi and Simplified Mandarin) to all Topics (Definition), Thoughts, Quotes and Biblical Passages (IN-PROCESS).
+6. I will add multi-language support (English, Spanish, French, Hindi and Simplified Mandarin) to all Topics (Description), Thoughts, Quotes and Biblical Passages (IN-PROCESS).
+7. I'd like to add pagination to my tables so their growing contents don't have to be displayed all at once, keeping page loading times reasonable (BEING RESEARCHED)
 
 ## Preface to the First Edition
 [[BookOfTweets-Preface]]
@@ -100,4 +99,24 @@ I brought this site to a condition that, i believe, **you will benefit from**. T
 ## About the Author
 [About the Author](https://clmjournal.com/author)
 
-## Dataview
+## Latest Update
+The most recent file(s) were created or updated between **16-Nov-2024** and **29-Nov-2024**.
+### ChangeLog (sort of)
+- added the original Book of Tweets through Chapter 5.
+- installed DB Folder plugin, which has enabled me to discover and correct unnoticed mistakes.
+- continued adding multi-lingual support to Topics and all new entries.
+- reducing the number of aliases per Thought/Topic/Quote/Passage to one.
+- started adding missing aliases to all entry types.
+- started moving aliases to Dataview section (inline).
+- added "Topic:" to the title of all Topics.
+- corrected type template on entries i forgot to change.
+- updated Thought FOCUS Title.
+- corrected spelling of file WEALTH-AND-FAITH and other spellchecks.
+- starting adding missing entries to their topics.
+- corrected topic EVIL Description.
+- corrected Body Title of NO-WATER from "EVOLUTION-IS-SCIENCE?"
+- corrected Body title of THE-SOURCE-OF-WEALTH.
+- corrected SECURITY link in topic-WISDOM.
+- corrected CONSEQUENCES link in topic-DIVINE-SOVEREIGNTY.
+- moved A-GREAT-DAY to topic-HUMOR.
+- fixed duplicate filenames.

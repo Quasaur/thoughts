@@ -32,7 +32,7 @@ The items in the File column are links that can be clicked on to take you to tha
 |[CHOSEN](/QUOTES/tnw/CHOSEN.md)|2|The Narrow Way|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[CHRIST-IS-ENOUGH](/QUOTES/to2/CHRIST-IS-ENOUGH.md)|3|The Traveler's Oasis, Book Two|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[CHRIST-THE-END](/QUOTES/to2/CHRIST-THE-END.md)|4|The Traveler's Oasis, Book Two|[topic-LAW](/TOPICS/topic-LAW.md)|4|
-|[CONSEQUENCES](/QUOTES/imm/CONSEQUENCES.md)|2|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
+|[CONSEQUENCES2](/QUOTES/imm/CONSEQUENCES2.md)|2|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[DEAD-WORKS](/QUOTES/imm/DEAD-WORKS.md)|4|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[DUAL-PUNISHMENT](/QUOTES/imm/DUAL-PUNISHMENT.md)|5|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|
 |[ETERNAL-DAMNATION](/QUOTES/tnw/ETERNAL-DAMNATION.md)|5|The Narrow Way|[topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)|5|
@@ -60,7 +60,7 @@ The items in the File column are links that can be clicked on to take you to tha
 |[LAW-OF-DOUBT](/QUOTES/tnw/LAW-OF-DOUBT.md)|4|The Narrow Way|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[LIMITED-BIBLE](/QUOTES/imm/LIMITED-BIBLE.md)|5|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-THE-BIBLE](/TOPICS/topic-THE-BIBLE.md)|5|
 |[LOGICAL-COURSE](/QUOTES/osas/LOGICAL-COURSE.md)|4|Once Saved, Always Saved: The Assurance of Our Father's LOVE|[topic-FAITH](/TOPICS/topic-FAITH.md)|4|
-|[MIRACLES](/QUOTES/imm/MIRACLES.md)|1|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
+|[MIRACLES2](/QUOTES/imm/MIRACLES2.md)|1|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[MY-PROGRAMMING](/QUOTES/to2/MY-PROGRAMMING.md)|4|The Traveler's Oasis, Book Two|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[NATION-OF-ISRAEL](/QUOTES/to3/NATION-OF-ISRAEL.md)|4|The Traveler's Oasis, Book Three|[topic-POLITICAL-SCIENCE](/TOPICS/topic-POLITICAL-SCIENCE.md)|4|
 |[NO-NEED](/QUOTES/imm/NO-NEED.md)|3|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
@@ -101,7 +101,7 @@ The items in the File column are links that can be clicked on to take you to tha
 |[UNCONDITIONAL](/QUOTES/osas/UNCONDITIONAL.md)|3|Once Saved, Always Saved: The Assurance of Our Father's LOVE|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[UNCONDITIONAL-GRACE](/QUOTES/osas/UNCONDITIONAL-GRACE.md)|3|Once Saved, Always Saved: The Assurance of Our Father's LOVE|[topic-GRACE](/TOPICS/topic-GRACE.md)|3|
 |[UNGODLY](/QUOTES/tnw/UNGODLY.md)|4|The Narrow Way|[topic-EVIL](/TOPICS/topic-EVIL.md)|4|
-|[WEEALTH-AND-FAITH](/QUOTES/imm/WEEALTH-AND-FAITH.md)|3|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
+|[WEALTH-AND-FAITH](/QUOTES/imm/WEALTH-AND-FAITH.md)|3|IMMMUNITY to the Lake of Fire: A No-Nonsense Guide|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
 |[WHERE-IS-GOD](/QUOTES/tnw/WHERE-IS-GOD.md)|4|The Narrow Way|[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|
 |[WORKS](/QUOTES/bom/WORKS.md)|4|The Basics and More: A Year's Sermons|[topic-RELIGION](/TOPICS/topic-RELIGION.md)|4|
 |[WRONG-REASON](/QUOTES/bom/WRONG-REASON.md)|3|The Basics and More: A Year's Sermons|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|

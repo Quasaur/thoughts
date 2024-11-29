@@ -2,6 +2,7 @@
 title: "Passage: INHERITED HONOR"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - wise
 - inherit
@@ -16,6 +17,7 @@ tags:
     but fools get disgrace.
 
 ## Dataview
+alias:: "Passage: Honor and Disgrace"
 ptopic:: [[topic-WISDOM]]
 source:: 'Proverbs 3:35'
 sortedSource:: 'Proverbs 03:35'

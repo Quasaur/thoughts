@@ -17,5 +17,6 @@ tags:
 > Romans 6:7
 
 ## Dataview
+alias:: "Thought: The Crosss of Christ is the Cure for All Addiction!"
 ptopic:: [[topic-PSYCHOLOGY]]
 level:: 4

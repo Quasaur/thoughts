@@ -9,13 +9,12 @@ tags:
 - judgment
 - accountable
 - responsible
-aliases:
-- "Thought: Judgment"
 ---
 # Thought: ACCOUNTABILITY
 > [!Thought-en]
 > The idea of God introduces the concept of accountability.
 
 ## Dataview
+alias:: "Thought: Judgment"
 ptopic:: [[topic-HUMANITY]]
 level:: 3

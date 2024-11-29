@@ -10,7 +10,7 @@ tags:
 - criticalthinking
 - faith
 ---
-# Thought: 692, 189
+# Thought: FOCUS
 > [!Thought-en]
 > When your back is against the wall, you don't have to look behind you.
 

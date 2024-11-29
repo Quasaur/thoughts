@@ -1,19 +1,32 @@
 ---
-title: "Topic: Title"
+title: "Topic: TITLE"
 draft: true
+type: template
+mling: true
 tags:
-  - topic_tag_1
-  - topic_tag_2
-aliases:
-  - "Topic: Alias 1"
-  - "Topic: Alias 2"
-  - "Topic: Alias 3"
-date: 2024-06-06
+- topic_tag_1
+- topic_tag_2
+- topic_tag_3
+- topic_tag_4
+- topic_tag_5
 ---
 # Topic: TITLE
 
 ## Description
-Template from which every Topic is created.
+>[!en]
+>Content
+
+>[!es]
+>Contenido
+
+>[!fr]
+>Contenu
+
+>[!hi]
+>सामग्री
+
+>[!zh]
+>内容
 
 ## Sub-Topics
 
@@ -25,9 +38,9 @@ Template from which every Topic is created.
 ## Bible
 
 ## Dataview
-type:: template
-level:: 0
-ptopic:: 
+alias:: "Topic: "
+ptopic:: [[]]
+level:: 0 
 
 ## Notes
 Topic notes.

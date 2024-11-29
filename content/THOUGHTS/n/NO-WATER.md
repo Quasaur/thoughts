@@ -9,10 +9,8 @@ tags:
   - religion
   - evidence
   - faith
-aliases:
-  - "Thought: NO WATER"
 ---
-# Thought: EVOLUTION IS SCIENCE?
+# Thought: NO WATER
 > [!Thought-en]
 > How can a fish say there is no water? Yet men say there is no God!
 
@@ -29,5 +27,6 @@ aliases:
 > 鱼怎么会说没有水？而人却说没有上帝！
 
 ## Dataview
+alias:: "Thought: No God?"
 ptopic:: [[topic-PHILOSOPHY]]
 level:: 4

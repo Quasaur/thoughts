@@ -2,6 +2,7 @@
 title: "Passage: THE SOURCE OF WISDOM"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - wisdom
 - gift
@@ -20,6 +21,7 @@ tags:
 > And He watches over the way of His godly ones.
 
 ## Dataview
+alias:: "Passage: Wisdom is the Gift of God"
 ptopic:: [[topic-WISDOM]]
 source:: 'Proverbs 2:6-8'
 sortedSource:: 'Proverbs 02:06-08'

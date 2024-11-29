@@ -15,7 +15,7 @@ TABLE
    FROM "content"
    WHERE draft = false AND mling = true
    SORT file.mtime DESC
-   LIMIT 10
+   LIMIT 40
 ```
 
 

@@ -9,15 +9,13 @@ tags:
 - romance
 - relationships
 - love
-aliases:
-- "Thought: St. Valentine's Day"
-- "Thought: My Wife"
 ---
 # Thought: VALENTINE
 > [!Thought-en]
 > On this St. Valentine's Day I ask myself "How can I avoid taking my wife for granted?
-> Why did God pick this woman for me?
+> Why did God pick this woman for me?"
 
 ## Dataview
+alias:: "Thought: My Wife"
 ptopic:: [[topic-PSYCHOLOGY]]
 level:: 4

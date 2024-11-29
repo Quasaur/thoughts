@@ -9,14 +9,12 @@ tags:
 - courses
 - company
 - mismanagement
-aliases:
-- "Thought: Company Training Schedules"
-- "Thought: Not Enough Time"
 ---
 # Thought: COMPANY TRAINING
 > [!Thought-en]
 > Why is it that companies don't give their employees time to complete Web- and Computer-based training courses?
 
 ## Dataview
+alias:: "Thought: Company Training Schedules"
 ptopic:: [[topic-PSYCHOLOGY]]
 level:: 4

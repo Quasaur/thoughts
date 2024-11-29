@@ -1,5 +1,5 @@
 ---
-title: "CREATION"
+title: "Topic: CREATION"
 draft: false
 type: TOPIC
 mling: false
@@ -8,10 +8,6 @@ tags:
   - cosmos
   - universe
   - dominion
-aliases:
-  - "Topic: Creation"
-  - "Topic: The Cosmos"
-  - "Topic: The Universe/Multiverse"
 ---
 # Topic: CREATION
 
@@ -35,6 +31,7 @@ All beings, places and things that exist apart from The GODHEAD as a result of D
 ## Bible
 
 ## Dataview
+alias:: "Topic: The Universe/Multiverse"
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2
 

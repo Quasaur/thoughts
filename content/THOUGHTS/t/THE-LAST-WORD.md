@@ -8,15 +8,13 @@ tags:
 - jesuschrist
 - livingword
 - lastword
-- wordofgod ]
-aliases:
-- "Thought: The Living Word"
-- "Thought: The Word of God"
+- wordofgod
 ---
 # Thought: THE LAST WORD
 > [!Thought-en]
 > Yehoshua Ha Meshiach: Jesus The Christ: The Living Word...The Last Word!
 
 ## Dataview
+alias:: "Thought: The Living Word"
 ptopic:: [[topic-THE-GOSPEL]]
 level:: 2

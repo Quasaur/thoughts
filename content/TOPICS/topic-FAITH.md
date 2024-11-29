@@ -1,14 +1,13 @@
 ---
-title: "FAITH"
+title: "Topic: FAITH"
 draft: false
 type: TOPIC
 mling: false
 tags:
   - truth
+  - doctrine
   - belief
   - confidence
-aliases:
-  - "Topic Saving Faith"
 ---
 # Topic: FAITH
 ## Description
@@ -18,9 +17,10 @@ Confidence in the Words of God that inspires intent, speech and action.
 
 
 ## Thoughts
-|     |     |
-| --- | --- |
-| [[GNOSIS]] | [[TRUE FAITH]] |
+|     |     |     |
+| --- | --- | --- |
+| [[ANXIETY]] | [[DISAGREEMENT]] | [[GNOSIS]] |
+| [[TRUE FAITH]] |
 
 
 ## Quotes
@@ -36,6 +36,7 @@ Confidence in the Words of God that inspires intent, speech and action.
 | [[NOT-OF-FAITH]] | [[TRUST-THE-LORD]] |
 
 ## Dataview
+alias:: "Topic: That Faith by which One is Aligned with the Spirit and Will of God"
 ptopic:: [[topic-ATTITUDE]]
 level:: 4
 

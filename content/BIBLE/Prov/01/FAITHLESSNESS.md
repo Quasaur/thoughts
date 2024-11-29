@@ -16,6 +16,7 @@ tags:
 > and the complacency of fools will destroy them.
 
 ## Dataview
+alias:: "Pasage: Faithlessness is Deadly"
 ptopic:: [[topic-EVIL]]
 source:: 'Proverbs 1:32'
 sortedSource:: 'Proverbs 01:32'

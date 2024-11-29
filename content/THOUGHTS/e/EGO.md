@@ -9,9 +9,6 @@ tags:
 - earth
 - me
 - humility
-aliases:
-- "Thought: The Works of GOD"
-- "Thought: The Power of GOD"
 ---
 # Thought: EGO
 > [!Thought-en]
@@ -21,5 +18,6 @@ aliases:
 > ...GOD is great...I am pathetic.
 
 ## Dataview
+alias:: "Thought: The Power of GOD"
 ptopic:: [[topic-THE-GODHEAD]]
 level::1

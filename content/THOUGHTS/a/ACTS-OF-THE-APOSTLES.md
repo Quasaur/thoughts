@@ -9,14 +9,13 @@ tags:
 - chronology
 - geography
 - accuracy
-aliases:
-- "Thought: The Accuracy of the Acts of the Apostles"
 ---
 # Thought: ACTS OF THE APOSTLES
 > [!Thought-en]
 > The Acts of the Apostles mentions thirty-two countries, fifty-four cities and nine islands without a factual or historical error.
 
 ## Dataview
+alias:: "Thought: The Accuracy of the Acts of the Apostles"
 ptopic:: [[topic-THE-BIBLE]]
 level:: 5
 

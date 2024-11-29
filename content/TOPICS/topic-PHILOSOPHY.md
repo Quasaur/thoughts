@@ -1,5 +1,5 @@
 ---
-title: "PHILOSOPHY"
+title: "Topic: PHILOSOPHY"
 draft: false
 type: TOPIC
 mling: true
@@ -10,7 +10,7 @@ tags:
   - reason
   - knowledge
 ---
-# Topic: [PHILOSOPHY]
+# Topic: PHILOSOPHY
 
 ## Description
 >[!en]
@@ -39,6 +39,7 @@ tags:
 ## Bible
 
 ## Dataview
+alias:: "Topic: The Science of Ideology"
 ptopic:: [[topic-HUMANITY]]
 level:: 4
 

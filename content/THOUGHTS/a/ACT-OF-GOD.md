@@ -15,5 +15,6 @@ tags:
 > If every person is an Act of God, what can my wife teach me about God?
 
 ## Dataview
+alias:: "Thought: Every Person is a Mystery"
 ptopic:: [[topic-PSYCHOLOGY]]
 level:: 4

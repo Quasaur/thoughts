@@ -24,11 +24,12 @@ Each topic is identified by its LEVEL. The Level helps you to understand how all
 
 The items in the File and Parent Topic File columns are links that can be clicked on to take you to that particular Topic.
 
-|File* (42)|Level|Parent Topic|Parent Level|
+|File* (46)|Level|Parent Topic|Parent Level|
 |---|---|---|---|
 |[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-APOCALYPSE](/TOPICS/topic-APOCALYPSE.md)|5|[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|
 |[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|[topic-SPIRITUALITY](/TOPICS/topic-SPIRITUALITY.md)|2|
+|[topic-BEAUTY](/TOPICS/topic-BEAUTY.md)|5|[topic-HEALTH](/TOPICS/topic-HEALTH.md)|4|
 |[topic-COSMOLOGY](/TOPICS/topic-COSMOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-CREATION](/TOPICS/topic-CREATION.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[topic-DIVINE-SOVEREIGNTY](/TOPICS/topic-DIVINE-SOVEREIGNTY.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
@@ -38,14 +39,17 @@ The items in the File and Parent Topic File columns are links that can be clicke
 |[topic-EVIL](/TOPICS/topic-EVIL.md)|4|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|
 |[topic-FAITH](/TOPICS/topic-FAITH.md)|4|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
 |[topic-FAITHFULNESS](/TOPICS/topic-FAITHFULNESS.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
+|[topic-FIN-GOV](/TOPICS/topic-FIN-GOV.md)|5|[topic-FINANCE](/TOPICS/topic-FINANCE.md)|4|
+|[topic-FINANCE](/TOPICS/topic-FINANCE.md)|4|[topic-WEALTH](/TOPICS/topic-WEALTH.md)|3|
 |[topic-FREEDOM](/TOPICS/topic-FREEDOM.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[topic-GEOLOGY](/TOPICS/topic-GEOLOGY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-GRACE](/TOPICS/topic-GRACE.md)|3|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[topic-HEALTH](/TOPICS/topic-HEALTH.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
 |[topic-HISTORY](/TOPICS/topic-HISTORY.md)|4|[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|
+|[topic-HOLINESS](/TOPICS/topic-HOLINESS.md)|2|[topic-THE-GODHEAD](/TOPICS/topic-THE-GODHEAD.md)|1|
 |[topic-HUMANITY](/TOPICS/topic-HUMANITY.md)|3|[topic-CREATION](/TOPICS/topic-CREATION.md)|2|
 |[topic-HUMILITY](/TOPICS/topic-HUMILITY.md)|4|[topic-ATTITUDE](/TOPICS/topic-ATTITUDE.md)|3|
-|[topic-HUMOR](/TOPICS/topic-HUMOR.md)|4|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
+|[topic-HUMOR](/TOPICS/topic-HUMOR.md)|5|[topic-PSYCHOLOGY](/TOPICS/topic-PSYCHOLOGY.md)|4|
 |[topic-JUSTICE](/TOPICS/topic-JUSTICE.md)|5|[topic-LAW](/TOPICS/topic-LAW.md)|4|
 |[topic-LAW](/TOPICS/topic-LAW.md)|4|[topic-MORALITY](/TOPICS/topic-MORALITY.md)|3|
 |[topic-LINGUISTICS](/TOPICS/topic-LINGUISTICS.md)|5|[topic-ANTHROPOLOGY](/TOPICS/topic-ANTHROPOLOGY.md)|4|

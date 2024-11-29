@@ -1,5 +1,5 @@
 ---
-title: "FAITHFULNESS"
+title: "Topic: FAITHFULNESS"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - commitment
   - fidelity
   - steadfastness
-aliases:
-  - "Topic Steadfastness"
+  - reliability
+  - dependability
 ---
 # Topic FAITHFULNESS
 ## Description
@@ -24,6 +24,7 @@ Adherence to something to which one is bound by a pledge or duty.
 | [[WILL-VS-WILL]] |
 
 ## Dataview
+alias:: "Topic Steadfastness"
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2
 

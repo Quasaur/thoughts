@@ -2,6 +2,7 @@
 title: "Passage: HOUSE OF THE WICKED"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - wicked
 - house
@@ -16,6 +17,7 @@ tags:
     but He blesses the dwelling of the righteous.
 
 ## Dataview
+alias:: "Passage: The Two Houses"
 ptopic:: [[topic-EVIL]]
 source:: 'Proverbs 3:33'
 sortedSource:: 'Proverbs 03:33'

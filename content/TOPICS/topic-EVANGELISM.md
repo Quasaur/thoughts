@@ -1,5 +1,5 @@
 ---
-title: "EVANGELISM"
+title: "Topic: EVANGELISM"
 draft: false
 type: TOPIC
 mling: false
@@ -8,9 +8,6 @@ tags:
   - persuasion
   - discipling
   - goodnews
-aliases: 
-- "Topic: Fishers of Men"
-- "Topic: Making Disciples"
 ---
 # Topic: THE GOSPEL
 ## Description
@@ -30,6 +27,7 @@ The winning or revival of personal commitments to Christ; making disciples of a
 ## Bible
 
 ## Dataview
+alias:: "Topic: Fishers of Men"
 ptopic:: [[topic-THE-GOSPEL]]
 level:: 3
 

@@ -1,5 +1,5 @@
 ---
-title: "COSMOLOGY"
+title: "Topic: COSMOLOGY"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - metaphysiucs
   - astronomy
   - unioverse
-aliases:
-- "Topic: The Universe"
+  - social
+  - scientific
 ---
 # Topic COSMOLOGY
 ## Description
@@ -25,9 +25,12 @@ The study of the social belief systems humans have held across different times a
 | [[SCIENCE-CONSPIRACY]] |
 
 ## Dataview
+alias:: "Topic: This History of Humanity's World Views"
 ptopic:: [[topic-HUMANITY]]
 level:: 4
 
 
 ## Notes
-NOTE: Topic notes.
+Cosmology types:
+- Social Cosmology
+- Scientific Cosmology

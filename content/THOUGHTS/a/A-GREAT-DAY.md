@@ -8,12 +8,13 @@ tags:
 - eating
 - sleeping
 - working
-- discipline
+- humor
 ---
 # Thought: A GREAT DAY
 > [!Thought-en]
 > Today was great--except for the sleeping, eating and working.
 
 ## Dataview
-ptopic:: [[topic-PSYCHOLOGY]]
-level:: 4
+alias:: "Thought: A Perfect Day"
+ptopic:: [[topic-HUMOR]]
+level:: 5

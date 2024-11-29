@@ -1,14 +1,14 @@
 ---
-title: "RELIGION"
+title: "Topic: RELIGION"
 draft: false
 type: TOPIC
 mling: false
 tags:
   - cult
-  - creed
+  - paganism
   - sect
-aliases:
-- "Topic: False Spirituality"
+  - ritual
+  - superstition
 ---
 # Topic: RELIGION
 ## Description
@@ -21,17 +21,19 @@ A personal or institutionalized system of religious attitudes, beliefs, and prac
 |     |     |     |
 | --- | --- | --- |
 | [[EVOLUTION-IS-SCIENCE?]] | [[HEART-OF-MANKIND]] | [[HUMANITARIANISM]] |
-| [[ISLAM]] | [[TREASURE]] |
+| [[ISLAM]] | [[PERSECUTION]] | [[PROSPERITY-NOW]] |
+| [[SELF-WORSHIP]] | [[TREASURE]] |
 
 ## Quotes
 |     |     |     |
 | --- | --- | --- |
-| [[ISLAM-DEFEATED]] | [[LAW-OF-DOUBT]] | [[PERFORMANCE]] |
-| [[SO-MANY-GOSPELS]] | [[WORKS]] |
+| [[DEAD-WORKS]] |[[ISLAM-DEFEATED]] | [[LAW-OF-DOUBT]] |
+| [[PERFORMANCE]] | [[SO-MANY-GOSPELS]] | [[WORKS]] |
 
 ## Bible
 
 ## Dataview
+alias:: "Topic: Humanity's Attempt to Grasp and Manipulate The Transcendent One"
 ptopic:: [[topic-MORALITY]]
 level:: 4
 

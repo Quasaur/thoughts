@@ -2,6 +2,7 @@
 title: "Passage: SECURITY"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - listening
 - wisdom
@@ -15,6 +16,7 @@ tags:
 > But whoever listens to Me (Wisdom) will live securely and will be at ease from the dread of evil.
 
 ## Dataview
+alias:: "Passage: Wisdom brings Security"
 ptopic:: [[topic-WISDOM]]
 source:: 'Proverbs 1:33'
 sortedSource:: 'Proverbs 01:33'

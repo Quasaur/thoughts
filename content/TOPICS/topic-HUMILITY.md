@@ -1,5 +1,5 @@
 ---
-title: "HUMILITY"
+title: "Topic: HUMILITY"
 draft: false
 type: TOPIC
 mling: false
@@ -7,8 +7,8 @@ tags:
   - humble
   - lowly
   - service
-aliases:
-  - "Topic Having a Humble Heart"
+  - lowliness
+  - meekness
 ---
 # Topic: HUMILITY
 ## Description
@@ -32,6 +32,7 @@ Not having or showing any feelings of superiority, self-assertiveness, or showin
 | [[DISCIPLINE-REBUKE]] | [[PRIDE-AS-EVIL]] |
 
 ## Dataview
+alias:: "Topic: Lowliness of Heart"
 ptopic:: [[topic-ATTITUDE]]
 level:: 4
 

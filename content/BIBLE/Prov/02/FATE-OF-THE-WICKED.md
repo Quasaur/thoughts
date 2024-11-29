@@ -2,6 +2,7 @@
 title: "Passage: FATE OF THE WICKED"
 draft: false
 type: PASSAGE
+mling: false
 tags:
 - wicked
 - eliminated
@@ -16,6 +17,7 @@ tags:
 > And the treacherous will be torn away from it.
 
 ## Dataview
+alias:: "Passage: Evil will become Extinct"
 ptopic:: [[topic-EVIL]]
 source:: 'Proverbs 2:22'
 sortedSource:: 'Proverbs 02:22'

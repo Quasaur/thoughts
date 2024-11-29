@@ -1,5 +1,5 @@
 ---
-title: "FREEDOM"
+title: "Topic: FREEDOM"
 draft: false
 type: TOPIC
 mling: false
@@ -9,9 +9,6 @@ tags:
   - options
   - unrestrained
   - decisions
-aliases:
-  - "Topic: Free Under the Law"
-  - "Topic: Free to be Moral"
 ---
 # TOPIC TITLE
 
@@ -31,6 +28,7 @@ mling: false
 [[FREEDOM-OF-DEATH]]
 
 ## Dataview
+alias:: "Topic: Free to be Moral"
 ptopic:: [[topic-LAW]]
 level:: 5
 

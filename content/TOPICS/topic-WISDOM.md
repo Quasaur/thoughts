@@ -1,14 +1,14 @@
 ---
-title: "WISDOM"
+title: "Topic: WISDOM"
 draft: false
 type: TOPIC
 mling: false
 tags:
   - insight
   - discernment
-  - wisdom
-aliases: 
-- "Topic: The Application of Knowledge"
+  - perception
+  - understanding
+  - brilliance
 ---
 # Topic: WISDOM 
 ## Description
@@ -24,10 +24,11 @@ A wise attitude, belief, or course of action
 ## Bible
 |     |     |     |
 | --- | --- | --- |
-| [[INHERITED-HONOR]] | [[PRICELESS-WISDOM]] | [[/BIBLE/Prov/01/SECURITY]] |
+| [[INHERITED-HONOR]] | [[PRICELESS-WISDOM]] | [[BIBLE/Prov/01/SECURITY]] |
 | [[SECURITY2]] | [[THE-SOURCE-OF-WISDOM]] |
 
 ## Dataview
+alias:: "Topic: The Application of Knowledge"
 ptopic:: [[topic-SPIRITUALITY]]
 level:: 3
 

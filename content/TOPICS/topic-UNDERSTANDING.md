@@ -1,5 +1,5 @@
 ---
-title: "UNDERSTANDING"
+title: "Topic: UNDERSTANDING"
 draft: false
 type: TOPIC
 mling: false
@@ -8,9 +8,7 @@ tags:
   - mental
   - grasp
   - agreement
-aliases:
-- "Topic: Wisdom"
-date: 2024-06-06
+  - ascertain
 ---
 # Topic: UNDERSTANDING
 ## Description
@@ -25,12 +23,15 @@ A mental grasp of truth or an agreement between individuals or groups.
 | [[IMAGINATION]] | [[MISUNDERSTOOD]] |
 
 ## Quotes
-[[GENIUS]]
+|     |     |
+| --- | --- |
+| [[ETERNAL-LIGHT]] | [[GENIUS]] |
 
 ## Bible
 [[WHAT-THE-WISE-DO]]
 
 ## Dataview
+alias:: "Topic: Comprehension"
 ptopic:: [[topic-SPIRITUALITY]]
 level:: 3
 
