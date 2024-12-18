@@ -2,7 +2,7 @@
 title: "Topic: TRUTH"
 draft: false
 type: TOPIC
-mling: false
+mling: true
 tags:
   - actuality
   - reality
@@ -12,7 +12,20 @@ tags:
 ---
 # Topic: TRUTH
 ## Description
-A transcendent fundamental or spiritual reality.
+>[!en]
+>A transcendent fundamental or spiritual reality.
+
+>[!es]
+>Una realidad fundamental o espiritual trascendente.
+
+>[!fr]
+>Une réalité fondamentale ou spirituelle transcendante.
+
+>[!hi]
+>एक पारलौकिक मौलिक या आध्यात्मिक वास्तविकता।
+
+>[!zh]
+>超越的基本或精神现实。
 
 ## Sub-Topics
 

@@ -1,7 +1,6 @@
 ---
-
 database-plugin: basic
-
+draft: true
 ---
 
 ```yaml:dbfolder

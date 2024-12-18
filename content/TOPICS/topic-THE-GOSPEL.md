@@ -2,7 +2,7 @@
 title: "Topic: THE GOSPEL"
 draft: false
 type: TOPIC
-mling: false
+mling: true
 tags:
   - evangel
   - good
@@ -12,7 +12,20 @@ tags:
 ---
 # Topic: THE GOSPEL
 ## Description
-The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
+>[!en]
+>The Life, Death, Burial, Resurrection, Ascension and Return of Jesus Christ.
+
+>[!es]
+>La vida, muerte, sepultura, resurrección, ascensión y regreso de Jesucristo.
+
+>[!fr]
+>La vie, la mort, l'enterrement, la résurrection, l'ascension et le retour de Jésus-Christ.
+
+>[!hi]
+>यीशु मसीह का जीवन, मृत्यु, दफ़न, पुनरुत्थान, स्वर्गारोहण और वापसी।
+
+>[!zh]
+>内容
 
 ## Sub-Topics
 [[topic-EVANGELISM]]
@@ -33,7 +46,7 @@ The Life, Death, Burial, Resurrection and Ascension of Jesus Christ.
 | [[TRUTH-AND-FAITH]] | [[TRANSCENDENT-VALUE]] |
 
 ## Dataview
-alias:: "Topic: Salvation"
+alias:: "Topic: The Good News of the Kingdom of God"
 ptopic:: [[topic-THE-GODHEAD]]
 level:: 2
 
